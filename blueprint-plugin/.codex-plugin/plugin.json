@@ -1,0 +1,17 @@
+{
+  "name": "new-channel-launch-vision",
+  "version": "1.0.0",
+  "description": "Collect channel vision and build a complete, sourced creator launch playbook with reviewed formats, thumbnails, production, retention and Shorts.",
+  "author": {"name": "Majied LaFleur"},
+  "keywords": ["youtube", "influint", "channel-launch", "vision-doc", "content-strategy", "thumbnails"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "New Channel Launch Vision Doc",
+    "shortDescription": "Research and build a complete channel launch vision.",
+    "longDescription": "Vision intake, Influint evidence, format review, sourced episodes, a unified thumbnail catalogue, production costs, retention cases, Shorts strategy and verified delivery.",
+    "developerName": "Majied LaFleur",
+    "category": "Productivity",
+    "capabilities": ["Channel vision", "Content research", "Packaging", "Production planning"],
+    "defaultPrompt": "Use the New Channel Launch Vision Doc skill to collect my vision and build a complete evidence-grounded channel launch playbook."
+  }
+}

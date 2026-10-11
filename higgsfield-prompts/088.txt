@@ -1,0 +1,19 @@
+SPLIT-FRAME thumbnail, 16:9 aspect ratio: the frame divided into 2 halves by clean bold seams, each panel its own complete mini-scene, unified premium grade across all panels. Each panel presents one contender lit and framed like a fighter poster: left the game attempt; right the matching real-life attempt. Equal visual weight, confrontation energy across the seam. No labels, no captions, no words, no numbers on or between the panels — the comparison reads purely visually. All panels graded as one premium image.
+
+SCENE BRIEF (must be depicted exactly): Alan in a red GTA delivery scooter left, Alex with a real dinner box beside a red bicycle right, matching restaurant fronts.. The title context is GTA vs Real Life: Who Can Deliver Dinner Faster?. The visual question is Deliver the marked dinner to the recipient first. Do not reproduce any text or brand marks suggested by that title/scene. Preserve the actual prop contrast and the human challenge.
+
+No text, no readable UI labels, no watermark.
+
+CHARACTER 1: the adult Alan/Alex Stokes person from attached face reference #1 — IDENTITY LOCK: reproduce this exact person with a photographic identity match — same bone structure, eye shape, nose, lips, jawline, skin tone, hairline and hair texture as the reference photo. Do NOT beautify, do NOT average with other faces, do NOT restyle the face; it must be recognizably the same person at a glance. Expression: locked jaw, laser focus. Render one Stokes host LARGE and dominant, chest-up foreground on the left power third, matching the reference’s dark fluffy hair. If this specific scene needs both twin hosts, the second is an identical adult twin with a different pose and expression, using this same locked facial identity. Other crew explicitly requested in the scene are adult anonymous stand-ins with varied appearances: a dark-skinned woman and a short-haired man, never another source YouTuber. Expression: surprised engagement appropriate to the real challenge. All faces crisply sharp as the anchors of the shot.
+
+KEY ELEMENTS: delivery, IRL, race. Keep only the objects required by this scene; no irrelevant explosions, extra characters, fake social UI or HUD. Fictional game rewards are objects in the game world.
+
+LOCATION: GTA 5; GTA settings use polished cinematic game-city geometry, Minecraft retains recognizable block geometry, Roblox retains polished avatar geometry; photographic host faces are composited into this world.
+
+COMPOSITION: Two clean comparable halves show corresponding movement toward a recognizable destination, consistent perspective and subject scale. Adjust the authored scene’s host position to this source framing logic. Foreground subject and hero object must be separated and readable at 120 pixels wide. Three visual groups maximum.
+
+BACKGROUND TREATMENT: Game geometry on left, real photography on right, shared bright grade. Strong subject-versus-background separation, soft edge falloff, controlled atmosphere and clear hero-object detail; preserve the actual world rather than a blank generic backdrop.
+
+signature YouTube thumbnail lighting rig on the subject — a strong KEY LIGHT sculpting the face with crisp highlights and controlled falloff, a soft dreamy DREAM LIGHT fill lifting the shadows with a subtle cinematic glow, and a defined BACK LIGHT + HAIR LIGHT tracing a clean bright rim along the hair, shoulders and silhouette, separating the subject sharply from the background.
+
+vivid high-impact color grade, punchy high contrast, bright clean exposure, rich saturated colors that pop off the screen, deep blacks and bright highlights, crisp and glossy, poster-punchy, cohesive as one image. 16:9.

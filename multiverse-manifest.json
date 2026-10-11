@@ -1,0 +1,87 @@
+[
+  {
+    "id": "MV-A",
+    "job_id": "51c029a0-cd88-4de8-9e39-706798d7ac31",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "88c6b7e3aa26fc05e8082a2ef04c1e6d3e6e701a681e0e41ba75f260d64b48d0",
+    "prompt_sha256": "41cc981b5b767208ccdbcc2715e4d196564315c167b6e7fa35d5363e97b1b27d",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Reviewed all five against identity and style references; text-free, coherent rider/dragon/gun, blue sky and mixed invaders. Generated franchise-inspired creatures, not exact extracted game assets."
+  },
+  {
+    "id": "MV-B",
+    "job_id": "73ad1763-305e-471f-9011-6fafdf8dfd8c",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "de26d50667a8d7204ff9ecbfaa02541eeccbf0637f931e195b84038b8bca4b01",
+    "prompt_sha256": "ecafd0133a1e3f1f85c6747174c4f4b7d2a40fd8a019aa476e8ca7608eaf2bd4",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Reviewed all five against identity and style references; text-free, coherent rider/dragon/gun, blue sky and mixed invaders. Generated franchise-inspired creatures, not exact extracted game assets."
+  },
+  {
+    "id": "MV-C",
+    "job_id": "fe3d0c7c-5592-46b8-afcf-faaf21f7853d",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "12d2f3c4d75691a533ff6eaaaccc68806a6d07ed743e2ad7a50b9030429272a0",
+    "prompt_sha256": "059dd5ac0118e917b0504562b7dd40b4391ccf2ba04031c326f114b27f13c430",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Reviewed all five against identity and style references; text-free, coherent rider/dragon/gun, blue sky and mixed invaders. Generated franchise-inspired creatures, not exact extracted game assets."
+  },
+  {
+    "id": "MV-D",
+    "job_id": "68c0d9d1-4c70-4ee3-9b8b-fb92cc1fbec7",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "10b5b6971bd9cfe8ddf248a46df361f0ed15a1c13fd0c91e4b2adee044697cac",
+    "prompt_sha256": "fb72cc4fa3d27c1b0adad111b2d7e14368d46621a3a1d1e292c62504cbaa066e",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Reviewed all five against identity and style references; text-free, coherent rider/dragon/gun, blue sky and mixed invaders. Generated franchise-inspired creatures, not exact extracted game assets."
+  },
+  {
+    "id": "MV-E",
+    "job_id": "bcbd60a5-8af4-44ff-afaf-c7c851d682c4",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "a6f04219d9c032184a29a1173fb3f03cfcf48c23fa5f7f35917dcac586ac096d",
+    "prompt_sha256": "9f731fa757c1a9a571312374b31319697195aa09c9b192dbe282f43a7a128ff9",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Reviewed all five against identity and style references; text-free, coherent rider/dragon/gun, blue sky and mixed invaders. Generated franchise-inspired creatures, not exact extracted game assets."
+  }
+]

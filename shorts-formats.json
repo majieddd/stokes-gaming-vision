@@ -1,0 +1,144 @@
+[
+  {
+    "id": "S01",
+    "name": "One spectacular myth, complete verdict",
+    "promise": "A familiar-looking claim gets a decisive test.",
+    "hook": "Show the car or object poised for the unusual test and state the claim in plain words.",
+    "beats": [
+      "0–2s: claim/object",
+      "2–8s: conditions",
+      "8–25s: actual attempt",
+      "25–35s: result and one crew reaction"
+    ],
+    "source_ids": [
+      "O0I6f8Crdao",
+      "n_ARYccwelI"
+    ],
+    "production_need": "Crop or recapture one complete long-form myth with a wide enough vertical frame.",
+    "cost_basis": "Reuse: $60–$180 edit allowance; new capture $180–$650 plus only new setup.",
+    "related_idea_ids": [
+      "026",
+      "027",
+      "028",
+      "029",
+      "030"
+    ]
+  },
+  {
+    "id": "S02",
+    "name": "Several fast tests with a final favorite",
+    "promise": "A short, accurately counted batch of claims yields visible verdicts.",
+    "hook": "Lead with the hardest claim, then begin the easiest test immediately.",
+    "beats": [
+      "0–2s: count/promise",
+      "2–35s: 3–5 fast verified tests",
+      "35–50s: last test/result"
+    ],
+    "source_ids": [
+      "O0I6f8Crdao",
+      "n_ARYccwelI"
+    ],
+    "production_need": "Use only distinct filmed tests; fewer complete tests beat an inflated count.",
+    "cost_basis": "Reuse: $90–$220 edit allowance for the extra sequencing, counted outside long-form only once.",
+    "related_idea_ids": [
+      "026",
+      "029",
+      "091"
+    ]
+  },
+  {
+    "id": "S03",
+    "name": "One obvious constraint, one goal",
+    "promise": "A familiar goal becomes hard because a single restriction is visible.",
+    "hook": "A normal action immediately hits the new limit.",
+    "beats": [
+      "0–2s: constraint",
+      "2–8s: one objective",
+      "8–35s: consequential attempts",
+      "35–50s: resolve success/failure"
+    ],
+    "source_ids": [
+      "80VtSQHvWBo",
+      "ssxkVMzGf9M"
+    ],
+    "production_need": "Native simple custom rule or a self-contained attempt from the course/prank episode; no rules menu.",
+    "cost_basis": "$180–$650 native capture/edit plus $0–$300 only if new game setup is needed.",
+    "related_idea_ids": [
+      "007",
+      "067",
+      "068",
+      "060"
+    ]
+  },
+  {
+    "id": "S04",
+    "name": "Hidden entrance with a real reveal",
+    "promise": "A normal-looking surface opens into an unexpected functional space.",
+    "hook": "Show the suspicious ordinary exterior and the host’s knowing reaction.",
+    "beats": [
+      "0–3s: exterior",
+      "3–12s: discover/use entrance",
+      "12–25s: reveal the working room",
+      "25–35s: guest payoff"
+    ],
+    "source_ids": [
+      "FvIE7eYnaI8"
+    ],
+    "production_need": "Capture entrance continuity and an actual usable interior; source shelf classification is provisional.",
+    "cost_basis": "$60–$180 reuse edit; a new room is paid by its long-form build profile, not charged again here.",
+    "related_idea_ids": [
+      "011",
+      "012",
+      "013",
+      "020",
+      "090"
+    ]
+  },
+  {
+    "id": "S05",
+    "name": "Absurd scale or body-size consequence",
+    "promise": "One immediately readable scale change creates a fresh problem.",
+    "hook": "Show the tiny player or enormous object against an ordinary familiar thing.",
+    "beats": [
+      "0–2s: scale contrast",
+      "2–10s: goal",
+      "10–30s: attempt",
+      "30–45s: consequential result"
+    ],
+    "source_ids": [
+      "80VtSQHvWBo"
+    ],
+    "production_need": "Shorts source establishes the size-constraint family; GTA vehicle/experiment adaptation remains a hypothesis.",
+    "cost_basis": "Reuse $60–$180; new native episode $180–$650 plus scoped mod adjustments.",
+    "related_idea_ids": [
+      "008",
+      "041",
+      "044",
+      "092"
+    ]
+  },
+  {
+    "id": "S06",
+    "name": "Audience knows the obstacle before the player",
+    "promise": "Viewers see the constraint, then a crew member discovers its consequence.",
+    "hook": "Reveal one hidden change visually and immediately cut to the affected attempt.",
+    "beats": [
+      "0–3s: audience sees change",
+      "3–10s: crew goal",
+      "10–30s: attempt/reaction",
+      "30–45s: truthful reveal/result"
+    ],
+    "source_ids": [
+      "80VtSQHvWBo"
+    ],
+    "production_need": "The source proves a visible constraint example, not this crew-prank variant; format is a launch test supported by long-form 12.",
+    "cost_basis": "$60–$180 reuse edit, preserve separate operator and player footage.",
+    "related_idea_ids": [
+      "056",
+      "057",
+      "058",
+      "059",
+      "060"
+    ]
+  }
+]

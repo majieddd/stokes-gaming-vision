@@ -1,0 +1,122 @@
+{
+  "id": "MV01",
+  "format_id": "multiverse",
+  "format_name": "The Multiverse",
+  "status": "User-selected first-video direction; title and build pending",
+  "title": "I Created the Multiverse",
+  "title_options": [
+    "I Created the Multiverse",
+    "I Beat Minecraft With GTA"
+  ],
+  "summary": "The Stokes crew uses GTA-style firepower and an Ender Dragon to survive a Minecraft world invaded by characters from other games.",
+  "objective": "Close the invading portals and complete one clear final objective before the shared world is overrun.",
+  "rules": "Explain one objective, a finite team-life pool and three escalating invasion rounds; confirm the playable mechanics in a prototype before locking the title.",
+  "intro": [
+    {
+      "start": 0,
+      "end": 5,
+      "beat": "Open on the promised image: a Stokes host riding the Ender Dragon, firing down at a Flood creature, a zombie and a creeper in a bright Minecraft world."
+    },
+    {
+      "start": 5,
+      "end": 15,
+      "beat": "I put all our favorite games into one world. We have to close these portals before they take over. Show the three portals, the crew and the shared life counter."
+    },
+    {
+      "start": 15,
+      "end": 30,
+      "beat": "The first portal opens early: an ordinary Minecraft mob is followed by a creature that clearly does not belong. A crew member makes the first consequential rescue or mistake."
+    }
+  ],
+  "gamer_reward": "Recognizable mechanics collide in unexpected ways, with skillful counters and a genuinely playable dragon finale.",
+  "non_gamer_reward": "Friends have to stop an invasion with absurd tools; the objective, danger and teamwork are readable without knowing the franchises.",
+  "title_reasoning": "I Created the Multiverse sells the universal spectacle; I Beat Minecraft With GTA names the collision and a clear win condition. The latter requires actual, recognizable GTA integration and a defensible definition of beating Minecraft. Do not count GTA-like generic guns alone as GTA or claim the normal dragon-kill ending while riding the only dragon without explaining a different final objective.",
+  "thumbnail_direction": "Photographic Stokes host, block-built Ender Dragon, machine gun, Flood creatures from Halo, Call of Duty-style zombies and Minecraft mobs; luminous blue sky, bright green terrain, large hero silhouette and minimal secondary visual groups.",
+  "production": {
+    "platform": "Minecraft Java candidate for the first playable prototype; final platform/version unconfirmed",
+    "existing_resources": "Twins, rotating crew, existing capture hardware; normal payroll excluded from incremental allowance",
+    "cost_status": "Scope-first estimate needed; no vendor quote and no committed funding",
+    "prototype": "One host and one crew client, one gun, one vehicle, one invasion enemy, one rideable dragon and a replayable 60-second encounter on one locked game version and loader.",
+    "spend_order": [
+      "Compatibility and multiplayer prototype",
+      "Dragon ride, aim and capture controls",
+      "One readable encounter",
+      "Only then extra enemy packs, set pieces and cinematic finishing"
+    ],
+    "save_money": "Reuse the tested world, portal system, enemy waves and camera setup across later episodes; vary rules and cast roles before commissioning more worlds.",
+    "dependencies": [
+      "Check mod and asset licenses for commercial videos",
+      "Test all mods together on a common version/loader",
+      "Validate server performance, dragon steering, gun aiming and spectator capture",
+      "Confirm GTA assets/mechanics rather than generic lookalikes if GTA remains in the title",
+      "Show the thumbnail action in actual captured gameplay before publishing the episode"
+    ]
+  },
+  "series": {
+    "target": "First few uploads build toward New Year; exact meetup payoff awaiting clarification",
+    "status": "Working sequence, not eight newly approved episodes",
+    "beats": [
+      "Create the shared world and survive its first invasion",
+      "Crew learns and exploits one new crossover mechanic",
+      "A secret host-controlled escalation pranks the crew",
+      "Risk a useful reward to unlock the next world",
+      "End-of-year collective finale and meetup payoff, if confirmed"
+    ]
+  },
+  "references": [
+    {
+      "title": "World's Largest Minecraft Build!",
+      "channel": "MrBeast Gaming",
+      "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+      "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
+    },
+    {
+      "title": "Halo & MDE",
+      "url": "https://modrinth.com/project/halo-mde",
+      "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
+    },
+    {
+      "title": "Dragon Mounts Remastered",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
+      "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
+    },
+    {
+      "title": "Immersive Vehicles",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
+      "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
+    }
+  ],
+  "variants": [
+    {
+      "id": "MV-A",
+      "label": "A · Sky raid",
+      "emotion": "Shock",
+      "index": 1
+    },
+    {
+      "id": "MV-B",
+      "label": "B · Hero charge",
+      "emotion": "Hype",
+      "index": 2
+    },
+    {
+      "id": "MV-C",
+      "label": "C · Last line of defense",
+      "emotion": "Determination",
+      "index": 3
+    },
+    {
+      "id": "MV-D",
+      "label": "D · Worlds collide",
+      "emotion": "Awe",
+      "index": 4
+    },
+    {
+      "id": "MV-E",
+      "label": "E · The impossible ride",
+      "emotion": "Smug",
+      "index": 5
+    }
+  ],
+  "evidence_status": "New user concept; no performance or compatible-modpack validation. Five thumbnails are variants of one episode, not five additional episodes."
+}

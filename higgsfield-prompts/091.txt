@@ -1,0 +1,19 @@
+Bold, punchy YouTube-thumbnail composite — poster-grade, photoreal and high-impact, NOT a muted cinematic movie still, 16:9 aspect ratio, single unified frame — no split-screen, no diagonal divide, everything blends smoothly and organically across the same continuous shot.
+
+SCENE BRIEF (must be depicted exactly): Alan foreground terrified, enormous red rocket-powered GTA car launching above a city ramp, clear exhaust and vehicle silhouette.. The title context is I Tested GTA's Most Dangerous Vehicles. The visual question is Choose the most thrilling vehicle that can actually finish the route. Do not reproduce any text or brand marks suggested by that title/scene. Preserve the actual prop contrast and the human challenge.
+
+No text, no readable UI labels, no watermark.
+
+CHARACTER 1: the adult Alan/Alex Stokes person from attached face reference #1 — IDENTITY LOCK: reproduce this exact person with a photographic identity match — same bone structure, eye shape, nose, lips, jawline, skin tone, hairline and hair texture as the reference photo. Do NOT beautify, do NOT average with other faces, do NOT restyle the face; it must be recognizably the same person at a glance. Expression: mouth open gasp, wide eyes. Render one Stokes host LARGE and dominant, chest-up foreground on the left power third, matching the reference’s dark fluffy hair. If this specific scene needs both twin hosts, the second is an identical adult twin with a different pose and expression, using this same locked facial identity. Other crew explicitly requested in the scene are adult anonymous stand-ins with varied appearances: a dark-skinned woman and a short-haired man, never another source YouTuber. Expression: surprised engagement appropriate to the real challenge. All faces crisply sharp as the anchors of the shot.
+
+KEY ELEMENTS: vehicle, dangerous, test. Keep only the objects required by this scene; no irrelevant explosions, extra characters, fake social UI or HUD. Fictional game rewards are objects in the game world.
+
+LOCATION: GTA 5; GTA settings use polished cinematic game-city geometry, Minecraft retains recognizable block geometry, Roblox retains polished avatar geometry; photographic host faces are composited into this world.
+
+COMPOSITION: Host close left reacting; one unusual vehicle at large scale right with its extraordinary feature obvious. Adjust the authored scene’s host position to this source framing logic. Foreground subject and hero object must be separated and readable at 120 pixels wide. Three visual groups maximum.
+
+BACKGROUND TREATMENT: Bright cinematic city/track, glossy vehicle and readable silhouette. Strong subject-versus-background separation, soft edge falloff, controlled atmosphere and clear hero-object detail; preserve the actual world rather than a blank generic backdrop.
+
+signature YouTube thumbnail lighting rig on the subject — a strong KEY LIGHT sculpting the face with crisp highlights and controlled falloff, a soft dreamy DREAM LIGHT fill lifting the shadows with a subtle cinematic glow, and a defined BACK LIGHT + HAIR LIGHT tracing a clean bright rim along the hair, shoulders and silhouette, separating the subject sharply from the background.
+
+vivid high-impact color grade, punchy high contrast, bright clean exposure, rich saturated colors that pop off the screen, deep blacks and bright highlights, crisp and glossy, poster-punchy, cohesive as one image. 16:9.

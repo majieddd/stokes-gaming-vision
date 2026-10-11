@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Channel Launch Vision Doc"
+  short_description: "Research and build a complete channel launch vision"
+  default_prompt: "Use $new-channel-launch-vision to collect my channel vision, research it with Influint Intelligence, and build the complete launch deliverable."

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "status": "intake",
+  "project": {"channel_name": null, "promise": null, "audience": null, "presentation": null, "language": null, "mode": "new-channel"},
+  "scope": {"format_count": null, "episodes_per_format": null, "outlier_threshold": 2.0, "require_full_evidence_coverage": false},
+  "intake_file": "intake.json",
+  "format_review": {"status": "pending", "selected_format_ids": []},
+  "intelligence": {"access_mode": "unresolved", "retrieved_at": null, "queries": [], "claims": [], "source_snapshots": [], "gaps": []},
+  "chapters": ["Ideation", "Packaging", "Creative", "Production", "Post-Production", "Shorts Strategy", "Data Analysis"],
+  "formats": [],
+  "ideas": [],
+  "sources": [],
+  "production_profiles": [],
+  "thumbnail_manifest": [],
+  "retention": {"status": "unavailable", "gap": "Research access and source coverage before authoring cases.", "cases": []},
+  "shorts_formats": [],
+  "sections": {"packaging": "", "creative": "", "production": "", "post_production": "", "shorts_strategy": "", "data_analysis": ""},
+  "delivery": {"audience": "private-draft", "publication_authorized": false, "site_url": null, "verification": []}
+}

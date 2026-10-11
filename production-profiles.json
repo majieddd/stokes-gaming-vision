@@ -1,0 +1,486 @@
+[
+  {
+    "id": "light",
+    "name": "Reuse a tested world",
+    "tier": "Light",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 1650,
+    "high": 3600,
+    "line_items": [
+      {
+        "label": "Game setup / asset adjustments",
+        "low": 150,
+        "high": 500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Extra capture or mod operator time",
+        "low": 100,
+        "high": 400,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Incremental edit / sound",
+        "low": 900,
+        "high": 1800,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Packaging and essential graphics",
+        "low": 300,
+        "high": 500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Reshoot allowance",
+        "low": 200,
+        "high": 400,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Alan/Alex plus 3–6 rotating cast, producer/mod operator and editor; regular payroll is outside incremental cash allowance.",
+    "prep_time": "1–3 days",
+    "record_time": "3–6 hours",
+    "note": "",
+    "pool": "per-video"
+  },
+  {
+    "id": "medium",
+    "name": "Reusable custom challenge",
+    "tier": "Medium",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 3400,
+    "high": 7500,
+    "line_items": [
+      {
+        "label": "Scoped system / map changes",
+        "low": 800,
+        "high": 2200,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Extra capture / coordination",
+        "low": 350,
+        "high": 800,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Incremental edit / sound",
+        "low": 1500,
+        "high": 2800,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Cinematic replay / graphics",
+        "low": 450,
+        "high": 1000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Retest and reshoot allowance",
+        "low": 300,
+        "high": 700,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Alan/Alex plus 3–6 rotating cast, producer/mod operator and editor; regular payroll is outside incremental cash allowance.",
+    "prep_time": "3–6 days",
+    "record_time": "4–8 hours",
+    "note": "",
+    "pool": "per-video"
+  },
+  {
+    "id": "heavy",
+    "name": "Bespoke working hero build",
+    "tier": "Heavy",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 7100,
+    "high": 15900,
+    "line_items": [
+      {
+        "label": "Scoped functional map / build",
+        "low": 3000,
+        "high": 7000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Additional capture / playtest support",
+        "low": 500,
+        "high": 1300,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Incremental edit / sound",
+        "low": 2400,
+        "high": 4500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Hero replay / graphics / packaging",
+        "low": 600,
+        "high": 1500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Rework and reshoot allowance",
+        "low": 600,
+        "high": 1600,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Alan/Alex plus 3–6 rotating cast, producer/mod operator and editor; regular payroll is outside incremental cash allowance.",
+    "prep_time": "10–20 working days",
+    "record_time": "6–12 hours",
+    "note": "One functioning hero feature approved before expanding the set.",
+    "pool": "per-video"
+  },
+  {
+    "id": "travel",
+    "name": "Three-city travel pilot",
+    "tier": "Travel",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 5940,
+    "high": 13200,
+    "line_items": [
+      {
+        "label": "Two travelers: domestic transport allowance",
+        "low": 700,
+        "high": 1800,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Two rooms × three nights",
+        "low": 900,
+        "high": 1800,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Ground transport and meals",
+        "low": 540,
+        "high": 1300,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Location permissions / extra field support",
+        "low": 300,
+        "high": 1000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Game setup and capture",
+        "low": 500,
+        "high": 1300,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Incremental edit / comparison graphics",
+        "low": 2400,
+        "high": 4500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Travel contingency",
+        "low": 600,
+        "high": 1500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "One host and one field producer; other crew joins remotely or locally. Extra traveling cast requires a new estimate.",
+    "prep_time": "2–4 weeks including bookings",
+    "record_time": "4–7 field days",
+    "note": "Assumes three selected US city inspirations, six room-nights, existing cameras. Full worldwide journey is uncosted and not greenlit.",
+    "pool": "per-video"
+  },
+  {
+    "id": "hybrid",
+    "name": "Local game / IRL matched-route pilot",
+    "tier": "Hybrid",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 4500,
+    "high": 10200,
+    "line_items": [
+      {
+        "label": "Game route / replica setup",
+        "low": 900,
+        "high": 2400,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Local travel / location access",
+        "low": 200,
+        "high": 700,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Extra field and game coordination",
+        "low": 600,
+        "high": 1400,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Incremental edit / sound",
+        "low": 2000,
+        "high": 3800,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Matched-clock graphics / packaging",
+        "low": 400,
+        "high": 900,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Weather / reshoot allowance",
+        "low": 400,
+        "high": 1000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Alan/Alex plus 3–6 rotating cast, producer/mod operator and editor; regular payroll is outside incremental cash allowance.",
+    "prep_time": "5–10 days",
+    "record_time": "1–2 field days plus a game session",
+    "note": "Local route only. Global travel and prizes are separate obligations.",
+    "pool": "per-video"
+  },
+  {
+    "id": "earth-tentpole",
+    "name": "Four-city global Earth race",
+    "tier": "Travel",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 15640,
+    "high": 34400,
+    "line_items": [
+      {
+        "label": "Two travelers: international / domestic itinerary",
+        "low": 4000,
+        "high": 9000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Four-city lodging: fourteen room-nights",
+        "low": 2100,
+        "high": 4200,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Ground transport and two travelers meals",
+        "low": 2240,
+        "high": 4200,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Location permissions / travel administration",
+        "low": 500,
+        "high": 2000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Local coordination / extra field support",
+        "low": 800,
+        "high": 2000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Working Minecraft route / server setup",
+        "low": 1500,
+        "high": 3500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Incremental edit / sound",
+        "low": 2400,
+        "high": 5000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Matched-clock graphics / packaging",
+        "low": 600,
+        "high": 1500,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Travel / reshoot contingency",
+        "low": 1500,
+        "high": 3000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "One real-world contestant and one field producer travel; gaming contestant, operator and supporting crew stay in the existing capture base. Regular payroll excluded.",
+    "prep_time": "4–8 weeks after route and funding verification",
+    "record_time": "Proposed fourteen-day itinerary plus game capture",
+    "note": "Later tentpole, outside the eight-upload slate. Proposed New York/Paris/Tokyo/Los Angeles checkpoints, not a full circumnavigation or complete Earth-map claim. Dinner prize is a separate conditional pool. Local learning pilot uses the hybrid profile and a city-specific title.",
+    "pool": "per-video"
+  },
+  {
+    "id": "setup",
+    "name": "Shared reusable capture / mod foundation",
+    "tier": "Setup",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 3000,
+    "high": 7500,
+    "line_items": [
+      {
+        "label": "One-time private world, version lock and capture pipeline",
+        "low": 2200,
+        "high": 5000,
+        "pool": "one-time",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Template scoring, triggers and replay workflow",
+        "low": 800,
+        "high": 2500,
+        "pool": "one-time",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Alan/Alex plus 3–6 rotating cast, producer/mod operator and editor; regular payroll is outside incremental cash allowance.",
+    "prep_time": "1–2 weeks",
+    "record_time": "One rehearsal day",
+    "note": "Separate from per-video totals. Reuse reduces future setup; pay only when outside committed internal capacity.",
+    "pool": "one-time"
+  },
+  {
+    "id": "physics-prototype",
+    "name": "Large-object physics proof",
+    "tier": "Prototype",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 1000,
+    "high": 2500,
+    "line_items": [
+      {
+        "label": "Active-object load / collision test",
+        "low": 800,
+        "high": 1800,
+        "pool": "one-time",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      },
+      {
+        "label": "Replay and fallback configuration",
+        "low": 200,
+        "high": 700,
+        "pool": "one-time",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Alan/Alex plus 3–6 rotating cast, producer/mod operator and editor; regular payroll is outside incremental cash allowance.",
+    "prep_time": "2–4 days",
+    "record_time": "2–4 test hours",
+    "note": "Before 09: count active simulated objects and record stable capture. Cut title scale to achieved count if needed.",
+    "pool": "one-time"
+  },
+  {
+    "id": "monthly",
+    "name": "Optional recurring infrastructure",
+    "tier": "Infrastructure",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 100,
+    "high": 350,
+    "line_items": [
+      {
+        "label": "Private hosting, shared storage and routine licensed tools",
+        "low": 100,
+        "high": 350,
+        "pool": "monthly",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Producer / technical operator",
+    "prep_time": "Monthly review",
+    "record_time": "Not an episode recording expense",
+    "note": "No equipment shopping list; use existing services first. Excludes regular employee payroll.",
+    "pool": "monthly"
+  },
+  {
+    "id": "dinner-prize",
+    "name": "Conditional dinner-for-a-year reward",
+    "tier": "Prize",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 7300,
+    "high": 7300,
+    "line_items": [
+      {
+        "label": "365 meals × $20 disclosed cap",
+        "low": 7300,
+        "high": 7300,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Producer / prize administrator",
+    "prep_time": "Fund and define terms before capture",
+    "record_time": "Delivery documentation",
+    "note": "Illustrative capped real reward, not funded or promised now. Add to 087 only for the funded variation.",
+    "pool": "per-video"
+  },
+  {
+    "id": "build-prize",
+    "name": "Conditional real purchases for Minecraft builds",
+    "tier": "Prize",
+    "currency": "USD",
+    "cost_status": "authored planning allowance; no vendor quote or approved funding",
+    "low": 1000,
+    "high": 5000,
+    "line_items": [
+      {
+        "label": "Committed capped item-purchase fund",
+        "low": 1000,
+        "high": 5000,
+        "pool": "per-video",
+        "basis": "Scoped planning allocation, replace with actual capacity/quotes."
+      }
+    ],
+    "people": "Host, prize administrator and builders",
+    "prep_time": "Fund and approve item exclusions",
+    "record_time": "Delivery / receipt documentation",
+    "note": "Add to 084 only when funded; virtual-only alternative is available.",
+    "pool": "per-video"
+  }
+]

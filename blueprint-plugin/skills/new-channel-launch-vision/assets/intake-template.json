@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "status": "intake",
+  "channel_name": null,
+  "confirmed": {},
+  "proposals": [],
+  "assumptions": [],
+  "open_questions": [
+    "What is the channel's promise and relationship to the existing creator brand?",
+    "Who should enjoy it, in which language, with how much subject knowledge?",
+    "Which creators, cast, developers and editors are available and how will they perform?",
+    "Which subjects/games, inspirations, exclusions and launch phases should guide it?",
+    "What initial funding, recurring budget, approval/recording windows and upload goals apply?",
+    "What analytics, Influint access, identity references and image model requirements are available?",
+    "What output, audience and publication scope are requested?"
+  ],
+  "decision_log": [],
+  "attachment_sources": [],
+  "format_review": {
+    "status": "pending",
+    "selected_format_ids": [],
+    "feedback": []
+  }
+}
