@@ -151,7 +151,186 @@
       "composition": "Colliding worlds",
       "scene": "One real-life Stokes twin is large in the CENTER foreground, bracing with both arms out in astonishment as two enormous floating game-world islands collide behind him. The LEFT island is a sunny modern GTA city with clean roads, skyscrapers and a single vivid red supercar skidding toward the edge. The RIGHT island is a lush block-built Minecraft landscape, with an obsidian violet portal on a hill and a black Ender Dragon banking above it. The two islands meet at ONE dramatic glowing purple seam in the middle distance; block fragments and road pieces fly upward along that seam. At the seam a small cluster of Halo Flood combat forms, Call of Duty zombies and creepers is crossing from one world into the other. Make it a coherent physical collision, not panels or tiny franchise windows.",
       "index": 10
+    },
+    {
+      "id": "MV-K",
+      "index": 11,
+      "label": "K · The diamond heist",
+      "scenario_name": "The diamond heist",
+      "games": [
+        "GTA",
+        "Minecraft",
+        "Portal"
+      ],
+      "composition": "Oversized object extraction",
+      "summary": "The crew steals a giant Minecraft diamond with a GTA cargo helicopter, using a portal to bypass the vault.",
+      "objective": "Extract the world-key diamond before the portal closes.",
+      "scene": "A real-life Stokes host fills the LEFT foreground, hanging safely from a helicopter hoist harness and looking at camera in shocked excitement. At RIGHT, an enormous cyan pixel-cut Minecraft diamond, larger than a house, hangs on a thick cable beneath a recognizable GTA Cargobob cargo helicopter. Below the diamond is a small block-built Minecraft bank with an orange oval Portal exit opening in its roof; the diamond has just been pulled through. One coherent sunny Minecraft landscape with a distant realistic GTA skyline. The huge diamond is the single hero object, with helicopter small enough to establish its scale. No police swarm or extra creatures.",
+      "information_gap": "Can a helicopter steal something that cannot fit through the bank door?",
+      "reference_family": "object",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-L",
+      "index": 12,
+      "label": "L · Rainbow Road getaway",
+      "scenario_name": "Rainbow Road getaway",
+      "games": [
+        "GTA",
+        "Mario Kart",
+        "Rocket League"
+      ],
+      "composition": "Diagonal leap and pursuit",
+      "summary": "A GTA supercar escapes across Rainbow Road using Rocket League-style boost while a giant blue shell closes in.",
+      "objective": "Carry the crew across the final broken section before the shell catches them.",
+      "scene": "A real-life Stokes host is large at LEFT, visible waist-up through the open driver's side of a glossy red GTA supercar, face turned toward camera with ecstatic shock. The car launches diagonally from lower-left toward upper-right across one missing section of Mario Kart Rainbow Road, suspended high in a luminous blue sky. A clear orange Rocket League boost plume trails from the car. One oversized blue spiny shell chases at RIGHT behind the car, visibly separated from it. Rainbow track curves once into the distance. The host, one red car and one blue shell are the only foreground groups. No other racers or HUD.",
+      "information_gap": "Can a street car survive a race track built in the sky?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-M",
+      "index": 13,
+      "label": "M · The last house standing",
+      "scenario_name": "The last house standing",
+      "games": [
+        "Minecraft",
+        "Fortnite",
+        "Call of Duty Zombies"
+      ],
+      "composition": "Fortress cutaway and siege",
+      "summary": "The crew combines Minecraft blocks and Fortnite building to protect one safe house from a Call of Duty zombie invasion.",
+      "objective": "Keep the house's glowing power core intact through the last wave.",
+      "scene": "A real-life Stokes host is large at LEFT foreground, chest-up on the roof edge of one compact fortress, bracing with an amazed determined expression. The fortress fills RIGHT and has a single clean architectural cutaway: unmistakable Minecraft grass and cobblestone base, Fortnite wood ramps and metal upper walls, and a bright blue protected power core visible in its center. A small, coherent wave of ragged Call of Duty zombies approaches its base from lower-right, non-gory and secondary. One damaged wall makes the threat readable. Bright green plain and open blue sky. The fortress is one coherent building, not a collage of tiny game screenshots.",
+      "information_gap": "Will one house survive an invasion from another game?",
+      "reference_family": "object",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-N",
+      "index": 14,
+      "label": "N · The ocean invaded the city",
+      "scenario_name": "The ocean invaded the city",
+      "games": [
+        "GTA",
+        "Sea of Thieves",
+        "Subnautica"
+      ],
+      "composition": "Waterline scale reveal",
+      "summary": "A pirate ship rescues the crew from a flooded GTA city while a Subnautica sea monster hunts underneath it.",
+      "objective": "Reach the pirate ship and sail out before the monster destroys the escape route.",
+      "scene": "A real-life Stokes host fills LEFT foreground, chest-up gripping the side of a small rescue dinghy with a wide-eyed terrified but playful expression. One huge Sea of Thieves pirate ship occupies the RIGHT middle distance between sunlit flooded GTA skyscrapers. Use a clean natural ocean waterline across the lower third: beneath the cyan transparent water, one enormous pale Reaper Leviathan with red facial fins and four curved mandibles curls below the ship, much larger than it. Its mouth is non-gory. Above the water, blue sky and white clouds remain dominant. Keep the waterline physically continuous and the face unobscured. No extra boats, sharks or overlays.",
+      "information_gap": "What is hiding under the only escape ship?",
+      "reference_family": "scale",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-O",
+      "index": 15,
+      "label": "O · One Pokémon powers the world",
+      "scenario_name": "One Pokémon powers the world",
+      "games": [
+        "Pokémon",
+        "GTA",
+        "Minecraft"
+      ],
+      "composition": "Tiny cause and enormous effect",
+      "summary": "The crew uses Pikachu and a Minecraft redstone network to restart a GTA city and power the exit portal.",
+      "objective": "Route the electricity into the portal without overloading the city.",
+      "scene": "A real-life Stokes host is large at LEFT foreground, waist-up, carefully holding one recognizable small yellow Pikachu at chest height with amazed delight. Pikachu has long black-tipped ears, red cheek circles and a lightning-bolt tail; it looks determined and friendly. A single branching yellow electricity arc crosses to the RIGHT, connecting a simple oversized Minecraft redstone relay to an enormous realistic GTA city skyline whose windows light up. One violet exit portal glows at the relay base, secondary. Bright blue sky, daylight, no night scene. Tiny Pikachu versus huge powered city is the main visual question. No other Pokémon, franchise logos or UI.",
+      "information_gap": "How can one tiny creature power an entire city?",
+      "reference_family": "scale",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-P",
+      "index": 16,
+      "label": "P · The impostor opened the portal",
+      "scenario_name": "The impostor opened the portal",
+      "games": [
+        "Among Us",
+        "Minecraft",
+        "GTA"
+      ],
+      "composition": "Threat behind an unaware hero",
+      "summary": "A hidden saboteur opens an invasion portal while the rest of the crew tries to secure a Minecraft power core inside a GTA vault.",
+      "objective": "Identify the saboteur and shut the portal before the core is stolen.",
+      "scene": "A real-life Stokes host fills the LEFT foreground, chest-up facing the camera and proudly holding a bright cyan Minecraft diamond power core, unaware of trouble behind him. At RIGHT middle ground, a red Among Us crewmate with a large cyan visor secretly pulls one oversized lever on the open door of a realistic GTA bank vault. The lever is visibly linked to one violet portal opening inside the vault, with a single Minecraft creeper stepping out. The host's real face and the red saboteur are the two main focal groups. Sunny blue sky is visible through the bank's broken roof. No knives, gore, words, accusation arrows or multiple tiny faces.",
+      "information_gap": "The viewer sees the saboteur before the host does.",
+      "reference_family": "threat",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-Q",
+      "index": 17,
+      "label": "Q · I washed the wrong world",
+      "scenario_name": "I washed the wrong world",
+      "games": [
+        "PowerWash Simulator",
+        "GTA",
+        "Minecraft"
+      ],
+      "composition": "Transformation across one object",
+      "summary": "A pressure washer turns GTA objects into Minecraft blocks, forcing the crew to finish an escape vehicle before it transforms completely.",
+      "objective": "Clear the route and get the crew out before the car becomes immobile blocks.",
+      "scene": "A real-life Stokes host fills LEFT foreground, waist-up holding a black-and-yellow pressure washer lance with bare hands, looking at camera in surprised disbelief. One red GTA supercar fills RIGHT, parked in a sunny open city plaza. A powerful clearly visible water jet sweeps across its middle: the front half is glossy realistic automotive metal and the back half is transformed into chunky, clean red Minecraft voxel blocks, physically joined as one car. A narrow moving spray boundary explains the transformation without panels. Some plaza pavement behind the block half has become Minecraft grass. Blue sky and distant soft skyscrapers. No dirt, muddy Rolls-Royce, cleaning brush, blue gloves or text.",
+      "information_gap": "Why does cleaning the car turn it into another game?",
+      "reference_family": "transformation",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-R",
+      "index": 18,
+      "label": "R · The sky is playing Tetris",
+      "scenario_name": "The sky is playing Tetris",
+      "games": [
+        "Tetris",
+        "Minecraft",
+        "GTA"
+      ],
+      "composition": "Falling oversized obstacle",
+      "summary": "Giant Tetris pieces fall into a Minecraft city while the crew uses GTA vehicles and block ramps to climb to the only exit.",
+      "objective": "Reach the high exit before falling blocks seal the route.",
+      "scene": "A real-life Stokes host is large at LEFT foreground, leaning from the driver's window of a red GTA off-road car with mouth open in alarm. One enormous purple T-shaped Tetris tetromino hangs directly overhead at RIGHT, seconds from landing on the road. A simple staircase of already-landed bright colored tetrominoes forms the escape route up toward a small violet portal on a Minecraft cliff. Make the suspended T piece the one dominant threat, with only two landed pieces visible, clear spacing and readable geometric silhouettes. Luminous blue sky, sunlit block-built landscape. No numbers, grid overlay, extra enemies or logos.",
+      "information_gap": "Can the crew use the falling danger as its escape staircase?",
+      "reference_family": "threat",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-S",
+      "index": 19,
+      "label": "S · A goose ruined the heist",
+      "scenario_name": "A goose ruined the heist",
+      "games": [
+        "Untitled Goose Game",
+        "GTA"
+      ],
+      "composition": "Unexpected driver reveal",
+      "summary": "A mischievous goose steals the crew's GTA getaway car and the bank loot, turning the heist into a chase.",
+      "objective": "Recover the loot and the escape vehicle before the police arrive.",
+      "scene": "A real-life Stokes host is large at LEFT foreground, waist-up in the passenger seat of an open-top red GTA getaway car, looking toward camera in comic disbelief and pointing at the driver. At RIGHT foreground, one large recognizable white Untitled Goose Game goose with orange beak and feet sits upright in the driver's seat, wings gripping the steering wheel and a bulging money sack beside it. Keep goose stylized like the game, human fully photographic, car premium realistic game rendering. One small police car follows in the far background on a sunny GTA city road. Blue sky, simple diagonal road perspective. The absurd goose driver is immediately readable. No extra passengers or text.",
+      "information_gap": "Why is a goose driving the getaway car?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-T",
+      "index": 20,
+      "label": "T · The robot built from every game",
+      "scenario_name": "The robot built from every game",
+      "games": [
+        "Minecraft",
+        "Halo",
+        "GTA"
+      ],
+      "composition": "Giant hybrid-machine reveal",
+      "summary": "The crew builds one giant machine from Minecraft blocks, GTA vehicles and Halo equipment to close the final world collision.",
+      "objective": "Assemble and control the machine long enough to seal the final rift.",
+      "scene": "A real-life Stokes host fills LEFT foreground, chest-up standing on the shoulder platform of a giant humanoid robot, one hand gripping a rail and the other presenting the machine with triumphant amazement. The robot fills RIGHT as one coherent, clean silhouette: Minecraft iron-block torso and head, a glossy red GTA supercar integrated as its forearm with the car's front clearly visible, and one huge glowing blue Halo energy sword in its opposite hand. Feet stand on a small Minecraft hillside in front of a distant GTA skyline. A single small violet rift behind the machine establishes the mission. Use low-angle scale and luminous blue sky. No other giant enemies, loose floating props, logos or text.",
+      "information_gap": "Can parts from completely different games become one usable machine?",
+      "reference_family": "object",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
     }
   ],
-  "evidence_status": "New user concept; no performance or compatible-modpack validation. Ten thumbnails are variants of one episode, not ten additional episodes. The new compositions use observed source thumbnails, not causal CTR evidence."
+  "evidence_status": "Twenty thumbnail options within the Multiverse format: A-J explore the original invasion and K-T propose ten alternative crossover scenarios. These are choices, not twenty scheduled episodes. No performance or exact compatible-modpack validation; composition references do not establish causal CTR gains."
 }

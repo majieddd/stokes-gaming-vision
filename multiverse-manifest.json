@@ -178,5 +178,197 @@
     "identity_reference": "6EtuOTq5TmM",
     "visual_review": "Photographic central host, GTA island at left and Minecraft at right, one purple collision seam and clean blue sky. Distinct two-world composition.",
     "review_status": "Visual pixels inspected; generated concept, not captured gameplay."
+  },
+  {
+    "id": "MV-K",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "f8228ccea28a54c5e1128966818f2d7b76c5d05ccbd1f7000be325914a2a71e2",
+    "prompt_sha256": "5a7913f1618dffb2b3f1aebc95fb079d360cae20951684a5d99efc4b746564f6",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Large photographic host at left; huge cyan pixel-cut diamond extracted above a Minecraft bank, helicopter and orange portal clearly visible; clean blue sky, no stray text. Diamond shape is a generated Minecraft-inspired interpretation.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-L",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "8727f5dd08e2240f24182c20a403c61391f584cbd302c62dd42716611ed05f4f",
+    "prompt_sha256": "f9fade22928d85b1ddbefa5a859afa6fae5b58c01a3a6967be303e3e98987efc",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic host in red supercar, strong diagonal leap over Rainbow Road and one pursuing blue shell; clear boost plume and blue sky. Readable race premise.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-M",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "9e9bf11033ba6ca7391b5b509290bbfe9d3345d0bbde27f89dbf6486fd569bee",
+    "prompt_sha256": "b34b5372b9b4d41be1ef658d608b6e0c87c200b38e7dab0c080b2d8dcc32f48b",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic host at left, one Minecraft/Fortnite fortress with exposed blue power core, zombie siege below; larger horde than brief but a single coherent secondary group. Non-gory game enemies.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-N",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "8055f1b6588e557ddad0e9d1ac5ef3690c5ce0f0bb7315d5a02c16d6771349c8",
+    "prompt_sha256": "e3bd20444640b76f5fb5fc89060d1e0e7e3ed013370cb0646258a2a64411b48e",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic host in a small orange rescue craft, one pirate ship in flooded modern city and huge Reaper-inspired monster below a clear waterline. Generated monster interpretation, not exact in-game asset.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-O",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "a0deedb799fa1f3ad939a63c7bcfa8f043eaa607c144a1a657dd3c420b49be6c",
+    "prompt_sha256": "a8db6f6c39d9d801d9344853d22af010a2bb45d1196360dcfe08c09adda60923",
+    "refinement_prompt": "Edit the supplied thumbnail with one surgical correction only: remove the tiny white 'LOS SANTOS' hillside sign in the distant upper-middle-left background. Replace that sign with the same uninterrupted natural green hillside. Preserve the photographic Stokes host's exact face, hair, pose, hands, Pikachu, electrical arcs, Minecraft redstone relay, purple portal, city skyline, blue sky, framing, exposure, colors, resolution and every other pixel as closely as possible. Do not introduce any new text or logos. Return the complete finished 16:9 thumbnail.",
+    "parent_sha256": "0a23ba44cdc84b6445b2ccf1f680e58af76b4855f9318cdf902b6f03d47d6f88",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic Stokes likeness holds one bright recognizable Pikachu, one electrical arc powers a modern city through Minecraft redstone and portal; daylight blue sky. Small unwanted hillside sign removed with a targeted image-generator edit, preserving the scene.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-P",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "33ab50469aea7553c376bb14447f4ff1d9f220f4e8bbb613319ae068977f6a1b",
+    "prompt_sha256": "c88eb5e423c3f602401665381f693dc5be9109864e3bd59b2a4ac067381d3786",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic Stokes likeness holds cyan block power core at left; red Among Us saboteur pulls lever beside GTA vault at right, releasing one Minecraft creeper through a violet portal. Clear unaware-host/visible-threat relationship, no captions.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-Q",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "05f2992350f4549a0fff7778f4989489eeb827b4bfb0ddb850064c465269dc62",
+    "prompt_sha256": "97bd7a1a2d7303fb3df05fff63870cc75053c7ebbb1e6f699dafa1a3a4133c96",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic host with pressure washer, one physically joined car changes from realistic red metal to red Minecraft blocks along the water jet; bright city and blue sky. No unwanted muddy-car/reference-prop transfer.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-R",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "bc5b90e257071fb35be1746921d502a30882d076adc02adf3675ae6607e19046",
+    "prompt_sha256": "2e9265da1b2a282de26ac54cfc03985d6c4f0b479714f4a3f19e4e9fb1334d5c",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Large photographic host in off-road vehicle; one oversized purple T-shaped falling block, simple colored-block escape route and Minecraft portal. Top of threat touches frame but shape remains clear.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-S",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "bff327d9f331acefe8222c6746da86866648e2620d5476024223b99035cd7e76",
+    "prompt_sha256": "31f7c621b839082504eec4da20127276508edc1bf2f6750b87245fe8d09f9703",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic Stokes likeness with playful pointing gesture beside stylized goose driving the getaway car; money bag and distant police establish heist. Generic money-bag dollar symbol, no captions.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-T",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "f67fa217aa91fe2eb6a3ea8c585131ceba73940bfd019103093abebd6a1792f6",
+    "prompt_sha256": "e2ea917302ea6c0a4ea32a1f9a5851669cf3de9181ef42332698befc4ef67f42",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
+    "visual_review": "Photographic Stokes likeness presents huge Minecraft iron-golem robot with integrated red supercar arm and blue Halo-style energy sword; grand scale and blue sky. Host stands on foreground balcony rather than robot shoulder.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
   }
 ]

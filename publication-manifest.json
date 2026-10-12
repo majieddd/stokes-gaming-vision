@@ -2,11 +2,11 @@
   "repo": "majieddd/stokes-gaming-vision",
   "original_ideas": 100,
   "new_launch_episodes": 1,
-  "new_variants": 10,
+  "new_variants": 20,
   "formats_on_canvas": 21,
-  "thumbnail_options": 110,
-  "files": 577,
-  "bytes": 333191639,
+  "thumbnail_options": 120,
+  "files": 608,
+  "bytes": 361676861,
   "feedback": "On-page giscus GitHub Discussion reactions/comments; GitHub sign-in required to post, canvas remains scrollable",
   "images": [
     {
@@ -488,6 +488,86 @@
     {
       "file": "multiverse/MV-J.webp",
       "sha256": "5469bc94ecbe25229c0dd9689fe77368fc9026a0ab59498287f95e1bfa38f143"
+    },
+    {
+      "file": "multiverse/MV-K.png",
+      "sha256": "f8228ccea28a54c5e1128966818f2d7b76c5d05ccbd1f7000be325914a2a71e2"
+    },
+    {
+      "file": "multiverse/MV-K.webp",
+      "sha256": "dad40236979b914362cb5bfdca8b2b62d39d773d9c7ab6f1d611f2a72b772413"
+    },
+    {
+      "file": "multiverse/MV-L.png",
+      "sha256": "8727f5dd08e2240f24182c20a403c61391f584cbd302c62dd42716611ed05f4f"
+    },
+    {
+      "file": "multiverse/MV-L.webp",
+      "sha256": "d8999305e72f0881840122ab762b7aa9dfd141ba6ed89a469f4275cdd23af8de"
+    },
+    {
+      "file": "multiverse/MV-M.png",
+      "sha256": "9e9bf11033ba6ca7391b5b509290bbfe9d3345d0bbde27f89dbf6486fd569bee"
+    },
+    {
+      "file": "multiverse/MV-M.webp",
+      "sha256": "cacad6439b9feabf8891f98d6cf6dbca9f7ae5c6243fbeab5d926b1d57a86071"
+    },
+    {
+      "file": "multiverse/MV-N.png",
+      "sha256": "8055f1b6588e557ddad0e9d1ac5ef3690c5ce0f0bb7315d5a02c16d6771349c8"
+    },
+    {
+      "file": "multiverse/MV-N.webp",
+      "sha256": "64bb6850ee316011479693925d780ce77faa53bca9ecec9b5e98ab2eb174a061"
+    },
+    {
+      "file": "multiverse/MV-O.png",
+      "sha256": "a0deedb799fa1f3ad939a63c7bcfa8f043eaa607c144a1a657dd3c420b49be6c"
+    },
+    {
+      "file": "multiverse/MV-O.webp",
+      "sha256": "8f02b36d7850472f5df32384ffdc94b07f359783cd71c30c01ce549f850d9ae0"
+    },
+    {
+      "file": "multiverse/MV-P.png",
+      "sha256": "33ab50469aea7553c376bb14447f4ff1d9f220f4e8bbb613319ae068977f6a1b"
+    },
+    {
+      "file": "multiverse/MV-P.webp",
+      "sha256": "6545e216dc32eb0dc7d5bfc8e2b580af804eb13a366218b4f68b2765765663e5"
+    },
+    {
+      "file": "multiverse/MV-Q.png",
+      "sha256": "05f2992350f4549a0fff7778f4989489eeb827b4bfb0ddb850064c465269dc62"
+    },
+    {
+      "file": "multiverse/MV-Q.webp",
+      "sha256": "12507a3eb95f6483707eac985ad42cb0cb744f1ea68c7259d53a757c8730f72b"
+    },
+    {
+      "file": "multiverse/MV-R.png",
+      "sha256": "bc5b90e257071fb35be1746921d502a30882d076adc02adf3675ae6607e19046"
+    },
+    {
+      "file": "multiverse/MV-R.webp",
+      "sha256": "b5f1496dfb6223ade23c827b2fff807df7d0c7bcf590322ce1f063bc6e719db5"
+    },
+    {
+      "file": "multiverse/MV-S.png",
+      "sha256": "bff327d9f331acefe8222c6746da86866648e2620d5476024223b99035cd7e76"
+    },
+    {
+      "file": "multiverse/MV-S.webp",
+      "sha256": "15b8011571ca4bfd34859eb2092e5afa264c63f46830762abe73643306268422"
+    },
+    {
+      "file": "multiverse/MV-T.png",
+      "sha256": "f67fa217aa91fe2eb6a3ea8c585131ceba73940bfd019103093abebd6a1792f6"
+    },
+    {
+      "file": "multiverse/MV-T.webp",
+      "sha256": "d803c7a25c5982af6b750bc434ec53f7437678fa78ae66f0d4631fb23e137b87"
     },
     {
       "file": "previews/001.jpg",
