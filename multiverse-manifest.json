@@ -370,5 +370,195 @@
     "authorization": "User explicitly approved built-in for all ten after Higgsfield balance readback of 1.75 credits.",
     "visual_review": "Photographic Stokes likeness presents huge Minecraft iron-golem robot with integrated red supercar arm and blue Halo-style energy sword; grand scale and blue sky. Host stands on foreground balcony rather than robot shoulder.",
     "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-U",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "0ac7e00ea9d90b8a9c3cb752834c71c8c966d52f4e4adb64521568b0fa9650a9",
+    "prompt_sha256": "ce03061113871f09338f91b683ed4000433ab6167eb6a6706fb6b7ebde17f433",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: real host near center over a red car; oversized T-Rex jaw at right and tiny long-neck dinosaur at left; luminous sky; coherent chase and photographic face. Small in-world bus markings are incidental, no headline overlay.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-V",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "417989ed00b3cabdd9f698e4d2ba9b399b17b187f3b1264eda99ec838e20f613",
+    "prompt_sha256": "5a5eb90c9e4fea7fa5422febac5a9e20d46dea511a545894ac0f0bdbfcdfbbc9",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: photographic unmasked host at right, web-suspended police car at left and Minecraft block staircase; no extra superheroes; clear cause and effect.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-W",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "2e22ed69b1b9cc741b37dd4d69489fd9bba0efdbcdfdf519d62e506889bd3ed6",
+    "prompt_sha256": "3d809af61322bde788c0d0822612aa43e16f0d0649a00fb5090b0bd2400e48b4",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: frontal photographic host on yellow coaster, Roblox passenger behind, continuous red track joins Minecraft cliff with GTA skyline; strong depth and blue sky.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-X",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "f0e8c8074f282b1cae51569520afe98488a6320d895692f87fb8d4473ceb5df3",
+    "prompt_sha256": "8a5c25ce62e8d6ff54f3266480b4bfa9f5e48e045dafcf9e6ecc7e992f37658b",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: real host airborne toward the landing pad, Fall Guys hammer behind, Minecraft lava below and Roblox friend at right; readable jump and safe pad.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-Y",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "8484411b0246d8a8606944554d0be1996b79b7e6741c933b95bdce6d149cd5b4",
+    "prompt_sha256": "0796f1d8836ffc2b6facab178ecb72b755f713abf3ca8fb4735d1ce3f22cbd59",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: real host at right in orange jumpsuit, Minecraft bars/cell and blue portal to red GTA car at left; physically coherent exit reveal.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-Z",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "e77f557e2ea6a54dfef75f24fcf018fa78b6bd81bfd246b12872126675984c84",
+    "prompt_sha256": "daf73d53ee57773c9f8a97f892490a3fb9a88e4d734babe468351c0a65aedef5",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: giant real host over miniature city, oversized pip die at left, colorful board path, red car and hotel obstacle at right; distinct miniature scale.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-AA",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "9ae2cd81cf5bcac0af7a0c5b8fdba05116e2fa00970b4ce6e59f96f6c6507b9e",
+    "prompt_sha256": "332fa1b2cfe17ffba0206a99a7df8cff75bc10b1dd611143a8b197f28ebae584",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: photographic host looking back at camera from yellow tube at right, huge continuous aqua slide and Minecraft glass/water channel across sunny GTA skyline at left. Clear ride scale, blue sky and no headline text.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-AB",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "c5f28b11955295c6d60b249d6f25bfb3e94c7cfd0c752e651bc676094bdfe276",
+    "prompt_sha256": "17007b5add94587af79013c93eaa131b92908e5c2bff1aaca066368d975ee1f2",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: real host at right with Luigi-style vacuum, giant red Pac-Man ghost at left, visible blue suction connection on sunny GTA street. Incidental Vinewood landmark text, no headline overlay.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-AC",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "c78bdf90dd27bd2ab8864550cac8837b2c3857b254d1f09552285f6c88be99dd",
+    "prompt_sha256": "6c9e4d1cd22ee433fafc5314f6e97206642ac8b3971f06a0ce81587f3caf868c",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: oversized Bob-omb and sparking fuse foreground left, real host in red car right, blue Rocket League goal behind; host face smaller than other variants but human/ball/goal promise clear. Incidental stadium game emblems, no headline overlay.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
+  },
+  {
+    "id": "MV-AD",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "b8c2a71dc6a3fafb12dd79a95560b2f8751c8728dd290fdf8ca7b10af9132c41",
+    "prompt_sha256": "d12a482d45fa4f5c46fd1e41bf0761d921e83164efbd125b19510fe9f5da35f4",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the user-approved built-in workflow; ten additional finished concepts requested after approving the previous set. Model remains unverified.",
+    "visual_review": "Inspected actual full image: real host running toward camera, oversized red Sonic-style shoe, blue speed trail and two trailing GTA cars with Minecraft terrain transition; distinct human racing composition.",
+    "review_status": "Actual pixels inspected; generated crossover concept, not captured gameplay or validated mod compatibility."
   }
 ]

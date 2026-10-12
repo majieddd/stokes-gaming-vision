@@ -330,7 +330,226 @@
       "information_gap": "Can parts from completely different games become one usable machine?",
       "reference_family": "object",
       "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified"
+    },
+    {
+      "id": "MV-U",
+      "index": 21,
+      "label": "U · Dinosaurs took over the city",
+      "title": "I Filled GTA With Dinosaurs!",
+      "scenario_name": "Dinosaurs took over the city",
+      "games": [
+        "GTA",
+        "ARK: Survival Evolved"
+      ],
+      "composition": "Close escape and oversized jaw",
+      "summary": "The crew releases ARK dinosaurs into a GTA city and must recover the escape vehicles before the streets are overrun.",
+      "objective": "Cross the city and reach the evacuation point without losing the last getaway car.",
+      "scene": "A real-life Stokes host in a black T-shirt is CENTER foreground, waist-up standing through the open roof of a glossy red GTA supercar, face large with thrilled alarm. At RIGHT one enormous recognizable ARK Tyrannosaurus lowers its open non-gory jaw toward the back of the car, almost biting it. Its massive head dwarfs the human. At LEFT, far behind, one long-neck dinosaur steps over a tiny sunlit city bus. The host reaches toward camera as the car races forward on a broad GTA boulevard. Blue sky fills the upper third. One dominant dinosaur head, one real human and one car; background dinosaur very small. Bright playful adventure, no injury or gore.",
+      "information_gap": "How will a supercar escape a dinosaur that fills the whole street?",
+      "reference_family": "threat",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "I Filled ___ With ___",
+      "title_reasoning": "A familiar city plus a universally understood dinosaur takeover; the car and jaw make the impossible intervention concrete.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-V",
+      "index": 22,
+      "label": "V · Everyone gets a superpower",
+      "title": "I Gave My Friends Every Superpower!",
+      "scenario_name": "Everyone gets a superpower",
+      "games": [
+        "GTA",
+        "Marvel’s Spider-Man",
+        "Minecraft"
+      ],
+      "composition": "Human power causes an impossible suspended object",
+      "summary": "The crew tests superhero abilities in GTA, combining web swinging with Minecraft block creation to stop a runaway car.",
+      "objective": "Catch the runaway car before it destroys the crew’s block-built base.",
+      "scene": "A photographic real-life Stokes host is large at RIGHT foreground in a clean red-and-blue Spider-Man suit with NO mask, real black hair and face fully visible. He grins in excited disbelief and fires a thick white web from his LEFT hand diagonally across the image. At LEFT a GTA police car hangs high above the ground, securely caught in a single huge web sling. Directly under the suspended car is a compact staircase of floating Minecraft grass blocks rising from a sunny GTA plaza, showing a second impossible ability. The visible web connects host wrist to car and explains the action. Luminous blue sky; low-angle camera and clean negative space. The host and one web-caught car are the two main visual groups. No extra superheroes or printed chest emblem.",
+      "information_gap": "What happens when ordinary friends can suddenly stop cars with their hands?",
+      "reference_family": "object",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "I Gave My Friends ___",
+      "title_reasoning": "The friends are the protagonists and superpowers are the benefit; game names stay secondary to the impossible ability.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-W",
+      "index": 23,
+      "label": "W · One coaster crosses three worlds",
+      "title": "We Built a Roller Coaster Across Video Games!",
+      "scenario_name": "One coaster crosses three worlds",
+      "games": [
+        "Roblox: Theme Park Tycoon 2",
+        "Minecraft",
+        "GTA"
+      ],
+      "composition": "Frontal thrill ride and continuous track",
+      "summary": "The crew builds one continuous roller coaster that races from a Roblox theme park through Minecraft terrain into a GTA skyline.",
+      "objective": "Complete the full coaster without the train stopping at a world boundary.",
+      "scene": "Front-facing ride camera: a photographic real-life Stokes host occupies the CENTER of the image in the front seat of one bright yellow roller-coaster train. His face is very large, hair blown back, mouth open in joyous shock, both hands on the safety bar. A tiny blocky Roblox passenger sits in the next row, secondary. Behind the host the single red track dives dramatically from upper LEFT through a chunky Minecraft grass cliff and swings toward distant realistic GTA skyscrapers on the RIGHT. The near track falls sharply away below the front seat to communicate a huge drop. One uninterrupted physical track, not separated panels. Sunny blue sky and white clouds, vivid green terrain, simple coherent depth. No text, no multiple unrelated portals.",
+      "information_gap": "Can one ride survive the rules of three completely different games?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "We Built ___ Across ___",
+      "title_reasoning": "One familiar ride connects incompatible worlds; the front-seat reaction makes the scale emotional rather than technical.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-X",
+      "index": 24,
+      "label": "X · The impossible obstacle course",
+      "title": "We Escaped the World’s Deadliest Obstacle Course!",
+      "scenario_name": "The impossible obstacle course",
+      "games": [
+        "Roblox",
+        "Fall Guys",
+        "Minecraft"
+      ],
+      "composition": "Foreshortened jump over one clear hazard",
+      "summary": "The crew combines a Roblox obstacle course, Fall Guys swinging obstacles and Minecraft lava into a team escape challenge.",
+      "objective": "Get every player across the final gap before the platform falls.",
+      "scene": "A photographic real-life Stokes host in a black T-shirt leaps from LEFT middle ground toward RIGHT foreground and toward the camera, face clearly visible in playful panic, one hand stretched forward. His foreshortened body is suspended above one enormous glowing Minecraft lava gap. One huge pink-and-white padded Fall Guys hammer swings past behind him at LEFT, nearly missing his shoes. At RIGHT foreground a single bright cyan Roblox plastic platform is the obvious safe landing target, with a blocky Roblox friend small in the far background. Use a close dramatic wide-angle viewpoint at platform height; real human contact perspective, bright blue sky upper half. One jump, one swinging hammer and one landing pad; non-gory game obstacle, not realistic injury.",
+      "information_gap": "Will he reach the only safe platform before the hammer catches him?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "We Escaped ___",
+      "title_reasoning": "Clear team jeopardy and a visible landing target; the viewer does not need to know what an obby is.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-Y",
+      "index": 25,
+      "label": "Y · The prison changes games",
+      "title": "We Escaped a Prison That Changes Games!",
+      "scenario_name": "The prison changes games",
+      "games": [
+        "Minecraft",
+        "Portal",
+        "GTA"
+      ],
+      "composition": "Cell cutaway and impossible exit",
+      "summary": "Every escape step transforms the crew’s prison into a different game, forcing them to solve the new rules together.",
+      "objective": "Reach the GTA getaway car through the last portal before the prison changes again.",
+      "scene": "The camera looks into a single sunlit Minecraft prison cell with an open front-wall cutaway. A photographic real-life Stokes host in an orange prison jumpsuit crouches at RIGHT foreground, face large looking to camera in amazed relief. Behind him on the LEFT a glowing blue oval Portal exit opens in the solid block-built cell wall; inside that one portal we clearly see a red GTA getaway supercar parked in a realistic sunny city street. The host reaches one arm through the portal toward the car. One pair of thick pixel iron bars hangs bent at the cell edge to show the old exit failed. Blue sky visible over the short roofless cell wall. One coherent prison space and one portal window, no split panels, no dozens of doors or tiny mazes.",
+      "information_gap": "How can a prison cell suddenly contain an exit into another game?",
+      "reference_family": "object",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "We Escaped ___ That ___",
+      "title_reasoning": "A familiar escape promise plus one rule-changing twist; the portal and getaway car show the rule visually.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-Z",
+      "index": 26,
+      "label": "Z · The city is a board game",
+      "title": "I Controlled GTA With a Board Game!",
+      "scenario_name": "The city is a board game",
+      "games": [
+        "GTA",
+        "Mario Party",
+        "Monopoly Plus"
+      ],
+      "composition": "Giant host over a miniature playable city",
+      "summary": "The crew turns a GTA city into a living board game where dice rolls move real cars and trigger city-sized challenges.",
+      "objective": "Roll the route that gets the crew’s car to the finish without landing on a trap.",
+      "scene": "A photographic real-life Stokes host looms large at the TOP CENTER of the image behind a tabletop miniature GTA city, as if he is the giant game master. His face is large with delighted surprise; one hand releases an oversized ivory die with simple dark pips, no printed numerals or letters. The die is mid-air over the LEFT foreground. The miniature city roads form one simple squared board path of vivid Mario Party-style colored spaces curving through realistic tiny GTA skyscrapers. A glossy red GTA supercar is the main player token at RIGHT foreground, approaching one oversized red Monopoly-style hotel piece blocking its route. Camera near tabletop height creates strong scale and shallow perspective. Bright blue sky beyond the host, no board captions, no money text, no game logos. The face, die and tiny threatened car form one visual story.",
+      "information_gap": "Can a single dice roll change an entire city?",
+      "reference_family": "scale",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "I Controlled ___ With ___",
+      "title_reasoning": "A tiny familiar object controls a whole city; the miniature setting explains the absurd power imbalance.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-AA",
+      "index": 27,
+      "label": "AA · The city becomes a water park",
+      "title": "I Turned GTA Into a Water Park!",
+      "scenario_name": "The city becomes a water park",
+      "games": [
+        "GTA",
+        "Planet Coaster 2",
+        "Minecraft"
+      ],
+      "composition": "Ride-level perspective down a city-sized water slide",
+      "summary": "The crew transforms a GTA city into a giant water park using Planet Coaster-style slides and Minecraft water channels.",
+      "objective": "Slide from the tallest tower to the beach pool without leaving the continuous water route.",
+      "scene": "Ride-level action camera on a giant open turquoise water slide twisting between sunny GTA skyscrapers. A photographic real-life Stokes host sits on a bright yellow inflatable ring at RIGHT foreground, black T-shirt and shorts, face large and ecstatic as he looks back toward the camera over his shoulder. At LEFT the enormous slide curves sharply downward toward a distant beach pool, showing dramatic safe amusement-park scale. The middle portion of the continuous slide transforms into clean Minecraft glass and water blocks, then reconnects to a glossy Planet Coaster-style aqua flume; the transition is clear and physically joined. Bright blue sky, sunny skyline, clean cyan water splashing around the ring. One host, one uninterrupted huge slide and small pool below. No flood, creatures, pirate ships, printed signs or text.",
+      "information_gap": "What if the entire city became one enormous water slide?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "I Turned ___ Into ___",
+      "title_reasoning": "Transformation from a familiar city into a universally recognizable attraction; the continuous slide is the visible payoff.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-AB",
+      "index": 28,
+      "label": "AB · Ghost hunters in the city",
+      "title": "We Became Ghost Hunters in GTA!",
+      "scenario_name": "Ghost hunters in the city",
+      "games": [
+        "GTA",
+        "Luigi’s Mansion",
+        "Pac-Man"
+      ],
+      "composition": "One suction stream and a giant fleeing ghost",
+      "summary": "The crew uses Luigi’s Mansion ghost-catching equipment to clear Pac-Man ghosts from a GTA city.",
+      "objective": "Catch the final giant ghost before it escapes through the skyline.",
+      "scene": "A photographic real-life Stokes host occupies the RIGHT foreground, waist-up wearing a plain black T-shirt and a red-and-gray Luigi’s Mansion Poltergust vacuum backpack. His real face is large with laughing shock. He braces a dark vacuum nozzle with both hands and aims it to the LEFT. One enormous vivid red Pac-Man ghost with rounded dome, scalloped bottom and big white cartoon eyes is being pulled into the nozzle through one visible cyan spiraling suction stream, its lower body stretched toward the nozzle while its head stays huge. Sunny GTA city street recedes behind them, one tiny abandoned car and blue sky. A simple cause-and-effect diagonal connects ghost to nozzle to host. No night scene, gore, extra spirits, text, hats with logos or UI.",
+      "information_gap": "Can a backpack vacuum capture a ghost bigger than a car?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "We Became ___ In ___",
+      "title_reasoning": "Crew role-play and a clear supernatural problem; the suction stream explains the challenge instantly.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-AC",
+      "index": 29,
+      "label": "AC · Soccer with an exploding ball",
+      "title": "We Played Soccer With an Exploding Ball!",
+      "scenario_name": "Soccer with an exploding ball",
+      "games": [
+        "Rocket League",
+        "Super Mario",
+        "GTA"
+      ],
+      "composition": "Giant foreground hazard and distant goal",
+      "summary": "The crew plays Rocket League using GTA cars and a giant Mario bomb as the ball, with a visible fuse deciding the round.",
+      "objective": "Score the final goal before the bomb’s fuse burns out.",
+      "scene": "A giant recognizable black Mario Bob-omb occupies the LEFT foreground like an enormous soccer ball, with two simple white oval eyes, brass wind-up key, small orange feet and one short fuse throwing bright harmless sparks. At RIGHT middle foreground a glossy red GTA supercar accelerates toward it; a photographic real-life Stokes host leans high through the open driver window, real face large with thrilled alarm, visibly driving. In the CENTER background one enormous Rocket League blue goal with hexagonal netting is directly behind the bomb, establishing the scoring target. Low wide camera on vibrant green pitch, luminous blue sky and simple stadium rim. The bomb is larger than the car; fuse prominent, no explosion yet, no injuries, no text or score UI.",
+      "information_gap": "Can they score before their soccer ball explodes?",
+      "reference_family": "threat",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "We Played ___ With ___",
+      "title_reasoning": "A universal sport gets one dangerous game-world twist; the fuse and goal communicate the timer and objective.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
+    },
+    {
+      "id": "MV-AD",
+      "index": 30,
+      "label": "AD · Faster than every car",
+      "title": "I Became Faster Than Every Car in GTA!",
+      "scenario_name": "Faster than every car",
+      "games": [
+        "Sonic the Hedgehog",
+        "GTA",
+        "Minecraft"
+      ],
+      "composition": "Human running toward camera outruns vehicles",
+      "summary": "The crew gives one player Sonic speed and pits him against GTA supercars across a city that ends in Minecraft terrain.",
+      "objective": "Reach the block-world finish before the fastest supercar catches up.",
+      "scene": "A photographic real-life Stokes host runs straight toward the camera in the CENTER foreground, waist-up and one giant foreshortened leg visible, real face large with ecstatic competitive surprise. He wears a plain black T-shirt, dark shorts and recognizable Sonic bright red running shoes with one white strap each, no character mask or blue fur. A single sweeping electric-blue speed trail curls behind his feet. At LEFT and RIGHT behind him, two small GTA supercars race but are clearly losing. The smooth road transitions naturally into chunky Minecraft grass and cobblestone near the lower frame, with distant sunny GTA towers. Very low dynamic camera, clean bright blue sky, motion blur only at edges; face and shoes tack-sharp. No printed finish banner, no extra creatures, no text or UI.",
+      "information_gap": "What happens when a person can outrun every car in the city?",
+      "reference_family": "action",
+      "status": "Creative crossover proposal; exact gameplay and asset compatibility unverified",
+      "title_shape": "I Became ___ Than ___",
+      "title_reasoning": "A personal impossible advantage measured against familiar cars; speed trails and red shoes provide the crossover flavor.",
+      "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
     }
   ],
-  "evidence_status": "Twenty thumbnail options within the Multiverse format: A-J explore the original invasion and K-T propose ten alternative crossover scenarios. These are choices, not twenty scheduled episodes. No performance or exact compatible-modpack validation; composition references do not establish causal CTR gains."
+  "evidence_status": "Thirty thumbnail options within the Multiverse format: A-J explore the original invasion, K-T propose alternative crossover scenes, and U-AD add ten individually titled concepts. These are choices, not thirty scheduled episodes. No performance or exact compatible-modpack validation; composition references do not establish causal CTR gains."
 }
