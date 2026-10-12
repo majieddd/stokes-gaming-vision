@@ -2,12 +2,12 @@
   "repo": "majieddd/stokes-gaming-vision",
   "original_ideas": 100,
   "new_launch_episodes": 1,
-  "new_variants": 5,
+  "new_variants": 10,
   "formats_on_canvas": 21,
-  "thumbnail_options": 105,
-  "files": 555,
-  "bytes": 284808099,
-  "feedback": "GitHub issues and +1 reactions, shared; GitHub sign-in required to post",
+  "thumbnail_options": 110,
+  "files": 577,
+  "bytes": 333191639,
+  "feedback": "On-page giscus GitHub Discussion reactions/comments; GitHub sign-in required to post, canvas remains scrollable",
   "images": [
     {
       "file": "full/001.jpg",
@@ -448,6 +448,46 @@
     {
       "file": "multiverse/MV-E.webp",
       "sha256": "e983d39c4f592b3503ec7e19d36c84832e5ea220b82f3b3e8d59ae8a219782f0"
+    },
+    {
+      "file": "multiverse/MV-F.png",
+      "sha256": "f93f1a331a9deaa019af535b1e0875166445efeacd7b49c917d2406d492f6ff7"
+    },
+    {
+      "file": "multiverse/MV-F.webp",
+      "sha256": "b8d43c9db9a0a8c9ad0a6908d2d5d958f678310d0b7f78a1504def68191585b9"
+    },
+    {
+      "file": "multiverse/MV-G.png",
+      "sha256": "140803e46ed9b79b40cef3712d8ea2f54921e86c70b0e2d16d26c4aeae62ddbb"
+    },
+    {
+      "file": "multiverse/MV-G.webp",
+      "sha256": "3a0931749336e56345b818a147ec09dc513fcbd95bd17d40eac399bd6b2b0aab"
+    },
+    {
+      "file": "multiverse/MV-H.png",
+      "sha256": "9c19bc6a40cd3549959692fc0634f2f459ba7aa4a3cc5c913b3ac6f8f9d381cc"
+    },
+    {
+      "file": "multiverse/MV-H.webp",
+      "sha256": "819aa9fc7555f27e6da39a8dceabd654176dd14717c24489eb0c76a7dccecc76"
+    },
+    {
+      "file": "multiverse/MV-I.png",
+      "sha256": "e6baa281f4645304c3e17aa0676892d549d4eee6913cbf6d333e24c6e58aeb65"
+    },
+    {
+      "file": "multiverse/MV-I.webp",
+      "sha256": "e34dad31b5cfdc651c6907e592812aaff94f50997e5af0389d2f0c948988a7cc"
+    },
+    {
+      "file": "multiverse/MV-J.png",
+      "sha256": "9486a7a15a7878308b608a6c098d7b45e51cd109e59ef106a72c947349b49578"
+    },
+    {
+      "file": "multiverse/MV-J.webp",
+      "sha256": "5469bc94ecbe25229c0dd9689fe77368fc9026a0ab59498287f95e1bfa38f143"
     },
     {
       "file": "previews/001.jpg",

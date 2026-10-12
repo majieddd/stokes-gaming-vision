@@ -1,0 +1,19 @@
+@import url('https://giscus.app/themes/dark.css');
+main {
+ --color-canvas-default:#181818;
+ --color-canvas-overlay:#272727;
+ --color-canvas-subtle:#0f0f0f;
+ --color-fg-default:#f1f1f1;
+ --color-fg-muted:#aaa;
+ --color-fg-subtle:#aaa;
+ --color-border-default:#737373;
+ --color-border-muted:#737373;
+ --color-neutral-muted:#272727;
+ --color-accent-fg:#f1f1f1;
+ --color-accent-emphasis:#ff0033;
+ --color-btn-primary-bg:#ff0033;
+ --color-btn-primary-hover-bg:#cc0029;
+ --color-btn-primary-text:#f1f1f1;
+}
+/* The embedding page supplies a popup sign-in button, preserving canvas position. */
+a[target='_top'] { display:none !important; }

@@ -1,6 +1,6 @@
-# October 11 launch update
+# October 12 launch update
 
-I Created the Multiverse / I Beat Minecraft With GTA is the new first-video direction. Five variants are available in canvas.html; shared reviews use GitHub. The original portfolio follows.
+I Created the Multiverse / I Beat Minecraft With GTA is the first-video direction. Ten variants are available in canvas.html; shared reviews use inline giscus/GitHub Discussions. The original portfolio follows.
 
 # Stokes Twins Gaming — New Channel Launch Vision Doc
 

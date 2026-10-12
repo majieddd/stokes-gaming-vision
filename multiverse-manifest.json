@@ -83,5 +83,100 @@
     "style_reference_sent": false,
     "identity_reference": "6EtuOTq5TmM",
     "visual_review": "Reviewed all five against identity and style references; text-free, coherent rider/dragon/gun, blue sky and mixed invaders. Generated franchise-inspired creatures, not exact extracted game assets."
+  },
+  {
+    "id": "MV-F",
+    "job_id": "3f7bfcb2-b412-4b0a-86cb-682aa19e9db5",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "generator": "Higgsfield",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "f93f1a331a9deaa019af535b1e0875166445efeacd7b49c917d2406d492f6ff7",
+    "prompt_sha256": "6c0ece9e530a11080bc58ce584d51524feb8040db62b54706148dd86190eae0e",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Large photographic host at left, single world sphere at right, visible purple seam and blue sky. Recognizable Minecraft/GTA contrast, readable at feed size.",
+    "review_status": "Visual pixels inspected; generated concept, not captured gameplay."
+  },
+  {
+    "id": "MV-G",
+    "model": "unverified",
+    "generator": "Built-in image generator",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "substitution": "User explicitly approved built-in fallback after Higgsfield credit rejection.",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "140803e46ed9b79b40cef3712d8ea2f54921e86c70b0e2d16d26c4aeae62ddbb",
+    "prompt_sha256": "618f78a2b16a0b40214e06b5681e99ad7632e479d20668b933c3cd1ab2041025",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Large photographic host at left, single portal right, red car crosses the threshold, three secondary invaders. Clear cause and effect.",
+    "review_status": "Visual pixels inspected; generated concept, not captured gameplay."
+  },
+  {
+    "id": "MV-H",
+    "model": "unverified",
+    "generator": "Built-in image generator",
+    "resolution": "native",
+    "variant": null,
+    "quality": null,
+    "substitution": "User explicitly approved built-in fallback after Higgsfield credit rejection.",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "9c19bc6a40cd3549959692fc0634f2f459ba7aa4a3cc5c913b3ac6f8f9d381cc",
+    "prompt_sha256": "b3e2b0f6a72c31b9dca2ea992b996499dd92412b5582cc73e201ae93712a6ac8",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Photographic centered host riding frontal Ender Dragon; purple eyes and broad wings read clearly, portal and small threat behind. Zombies are voxel-styled rather than exact game extractions.",
+    "review_status": "Visual pixels inspected; generated concept, not captured gameplay."
+  },
+  {
+    "id": "MV-I",
+    "job_id": "31537a13-2867-49fd-aae0-df7d3f8c5ef4",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "generator": "Higgsfield",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "e6baa281f4645304c3e17aa0676892d549d4eee6913cbf6d333e24c6e58aeb65",
+    "prompt_sha256": "47de7e8f64a3c31aed9005244a58bda99107607ae8c76d092a97fb65fc568f28",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Clear host/dragon versus one giant tentacled Flood-inspired threat, opposing diagonals, readable gap, bright sky. Creature remains generated interpretation.",
+    "review_status": "Visual pixels inspected; generated concept, not captured gameplay."
+  },
+  {
+    "id": "MV-J",
+    "job_id": "8fa3e127-e622-450f-b78e-cd5ff349fe8e",
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "generator": "Higgsfield",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "sha256": "9486a7a15a7878308b608a6c098d7b45e51cd109e59ef106a72c947349b49578",
+    "prompt_sha256": "5e6bbf1316916134217e8507041b31dcee4b9f51bd2f8f0920aa93ef952946a9",
+    "style_reference_sent": false,
+    "identity_reference": "6EtuOTq5TmM",
+    "visual_review": "Photographic central host, GTA island at left and Minecraft at right, one purple collision seam and clean blue sky. Distinct two-world composition.",
+    "review_status": "Visual pixels inspected; generated concept, not captured gameplay."
   }
 ]

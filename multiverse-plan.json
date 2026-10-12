@@ -116,7 +116,42 @@
       "label": "E · The impossible ride",
       "emotion": "Smug",
       "index": 5
+    },
+    {
+      "id": "MV-F",
+      "label": "F · A world I created",
+      "composition": "Giant world reveal",
+      "scene": "One real-life Stokes twin stands waist-up at the LEFT, looking at camera in amazed pride, both hands presenting an enormous floating Minecraft-built Earth on the RIGHT. The sphere is a clearly readable single object: its near hemisphere has bright blocky Minecraft grass and mountains; one curved quadrant is a modern GTA city with recognizable roads and a red supercar; a purple portal seam between the two worlds spills a tiny formation of Halo Flood and Call of Duty zombies onto the grass. A small black block-built Ender Dragon circles the sphere. Make the real human the creator of this impossible world, not a game avatar.",
+      "index": 6
+    },
+    {
+      "id": "MV-G",
+      "label": "G · The portal is open",
+      "composition": "Portal invasion",
+      "scene": "One real-life Stokes twin crouches in the LEFT foreground of a bright Minecraft meadow, turning toward camera in shocked excitement, one hand pulling the edge of an enormous upright obsidian portal. The violet portal fills the RIGHT half of frame. Through it is a sunlit modern GTA city, and a red realistic supercar is bursting OUT over the threshold toward the viewer, its nose and front tires outside the portal. Behind the car inside the portal are a small legible cluster of three invading enemies: one Halo Flood combat form with a distorted asymmetrical silhouette and tentacle arm, one ragged Call of Duty zombie, and one green Minecraft creeper. The car casts a contact shadow on the Minecraft grass. This is clearly two game worlds meeting through one physical doorway.",
+      "index": 7
+    },
+    {
+      "id": "MV-H",
+      "label": "H · They followed me",
+      "composition": "Front-on chase",
+      "scene": "One real-life Stokes twin rides astride the neck of the black block-built Minecraft Ender Dragon as it flies directly TOWARD the camera. The host is close and photographic, with a huge open-mouthed excited expression, windswept hair, wearing a simple black T-shirt. He holds a realistic black machine gun securely across his body, muzzle angled down and away from the viewer. The dragon has a blocky square head, unmistakable purple eyes and broad angular wings extending to both sides. Behind them, a single violet portal in a Minecraft cliff has released a looming Halo Flood combat form, two Call of Duty zombies and a creeper; they chase across a block bridge below. Clearly an escape toward the viewer, with the threat behind the rider.",
+      "index": 8
+    },
+    {
+      "id": "MV-I",
+      "label": "I · The wrong boss",
+      "composition": "Giant threat face-off",
+      "scene": "One real-life Stokes twin riding the black Minecraft Ender Dragon occupies the LEFT foreground, in profile facing RIGHT while his face turns enough toward camera to be recognizable. He grips a realistic machine gun with both hands, aiming toward one gigantic Halo Flood combat form on the RIGHT. The giant Flood is a recognizable infected humanoid with a hulking asymmetrical body and long tentacled arm, exaggerated but non-gory, rising behind a Minecraft hillside. Its silhouette looms much larger than the rider. One tiny creeper and one ragged Call of Duty zombie at its feet establish the ridiculous scale. The host has fierce surprised determination. The dragon square head and purple eyes are visible.",
+      "index": 9
+    },
+    {
+      "id": "MV-J",
+      "label": "J · Two worlds collide",
+      "composition": "Colliding worlds",
+      "scene": "One real-life Stokes twin is large in the CENTER foreground, bracing with both arms out in astonishment as two enormous floating game-world islands collide behind him. The LEFT island is a sunny modern GTA city with clean roads, skyscrapers and a single vivid red supercar skidding toward the edge. The RIGHT island is a lush block-built Minecraft landscape, with an obsidian violet portal on a hill and a black Ender Dragon banking above it. The two islands meet at ONE dramatic glowing purple seam in the middle distance; block fragments and road pieces fly upward along that seam. At the seam a small cluster of Halo Flood combat forms, Call of Duty zombies and creepers is crossing from one world into the other. Make it a coherent physical collision, not panels or tiny franchise windows.",
+      "index": 10
     }
   ],
-  "evidence_status": "New user concept; no performance or compatible-modpack validation. Five thumbnails are variants of one episode, not five additional episodes."
+  "evidence_status": "New user concept; no performance or compatible-modpack validation. Ten thumbnails are variants of one episode, not ten additional episodes. The new compositions use observed source thumbnails, not causal CTR evidence."
 }
