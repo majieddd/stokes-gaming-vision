@@ -8,6 +8,21 @@ dialog{padding:0;width:min(1440px,96vw);max-height:94dvh;background:var(--surfac
 @media(max-width:700px){:root{--bar:56px;--tools:102px;--status:35px}.topbar{padding:0 12px;gap:8px}.identity strong{font-size:16px}.identity .play{display:none}.topbar nav{gap:13px;font-size:12px}.topbar nav a:last-child{display:none}.toolbar{flex-wrap:wrap;padding:8px 12px;gap:8px}.search{width:calc(100% - 75px)}#liked-only{margin-left:auto}.zoom{margin-left:auto}#refresh-feedback{font-size:12px;padding:8px 11px}.workspace{flex-direction:column}.rail{flex:0 0 62px;width:100%;padding:7px 10px;overflow-y:hidden;overflow-x:auto;border-right:0;border-bottom:1px solid #383838}.rail-head,.rail-note{display:none}#format-nav{display:flex;width:max-content;gap:7px}#format-nav button{max-width:180px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}#format-nav small{display:none}#plane{padding:24px}.statusbar{font-size:10px;padding:0 12px}.detail-layout{display:block}.feedback-panel{border-left:0;border-top:1px solid #383838}.detail-top{padding:16px}.detail-top h1{font-size:18px}.image-panel,.feedback-panel{padding:16px}.detail-controls button{font-size:12px;padding:8px 12px}.detail-links{font-size:13px;gap:20px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 
+/* Reuse the image viewer for a manual, viewport-fitting team slideshow. */
+:root{--slideshow-height:94dvh;--slideshow-gap:15px}
+dialog.slideshow{height:var(--slideshow-height);overflow:hidden}
+dialog.slideshow[open]{display:grid;grid-template-rows:auto minmax(0,1fr)}
+.slideshow .image-panel{display:grid;grid-template-rows:minmax(0,1fr) auto auto;gap:var(--slideshow-gap);min-height:0}
+.slideshow .image-panel>img{height:100%;min-height:0;aspect-ratio:auto}
+.slideshow .detail-controls,.slideshow .detail-review-line{margin:0}
+.slideshow :is(#detail-summary,#detail-evidence,.detail-links){display:none}
+.slideshow .slideshow-layout{display:grid;grid-template-columns:minmax(0,1fr);min-height:0}
+.slideshow.reviewing .slideshow-layout{grid-template-columns:minmax(0,1fr) var(--review-width)}
+#slideshow-review-slot{min-height:0;overflow:hidden}
+.slideshow .review-drawer{width:100%;height:100%;min-height:0}
+.slideshow #review-preview,.slideshow #review-title{display:none}
+@media(max-width:700px){.slideshow.reviewing .slideshow-layout{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr) minmax(0,1fr)}}
+
 /* Shared review is a nonmodal side panel; the canvas remains scrollable. */
 :root{--review-width:420px;--review-gap:18px;--review-image:240px}
 .topbar nav button{font-size:13px}.review-drawer{flex:0 0 var(--review-width);width:var(--review-width);min-width:0;overflow:auto;background:var(--surface);border-left:1px solid var(--line);cursor:default}.review-drawer[hidden]{display:none}.review-header{display:flex;align-items:start;gap:12px;padding:var(--review-gap);border-bottom:1px solid var(--line)}.review-header>div{min-width:0;flex:1}.review-header h2{font-size:18px;line-height:1.35;margin:0 0 7px;overflow-wrap:anywhere}.review-header p{font-size:11px;margin-bottom:7px}.review-header button{font-size:12px;padding:7px 10px}.review-body{padding:var(--review-gap)}#review-preview{display:block;width:var(--review-image);max-width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:8px;margin-bottom:16px}.review-help,#review-loading{font-size:12px;line-height:1.6;color:var(--muted)}.giscus{min-height:220px}.giscus-frame{display:block;width:100%;border:0}.video-card.reviewing .thumb-button{outline:3px solid var(--text);outline-offset:3px}.detail-review-line{display:flex;align-items:center;gap:16px;margin:20px 0}.detail-review-line span{font-size:13px}#detail-evidence{line-height:1.65;margin:20px 0;color:var(--muted)}#detail-evidence summary{color:var(--text);cursor:pointer}#detail-evidence li{margin:8px 0}#detail-evidence a{text-decoration:underline}.card-actions button[data-like][aria-expanded=true]{background:var(--text);color:var(--ground)}
