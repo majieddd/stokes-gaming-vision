@@ -1,6 +1,6 @@
 # October 12 launch update
 
-I Created the Multiverse / I Beat Minecraft With GTA is the first-video direction. Thirty options are available in canvas.html, including ten additional crossover concepts with individual titles; shared reviews use inline giscus/GitHub Discussions. The original portfolio follows.
+The Multiverse is the first-video direction. Title options: I Created the Multiverse / I Beat Minecraft With GTA / I Beat The World's Best Video Game / Stokes Twins vs The Multiverse. Thirty options are available in canvas.html, including ten additional crossover concepts with individual titles; shared reviews use inline giscus/GitHub Discussions. The original portfolio follows.
 
 # Stokes Twins Gaming — New Channel Launch Vision Doc
 
