@@ -99,25 +99,33 @@
       "id": "MV-B",
       "label": "B · Hero charge",
       "emotion": "Hype",
-      "index": 2
+      "index": 2,
+      "archived": true,
+      "archive_reason": "User requested removal of four near-identical original compositions from the active canvas on October 14."
     },
     {
       "id": "MV-C",
       "label": "C · Last line of defense",
       "emotion": "Determination",
-      "index": 3
+      "index": 3,
+      "archived": true,
+      "archive_reason": "User requested removal of four near-identical original compositions from the active canvas on October 14."
     },
     {
       "id": "MV-D",
       "label": "D · Worlds collide",
       "emotion": "Awe",
-      "index": 4
+      "index": 4,
+      "archived": true,
+      "archive_reason": "User requested removal of four near-identical original compositions from the active canvas on October 14."
     },
     {
       "id": "MV-E",
       "label": "E · The impossible ride",
       "emotion": "Smug",
-      "index": 5
+      "index": 5,
+      "archived": true,
+      "archive_reason": "User requested removal of four near-identical original compositions from the active canvas on October 14."
     },
     {
       "id": "MV-F",
@@ -553,5 +561,5 @@
       "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
     }
   ],
-  "evidence_status": "Thirty thumbnail options within the Multiverse format: A-J explore the original invasion, K-T propose alternative crossover scenes, and U-AD add ten individually titled concepts. These are choices, not thirty scheduled episodes. No performance or exact compatible-modpack validation; composition references do not establish causal CTR gains."
+  "evidence_status": "26 active Multiverse thumbnail options, with original B-E archived from the canvas at the user request. These are creative choices rather than 26 scheduled uploads. Exact compatible gameplay and performance remain unverified; composition references do not establish causal CTR gains."
 }

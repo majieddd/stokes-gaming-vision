@@ -1,6 +1,103 @@
 # October 12 launch update
 
-The Multiverse is the first-video direction. Title options: I Created the Multiverse / I Beat Minecraft With GTA / I Beat The World's Best Video Game / Stokes Twins vs The Multiverse. Thirty options are available in canvas.html, including ten additional crossover concepts with individual titles; shared reviews use inline giscus/GitHub Discussions. The original portfolio follows.
+The Multiverse is the first-video direction. Title options: I Created the Multiverse / I Beat Minecraft With GTA / I Beat The World's Best Video Game / Stokes Twins vs The Multiverse. Twenty-six active options are available in canvas.html, including ten additional crossover concepts with individual titles; shared reviews use inline giscus/GitHub Discussions. The original portfolio follows.
+
+
+
+## Five new video ideas (October 14)
+
+Five thumbnail compositions per idea. [Download the idea sheet](new-video-ideas.csv).
+
+### I Beat GTA 6
+
+The twins and crew race to complete the same GTA 6 challenge slate first, using team strategy and matched progress rules.
+
+- 0-5s: Show both teams approaching the same final checkpoint, then cut one second before the result.
+- 5-15s: Explain twins versus crew, the finish condition and the shared start.
+- 15-30s: The crew chooses a faster route while the twins recover from the first mistake.
+
+Shape: I Beat ___. Ingredients: GTA 6 launch interest + twins versus crew + a clear first-to-finish objective.
+
+Production: Launch-dependent. Rockstar lists November 19, 2026 and describes a single-player experience. Plan parallel saves or a relay with team cooperation; native shared story co-op remains unverified. Game copies, capture time and incremental edit labor require a quote; existing equipment is already owned.
+
+- [A · The last checkpoint](canvas.html#card-L01-A): Diagonal head-to-head action. Who reaches the finish first?
+- [B · We finally beat it](canvas.html#card-L01-B): Victory portrait and oversized trophy. Did the twins win by only a few seconds?
+- [C · One mistake from losing](canvas.html#card-L01-C): Oversized threat beside a human reaction. Can they recover before the crew finishes?
+- [D · Twins versus the crew](canvas.html#card-L01-D): Two teams in one real gaming set. Can two twins outplay the whole crew?
+- [E · One final mission](canvas.html#card-L01-E): Low-angle helicopter extraction. Which team reaches the last mission first?
+
+### I Played GTA in Every GTA City
+
+Crew teams visit Los Angeles, San Francisco, New York and Miami to complete GTA challenges that mirror the real places.
+
+- 0-5s: Match a real landmark to its game counterpart in the same camera movement.
+- 5-15s: Reveal four cities, team assignments and the linked real/game challenge rule.
+- 15-30s: A city team gets its first location clue and must find the matching in-game route.
+
+Shape: I Played ___ in Every ___. Ingredients: GTA city recognition + real-world travel + matched virtual and physical challenges.
+
+Production: User confirmed San Francisco in place of San Diego. Route: Los Angeles/Los Santos, San Francisco/San Fierro, NYC/Liberty City and Miami/Vice City. Define coverage before promising literally every historical GTA city: Las Vegas/Las Venturas and earlier international settings are outside this proposed four-city slate. Incremental costs are flights or rail, four-city lodging, local transport, permissions and local support. Reuse owned capture gear. Exact travel dates and quotes remain open.
+
+- [A · Four cities in one trip](canvas.html#card-L02-A): Portrait with a giant folded travel map. How can the same game send them across an entire country?
+- [B · Real city meets its game](canvas.html#card-L02-B): Aligned real/game transformation. Can they complete the exact same challenge in the real city?
+- [C · The whole country is the board](canvas.html#card-L02-C): Aerial travel scale. Can the crew cover the whole route before the twins finish Miami?
+- [D · Miami has two versions](canvas.html#card-L02-D): Era contrast in one waterfront. How different are two games based on the same real city?
+- [E · The bridge challenge](canvas.html#card-L02-E): Matched landmark action. Can the team beat the bridge challenge both in-game and here?
+
+### I Found The Leaked GTA 6
+
+One twin builds a convincing GTA 5 mod showcase and secretly convinces the crew they are playing an early GTA 6 build before revealing the prank.
+
+- 0-5s: A stunned host tries a beautiful Miami-inspired demo and spots one suspicious detail.
+- 5-15s: Explain the crew has been invited to test a mysterious build, without falsely presenting it as authenticated leaked footage to the audience.
+- 15-30s: The prankster quietly triggers the first impressive mod set piece while another crew member starts doubting it.
+
+Shape: I Found The ___. Ingredients: Anticipated game + apparent early access + crew reactions + a twin-controlled prank.
+
+Production: Use a staged GTA 5 mod/retexture/lighting demo and disclose the prank to the audience through framing and payoff. No actual stolen build, leaked files or fabricated Rockstar endorsement. Upscaling can improve a render, not turn GTA 5 into GTA 6. Mod compatibility, permissions and performance need a technical prototype; budget incremental mod setup and prank-control/edit time, not existing cameras.
+
+- [A · The mysterious build](canvas.html#card-L03-A): Oversized discovery object. What is really inside the mystery build?
+- [B · The prankster behind him](canvas.html#card-L03-B): Hidden cause behind an unaware host. Why is his twin secretly controlling the game?
+- [C · The beautiful city is a set](canvas.html#card-L03-C): Cutaway illusion reveal. Is the new game only a convincing stage trick?
+- [D · Too realistic to be true](canvas.html#card-L03-D): One-car graphics transformation. Why does this supposedly new game have an old-game skeleton?
+- [E · The game was a prank](canvas.html#card-L03-E): Forced-perspective set reveal. Was the spectacular world just a trick made by his own twin?
+
+### Win This Race, Keep Your Car
+
+Crew members race in-game replicas of real prize cars, and the winner receives the matching real car.
+
+- 0-5s: Show the physical car and keys, then match-cut to its in-game counterpart one corner from the finish.
+- 5-15s: Explain the winner, prize and race rules in one sentence; establish that the reward is a real car.
+- 15-30s: The first driver takes an aggressive shortcut while a safer competitor gains ground.
+
+Shape: Win This ___, Keep Your ___. Ingredients: A simple game race + visible real-world car ownership stakes + a crew competition.
+
+Production: User confirmed a real-car prize. The pictured red luxury and sports cars are illustrative prize classes, not owned or approved giveaway vehicles. Obtain the actual vehicle price, prize funding, title/registration/tax handling, transport and storage quote before commissioning the giveaway. Keep the game-race build and incremental edit costs separate; optional physical presentation can use a controlled parked-car location and existing gear.
+
+- [A · The keys are real](canvas.html#card-L04-A): Prize-object close-up. Can winning a game really put these keys in your hand?
+- [B · One race for all these cars](canvas.html#card-L04-B): Repeated prize objects and hero portrait. Who gets to leave with the real car?
+- [C · The car is locked until you win](canvas.html#card-L04-C): Locked prize reveal. Can they unlock the actual car by winning the race?
+- [D · Same car, two worlds](canvas.html#card-L04-D): Matched game and real prize. Can the game version become the car they actually keep?
+- [E · The final corner](canvas.html#card-L04-E): Prize destination in a landscape. Will one last corner cost them the real car?
+
+### I Built Secret Rooms in GTA/Minecraft/Roblox
+
+The crew hides spectacular rooms in ordinary game locations and challenges the others to discover the entrances before time runs out.
+
+- 0-5s: An ordinary surface opens to reveal an impossible luxury room beneath it.
+- 5-15s: Explain the hiding/search rule and the game or three-game comparison selected for the final episode.
+- 15-30s: A searcher walks past the first entrance while the hidden builder silently reacts.
+
+Shape: I Built Secret Rooms in ___. Ingredients: A proven Stokes main-channel subject + hidden entrance + oversized interior reveal + game-world freedom.
+
+Production: The five packaging routes test GTA, Minecraft, Roblox and a three-game comparison. Lock one game or deliberately budget a three-game episode before finalizing the title. Reuse base interiors and hire only the game-specific build/scripting work needed. Estimate incremental builder, server and edit time; no travel or new camera kit by default.
+
+- [A · Under the ordinary house](canvas.html#card-L05-A): Architectural cutaway reveal. How could this tiny house hide that room?
+- [B · The smallest door hides a mansion](canvas.html#card-L05-B): Door-opening size contrast. How can a utility door open into a hidden mansion?
+- [C · Inside the giant avatar](canvas.html#card-L05-C): Secret room inside an unexpected object. Who would think to search inside the avatar?
+- [D · Choose the hidden world](canvas.html#card-L05-D): Three-door choice in one set. Which game hides the best secret room?
+- [E · Hidden under the water](canvas.html#card-L05-E): Natural waterline architectural reveal. How does anyone find a room hidden beneath the lake?
+
 
 # Stokes Twins Gaming — New Channel Launch Vision Doc
 

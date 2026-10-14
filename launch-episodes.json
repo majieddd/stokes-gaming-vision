@@ -1,0 +1,492 @@
+[
+  {
+    "id": "L01",
+    "title": "I Beat GTA 6",
+    "group": "launch-gta6",
+    "summary": "The twins and crew race to complete the same GTA 6 challenge slate first, using team strategy and matched progress rules.",
+    "shape": "I Beat ___",
+    "ingredients": "GTA 6 launch interest + twins versus crew + a clear first-to-finish objective",
+    "objective": "Complete the agreed mission/challenge slate first with matched starts and transparent penalties.",
+    "intro": [
+      "Show both teams approaching the same final checkpoint, then cut one second before the result.",
+      "Explain twins versus crew, the finish condition and the shared start.",
+      "The crew chooses a faster route while the twins recover from the first mistake."
+    ],
+    "production": "Launch-dependent. Rockstar lists November 19, 2026 and describes a single-player experience. Plan parallel saves or a relay with team cooperation; native shared story co-op remains unverified. Game copies, capture time and incremental edit labor require a quote; existing equipment is already owned.",
+    "references": [
+      {
+        "id": "xwdhHTtc-3w",
+        "title": "1 vs 10 Hunters in GTA!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
+        "lift": 2.25,
+        "standing": "qualifying public outlier",
+        "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
+        "observed_at": "2026-10-05T06:01:50.829483+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ],
+    "evidence_limits": "October 5 catalogue scores are source-reported package/content performance, not CTR or title-only causation. October 14 Influint readback labels gaming packaging guidance Theory and unmeasured. Exact format/crossover performance across two independent qualifying channels is not established where the references fall short.",
+    "variants": [
+      {
+        "id": "L01-A",
+        "index": 1,
+        "label": "A · The last checkpoint",
+        "composition": "Diagonal head-to-head action",
+        "beat": "Two teams reach the finish together.",
+        "scene": "A photographic Stokes host is large at RIGHT, leaning from an orange-red supercar racing diagonally toward the camera. At LEFT a blue supercar driven by one anonymous adult crew member draws level. Both cars pass under one simple black-and-white checkered finish arch on a sunny Miami-inspired coastal highway. One palm-lined skyline and turquoise ocean beyond. Low wide camera near the road, foreground host face sharp, only two cars and one finish. The game world is premium cinematic GTA-style rendering; the human is photographic.",
+        "information_gap": "Who reaches the finish first?"
+      },
+      {
+        "id": "L01-B",
+        "index": 2,
+        "label": "B · We finally beat it",
+        "composition": "Victory portrait and oversized trophy",
+        "beat": "One host celebrates while the rival team is still finishing.",
+        "scene": "A photographic Stokes host is CENTER foreground standing on the roof of one parked red supercar, waist-up and face large, raising a huge simple gold cup in both hands with triumphant excitement. Behind at RIGHT a small blue crew car is still racing toward a distant checkered arch. Sunlit Miami-style art-deco waterfront, turquoise water, palms and luminous blue sky. Eye-level hero portrait with trophy dominating upper LEFT, face center, car roof lower third. No prize money or game logo.",
+        "information_gap": "Did the twins win by only a few seconds?"
+      },
+      {
+        "id": "L01-C",
+        "index": 3,
+        "label": "C · One mistake from losing",
+        "composition": "Oversized threat beside a human reaction",
+        "beat": "A recovery moment threatens the twins race.",
+        "scene": "A photographic Stokes host fills LEFT foreground in the open driver seat of a red convertible, shocked face turned toward camera. At RIGHT the car is half on the edge of a broken coastal stunt-road segment, front tire just short of a safe landing ramp. A small blue crew car is already on the far side. Freeze the jump before any collision. Bright sunny Miami-inspired game world, water below and open blue sky. One red car, one gap and tiny blue rival; close dramatic perspective with a clear safe landing. No injury or explosion.",
+        "information_gap": "Can they recover before the crew finishes?"
+      },
+      {
+        "id": "L01-D",
+        "index": 4,
+        "label": "D · Twins versus the crew",
+        "composition": "Two teams in one real gaming set",
+        "beat": "The competition is visible without needing game knowledge.",
+        "scene": "A real sunny studio with one large open window revealing a cinematic Miami game city outside. At LEFT foreground one photographic Stokes host in a black shirt holds a controller and looks toward camera in competitive excitement. At RIGHT two anonymous adult crew members in blue shirts share a second gaming station, one playing and one pointing toward the screen. One huge screen between the teams shows an orange car and blue car approaching a finish arch in the same scene, with no HUD. One unified physical room, not a split-panel collage. Strong blue sky through the window, faces large, simple color separation red/orange team versus blue crew.",
+        "information_gap": "Can two twins outplay the whole crew?"
+      },
+      {
+        "id": "L01-E",
+        "index": 5,
+        "label": "E · One final mission",
+        "composition": "Low-angle helicopter extraction",
+        "beat": "The final objective becomes a huge visible destination.",
+        "scene": "A photographic Stokes host is CENTER foreground gripping the side rail of a red-and-black helicopter, face large in ecstatic urgency. The helicopter flies from lower RIGHT toward one rooftop helipad on a sunlit Miami-inspired tower at LEFT. A small blue crew helicopter approaches the same pad from the opposite direction, secondary. Turquoise bay and white high-rises far below, luminous blue sky filling upper half. Low camera outside the main cockpit, one host, one dominant helicopter and one clear final destination. No guns, HUD or text.",
+        "information_gap": "Which team reaches the last mission first?"
+      }
+    ]
+  },
+  {
+    "id": "L02",
+    "title": "I Played GTA in Every GTA City",
+    "group": "launch-gta-cities",
+    "summary": "Crew teams visit Los Angeles, San Francisco, New York and Miami to complete GTA challenges that mirror the real places.",
+    "shape": "I Played ___ in Every ___",
+    "ingredients": "GTA city recognition + real-world travel + matched virtual and physical challenges",
+    "objective": "Finish the four-city slate, with the twins covering Vice City and GTA 6-inspired Miami challenges after release.",
+    "intro": [
+      "Match a real landmark to its game counterpart in the same camera movement.",
+      "Reveal four cities, team assignments and the linked real/game challenge rule.",
+      "A city team gets its first location clue and must find the matching in-game route."
+    ],
+    "production": "User confirmed San Francisco in place of San Diego. Route: Los Angeles/Los Santos, San Francisco/San Fierro, NYC/Liberty City and Miami/Vice City. Define coverage before promising literally every historical GTA city: Las Vegas/Las Venturas and earlier international settings are outside this proposed four-city slate. Incremental costs are flights or rail, four-city lodging, local transport, permissions and local support. Reuse owned capture gear. Exact travel dates and quotes remain open.",
+    "references": [
+      {
+        "id": "OMAZB31W9nE",
+        "title": "I Walked Across The Earth!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=OMAZB31W9nE",
+        "lift": 0.75,
+        "standing": "subject/composition precedent, below the 2x qualifying threshold",
+        "observation": "Observed source image: host left, Earth right and a broad travel arrow. Source score 0.75x is an aesthetic/subject precedent, not a qualifying outlier.",
+        "observed_at": "2026-10-05T06:01:50.830998+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "Dy06SXknr_g",
+        "title": "World's Largest Minecraft Build!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+        "lift": 0.81,
+        "standing": "subject/composition precedent, below the 2x qualifying threshold",
+        "observation": "Large real host at left, giant block-built Earth at right, bright blue sky and greens. User-selected aesthetic; unresolved source window and 0.81x means it is not a qualifying outlier.",
+        "observed_at": "2026-10-05T06:01:50.725557+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "ZNoAsoLNyWA",
+        "title": "Riding the World's Scariest Rollercoasters! (PASSED OUT)",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=ZNoAsoLNyWA",
+        "lift": 2.81,
+        "standing": "qualifying public outlier",
+        "observation": "Real faces point toward camera in a rollercoaster seat above a park. The adaptation uses the frontal face-plus-danger framing.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ],
+    "evidence_limits": "October 5 catalogue scores are source-reported package/content performance, not CTR or title-only causation. October 14 Influint readback labels gaming packaging guidance Theory and unmeasured. Exact format/crossover performance across two independent qualifying channels is not established where the references fall short.",
+    "variants": [
+      {
+        "id": "L02-A",
+        "index": 1,
+        "label": "A · Four cities in one trip",
+        "composition": "Portrait with a giant folded travel map",
+        "beat": "One traveler faces a huge city-spanning challenge.",
+        "scene": "A photographic Stokes host fills RIGHT foreground holding a small dark controller in one hand and pulling a rolling suitcase with the other, delighted surprised face large. At LEFT an oversized three-dimensional folded US travel map rises from the ground like a pop-up book. Four miniature landmark clusters sit along one curved route: Los Angeles palms and modern towers, San Francisco Golden Gate bridge, New York Statue of Liberty and towers, Miami art-deco beachfront. One tiny airplane follows the route. Sunny blue sky, saturated but clean. The map is one hero object, landmarks simplified and secondary, no labels or printed map text.",
+        "information_gap": "How can the same game send them across an entire country?"
+      },
+      {
+        "id": "L02-B",
+        "index": 2,
+        "label": "B · Real city meets its game",
+        "composition": "Aligned real/game transformation",
+        "beat": "The game and real challenge occupy the same view.",
+        "scene": "A photographic Stokes host stands CENTER foreground on a New York-style street, face large and amazed, holding a controller and stepping across a natural seam in the same road. The LEFT half of the street and a yellow taxi are photographic real-world textures; the RIGHT half is the same aligned scene as a premium GTA-style game render, with a matching yellow taxi and Liberty-style towers. Perspective, road and skyline line up precisely as one continuous scene, no border or panels. Bright blue sky, two matched taxis secondary.",
+        "information_gap": "Can they complete the exact same challenge in the real city?"
+      },
+      {
+        "id": "L02-C",
+        "index": 3,
+        "label": "C · The whole country is the board",
+        "composition": "Aerial travel scale",
+        "beat": "A person is tiny compared with the travel route.",
+        "scene": "A photographic Stokes host appears large at TOP LEFT leaning from a small white airplane window, face turned toward camera with thrilled disbelief. Far below is a simplified sunlit coast-to-coast US landscape shaped naturally like a huge raised game map, with four clearly separated miniature landmark zones for Los Angeles, San Francisco, New York and Miami connected by a single curved red route with no labels. Strong aerial perspective, blue ocean around the land, luminous pale blue sky upper third. Plane and real face are one group, map and route another. No flags, typography or tiny city clutter.",
+        "information_gap": "Can the crew cover the whole route before the twins finish Miami?"
+      },
+      {
+        "id": "L02-D",
+        "index": 4,
+        "label": "D · Miami has two versions",
+        "composition": "Era contrast in one waterfront",
+        "beat": "Two Vice City eras become a simple visual comparison.",
+        "scene": "A photographic Stokes host is large at CENTER foreground on the bow of one white speedboat holding a controller, face full of delighted surprise. The continuous sunny Miami-style waterfront behind transitions LEFT to older low-poly pastel art-deco Vice City buildings and RIGHT to a modern richly detailed GTA-style skyline. One magenta classic sports car is parked on the left quay and one red modern supercar on the right quay. One coherent bay and horizon, no dividing panels, no portals. Blue sky, cyan water and bright palm trees dominate.",
+        "information_gap": "How different are two games based on the same real city?"
+      },
+      {
+        "id": "L02-E",
+        "index": 5,
+        "label": "E · The bridge challenge",
+        "composition": "Matched landmark action",
+        "beat": "A real landmark anchors the whole premise.",
+        "scene": "A photographic Stokes host fills LEFT foreground on a San Francisco Golden Gate overlook, holding a controller near his chest and pointing across the bay in excited disbelief. At RIGHT one enormous red Golden Gate bridge stretches into the distance. Its near section is photographic steel and real asphalt, gradually becoming a slightly simplified GTA San Fierro-style game model on the far section. One tiny red in-game car crosses toward the transition. Blue sky and cyan bay, low wide viewpoint, one host plus one iconic bridge. No printed signs or labels.",
+        "information_gap": "Can the team beat the bridge challenge both in-game and here?"
+      }
+    ]
+  },
+  {
+    "id": "L03",
+    "title": "I Found The Leaked GTA 6",
+    "group": "launch-gta-prank",
+    "summary": "One twin builds a convincing GTA 5 mod showcase and secretly convinces the crew they are playing an early GTA 6 build before revealing the prank.",
+    "shape": "I Found The ___",
+    "ingredients": "Anticipated game + apparent early access + crew reactions + a twin-controlled prank",
+    "objective": "Keep the crew believing the staged demo until the final intentionally planted clue reveals the prank.",
+    "intro": [
+      "A stunned host tries a beautiful Miami-inspired demo and spots one suspicious detail.",
+      "Explain the crew has been invited to test a mysterious build, without falsely presenting it as authenticated leaked footage to the audience.",
+      "The prankster quietly triggers the first impressive mod set piece while another crew member starts doubting it."
+    ],
+    "production": "Use a staged GTA 5 mod/retexture/lighting demo and disclose the prank to the audience through framing and payoff. No actual stolen build, leaked files or fabricated Rockstar endorsement. Upscaling can improve a render, not turn GTA 5 into GTA 6. Mod compatibility, permissions and performance need a technical prototype; budget incremental mod setup and prank-control/edit time, not existing cameras.",
+    "references": [
+      {
+        "id": "nuK7e1xzThc",
+        "title": "Prisoner Drive Thru Prank",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
+        "lift": 2.94,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "AwQz703eOt0",
+        "title": "BUSTING VIRAL TIKTOK GADGETS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
+        "lift": 4.18,
+        "standing": "qualifying public outlier",
+        "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
+        "observed_at": "2026-10-05T06:01:52.265096+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ],
+    "evidence_limits": "October 5 catalogue scores are source-reported package/content performance, not CTR or title-only causation. October 14 Influint readback labels gaming packaging guidance Theory and unmeasured. Exact format/crossover performance across two independent qualifying channels is not established where the references fall short.",
+    "variants": [
+      {
+        "id": "L03-A",
+        "index": 1,
+        "label": "A · The mysterious build",
+        "composition": "Oversized discovery object",
+        "beat": "A tiny drive supposedly contains an impossible new world.",
+        "scene": "A photographic Stokes host is large at LEFT foreground holding one oversized transparent cyan USB drive close to camera, eyes wide in amazed disbelief. At RIGHT a single monitor shows a gorgeous sunny Miami-inspired GTA-style driving scene with a red supercar and palm boulevard, no HUD or branding. The translucent drive contains a tiny glowing city model as a visual metaphor. Bright gaming room with blue sky through a window. Face, drive and screen only; no labels, game packaging, company logo or leaked-source claim printed in the image.",
+        "information_gap": "What is really inside the mystery build?"
+      },
+      {
+        "id": "L03-B",
+        "index": 2,
+        "label": "B · The prankster behind him",
+        "composition": "Hidden cause behind an unaware host",
+        "beat": "The viewer notices the setup before the player.",
+        "scene": "A photographic Stokes host fills RIGHT foreground playing with a controller, face delighted and amazed at a huge monitor at LEFT showing a bright Miami-style game city. Behind the monitor a second photographic identical-twin-style Stokes figure crouches in a plain red shirt with a mischievous grin and one finger to his lips, secretly holding a small remote trigger. Both faces use the supplied Stokes family likeness; foreground face dominant, prankster smaller. Sunny room, luminous blue sky through window. No words, no official logos, no threatening objects.",
+        "information_gap": "Why is his twin secretly controlling the game?"
+      },
+      {
+        "id": "L03-C",
+        "index": 3,
+        "label": "C · The beautiful city is a set",
+        "composition": "Cutaway illusion reveal",
+        "beat": "One polished facade hides the old game underneath.",
+        "scene": "A photographic Stokes host stands large at RIGHT foreground, astonished face toward camera, pulling back the corner of one giant glossy scenic wall like a stage curtain. The wall at LEFT depicts a bright realistic Miami-inspired game boulevard; behind the lifted corner we see an older, simpler GTA 5-style city set, a projector and one plain control console. A small red supercar is continuous across the front and revealed old set. One unified sunny soundstage-like game world with blue sky above, not a panel collage. The peeled edge is huge and instantly readable.",
+        "information_gap": "Is the new game only a convincing stage trick?"
+      },
+      {
+        "id": "L03-D",
+        "index": 4,
+        "label": "D · Too realistic to be true",
+        "composition": "One-car graphics transformation",
+        "beat": "The visual upgrade is impressive but gives away the trick.",
+        "scene": "A photographic Stokes host fills LEFT foreground pointing in shocked amusement toward one red supercar at RIGHT. The car is one continuous physical object: its front is incredibly glossy realistic metal and its rear visibly becomes a simpler old-game polygon wireframe with clean cyan edges. A small black projector on the ground illuminates the transformation boundary. Bright sunny Miami-style plaza, palm trees and blue sky. Close side-on view with clear front/rear change, only host and car dominate. No text, comparison panels, Nvidia logos or claim of a real leaked asset.",
+        "information_gap": "Why does this supposedly new game have an old-game skeleton?"
+      },
+      {
+        "id": "L03-E",
+        "index": 5,
+        "label": "E · The game was a prank",
+        "composition": "Forced-perspective set reveal",
+        "beat": "The impossible city is a miniature controlled by the twin.",
+        "scene": "A photographic Stokes host is large at CENTER foreground holding a controller with a baffled laughing expression. At LEFT foreground a tiny exquisite miniature Miami game city sits on a low table, with one small red model car. At RIGHT behind the miniature, a second Stokes twin-style figure in a red shirt operates a simple camera on a tripod aimed at the model and smiles mischievously. An oversized screen in far background shows only the camera view of the city, no HUD. Open sunny studio terrace with blue sky. Camera angle makes the tabletop illusion and prank operator obvious, not a random pile of gadgets.",
+        "information_gap": "Was the spectacular world just a trick made by his own twin?"
+      }
+    ]
+  },
+  {
+    "id": "L04",
+    "title": "Win This Race, Keep Your Car",
+    "group": "launch-keep-car",
+    "summary": "Crew members race in-game replicas of real prize cars, and the winner receives the matching real car.",
+    "shape": "Win This ___, Keep Your ___",
+    "ingredients": "A simple game race + visible real-world car ownership stakes + a crew competition",
+    "objective": "Win the final race under agreed rules to receive the real car represented in the game.",
+    "intro": [
+      "Show the physical car and keys, then match-cut to its in-game counterpart one corner from the finish.",
+      "Explain the winner, prize and race rules in one sentence; establish that the reward is a real car.",
+      "The first driver takes an aggressive shortcut while a safer competitor gains ground."
+    ],
+    "production": "User confirmed a real-car prize. The pictured red luxury and sports cars are illustrative prize classes, not owned or approved giveaway vehicles. Obtain the actual vehicle price, prize funding, title/registration/tax handling, transport and storage quote before commissioning the giveaway. Keep the game-race build and incremental edit costs separate; optional physical presentation can use a controlled parked-car location and existing gear.",
+    "references": [
+      {
+        "id": "xiFsAjUDwdU",
+        "title": "Beat This Race, Win This Lamborghini!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xiFsAjUDwdU",
+        "lift": 1.85,
+        "standing": "subject/composition precedent, below the 2x qualifying threshold",
+        "observation": "Observed source image: host centered between converging rows of yellow and red cars; repeated prize objects and strong depth. Source score 1.85x is below the 2x qualifying threshold.",
+        "observed_at": "2026-10-05T06:01:50.822881+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "6EtuOTq5TmM",
+        "title": "Clean The Sports Car, Keep It!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=6EtuOTq5TmM",
+        "lift": 1.48,
+        "standing": "subject/composition precedent, below the 2x qualifying threshold",
+        "observation": "Observed source image: real host at left and one enormous muddy luxury car at right. Borrow the tangible car-reward promise, not the cleaning scene. 1.48x is below the qualifying threshold.",
+        "observed_at": "2026-10-05T06:01:52.204559+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ],
+    "evidence_limits": "October 5 catalogue scores are source-reported package/content performance, not CTR or title-only causation. October 14 Influint readback labels gaming packaging guidance Theory and unmeasured. Exact format/crossover performance across two independent qualifying channels is not established where the references fall short.",
+    "variants": [
+      {
+        "id": "L04-A",
+        "index": 1,
+        "label": "A · The keys are real",
+        "composition": "Prize-object close-up",
+        "beat": "A tiny object connects the game race to an actual car.",
+        "scene": "A photographic Stokes host fills RIGHT foreground, face ecstatic and surprised, extending one real black-and-silver car key toward the camera at LEFT so the key is oversized. Behind him one gorgeous real red supercar sits parked on a sunny presentation apron. Its open side window reveals a monitor showing the matching red game car approaching a checkered race finish, without HUD. The real car remains photographic and the screen is a clear game render. Blue sky and clean green verge. Key, face and one car form the promise; no cash, price text or franchise logo.",
+        "information_gap": "Can winning a game really put these keys in your hand?"
+      },
+      {
+        "id": "L04-B",
+        "index": 2,
+        "label": "B · One race for all these cars",
+        "composition": "Repeated prize objects and hero portrait",
+        "beat": "A huge pool of physical prizes establishes stakes.",
+        "scene": "A photographic Stokes host fills CENTER foreground chest-up, holding a controller and grinning in amazed anticipation. Behind him two long symmetrical rows of real parked sports cars recede toward the horizon: yellow cars at LEFT and red cars at RIGHT, with one red supercar nearest camera. A single black-and-white checkered finish arch stands far behind the rows. Bright sunny controlled car presentation lot, blue sky upper third. Strong one-point perspective, real human and realistic cars, no crowd, no words, no money labels. The car rows are one repeated pattern rather than dozens of different focal props.",
+        "information_gap": "Who gets to leave with the real car?"
+      },
+      {
+        "id": "L04-C",
+        "index": 3,
+        "label": "C · The car is locked until you win",
+        "composition": "Locked prize reveal",
+        "beat": "The prize sits just behind one visible barrier.",
+        "scene": "A photographic Stokes host is large at LEFT foreground, face shocked and determined, holding a controller in front of one huge transparent glass prize garage at RIGHT. Inside the glass garage a real photographic red supercar sits on a raised white platform. A thick silver padlock hangs on the simple garage door handle, clearly visible and oversized but not comically huge. A cinematic game race track curves around the outside of the garage toward a checkered finish. Sunny blue sky, clean green setting. Host plus locked car are the two main groups, no damage or destruction.",
+        "information_gap": "Can they unlock the actual car by winning the race?"
+      },
+      {
+        "id": "L04-D",
+        "index": 4,
+        "label": "D · Same car, two worlds",
+        "composition": "Matched game and real prize",
+        "beat": "A match cut makes the real-world reward obvious.",
+        "scene": "A photographic Stokes host stands CENTER foreground presenting two matching red supercars nose-to-nose across a narrow checkered finish stripe. The car at LEFT is unmistakably a premium game render on a smooth game race track; the car at RIGHT is photographic real automotive metal on a real presentation apron. Their fronts are exactly the same shape and color, with one continuous aligned horizon and blue sky. The host holds a small controller toward the game side and a car key toward the real side, face large and thrilled. One unified perspective rather than bordered panels, no words or printed badges.",
+        "information_gap": "Can the game version become the car they actually keep?"
+      },
+      {
+        "id": "L04-E",
+        "index": 5,
+        "label": "E · The final corner",
+        "composition": "Prize destination in a landscape",
+        "beat": "One dramatic last turn stands between player and prize.",
+        "scene": "A glossy red game supercar fills LEFT foreground drifting cleanly around the last broad bend of an elevated game race track, a photographic Stokes host visible large through the open side window, eyes wide in determined excitement. At RIGHT beyond a checkered finish arch, one real photographic red supercar is displayed on a white podium beside a giant plain silver car-key sculpture. Bright blue sky, turquoise coastal bay and green landscape far below. Use wide deep perspective to show one obvious route to the physical prize, with the foreground car dominant and the prize smaller but clear. No crash, gore, text or scoreboard.",
+        "information_gap": "Will one last corner cost them the real car?"
+      }
+    ]
+  },
+  {
+    "id": "L05",
+    "title": "I Built Secret Rooms in GTA/Minecraft/Roblox",
+    "group": "launch-secret-rooms",
+    "summary": "The crew hides spectacular rooms in ordinary game locations and challenges the others to discover the entrances before time runs out.",
+    "shape": "I Built Secret Rooms in ___",
+    "ingredients": "A proven Stokes main-channel subject + hidden entrance + oversized interior reveal + game-world freedom",
+    "objective": "Build a convincing hidden entrance and see which crew member can discover every room.",
+    "intro": [
+      "An ordinary surface opens to reveal an impossible luxury room beneath it.",
+      "Explain the hiding/search rule and the game or three-game comparison selected for the final episode.",
+      "A searcher walks past the first entrance while the hidden builder silently reacts."
+    ],
+    "production": "The five packaging routes test GTA, Minecraft, Roblox and a three-game comparison. Lock one game or deliberately budget a three-game episode before finalizing the title. Reuse base interiors and hire only the game-specific build/scripting work needed. Estimate incremental builder, server and edit time; no travel or new camera kit by default.",
+    "references": [
+      {
+        "id": "-5bcG6tZKx8",
+        "title": "I Built 5 SECRET Rooms You’d Never Find!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=-5bcG6tZKx8",
+        "lift": 1.69,
+        "standing": "subject/composition precedent, below the 2x qualifying threshold",
+        "observation": "Observed source image: a real host hides inside a tiny concealed shower-wall opening; a nearby body provides scale. 1.69x is below the qualifying threshold.",
+        "observed_at": "2026-10-05T06:01:52.210629+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "X9AYf8gy5sU",
+        "title": "I Built 30 Secret Rooms You’d Never Find!",
+        "channel": "Unspeakable",
+        "url": "https://www.youtube.com/watch?v=X9AYf8gy5sU",
+        "lift": 5.0,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left presents a large circular pool cutaway revealing a colorful hidden room. Source score 5.00x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:51.512122+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCwIWAbIeu0xI0ReKWOcw3eg.html"
+      },
+      {
+        "id": "jEG8wuUE1pY",
+        "title": "$1 vs $25,000 Secret Rooms",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=jEG8wuUE1pY",
+        "lift": 1.97,
+        "standing": "subject/composition precedent, below the 2x qualifying threshold",
+        "observation": "Observed source image: host left beside a small surface hatch; the title supplies secret-room value. 1.97x is below the qualifying threshold.",
+        "observed_at": "2026-10-05T06:01:50.822881+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ],
+    "evidence_limits": "October 5 catalogue scores are source-reported package/content performance, not CTR or title-only causation. October 14 Influint readback labels gaming packaging guidance Theory and unmeasured. Exact format/crossover performance across two independent qualifying channels is not established where the references fall short.",
+    "variants": [
+      {
+        "id": "L05-A",
+        "index": 1,
+        "label": "A · Under the ordinary house",
+        "composition": "Architectural cutaway reveal",
+        "beat": "A boring surface conceals an enormous secret.",
+        "scene": "A photographic Stokes host is large at LEFT foreground standing beside a tiny ordinary Minecraft grass-and-wood hut, one finger to his lips and eyes wide in delighted secrecy. At RIGHT a clean earth cross-section reveals a huge sunlit luxury Minecraft room directly under that hut: blue indoor pool, gold block trim and a red sofa, only three interior features. One narrow trapdoor ladder connects hut to room. Bright blue sky above, vivid green grass and clean block terrain. The massive hidden room is the single hero object, not a collage of tiny rooms.",
+        "information_gap": "How could this tiny house hide that room?"
+      },
+      {
+        "id": "L05-B",
+        "index": 2,
+        "label": "B · The smallest door hides a mansion",
+        "composition": "Door-opening size contrast",
+        "beat": "A narrow city entrance conceals luxury at impossible scale.",
+        "scene": "A photographic Stokes host fills RIGHT foreground pulling open one tiny plain metal utility door in a GTA-style sunny city wall. His large face looks toward camera in amazed disbelief. Through the opening at LEFT is an enormous glamorous secret game-world garage with one red supercar, a turquoise pool and one long red sofa; strong deep perspective makes it much larger than the doorway. One coherent view through the door, no portal glow or magic ring. Blue sky and palms above the city wall, clean bright light. No signage or text.",
+        "information_gap": "How can a utility door open into a hidden mansion?"
+      },
+      {
+        "id": "L05-C",
+        "index": 3,
+        "label": "C · Inside the giant avatar",
+        "composition": "Secret room inside an unexpected object",
+        "beat": "The hiding place is the surprise.",
+        "scene": "A giant friendly yellow Roblox avatar head fills RIGHT as one enormous clean plastic object on a bright green game field. A hinged cheek panel is open, revealing a tiny luxurious secret room inside the head with a blue pool and red gaming chair. A photographic Stokes host stands large at LEFT foreground holding the opened panel edge and making a playful hush gesture, real face sharp and excited. Tiny blocky staircase leads to the hidden interior. Luminous blue sky, low-angle scale, one host plus one giant head. No words, printed face labels or extra characters.",
+        "information_gap": "Who would think to search inside the avatar?"
+      },
+      {
+        "id": "L05-D",
+        "index": 4,
+        "label": "D · Choose the hidden world",
+        "composition": "Three-door choice in one set",
+        "beat": "Three familiar materials hide three different rooms.",
+        "scene": "A photographic Stokes host stands CENTER foreground between three huge open secret doors built into one sunny courtyard wall: LEFT a realistic GTA-style metal vault door revealing a red supercar garage; CENTER a Minecraft stone trapdoor revealing a block-built blue pool; RIGHT a bright Roblox plastic panel revealing a small red gaming throne. Host face large with a playful amazed expression, arms extended presenting the choices. Keep each interior very simple with one dominant prop, all doors share the same perspective and ground plane, blue sky above. No split panels, text, numbers or unrelated franchises.",
+        "information_gap": "Which game hides the best secret room?"
+      },
+      {
+        "id": "L05-E",
+        "index": 5,
+        "label": "E · Hidden under the water",
+        "composition": "Natural waterline architectural reveal",
+        "beat": "The water hides the only entrance.",
+        "scene": "A photographic Stokes host fills RIGHT foreground wearing a simple clear diving mask pushed above his forehead, face large with delighted surprise as he points down through bright turquoise water. At LEFT below one physically continuous clear waterline, a single glass Minecraft room is hidden beneath a small grassy island, with one red sofa and warm golden block lighting inside. A short concealed ladder leads down from one tiny surface hatch. The camera sees both sunny blue sky above and the bright underwater glass room below; no creatures or extra buildings. Clean cyan water and green island, one host and one hidden room.",
+        "information_gap": "How does anyone find a room hidden beneath the lake?"
+      }
+    ]
+  }
+]

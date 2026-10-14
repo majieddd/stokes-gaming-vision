@@ -1,0 +1,427 @@
+[
+  {
+    "id": "L01-A",
+    "episode_id": "L01",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "77de89e5ca4dffb446be7211d21c9e13bbb39bd6046791b1fb30fbc21c20098c",
+    "prompt_sha256": "9cc2abd99fd1effcefcb03a37cf322873dd268151a871e774714400a0afaf3dc",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host at right in orange sports car alongside blue rival under a checkered arch; clear diagonal competition, large face and sunny Miami-style setting.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L01-B",
+    "episode_id": "L01",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "accaec8cab3fbc1f21887f684cdfdab857f48556e43d431e096d1d6f78f5ecec",
+    "prompt_sha256": "fe83544707e4087dda67655743bcbff561c00316cc44ccb9b092130308996d1c",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Large trophy and real host above red car with distant blue rival and finish; strong victory object and bright water/sky.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L01-C",
+    "episode_id": "L01",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "191ab10fcba613dfc2bca8b333993ea74efefe4e4b458a5f8609219ca3656343",
+    "prompt_sha256": "8a37f4cc0f7881dc1cfda207807af6b88b2191b9e1cc4317b4155e757aba8973",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Large host in a red luxury sedan at left beside an exaggerated broken-road gap, blue rival beyond. The sedan differs from the supercar brief but the recovery jeopardy reads.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L01-D",
+    "episode_id": "L01",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "4182d30e9dc5695761dd314888682850983fc8e8518395f8e2fdc67dd3cadfe9",
+    "prompt_sha256": "47aee698411079756cade361c3b8f5c52de48c722be8acace436bf09b5b876ca",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host at left with controller, anonymous blue-shirt crew at right and one shared race screen; live-action team competition with sunny waterfront.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L01-E",
+    "episode_id": "L01",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "c8d1a1d9ecc94045bb78284ac9c64d7483af50122646d5303da30e6f5630f284",
+    "prompt_sha256": "c17b58b12f197f1e72695d4e9a61aa7cc28d42b647da02485965e0d570864dc5",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host outside red helicopter at right, large rooftop helipad at left and small blue rival; clear alternate final-objective action. Incidental helipad H marking.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L02-A",
+    "episode_id": "L02",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "f10e6f3ca63015100c53e8b83471431b49260aff94681d9f761969167ac168bd",
+    "prompt_sha256": "afe2a7f329c1841347c7ef80d0834d88e9eae23b26250c2c012feab2c62e277b",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host at right with suitcase/controller, pop-up map and simplified four landmark zones at left. Route is illustrative rather than navigational cartography.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L02-B",
+    "episode_id": "L02",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "d0a0638cdb601e69484f292f124e484dc21da6e70e0b73521d5f2294ec4b803d",
+    "prompt_sha256": "d36b5171480b066e4b35c2b2a011474651b8dd1b7e95eef008da75a31c9afdbe",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Photographic host centered between real/game yellow taxis, NYC landmark side and GTA-style skyline side. The skyline blend is illustrative, not an exact matched-camera capture.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L02-C",
+    "episode_id": "L02",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "da89767ae1fe519e2069f8b109e681d755622d6e12a1b94a0b049b1f69ba6508",
+    "prompt_sha256": "1091951f4b7965ca7d5f2550d8eab9188b5b9a30821e00f371d1b7e309938524",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real face at airplane window left, oversized coast-to-coast map/route right, four landmark zones; strong aerial travel scale.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L02-D",
+    "episode_id": "L02",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "de9b921b6a693c8cc1a6027ff78a04e4c3a65ec9260ef31960754cf9d0d25fb7",
+    "prompt_sha256": "8fdc912a7c341ad1e0e168224654771a639c7cb4f37e274db4081033744cb00d",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host centered on speedboat with controller, older pastel waterfront left and modern skyline right. The old-era look is subtler than the brief; twin-era Miami concept stays legible.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L02-E",
+    "episode_id": "L02",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "18a6d11ec739d1a211cf6dea506f3548c21d641b6df2209d3628c1946dc02583",
+    "prompt_sha256": "a115e42b9c85b6de5f3ca9213d312f840069b782f697efe17ba580b734d900b3",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Large real host/controller left points to Golden Gate bridge right with tiny red game car; user-confirmed San Francisco connection and bright sky.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L03-A",
+    "episode_id": "L03",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "c1560d0a69a89134804fac716413481fce189a295c6bfa56c2764948badb58cc",
+    "prompt_sha256": "89ef27534a5a47a08d538fbaa8ec630d9fed9ff1fbc730d12ab7d756cb954857",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real face left and huge transparent city-filled USB in center beside Miami-style monitor right; clear mysterious build object, no headline overlay.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L03-B",
+    "episode_id": "L03",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "380fae1123ce81b3368cd7610ab586d377d1295a042ae94d8343c93235310019",
+    "prompt_sha256": "3c72d45a19df00dffc2c892836d608f25f0f5b8e328a6f2ec78a0448c2e211a0",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Large unaware player right, smaller twin prankster with remote behind monitor center, staged city screen left. Twin likeness is generated from the same family face reference.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L03-C",
+    "episode_id": "L03",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "94e0a4a72271fbea71d1c85cecc2fa880fcfcbe01f5f71c5edb3343571646efe",
+    "prompt_sha256": "1ac2191bf1ca88db8bf25ff61c66ad05846e3ea370886a0d943a2a0de67b0179",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host right peels scenic city curtain, revealing older city backdrop/projector; one continuous red car at left makes the illusion readable.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L03-D",
+    "episode_id": "L03",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "1ed6693592cad85d4f7ad69d32beb8c4d20982f574c79c6c01d24d54aa925b1f",
+    "prompt_sha256": "f1b727f26e8e7a3e7e8bf1becd2eaf9fceb7a539b689c253f6777e752b520ab7",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host left points to one red supercar half glossy metal and half cyan wireframe, with projector. Clear graphics illusion rather than authenticated leaked game footage.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L03-E",
+    "episode_id": "L03",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "cf4f74cf56bcc1752548bad09a21dfa5c184f24b78cb511084339f83ad4566e6",
+    "prompt_sha256": "60b39f5c625742bccbd0aef63adfbb835928fb908475054c4665e1f359e5de67",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host center at a tiny Miami model, twin-style prankster with camera at right, matching monitor left; forced-perspective production trick visible.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L04-A",
+    "episode_id": "L04",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "001eae073339ec673ab2c30dfad5d9cbea4d5cd8c3617498ff4816b8093e35ea",
+    "prompt_sha256": "61bf922503320764b4aacbf32b3948051cdb7e036b4ebb1c009a9125cfadaa71",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Large key foreground left, real host left-center, physical red car right with game race on window monitor. Actual pose moved from right to left; prize link remains clear.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L04-B",
+    "episode_id": "L04",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "577ad1d686d77f1324dd6d7af58fabd86eb185f9b4630d1a7de1254ae0b59f95",
+    "prompt_sha256": "ce727394af4d768e000701961521184fab1880e0209d8be95064aa65e1c14415",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Centered real host/controller between converging red and yellow prize-car rows; direct repetition/scale adaptation, luminous sky.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L04-C",
+    "episode_id": "L04",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "e821719f63214dd82d0001162cae88b4df92c5bfe0c2670913e9f93adef80618",
+    "prompt_sha256": "cc971f69820b51579d1a931899266790f6d47c84092d42887730f45435f19998",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host/controller left, oversized padlock on glass prize garage right, race track curving behind; clear locked physical prize.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L04-D",
+    "episode_id": "L04",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "641a77e5eb2ac56e5aef8d442b7648f4ad862790b216c81d307376ee74e19602",
+    "prompt_sha256": "352f09b38bd26e87af8f65e36165ed66adb3b74a3e4bcdc5b972c7ba73863822",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host centered holding controller and key between two matching red luxury sedans, one game-like and one photographic. Sedans replace the sports-car brief; ownership comparison remains coherent.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L04-E",
+    "episode_id": "L04",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "fed8a1ec490353393c2a6a2b3c2b3042b02719874094adfb9551fda888c101ed",
+    "prompt_sha256": "468d861bf8a1c4558068f726dc40a5bcd55a4f74e78ae47624109c4806dfb0e6",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Foreground game car/real host left taking last turn toward prize car and giant key behind finish right. Smaller face than portraits; route-to-prize story remains visible.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L05-A",
+    "episode_id": "L05",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "5feaabe9a57fc47d4e7703a4273ae26a3711380e1807257e00c4041635b16600",
+    "prompt_sha256": "d5ae9854ae6ef69ccdee45fce1e008a4abcf927f4725f38fd6e4d698750f62b2",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Photographic hush face left, tiny Minecraft hut over huge gold room/pool cutaway right; clean architectural reveal.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L05-B",
+    "episode_id": "L05",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "8915ea76038c9bc757552625033ddf16ef58a0f0a9216f654d6dfe36d54585b0",
+    "prompt_sha256": "626b25381782fcb2f0d50eb8bdec370759f7cc5cad7e54330767e8a493e96a42",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Photographic host right opens plain utility door to enormous luxury room, red car, pool and sofa left; clear small-entry/large-interior contrast.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L05-C",
+    "episode_id": "L05",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "6967a4181ca65e7224665f82467da215dd4eb2ff868118e5b7011b9cd256311f",
+    "prompt_sha256": "a762d9beed999b01d8e750229a77bbcc369f251a9496f73ebac0a41e8d9e5146",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real hush face left opens giant Roblox-style yellow avatar head room right. A stud-like crown and luxury interior are stylized illustrative objects.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L05-D",
+    "episode_id": "L05",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "c8d227f2c5994b1674985932320774ac0e3f631d609af669dbaf089337fe1dea",
+    "prompt_sha256": "33187f710b3f79d84d6521012fc8d69c1363e3cb99330db6ae6ce3161ff4177b",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host center presents metal garage door, Minecraft pool door and Roblox throne door in one courtyard; three readable choices, incidental Roblox emblem.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  },
+  {
+    "id": "L05-E",
+    "episode_id": "L05",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "e3080ff75d2a1ce1804c33e952566524819f26660ac908eeec27c1f027cc1e58",
+    "prompt_sha256": "0dc8fb948d484838c3e519facae7107cefab971c0aac2e23c9de53d222155f54",
+    "identity_reference": "6EtuOTq5TmM",
+    "style_reference_sent": false,
+    "authorization": "Continuation of the explicitly approved built-in generator workflow for requested additional thumbnails.",
+    "visual_review": "Real host right with raised diving mask, natural waterline reveals Minecraft glass room under island left; bright cyan/blue, clear hidden location.",
+    "status": "Generated concept artwork, not captured gameplay, confirmed GTA 6 features, verified cast photographs or a committed real-car giveaway."
+  }
+]
