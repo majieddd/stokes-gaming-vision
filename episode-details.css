@@ -1,0 +1,20 @@
+/* Uses the established YouTube-style document tokens. No new motion. */
+.brief-main{max-width:1120px}.brief-nav{justify-content:flex-start;height:auto;min-height:56px;overflow-y:hidden}.brief-nav a{color:var(--text)}
+.episode-brief{padding:var(--s8) 0;border-bottom:1px solid var(--control-line);scroll-margin-top:72px;min-width:0}
+.episode-brief>h2{max-width:32ch}.brief-summary{font-size:var(--title);max-width:var(--measure);margin-top:var(--s4)}
+.brief-overview{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:var(--s7);align-items:start;margin:var(--s6) 0}
+.brief-overview img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:var(--r2)}
+.brief-overview h3:first-of-type{margin-top:var(--s5)}.proposal-note{border-left:2px solid var(--accent);padding-left:var(--s4);font-size:var(--small)}
+.episode-brief>details,.world-list>.world{border-top:1px solid var(--line)}
+.episode-brief>details>summary{padding:var(--s4) 0}.episode-brief>details[open]{padding-bottom:var(--s5)}
+.episode-brief>details>p,.episode-brief>.intro{max-width:var(--measure)}
+.brief-facts{margin:0;max-width:80ch}.brief-facts>div{margin-bottom:var(--s4)}.brief-facts dt{font-weight:600}.brief-facts dd{margin:var(--s1) 0 0}
+.world>summary{padding:var(--s3) 0}.world>summary>span{display:inline-flex;flex-direction:column;vertical-align:middle;max-width:calc(100% - 28px)}
+.world>summary>span>span{font-size:var(--small);color:var(--muted)}.world .brief-facts{padding:var(--s3) var(--s4)}
+.story-beats{max-width:80ch;padding-left:var(--s6)}.story-beats>li{padding-left:var(--s2);margin-bottom:var(--s6)}
+.story-beats h4{margin-top:var(--s3)}.viewer-question{color:var(--muted);font-size:var(--small)}
+.source-links{max-width:80ch;padding-left:var(--s6)}.source-links>li{margin-bottom:var(--s5)}.source-links p{font-size:var(--small);margin-top:var(--s2)}
+.brief-return{display:flex;flex-wrap:wrap;gap:var(--s6);margin:var(--s6) 0 0;font-size:var(--small)}
+.brief-return>a{display:flex;align-items:center;min-height:var(--target)}.brief-footnote{max-width:var(--measure);margin-top:var(--s6)}
+@media(max-width:650px){.brief-overview{grid-template-columns:minmax(0,1fr);gap:var(--s5)}.brief-overview figure{max-width:440px}.brief-summary{font-size:var(--body)}.episode-brief{padding:var(--s7) 0}.brief-nav{padding:0 var(--s2)}.brief-nav a{font-size:var(--caption);padding:var(--s2)}.brief-facts dd{overflow-wrap:anywhere}}
+@media print{.site,.chapter-nav,.skip,.brief-return{display:none}body{background:white;color:black}.episode-brief{break-before:page}details{display:block}details>*{display:block!important}.brief-overview{grid-template-columns:1fr}figure{max-width:350px}}

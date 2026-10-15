@@ -11,3 +11,5 @@ Detailed budgets, personnel costs and internal production schedules are excluded
 Existing generated images are concepts, not episode footage. Original generator provenance is preserved. No private CTR or retention curves are supplied; public reference performance is adjacent evidence, not causal thumbnail proof.
 
 GitHub Pages serves the root of main. The authenticated review provider and callback remain unchanged.
+
+[Detailed launch briefs](https://majieddd.github.io/stokes-gaming-vision/episode-details.html) cover only the three priority videos. Each includes the first 30 seconds, cast roles, playable objectives/rules, escalation, endings, contingencies, packaging directions, capture/editing, Shorts and unresolved creative choices. Proposed worlds and mechanics are not approved builds.

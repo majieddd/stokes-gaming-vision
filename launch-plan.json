@@ -18437,9 +18437,9 @@
   },
   "delivery": {
     "visibility": "Public creative edition",
-    "public_deployment": "GitHub Pages creative revision launch-v6",
+    "public_deployment": "GitHub Pages creative revision launch-v7",
     "url": "https://majieddd.github.io/stokes-gaming-vision/",
-    "release": "launch-v6",
+    "release": "launch-v7",
     "format_count": 20,
     "episode_count": 100,
     "generated_count": 100,
@@ -18451,5 +18451,16 @@
       "higgsfield_resolution": "4k",
       "user_choice": "Keep 55 saved images and generate the remaining 45 with Flare."
     }
+  },
+  "episode_treatments": {
+    "scope": "Only the three priority launch videos",
+    "page": "episode-details.html",
+    "data": "episode-treatments.json",
+    "status": "Confirmed directions with proposed execution",
+    "ids": [
+      "MV01",
+      "L03",
+      "L01"
+    ]
   }
 }

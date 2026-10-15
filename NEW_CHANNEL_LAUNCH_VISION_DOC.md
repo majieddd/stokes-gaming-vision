@@ -1,6 +1,6 @@
 # Stokes Gaming: Creative Launch Vision
 
-Public creative edition, October 15, 2026. Detailed operational information is private.
+Public creative edition, October 15, 2026. [Detailed briefs for the three priority launch videos](episode-details.html). Detailed operational information is private.
 
 ## Ideation
 
@@ -15,6 +15,8 @@ Alex, Alan, Kat, Tanner and Shawn lead the first three. Six uploads form the bas
 ### I Beat The World’s Best Video Game
 
 Five cast members explore five different game crossovers before joining forces to defeat one final Godzilla.
+
+[Full video plan: story, cast, rules and execution](episode-details.html#MV01)
 
 Existing artwork is composition inspiration; the final five pairings and shared boss package remain to review.
 
@@ -43,6 +45,8 @@ Public source views/lift support adjacent formats and composition choices, not m
 
 Alex stages a fake GTA 6 experience for Alan, Kat, Tanner and Shawn, keeping the audience guessing until the reveal.
 
+[Full video plan: story, cast, rules and execution](episode-details.html#L03)
+
 Existing concepts retained; final title and thumbnail must match the staged experience without spoiling the reveal.
 
 [![A · The mysterious build](launch-episodes/L03-A.webp)A · The mysterious build](canvas.html?scope=episode2#card-L03-A)[![B · The prankster behind him](launch-episodes/L03-B.webp)B · The prankster behind him](canvas.html?scope=episode2#card-L03-B)[![C · The beautiful city is a set](launch-episodes/L03-C.webp)C · The beautiful city is a set](canvas.html?scope=episode2#card-L03-C)[![D · Too realistic to be true](launch-episodes/L03-D.webp)D · Too realistic to be true](canvas.html?scope=episode2#card-L03-D)[![E · The game was a prank](launch-episodes/L03-E.webp)E · The game was a prank](canvas.html?scope=episode2#card-L03-E)
@@ -68,6 +72,8 @@ Public source views/lift support adjacent formats and composition choices, not m
 ### I Survived 100 Hours in GTA
 
 The crew plays five individual GTA 6 runs in one room, and everyone can leave when the first person beats the game.
+
+[Full video plan: story, cast, rules and execution](episode-details.html#L01)
 
 Existing compositions retained as references; adapt the final package to the room/race/group-release story.
 
@@ -383,7 +389,7 @@ Reset filters
 
 100 ideas
 
-[Download full document + all images](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v6/Stokes-Gaming-Creative-151.zip)
+[Download full document + all images](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v7/Stokes-Gaming-Creative-151.zip)
 
 Each card includes a finished image, three intro beats, separate shape and ingredient sources, reference composition, and a production brief. Public lift is observational; evidence gaps are explicit.
 
@@ -17054,25 +17060,25 @@ Families use the source’s actual membership, not a regex invented to select wi
 | MrBeast Gaming | $1 vs $\_\_\_ \_\_\_ | 5 | 1.97× | 1.97× (n=3) | 2021-08-25 → 2025-09-06 | [$2 VS $16,000 Minecraft House!](https://www.youtube.com/watch?v=IPtpwh7r0Eo) 3.26× | [$1 vs $25,000 Trap](https://www.youtube.com/watch?v=YWeEE9vchDo) 0.97× |
 | MrBeast Gaming | \_\_\_ vs \_\_\_ Player \_\_\_ | 8 | 1.75× | 1.20× (n=3) | 2021-02-16 → 2026-02-14 | [100 Assassins vs 10 Real Cops!](https://www.youtube.com/watch?v=ilS38Z0vysA) 2.31× | [10 vs 1000 Player Manhunt!](https://www.youtube.com/watch?v=rdsXcS4guLQ) 0.39× |
 | MrBeast Gaming | If You Build \_\_\_, I'll Pay For It! | 4 | 1.63× | 1.09× (n=1) | 2021-01-02 → 2026-06-20 | [If You Build a House, I'll Pay For It!](https://www.youtube.com/watch?v=xN8ENrfE-TY) 5.38× | [If You Build It, I'll Buy It!](https://www.youtube.com/watch?v=wZW016nna48) 1.09× |
-| MrBeast Gaming | Among Us But \_\_\_ | 8 | 1.51× | Unavailable (n=0) | 2020-10-04 → 2020-11-29 | [Among Us With 100 Real Players!](https://www.youtube.com/watch?v=-C_hRVM0_po) 4.10× | [The Biggest Outplay Ever in 3D Among Us!](https://www.youtube.com/watch?v=WbIACyJPaH8) 0.39× |
-| MrBeast Gaming | Minecraft, But \_\_\_ | 4 | 1.49× | Unavailable (n=0) | 2020-11-19 → 2021-02-24 | [Minecraft, But It's Only One Block!](https://www.youtube.com/watch?v=jl7whFSiE0Q) 2.56× | [Minecraft, But With Only 1 Heart!](https://www.youtube.com/watch?v=YaIh2sg2W-c) 0.54× |
+| MrBeast Gaming | Among Us But \_\_\_ | 8 | 1.51× | : (n=0) | 2020-10-04 → 2020-11-29 | [Among Us With 100 Real Players!](https://www.youtube.com/watch?v=-C_hRVM0_po) 4.10× | [The Biggest Outplay Ever in 3D Among Us!](https://www.youtube.com/watch?v=WbIACyJPaH8) 0.39× |
+| MrBeast Gaming | Minecraft, But \_\_\_ | 4 | 1.49× | : (n=0) | 2020-11-19 → 2021-02-24 | [Minecraft, But It's Only One Block!](https://www.youtube.com/watch?v=jl7whFSiE0Q) 2.56× | [Minecraft, But With Only 1 Heart!](https://www.youtube.com/watch?v=YaIh2sg2W-c) 0.54× |
 | MrBeast Gaming | 1000 Players \_\_\_ | 4 | 0.86× | 1.18× (n=1) | 2021-03-28 → 2025-12-27 | [1000 Players Simulate Civilization: Boys vs Girls](https://www.youtube.com/watch?v=zPbrkmdcTfo) 1.18× | [1000 Players Simulate Civilization!](https://www.youtube.com/watch?v=mkKteoXE-X0) 0.36× |
 | MrBeast Gaming | World's \_\_\_ \_\_\_! | 9 | 0.83× | 0.74× (n=2) | 2021-04-07 → 2026-08-29 | [World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM) 3.68× | [World's Hardest Challenge!](https://www.youtube.com/watch?v=WkZHyBc3Xnc) 0.49× |
 | MrBeast Gaming | $\_\_\_ Every \_\_\_ You \_\_\_ | 5 | 0.76× | 1.45× (n=3) | 2021-04-22 → 2025-08-23 | [$10,000 Every Explosion You Survive](https://www.youtube.com/watch?v=zp_S2Uwjb-M) 2.35× | [$1000 For Every Kill!](https://www.youtube.com/watch?v=dmNUwPxAuow) 0.22× |
 | MrBeast Gaming | \_\_\_ Wins $\_\_\_ | 14 | 0.54× | 0.64× (n=8) | 2020-11-09 → 2026-03-28 | [Survive 1000 Days, Win $100,000](https://www.youtube.com/watch?v=npNmyb-qqGw) 3.44× | [First To Raid Island Wins $100,000!](https://www.youtube.com/watch?v=t2AB05DypWk) 0.17× |
-| Stokes Twins | \_\_\_ \_\_\_ In 24 Hours | 19 | 1.33× | Unavailable (n=0) | 2020-08-04 → 2023-04-01 | [EATING 100,000 CALORIES IN 24 HOURS CHALLENGE](https://www.youtube.com/watch?v=xUDLtB2Kcfg) 2.39× | [100 DARES IN 24 HOURS!](https://www.youtube.com/watch?v=oN0iK-cClQI) 0.88× |
+| Stokes Twins | \_\_\_ \_\_\_ In 24 Hours | 19 | 1.33× | : (n=0) | 2020-08-04 → 2023-04-01 | [EATING 100,000 CALORIES IN 24 HOURS CHALLENGE](https://www.youtube.com/watch?v=xUDLtB2Kcfg) 2.39× | [100 DARES IN 24 HOURS!](https://www.youtube.com/watch?v=oN0iK-cClQI) 0.88× |
 | Stokes Twins | \_\_\_ Was Murdered.. | 6 | 1.14× | 0.94× (n=4) | 2023-06-26 → 2026-01-28 | [MrBeast Was Murdered..](https://www.youtube.com/watch?v=Vhlwk1HcFdI) 1.77× | [3 YouTubers Were Murdered..](https://www.youtube.com/watch?v=9Ib1rni1SCc) 0.53× |
-| Stokes Twins | \_\_\_ For 24 Hours | 11 | 1.07× | Unavailable (n=0) | 2020-11-22 → 2022-12-28 | [SPEAKING ONLY CHINESE TO MY FRIENDS FOR 24 HOURS!!](https://www.youtube.com/watch?v=sBkphcVw3jo) 4.30× | [Saying YES to a Subscriber for 24 Hours!](https://www.youtube.com/watch?v=6_sMyALZ-mM) 0.66× |
+| Stokes Twins | \_\_\_ For 24 Hours | 11 | 1.07× | : (n=0) | 2020-11-22 → 2022-12-28 | [SPEAKING ONLY CHINESE TO MY FRIENDS FOR 24 HOURS!!](https://www.youtube.com/watch?v=sBkphcVw3jo) 4.30× | [Saying YES to a Subscriber for 24 Hours!](https://www.youtube.com/watch?v=6_sMyALZ-mM) 0.66× |
 | Stokes Twins | I Spent 24 Hours With The World's \_\_\_ \_\_\_ | 4 | 1.06× | 0.91× (n=1) | 2023-07-24 → 2025-09-06 | [I Spent 24 Hours With The World’s SHORTEST Woman!](https://www.youtube.com/watch?v=TzebVGUMrGU) 1.29× | [Eating The World's HEAVIEST Man’s Daily Diet!](https://www.youtube.com/watch?v=wTnp74TnRjQ) 0.82× |
 | Stokes Twins | $1 vs $\_\_\_ \_\_\_ | 4 | 1.05× | 1.26× (n=1) | 2022-04-09 → 2024-12-09 | [$1 vs $1,000,000 Vacation!](https://www.youtube.com/watch?v=K7FjCmlWvuY) 1.33× | [$1 vs $1,000,000,000 Nuclear Bunker!](https://www.youtube.com/watch?v=I_4hE_hsyu4) 0.42× |
 | Stokes Twins | I Tested \_\_\_ Banned \_\_\_ | 7 | 1.02× | 1.02× (n=3) | 2023-04-15 → 2026-05-02 | [I Tested 100 BANNED School Products!](https://www.youtube.com/watch?v=AKa1N3Mo8mQ) 1.40× | [I Tested BANNED Obstacle Courses!](https://www.youtube.com/watch?v=9BVTCRIyb9U) 0.41× |
-| Stokes Twins | I Bought \_\_\_ \_\_\_ Products | 5 | 1.01× | Unavailable (n=0) | 2023-08-19 → 2024-03-09 | [I Bought 250 DISCONTINUED Products From Our Childhood!](https://www.youtube.com/watch?v=Wny9C18HuHs) 1.19× | [I Tested 100 Al Products That Shouldn't Exist!](https://www.youtube.com/watch?v=f5o7_wPmuiE) 0.68× |
+| Stokes Twins | I Bought \_\_\_ \_\_\_ Products | 5 | 1.01× | : (n=0) | 2023-08-19 → 2024-03-09 | [I Bought 250 DISCONTINUED Products From Our Childhood!](https://www.youtube.com/watch?v=Wny9C18HuHs) 1.19× | [I Tested 100 Al Products That Shouldn't Exist!](https://www.youtube.com/watch?v=f5o7_wPmuiE) 0.68× |
 | Stokes Twins | I Built \_\_\_ Secret Rooms \_\_\_ | 10 | 1.00× | 1.00× (n=4) | 2024-02-07 → 2026-03-24 | [I Built 5 SECRET Rooms In ONE COLOR!](https://www.youtube.com/watch?v=cfFtBojH_-Y) 1.74× | [I Built 10 SECRET Rooms You'll Never Believe Exist!](https://www.youtube.com/watch?v=raxAy3asJ90) 0.37× |
 | Stokes Twins | I Built A Secret \_\_\_ In My \_\_\_ | 7 | 0.97× | 0.72× (n=2) | 2022-09-14 → 2024-11-10 | [I Built a WATERPARK In My House!](https://www.youtube.com/watch?v=An52a50mVXs) 1.21× | [I Built A Trampoline Park In My House!](https://www.youtube.com/watch?v=tB6nwft9KFk) 0.41× |
 | Stokes Twins | Busting \_\_\_ Myths \_\_\_ | 6 | 0.94× | 1.02× (n=1) | 2022-01-31 → 2026-07-18 | [I Busted 200 Myths In 50 Hours!](https://www.youtube.com/watch?v=bABseBbIiFk) 1.98× | [Busting 100 Movie Myths In Real Life!](https://www.youtube.com/watch?v=dG3bhkAHMfA) 0.73× |
 | Stokes Twins | Last To Leave \_\_\_ Wins $\_\_\_ | 10 | 0.88× | 0.75× (n=1) | 2021-09-21 → 2026-08-15 | [LAST TO FALL ASLEEP WINS $10,000](https://www.youtube.com/watch?v=4PaqJhHM9-s) 2.25× | [LAST TO LEAVE ABANDONED BUILDING WINS $20,000!!](https://www.youtube.com/watch?v=Q6r6oRg7s3A) 0.32× |
 | Stokes Twins | I Exposed \_\_\_ \_\_\_ | 6 | 0.81× | 0.90× (n=5) | 2020-09-13 → 2026-06-06 | [I Exposed 100 Evil Kids!](https://www.youtube.com/watch?v=mPcvc6Rak6A) 1.22× | [Exposing My FAKE Friends!](https://www.youtube.com/watch?v=cWtb2EhYGUE) 0.45× |
-| Stokes Twins | Pranking My Friends With \_\_\_ | 7 | 0.66× | Unavailable (n=0) | 2020-10-04 → 2021-07-16 | [PRANKING MY FRIENDS WITH MY NEW HAIR!!](https://www.youtube.com/watch?v=SVshRi2tCtk) 1.32× | [PRANKING MY FRIENDS WITH A CELEBRITY!!](https://www.youtube.com/watch?v=wmieCj2AREQ) 0.15× |
+| Stokes Twins | Pranking My Friends With \_\_\_ | 7 | 0.66× | : (n=0) | 2020-10-04 → 2021-07-16 | [PRANKING MY FRIENDS WITH MY NEW HAIR!!](https://www.youtube.com/watch?v=SVshRi2tCtk) 1.32× | [PRANKING MY FRIENDS WITH A CELEBRITY!!](https://www.youtube.com/watch?v=wmieCj2AREQ) 0.15× |
 
 ### Influint Intelligence applications
 
@@ -17107,4 +17113,4 @@ The two attached thumbnail PDFs informed expectation match, complementary text/v
 
 ### Portable source files
 
-[Full editable plan](launch-plan.json)[Sources and metrics](sources.json)[Title-family analysis](title-performance-analysis.json)[Image hashes and provenance](thumbnail-manifest.json)[Full Markdown document](NEW_CHANNEL_LAUNCH_VISION_DOC.md)[Reusable blueprint](blueprint-plugin/skills/new-channel-launch-vision/references/blueprint.md)[Instructional skill](blueprint-plugin/skills/new-channel-launch-vision/SKILL.md)[151 original PNGs + prompts](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v6/Stokes-Gaming-Creative-151.zip)
+[Full editable plan](launch-plan.json)[Sources and metrics](sources.json)[Title-family analysis](title-performance-analysis.json)[Image hashes and provenance](thumbnail-manifest.json)[Full Markdown document](NEW_CHANNEL_LAUNCH_VISION_DOC.md)[Reusable blueprint](blueprint-plugin/skills/new-channel-launch-vision/references/blueprint.md)[Instructional skill](blueprint-plugin/skills/new-channel-launch-vision/SKILL.md)[151 original PNGs + prompts](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v7/Stokes-Gaming-Creative-151.zip)
