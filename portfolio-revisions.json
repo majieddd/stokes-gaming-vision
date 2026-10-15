@@ -23,18 +23,15 @@
       "IPtpwh7r0Eo",
       "nopEs-K4ExM"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Alan/Alex host or drive alongside rotating crew; every driver runs the same understandable tests.",
     "editorial_note": "Retained. Keep the direct price/object contrast; use visible speed, durability and stunt results rather than a game-economy lecture.",
     "title_variants": [
       "$1 vs $1,000,000 Cars in GTA",
       "$1 vs $1,000,000 Houses in GTA"
     ],
     "comparison_guardrail": "Prices are game values or clearly defined production allowances; no implied million-dollar real spend.",
-    "previous_sample_title": "$1 vs $1,000,000 Cars in GTA",
-    "direction_status": "retained core"
+    "development_priority": "Idea bank"
   },
   {
     "id": "02",
@@ -61,17 +58,14 @@
       "dLDj2TTyMGM",
       "ilS38Z0vysA"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Two featured fugitives; crew members lead hunter teams, set traps and supply rival personalities. A hundred hunters requires a verified player/NPC plan.",
     "editorial_note": "Retained. Increase the visible opposition if the capture/server test supports it; the larger number is a proposed execution, not a prediction.",
     "title_variants": [
       "2 vs 100 Hunters in GTA",
       "We Escaped 100 Hunters in GTA"
     ],
-    "previous_sample_title": "2 Twins vs 20 Hunters in GTA",
-    "direction_status": "retained core"
+    "development_priority": "Develop next"
   },
   {
     "id": "03",
@@ -99,17 +93,14 @@
       "X9AYf8gy5sU",
       "d0q9y0GkrEg"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "One creator/host presents the builds; multiple crew members search, compete or react. Both twins need not be the only relationship.",
     "editorial_note": "Retained. Five strong reveals beat an unsupported promise that merely multiplies the room count.",
     "title_variants": [
       "I Built 5 Secret Rooms You'd Never Find in GTA",
       "I Built 5 Secret Rooms to Hide From My Friends in GTA"
     ],
-    "previous_sample_title": "I Built 5 Secret Rooms My Twin Would Never Find in GTA",
-    "direction_status": "retained core"
+    "development_priority": "Develop next"
   },
   {
     "id": "04",
@@ -138,17 +129,13 @@
       "cfFtBojH_-Y",
       "X9AYf8gy5sU"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Two or more build teams, crew room testers and an Alan/Alex host/judge; specialist developers can execute the selected designs.",
     "editorial_note": "New direction requested by the user. Replaces the standalone last-to-leave slot. Last-to-leave can still be an in-video rule inside a larger premise.",
     "title_variants": [
       "$1 vs $25,000 Secret Rooms in GTA"
     ],
-    "overlap_note": "Shares price contrast with 01, concealment with 03 and builds with 17. Its engine is an unequal-budget design contest; 01 compares supplied products, 03 tests concealment, and 17 fulfills open-ended builds.",
-    "previous_sample_title": "Last to Leave the Shrinking Island in GTA Wins",
-    "direction_status": "new direction requested"
+    "development_priority": "Idea bank"
   },
   {
     "id": "05",
@@ -176,17 +163,14 @@
       "-LUNQPxD0vY",
       "jk6thMe6Vq8"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "A mixed survival group with a visible shared objective; rotate who makes decisions, fails and rescues someone.",
     "editorial_note": "Reworked. No Los Santos in the title. Each episode uses a concrete recognizable disaster rather than generic survival exposition.",
     "title_variants": [
       "We Survived a Giant Tsunami in GTA",
       "We Survived GTA's Deadliest Natural Disasters"
     ],
-    "previous_sample_title": "We Survived a Flood That Covered Los Santos",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Develop next"
   },
   {
     "id": "06",
@@ -212,17 +196,14 @@
       "bABseBbIiFk",
       "77164j9LI0I"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Crew members propose, attempt and judge myths; Alan/Alex can host or compete with them.",
     "editorial_note": "Retained. Start with a spectacular claim everyone can understand; preserve the actual test count.",
     "title_variants": [
       "We Busted 100 GTA Myths",
       "We Tested GTA Myths That Should Be Impossible"
     ],
-    "previous_sample_title": "We Busted 100 GTA Myths",
-    "direction_status": "retained core"
+    "development_priority": "Rework for broad clarity"
   },
   {
     "id": "07",
@@ -250,17 +231,14 @@
       "D1eZybtieJM",
       "4pAAskz5iw0"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Crew spins, lives with the consequence and occasionally controls another player’s choice; rotate the host and affected participant.",
     "editorial_note": "Reworked. Package lost agency and comedy, rather than a new game mechanic every five minutes.",
     "title_variants": [
       "We Let a Wheel Control Our Lives in GTA",
       "My Friends Controlled My Life in GTA"
     ],
-    "previous_sample_title": "GTA, But Every 5 Minutes a New Rule Takes Over",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Idea bank"
   },
   {
     "id": "08",
@@ -289,17 +267,14 @@
       "0OFwRdDeX4Y",
       "nopEs-K4ExM"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Several crew members receive different dreams; either twin or another regular can host, and participants perform their own story.",
     "editorial_note": "Replaced the economy-grind presentation. This is wish fulfillment and cast performance; direct winning evidence for this exact engine is still missing.",
     "title_variants": [
       "I Gave My Friends Their Dream Lives in GTA",
       "We Lived Like Billionaires in GTA"
     ],
-    "previous_sample_title": "We Started With $0 and Tried to Buy the Best Car in GTA",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Idea bank"
   },
   {
     "id": "09",
@@ -327,17 +302,14 @@
       "ABTdTTnnEU8",
       "AwQz703eOt0"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Crew teams propose and build different barriers; Alan/Alex or another host runs the test while participants react to the result.",
     "editorial_note": "Retained and made bigger. 10,000 is a concept-scale target requiring a load/physics test; use the achieved true count in final packaging. Bigger means a more spectacular problem and earned final experiment.",
     "title_variants": [
       "Can 10,000 Cars Stop a Train in GTA?",
       "I Created GTA's Biggest Car Crash"
     ],
-    "previous_sample_title": "How Many Cars Does It Take to Stop a Train in GTA?",
-    "direction_status": "retained core"
+    "development_priority": "Develop next"
   },
   {
     "id": "10",
@@ -365,17 +337,13 @@
       "OMAZB31W9nE",
       "SsJ7oOpbmIk"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "One traveling/playing host with crew participants at different stops; another cast member can lead the comparison or challenge.",
     "editorial_note": "New user direction replacing shared controls. Exact cross-city performance precedent is not established; do not describe this as a proven outlier.",
     "title_variants": [
       "I Played GTA in Every GTA City!"
     ],
-    "evidence_gap": "Journey/world-building references are adjacent. A matching successful GTA-in-every-city video was not verified in the current source set.",
-    "previous_sample_title": "We Tried to Drive Across GTA With One Control Each",
-    "direction_status": "new direction requested"
+    "development_priority": "Idea bank"
   },
   {
     "id": "11",
@@ -403,17 +371,14 @@
       "TqmKbXNslgs",
       "-C_hRVM0_po"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "An ensemble of investigators, suspects and a victim; Alan/Alex may take any of those roles.",
     "editorial_note": "Reworked. The missing supercar/twin framing is removed. The family is mixed, so the actual cast mystery and clue quality must earn the title.",
     "title_variants": [
       "Who Murdered Our Friend in GTA?",
       "One of My Friends Is a Secret Killer in GTA"
     ],
-    "previous_sample_title": "Someone Stole My Twin's Supercar in GTA",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Idea bank"
   },
   {
     "id": "12",
@@ -442,16 +407,13 @@
       "-LUNQPxD0vY",
       "uKIvg7ddTu4"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "One concealed prank operator, several unaware crew participants and recorded reactions from everyone.",
     "editorial_note": "Retained with the user’s exact title and whole-crew prank direction.",
     "title_variants": [
       "I Secretly Made GTA Harder Every Minute"
     ],
-    "previous_sample_title": "I Secretly Made GTA Harder Every Time My Twin Won",
-    "direction_status": "retained core"
+    "development_priority": "Launch priority"
   },
   {
     "id": "13",
@@ -479,16 +441,13 @@
       "_Fu97rtvJPw",
       "MNqF0h6LJDI"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Multiple crew drivers and customers, with Alan/Alex participating or directing the day.",
     "editorial_note": "User-directed rewrite retained for review; the latest explicit retained-core list did not separately confirm 13.",
     "title_variants": [
       "We Became The Worst Taxi Drivers in GTA"
     ],
-    "previous_sample_title": "My Twin Became the Worst Taxi Driver in GTA",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Idea bank"
   },
   {
     "id": "14",
@@ -515,17 +474,14 @@
       "mXqlDp61MMA",
       "WU05jZnUiYs"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Crew members attempt, coach and redesign obstacles; rotate competitors and provide each an understandable objective.",
     "editorial_note": "Retained. Keep one clearly visible impossible obstacle and progress toward a genuine completion.",
     "title_variants": [
       "We Built GTA's Most Impossible Obstacle Course",
       "Can Anyone Beat This Impossible Race in GTA?"
     ],
-    "previous_sample_title": "We Built GTA's Most Impossible Obstacle Course",
-    "direction_status": "retained core"
+    "development_priority": "Develop next"
   },
   {
     "id": "15",
@@ -554,10 +510,8 @@
       "lJrHLnhJl-M",
       "zp_S2Uwjb-M"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Several crew contestants with different risk tolerances; a host presents each choice and clearly tracks what is at stake.",
     "editorial_note": "Retained with the user’s requested variations. Prize value and real-versus-virtual framing remain production decisions; no million-dollar cash commitment is assumed.",
     "title_variants": [
       "Keep Or Risk $1,000,000",
@@ -565,8 +519,7 @@
       "Keep Your Lamborghini or Risk It for $1,000,000 in GTA"
     ],
     "comparison_guardrail": "Real cash/vehicle is conditional on funding; in-game rewards must be presented as in-game, including final title/thumbnail.",
-    "previous_sample_title": "Keep Your Supercar or Risk It for a Tank in GTA?",
-    "direction_status": "retained core"
+    "development_priority": "Idea bank"
   },
   {
     "id": "16",
@@ -595,18 +548,14 @@
       "4ydq5MXO42c",
       "vrUOPr9v8g4"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Several crew inmates; other crew play guards or the designer, with flexible twin roles.",
     "editorial_note": "New proposal replacing camouflage hide-and-seek; needs user review.",
     "title_variants": [
       "We Escaped GTA's Most Secure Prison",
       "I Built a Prison My Friends Could Never Escape"
     ],
-    "overlap_note": "16 is a cooperative security/escape puzzle; 14 is an athletic driving/obstacle gauntlet. Keep their objectives and payoffs distinct.",
-    "previous_sample_title": "We Hid as Cars Across Los Santos",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Develop next"
   },
   {
     "id": "17",
@@ -635,17 +584,14 @@
       "2C6omXxIcyE",
       "An52a50mVXs"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Several cast members or invited builders propose and create, while one host funds and tests the build; twins can rotate hosting.",
     "editorial_note": "Retained with the user’s exact title. Specify actual purchasing rules before packaging the episode.",
     "title_variants": [
       "I'll Buy Anything You Build",
       "I'll Buy Anything You Build in GTA"
     ],
-    "previous_sample_title": "Build Us the Best GTA Garage and We'll Pay for It",
-    "direction_status": "retained core"
+    "development_priority": "Idea bank"
   },
   {
     "id": "18",
@@ -674,27 +620,14 @@
       "6EtuOTq5TmM",
       "Dy06SXknr_g"
     ],
-    "review_status": "retained-by-user",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Two mixed cast teams with separate game/IRL capture, a common presenter and a fair shared scoreboard.",
     "editorial_note": "Retained. Add the requested Minecraft/IRL Earth race and winner’s free dinner for a year, with a defined meal allowance. It is one race-format variation, not an unrelated new format.",
     "title_variants": [
       "GTA vs Real Life: Race Across the City",
       "Minecraft vs Real Life: Race Across the Earth"
     ],
-    "later_variation": {
-      "title": "Minecraft vs Real Life: Race Across the Earth",
-      "game": "Minecraft with a verified Earth geography map",
-      "reward": "Free dinner for a year",
-      "rule": "Use corresponding places and a stated scale/time rule; do not imply one-to-one terrain or equal travel speed if using a compressed map.",
-      "execution": "Start with a coherent bounded route. An actual global journey would need global coverage, travel time and funding; title the geographic scope truthfully.",
-      "capability_source": "https://buildtheearth.net/",
-      "capability_note": "BuildTheEarth’s own site describes a 1:1 global build in progress and regional visitor servers. Verify that the chosen contiguous route is completed and available before recording.",
-      "evidence_status": "Real map/world-building source confirmed; exact IRL-versus-game race performance is not established."
-    },
-    "previous_sample_title": "We Raced Across GTA and Real Life at the Same Time",
-    "direction_status": "retained core"
+    "development_priority": "Research next"
   },
   {
     "id": "19",
@@ -722,18 +655,14 @@
       "tjobI43dbTU",
       "nopEs-K4ExM"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Multiple crew drivers and a host, with specialists taking genuinely harder attempts.",
     "editorial_note": "New proposal replacing the rescue mission; exact vehicle-catalogue evidence remains adjacent and this needs review.",
     "title_variants": [
       "I Tested GTA's Most Dangerous Vehicles",
       "We Tested GTA's Craziest Cars"
     ],
-    "overlap_note": "19 is experiential discovery across different odd products; 01 is a fair matched price test, and 06 checks whether a specific claim is true.",
-    "previous_sample_title": "We Had 30 Minutes to Rescue Our Entire Crew in GTA",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Rework for visible novelty"
   },
   {
     "id": "20",
@@ -762,17 +691,13 @@
       "r2yNGBz-mVc",
       "nYwjuv4mukg"
     ],
-    "review_status": "revised-for-review",
     "evidence_status": "Source-grounded proposal; full per-episode shape/ingredient coverage pending",
     "test_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "cast_roles": "Builders/designers, crew attraction testers and an Alan/Alex host; guest cast can appear at the opening.",
     "editorial_note": "New proposal replacing the release relay; transformation precedents include weaker sequels, so novelty and a real functioning payoff matter.",
     "title_variants": [
       "I Turned GTA Into a Giant Waterpark",
       "I Built a Giant Waterpark in GTA"
     ],
-    "overlap_note": "20 follows transformation and opening-day use; 17 is a build-and-purchase promise, 03 conceals rooms, and 14 tests a competitive course.",
-    "previous_sample_title": "One Day to Complete 10 GTA 6 Challenges",
-    "direction_status": "reworked/new proposal"
+    "development_priority": "Idea bank"
   }
 ]

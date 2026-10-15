@@ -21,7 +21,6 @@
     "non_gamer_reward": "Everyone can judge cheap versus extravagant and whether money changes the result.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Alan/Alex host or drive alongside rotating crew; every driver runs the same understandable tests.",
     "intro": [
       {
         "start": 0,
@@ -41,7 +40,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Use the same driver rotation, route and reset conditions; prices are stated game values. ",
     "dependencies": [
       "A scoped vehicle/prop selection and scoring system; do not imply fictional prices are cash spend."
@@ -100,7 +98,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "002",
@@ -124,7 +123,6 @@
     "non_gamer_reward": "Everyone can judge cheap versus extravagant and whether money changes the result.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Alan/Alex host or drive alongside rotating crew; every driver runs the same understandable tests.",
     "intro": [
       {
         "start": 0,
@@ -144,7 +142,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Same number of guests and same simulated break-in challenge; home values are in-game. ",
     "dependencies": [
       "A scoped vehicle/prop selection and scoring system; do not imply fictional prices are cash spend."
@@ -203,7 +200,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "003",
@@ -227,7 +225,6 @@
     "non_gamer_reward": "Everyone can judge cheap versus extravagant and whether money changes the result.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Alan/Alex host or drive alongside rotating crew; every driver runs the same understandable tests.",
     "intro": [
       {
         "start": 0,
@@ -247,7 +244,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Identical route, weather seed and passenger pickup; only the boats change. ",
     "dependencies": [
       "A scoped vehicle/prop selection and scoring system; do not imply fictional prices are cash spend."
@@ -306,7 +302,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "004",
@@ -330,7 +327,6 @@
     "non_gamer_reward": "Everyone can judge cheap versus extravagant and whether money changes the result.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Alan/Alex host or drive alongside rotating crew; every driver runs the same understandable tests.",
     "intro": [
       {
         "start": 0,
@@ -350,7 +346,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Equal preparation time, identical treasure and the same attacker; defense values are fictional game values. ",
     "dependencies": [
       "A scoped vehicle/prop selection and scoring system; do not imply fictional prices are cash spend."
@@ -409,7 +404,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "005",
@@ -433,7 +429,6 @@
     "non_gamer_reward": "Everyone can judge cheap versus extravagant and whether money changes the result.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Alan/Alex host or drive alongside rotating crew; every driver runs the same understandable tests.",
     "intro": [
       {
         "start": 0,
@@ -453,7 +448,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Use a disclosed points allowance rather than pretend real spending; identical trials and guest count. ",
     "dependencies": [
       "A scoped vehicle/prop selection and scoring system; do not imply fictional prices are cash spend.",
@@ -513,7 +507,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "006",
@@ -537,7 +532,6 @@
     "non_gamer_reward": "The size mismatch, pursuit and finish line are understandable without knowing GTA.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two featured fugitives; crew members lead hunter teams, set traps and supply rival personalities. A hundred hunters requires a verified player/NPC plan.",
     "intro": [
       {
         "start": 0,
@@ -557,7 +551,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "State the tested hunter count and player/NPC split; one marked exit, limited lives and no unannounced teleports. ",
     "dependencies": [
       "Reliable pursuit setup, participant recording and a capacity test. Use the truthful actual hunter count; do not label NPCs as 100 real people."
@@ -619,7 +612,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "007",
@@ -643,7 +637,6 @@
     "non_gamer_reward": "The size mismatch, pursuit and finish line are understandable without knowing GTA.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two featured fugitives; crew members lead hunter teams, set traps and supply rival personalities. A hundred hunters requires a verified player/NPC plan.",
     "intro": [
       {
         "start": 0,
@@ -663,7 +656,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "No entering vehicles; disclosed hunter count, a limited map and clear tag/capture rules. ",
     "dependencies": [
       "Reliable pursuit setup, participant recording and a capacity test. Use the truthful actual hunter count; do not label NPCs as 100 real people."
@@ -725,7 +717,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "008",
@@ -749,7 +742,6 @@
     "non_gamer_reward": "The size mismatch, pursuit and finish line are understandable without knowing GTA.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two featured fugitives; crew members lead hunter teams, set traps and supply rival personalities. A hundred hunters requires a verified player/NPC plan.",
     "intro": [
       {
         "start": 0,
@@ -769,7 +761,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "One preselected tiny car, a tested pursuit force, one repair token and no off-camera replacement. ",
     "dependencies": [
       "Reliable pursuit setup, participant recording and a capacity test. Use the truthful actual hunter count; do not label NPCs as 100 real people."
@@ -830,7 +821,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "009",
@@ -854,7 +846,6 @@
     "non_gamer_reward": "The size mismatch, pursuit and finish line are understandable without knowing GTA.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two featured fugitives; crew members lead hunter teams, set traps and supply rival personalities. A hundred hunters requires a verified player/NPC plan.",
     "intro": [
       {
         "start": 0,
@@ -874,7 +865,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "One real tracked treasure object, disclosed hunters and three possible carriers; the audience always knows its true location. ",
     "dependencies": [
       "Reliable pursuit setup, participant recording and a capacity test. Use the truthful actual hunter count; do not label NPCs as 100 real people."
@@ -936,7 +926,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "010",
@@ -960,7 +951,6 @@
     "non_gamer_reward": "The size mismatch, pursuit and finish line are understandable without knowing GTA.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Two featured fugitives; crew members lead hunter teams, set traps and supply rival personalities. A hundred hunters requires a verified player/NPC plan.",
     "intro": [
       {
         "start": 0,
@@ -980,7 +970,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Disclosed human/NPC count, a bounded world and a fixed extraction tower; no admin teleport for fugitives. ",
     "dependencies": [
       "Reliable pursuit setup, participant recording and a capacity test. Use the truthful actual hunter count; do not label NPCs as 100 real people.",
@@ -1043,7 +1032,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "011",
@@ -1067,7 +1057,6 @@
     "non_gamer_reward": "The audience knows the secret and anticipates the crew missing it or finding it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One creator/host presents the builds; multiple crew members search, compete or react. Both twins need not be the only relationship.",
     "intro": [
       {
         "start": 0,
@@ -1087,7 +1076,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "The seekers receive a bounded search area; rooms must be accessible in the filmed build and clues are scheduled in advance. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Custom environments/entrances and capture; costs are lower on sequels reusing the build system."
@@ -1146,7 +1134,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "012",
@@ -1170,7 +1159,6 @@
     "non_gamer_reward": "The audience knows the secret and anticipates the crew missing it or finding it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One creator/host presents the builds; multiple crew members search, compete or react. Both twins need not be the only relationship.",
     "intro": [
       {
         "start": 0,
@@ -1190,7 +1178,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Use an agreed in-game house and genuine undisclosed entrance; the resident knows they are filming a challenge, not the precise prank. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Custom environments/entrances and capture; costs are lower on sequels reusing the build system."
@@ -1249,7 +1236,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "013",
@@ -1273,7 +1261,6 @@
     "non_gamer_reward": "The audience knows the secret and anticipates the crew missing it or finding it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One creator/host presents the builds; multiple crew members search, compete or react. Both twins need not be the only relationship.",
     "intro": [
       {
         "start": 0,
@@ -1293,7 +1280,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Each vehicle has one documented custom interior; show exterior-to-interior continuity rather than imply stock-game geometry. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Custom environments/entrances and capture; costs are lower on sequels reusing the build system."
@@ -1352,7 +1338,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "014",
@@ -1376,7 +1363,6 @@
     "non_gamer_reward": "The audience knows the secret and anticipates the crew missing it or finding it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One creator/host presents the builds; multiple crew members search, compete or react. Both twins need not be the only relationship.",
     "intro": [
       {
         "start": 0,
@@ -1396,7 +1382,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Each builder draws one color; entrances and interiors follow it, with identical build time and search boundaries. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Custom environments/entrances and capture; costs are lower on sequels reusing the build system."
@@ -1455,7 +1440,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "015",
@@ -1479,7 +1465,6 @@
     "non_gamer_reward": "The audience knows the secret and anticipates the crew missing it or finding it.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "One creator/host presents the builds; multiple crew members search, compete or react. Both twins need not be the only relationship.",
     "intro": [
       {
         "start": 0,
@@ -1499,7 +1484,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Use a bounded custom map with five working entrances and a fixed clue budget. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Custom environments/entrances and capture; costs are lower on sequels reusing the build system.",
@@ -1559,7 +1543,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "016",
@@ -1583,7 +1568,6 @@
     "non_gamer_reward": "The audience compares an obviously tiny allowance with a spectacular build and judges whether the upgrade is worth it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two or more build teams, crew room testers and an Alan/Alex host/judge; specialist developers can execute the selected designs.",
     "intro": [
       {
         "start": 0,
@@ -1603,7 +1587,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Amounts are disclosed in-game build values in this launch version, not real contractor spend; same footprint and recording window. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Real build allowances and contractor scope must be specified. $25,000 is a requested title direction, not approved launch spending; distinguish a real budget from a game-value variant."
@@ -1662,7 +1645,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "017",
@@ -1686,7 +1670,6 @@
     "non_gamer_reward": "The audience compares an obviously tiny allowance with a spectacular build and judges whether the upgrade is worth it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two or more build teams, crew room testers and an Alan/Alex host/judge; specialist developers can execute the selected designs.",
     "intro": [
       {
         "start": 0,
@@ -1706,7 +1689,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Game-value allowances, same base vehicle and equal judging; custom doorway/interior geometry is explained visually. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Real build allowances and contractor scope must be specified. $25,000 is a requested title direction, not approved launch spending; distinguish a real budget from a game-value variant."
@@ -1765,7 +1747,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "018",
@@ -1789,7 +1772,6 @@
     "non_gamer_reward": "The audience compares an obviously tiny allowance with a spectacular build and judges whether the upgrade is worth it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two or more build teams, crew room testers and an Alan/Alex host/judge; specialist developers can execute the selected designs.",
     "intro": [
       {
         "start": 0,
@@ -1809,7 +1791,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Disclosed virtual allowances and identical water depth; game oxygen rules are shown simply and no real underwater stunt is required. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Real build allowances and contractor scope must be specified. $25,000 is a requested title direction, not approved launch spending; distinguish a real budget from a game-value variant."
@@ -1868,7 +1849,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "019",
@@ -1892,7 +1874,6 @@
     "non_gamer_reward": "The audience compares an obviously tiny allowance with a spectacular build and judges whether the upgrade is worth it.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Two or more build teams, crew room testers and an Alan/Alex host/judge; specialist developers can execute the selected designs.",
     "intro": [
       {
         "start": 0,
@@ -1912,7 +1893,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Reveal the guest's three priorities before building; virtual values, fixed scope and no changing the brief after judging. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Real build allowances and contractor scope must be specified. $25,000 is a requested title direction, not approved launch spending; distinguish a real budget from a game-value variant."
@@ -1971,7 +1951,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "020",
@@ -1995,7 +1976,6 @@
     "non_gamer_reward": "The audience compares an obviously tiny allowance with a spectacular build and judges whether the upgrade is worth it.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Two or more build teams, crew room testers and an Alan/Alex host/judge; specialist developers can execute the selected designs.",
     "intro": [
       {
         "start": 0,
@@ -2015,7 +1995,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Amounts are symbolic game-value allowances; equal plot, entrance limit and search time. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Real build allowances and contractor scope must be specified. $25,000 is a requested title direction, not approved launch spending; distinguish a real budget from a game-value variant.",
@@ -2075,7 +2054,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "021",
@@ -2099,7 +2079,6 @@
     "non_gamer_reward": "A rising threat, shrinking safety and an earned escape need no game knowledge.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "A mixed survival group with a visible shared objective; rotate who makes decisions, fails and rescues someone.",
     "intro": [
       {
         "start": 0,
@@ -2119,7 +2098,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Three tested hazards, fixed safe zone and one shared supply case; a visible map explains the route. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Scoped GTA 5 hazards and a tested escape route, effects/capture and a fallback. GTA 6 adaptations depend on actual supported tools."
@@ -2178,7 +2156,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "022",
@@ -2202,7 +2181,6 @@
     "non_gamer_reward": "A rising threat, shrinking safety and an earned escape need no game knowledge.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "A mixed survival group with a visible shared objective; rotate who makes decisions, fails and rescues someone.",
     "intro": [
       {
         "start": 0,
@@ -2222,7 +2200,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "One visible wave path and timer; equal starts, no teleporting and a disclosed rescue policy. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Scoped GTA 5 hazards and a tested escape route, effects/capture and a fallback. GTA 6 adaptations depend on actual supported tools."
@@ -2281,7 +2258,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "023",
@@ -2305,7 +2283,6 @@
     "non_gamer_reward": "A rising threat, shrinking safety and an earned escape need no game knowledge.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "A mixed survival group with a visible shared objective; rotate who makes decisions, fails and rescues someone.",
     "intro": [
       {
         "start": 0,
@@ -2325,7 +2302,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Tested moving hazard, one tracked prize and clear destruction rules; no real-weather claim. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Scoped GTA 5 hazards and a tested escape route, effects/capture and a fallback. GTA 6 adaptations depend on actual supported tools."
@@ -2384,7 +2360,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "024",
@@ -2408,7 +2385,6 @@
     "non_gamer_reward": "A rising threat, shrinking safety and an earned escape need no game knowledge.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "A mixed survival group with a visible shared objective; rotate who makes decisions, fails and rescues someone.",
     "intro": [
       {
         "start": 0,
@@ -2428,7 +2404,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Real timed water-height steps, visible rooftop finish and one box per carrier; lost boxes remain lost. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Scoped GTA 5 hazards and a tested escape route, effects/capture and a fallback. GTA 6 adaptations depend on actual supported tools."
@@ -2487,7 +2462,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "025",
@@ -2511,7 +2487,6 @@
     "non_gamer_reward": "A rising threat, shrinking safety and an earned escape need no game knowledge.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "A mixed survival group with a visible shared objective; rotate who makes decisions, fails and rescues someone.",
     "intro": [
       {
         "start": 0,
@@ -2531,7 +2506,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Custom wave shown as a game effect, fixed build time and shared materials; no hidden creative-mode rescue. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "Scoped GTA 5 hazards and a tested escape route, effects/capture and a fallback. GTA 6 adaptations depend on actual supported tools.",
@@ -2588,7 +2562,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "026",
@@ -2612,7 +2587,6 @@
     "non_gamer_reward": "Anyone understands whether the promised stunt or claim works.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members propose, attempt and judge myths; Alan/Alex can host or compete with them.",
     "intro": [
       {
         "start": 0,
@@ -2632,7 +2606,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Publish the tested list, distinguish repeat trials from separate myths and show failures as well as successes. ",
     "dependencies": [
       "Research actual testable mechanics; title count must match real tests, with setups and resets compressed."
@@ -2691,7 +2664,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for broad clarity"
   },
   {
     "id": "027",
@@ -2715,7 +2689,6 @@
     "non_gamer_reward": "Anyone understands whether the promised stunt or claim works.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members propose, attempt and judge myths; Alan/Alex can host or compete with them.",
     "intro": [
       {
         "start": 0,
@@ -2735,7 +2708,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Show the conditions before each test; keep failed attempts and label modded versus stock behavior. ",
     "dependencies": [
       "Research actual testable mechanics; title count must match real tests, with setups and resets compressed."
@@ -2794,7 +2766,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for broad clarity"
   },
   {
     "id": "028",
@@ -2818,7 +2791,6 @@
     "non_gamer_reward": "Anyone understands whether the promised stunt or claim works.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members propose, attempt and judge myths; Alan/Alex can host or compete with them.",
     "intro": [
       {
         "start": 0,
@@ -2838,7 +2810,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Every means every method on the shown list, not all imaginable methods; identical vehicle and water depth, game-only experiment. ",
     "dependencies": [
       "Research actual testable mechanics; title count must match real tests, with setups and resets compressed."
@@ -2897,7 +2868,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for broad clarity"
   },
   {
     "id": "029",
@@ -2921,7 +2893,6 @@
     "non_gamer_reward": "Anyone understands whether the promised stunt or claim works.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members propose, attempt and judge myths; Alan/Alex can host or compete with them.",
     "intro": [
       {
         "start": 0,
@@ -2941,7 +2912,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Use a prelisted 100 attempts, cite submitted clips with permission where used and disclose vehicle/mod settings. ",
     "dependencies": [
       "Research actual testable mechanics; title count must match real tests, with setups and resets compressed."
@@ -2997,7 +2967,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for broad clarity"
   },
   {
     "id": "030",
@@ -3021,7 +2992,6 @@
     "non_gamer_reward": "Anyone understands whether the promised stunt or claim works.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Crew members propose, attempt and judge myths; Alan/Alex can host or compete with them.",
     "intro": [
       {
         "start": 0,
@@ -3041,7 +3011,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Label edition/version, separate modded effects from stock tests and do not count repeats as new myths. ",
     "dependencies": [
       "Research actual testable mechanics; title count must match real tests, with setups and resets compressed.",
@@ -3101,7 +3070,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for broad clarity"
   },
   {
     "id": "031",
@@ -3125,7 +3095,6 @@
     "non_gamer_reward": "The entertainment is losing control of familiar choices and watching friends deal with the consequences.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew spins, lives with the consequence and occasionally controls another player’s choice; rotate the host and affected participant.",
     "intro": [
       {
         "start": 0,
@@ -3145,7 +3114,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Show all wheel options before each spin, accept the first valid result and preserve one continuing destination. ",
     "dependencies": [
       "A small, tested list of visible choices and a continuing goal. Manual rules can stay inexpensive; automated effects are optional."
@@ -3206,7 +3174,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "032",
@@ -3230,7 +3199,6 @@
     "non_gamer_reward": "The entertainment is losing control of familiar choices and watching friends deal with the consequences.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew spins, lives with the consequence and occasionally controls another player’s choice; rotate the host and affected participant.",
     "intro": [
       {
         "start": 0,
@@ -3250,7 +3218,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Crew can choose only from disclosed feasible options; every vote is visible and no secret override is allowed. ",
     "dependencies": [
       "A small, tested list of visible choices and a continuing goal. Manual rules can stay inexpensive; automated effects are optional."
@@ -3312,7 +3279,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "033",
@@ -3336,7 +3304,6 @@
     "non_gamer_reward": "The entertainment is losing control of familiar choices and watching friends deal with the consequences.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew spins, lives with the consequence and occasionally controls another player’s choice; rotate the host and affected participant.",
     "intro": [
       {
         "start": 0,
@@ -3356,7 +3323,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Disclosed locations and checklist, genuine random selection and equal time at each stop. ",
     "dependencies": [
       "A small, tested list of visible choices and a continuing goal. Manual rules can stay inexpensive; automated effects are optional."
@@ -3417,7 +3383,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "034",
@@ -3441,7 +3408,6 @@
     "non_gamer_reward": "The entertainment is losing control of familiar choices and watching friends deal with the consequences.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew spins, lives with the consequence and occasionally controls another player’s choice; rotate the host and affected participant.",
     "intro": [
       {
         "start": 0,
@@ -3461,7 +3427,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Fixed pursuit route, disclosed transport options and no respin after a bad choice. ",
     "dependencies": [
       "A small, tested list of visible choices and a continuing goal. Manual rules can stay inexpensive; automated effects are optional."
@@ -3522,7 +3487,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "035",
@@ -3546,7 +3512,6 @@
     "non_gamer_reward": "The entertainment is losing control of familiar choices and watching friends deal with the consequences.",
     "phase": "Later game expansion",
     "game": "Roblox",
-    "people": "Crew spins, lives with the consequence and occasionally controls another player’s choice; rotate the host and affected participant.",
     "intro": [
       {
         "start": 0,
@@ -3566,7 +3531,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Private owned or permitted experience, disclosed choices and no reliance on strangers' consent or purchases. ",
     "dependencies": [
       "A small, tested list of visible choices and a continuing goal. Manual rules can stay inexpensive; automated effects are optional.",
@@ -3629,7 +3593,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "036",
@@ -3653,7 +3618,6 @@
     "non_gamer_reward": "Personal wishes, transformations, reactions and failure to live up to the fantasy carry the episode.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew members receive different dreams; either twin or another regular can host, and participants perform their own story.",
     "intro": [
       {
         "start": 0,
@@ -3673,7 +3637,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Record the wish before building; use existing licensed assets where possible and avoid promising real property or money. ",
     "dependencies": [
       "Collect real crew wishes; use available in-game assets and limit bespoke builds. The fantasy is virtual, with no implied real gift purchase."
@@ -3735,7 +3698,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "037",
@@ -3759,7 +3723,6 @@
     "non_gamer_reward": "Personal wishes, transformations, reactions and failure to live up to the fantasy carry the episode.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew members receive different dreams; either twin or another regular can host, and participants perform their own story.",
     "intro": [
       {
         "start": 0,
@@ -3779,7 +3742,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Use actual pre-recorded preferences, disclosed vehicle mods and the same short test for every candidate. ",
     "dependencies": [
       "Collect real crew wishes; use available in-game assets and limit bespoke builds. The fantasy is virtual, with no implied real gift purchase."
@@ -3840,7 +3802,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "038",
@@ -3864,7 +3827,6 @@
     "non_gamer_reward": "Personal wishes, transformations, reactions and failure to live up to the fantasy carry the episode.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew members receive different dreams; either twin or another regular can host, and participants perform their own story.",
     "intro": [
       {
         "start": 0,
@@ -3884,7 +3846,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Every asset and price is virtual; a visible itinerary defines the day and all crew receive the same access. ",
     "dependencies": [
       "Collect real crew wishes; use available in-game assets and limit bespoke builds. The fantasy is virtual, with no implied real gift purchase."
@@ -3946,7 +3907,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "039",
@@ -3970,7 +3932,6 @@
     "non_gamer_reward": "Personal wishes, transformations, reactions and failure to live up to the fantasy carry the episode.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew members receive different dreams; either twin or another regular can host, and participants perform their own story.",
     "intro": [
       {
         "start": 0,
@@ -3990,7 +3951,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Wishes recorded in advance, three fixed itineraries and honest custom-map disclosure. ",
     "dependencies": [
       "Collect real crew wishes; use available in-game assets and limit bespoke builds. The fantasy is virtual, with no implied real gift purchase."
@@ -4052,7 +4012,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "040",
@@ -4076,7 +4037,6 @@
     "non_gamer_reward": "Personal wishes, transformations, reactions and failure to live up to the fantasy carry the episode.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Several crew members receive different dreams; either twin or another regular can host, and participants perform their own story.",
     "intro": [
       {
         "start": 0,
@@ -4096,7 +4056,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Recorded wish lists, bounded map sizes and one working signature activity in each world. ",
     "dependencies": [
       "Collect real crew wishes; use available in-game assets and limit bespoke builds. The fantasy is virtual, with no implied real gift purchase.",
@@ -4154,7 +4113,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "041",
@@ -4178,7 +4138,6 @@
     "non_gamer_reward": "Scale and an intuitive question carry the suspense.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew teams propose and build different barriers; Alan/Alex or another host runs the test while participants react to the result.",
     "intro": [
       {
         "start": 0,
@@ -4198,9 +4157,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [
-      "physics-prototype"
-    ],
     "production_note": "Prototype physical spawn capacity; the final title uses the true achieved active count and separates decorative cars from physics objects. ",
     "dependencies": [
       "A physics/spawn feasibility prototype before the full build, staged attempts and cinematic capture. Separate visual crowd dressing from objects that actually participate in the simulation."
@@ -4261,7 +4217,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "042",
@@ -4285,7 +4242,6 @@
     "non_gamer_reward": "Scale and an intuitive question carry the suspense.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew teams propose and build different barriers; Alan/Alex or another host runs the test while participants react to the result.",
     "intro": [
       {
         "start": 0,
@@ -4305,9 +4261,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [
-      "physics-prototype"
-    ],
     "production_note": "Simulation effect and active-object count disclosed; if the wave has no physical interaction, reframe as a flood evacuation test before filming. ",
     "dependencies": [
       "A physics/spawn feasibility prototype before the full build, staged attempts and cinematic capture. Separate visual crowd dressing from objects that actually participate in the simulation."
@@ -4366,7 +4319,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "043",
@@ -4390,7 +4344,6 @@
     "non_gamer_reward": "Scale and an intuitive question carry the suspense.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew teams propose and build different barriers; Alan/Alex or another host runs the test while participants react to the result.",
     "intro": [
       {
         "start": 0,
@@ -4410,9 +4363,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [
-      "physics-prototype"
-    ],
     "production_note": "Biggest refers to this production's measured setup, not an unverified world record; count active vehicles and use real replay footage. ",
     "dependencies": [
       "A physics/spawn feasibility prototype before the full build, staged attempts and cinematic capture. Separate visual crowd dressing from objects that actually participate in the simulation."
@@ -4471,7 +4421,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "044",
@@ -4495,7 +4446,6 @@
     "non_gamer_reward": "Scale and an intuitive question carry the suspense.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew teams propose and build different barriers; Alan/Alex or another host runs the test while participants react to the result.",
     "intro": [
       {
         "start": 0,
@@ -4515,9 +4465,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [
-      "physics-prototype"
-    ],
     "production_note": "Custom physics house and attachment system disclosed, active helicopter count verified and title revised to real achieved scale. ",
     "dependencies": [
       "A physics/spawn feasibility prototype before the full build, staged attempts and cinematic capture. Separate visual crowd dressing from objects that actually participate in the simulation."
@@ -4573,7 +4520,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "045",
@@ -4597,7 +4545,6 @@
     "non_gamer_reward": "Scale and an intuitive question carry the suspense.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Crew teams propose and build different barriers; Alan/Alex or another host runs the test while participants react to the result.",
     "intro": [
       {
         "start": 0,
@@ -4617,9 +4564,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [
-      "physics-prototype"
-    ],
     "production_note": "Name and license the tested train mod, label non-stock behavior and count active minecarts; scale is conditional on performance. ",
     "dependencies": [
       "A physics/spawn feasibility prototype before the full build, staged attempts and cinematic capture. Separate visual crowd dressing from objects that actually participate in the simulation.",
@@ -4681,7 +4625,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "046",
@@ -4705,7 +4650,6 @@
     "non_gamer_reward": "A travel/journey goal, unfamiliar settings and a simple task at each stop carry the episode.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "One traveling/playing host with crew participants at different stops; another cast member can lead the comparison or challenge.",
     "intro": [
       {
         "start": 0,
@@ -4725,7 +4669,6 @@
     ],
     "production_profile_id": "travel",
     "production_tier": "Travel",
-    "conditional_cost_profile_ids": [],
     "production_note": "Working assumption is real-city filming; say the exact selected-city scope in the opening, license location filming and never call an incomplete itinerary every city. Assumes three selected US city inspirations, six room-nights, existing cameras. Full worldwide journey is uncosted and not greenlit.",
     "dependencies": [
       "Pending user clarification on real cities versus cities across games. Real travel adds flights/hotels/local transport and location access; game touring adds game/capture setup. Verify the represented city list; every must match the stated scope."
@@ -4787,7 +4730,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "047",
@@ -4811,7 +4755,6 @@
     "non_gamer_reward": "A travel/journey goal, unfamiliar settings and a simple task at each stop carry the episode.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "One traveling/playing host with crew participants at different stops; another cast member can lead the comparison or challenge.",
     "intro": [
       {
         "start": 0,
@@ -4831,7 +4774,6 @@
     ],
     "production_profile_id": "travel",
     "production_tier": "Travel",
-    "conditional_cost_profile_ids": [],
     "production_note": "Defined cities, lawful public-location filming and matched task scope; real travel time is shown separately from game time. Assumes three selected US city inspirations, six room-nights, existing cameras. Full worldwide journey is uncosted and not greenlit.",
     "dependencies": [
       "Pending user clarification on real cities versus cities across games. Real travel adds flights/hotels/local transport and location access; game touring adds game/capture setup. Verify the represented city list; every must match the stated scope."
@@ -4893,7 +4835,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "048",
@@ -4917,7 +4860,6 @@
     "non_gamer_reward": "A travel/journey goal, unfamiliar settings and a simple task at each stop carry the episode.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "One traveling/playing host with crew participants at different stops; another cast member can lead the comparison or challenge.",
     "intro": [
       {
         "start": 0,
@@ -4937,7 +4879,6 @@
     ],
     "production_profile_id": "travel",
     "production_tier": "Travel",
-    "conditional_cost_profile_ids": [],
     "production_note": "Verify inspiration sources and use safe permitted real activities; do not claim a filming location is a developer studio. Assumes three selected US city inspirations, six room-nights, existing cameras. Full worldwide journey is uncosted and not greenlit.",
     "dependencies": [
       "Pending user clarification on real cities versus cities across games. Real travel adds flights/hotels/local transport and location access; game touring adds game/capture setup. Verify the represented city list; every must match the stated scope."
@@ -4999,7 +4940,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "049",
@@ -5023,7 +4965,6 @@
     "non_gamer_reward": "A travel/journey goal, unfamiliar settings and a simple task at each stop carry the episode.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "One traveling/playing host with crew participants at different stops; another cast member can lead the comparison or challenge.",
     "intro": [
       {
         "start": 0,
@@ -5043,7 +4984,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "This is the lower-cost game-tour alternative, not seamless travel between games; show game changes, edition support and exact city list. ",
     "dependencies": [
       "Pending user clarification on real cities versus cities across games. Real travel adds flights/hotels/local transport and location access; game touring adds game/capture setup. Verify the represented city list; every must match the stated scope."
@@ -5105,7 +5045,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "050",
@@ -5129,7 +5070,6 @@
     "non_gamer_reward": "A travel/journey goal, unfamiliar settings and a simple task at each stop carry the episode.",
     "phase": "Post-release; capabilities to verify",
     "game": "GTA 6",
-    "people": "One traveling/playing host with crew participants at different stops; another cast member can lead the comparison or challenge.",
     "intro": [
       {
         "start": 0,
@@ -5149,7 +5089,6 @@
     ],
     "production_profile_id": "hybrid",
     "production_tier": "Hybrid",
-    "conditional_cost_profile_ids": [],
     "production_note": "Post-release only, verified platform/capture support and location list; no fabricated GTA 6 gameplay or promised mods. Local route only. Global travel and prizes are separate obligations.",
     "dependencies": [
       "Pending user clarification on real cities versus cities across games. Real travel adds flights/hotels/local transport and location access; game touring adds game/capture setup. Verify the represented city list; every must match the stated scope."
@@ -5211,7 +5150,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "051",
@@ -5235,7 +5175,6 @@
     "non_gamer_reward": "A victim, suspects, clues and a fair reveal work as a human mystery.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "An ensemble of investigators, suspects and a victim; Alan/Alex may take any of those roles.",
     "intro": [
       {
         "start": 0,
@@ -5255,7 +5194,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Script the incident and clue logic, not the investigators' reactions; no gore, fair clues and one declared accusation per team. ",
     "dependencies": [
       "Scripted/performed scenes and multiple capture angles; clearly distinguish authored comedy from competitive outcomes."
@@ -5316,7 +5254,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "052",
@@ -5340,7 +5279,6 @@
     "non_gamer_reward": "A victim, suspects, clues and a fair reveal work as a human mystery.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "An ensemble of investigators, suspects and a victim; Alan/Alex may take any of those roles.",
     "intro": [
       {
         "start": 0,
@@ -5360,7 +5298,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Private performed game, no real harm, fixed role draw and evidence rules; observers cannot use hidden voice channels to cheat. ",
     "dependencies": [
       "Scripted/performed scenes and multiple capture angles; clearly distinguish authored comedy from competitive outcomes."
@@ -5421,7 +5358,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "053",
@@ -5445,7 +5383,6 @@
     "non_gamer_reward": "A victim, suspects, clues and a fair reveal work as a human mystery.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "An ensemble of investigators, suspects and a victim; Alan/Alex may take any of those roles.",
     "intro": [
       {
         "start": 0,
@@ -5465,7 +5402,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "One traceable vehicle, visible clue chain and no off-camera vehicle swap; game value is stated immediately. ",
     "dependencies": [
       "Scripted/performed scenes and multiple capture angles; clearly distinguish authored comedy from competitive outcomes."
@@ -5526,7 +5462,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "054",
@@ -5550,7 +5487,6 @@
     "non_gamer_reward": "A victim, suspects, clues and a fair reveal work as a human mystery.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "An ensemble of investigators, suspects and a victim; Alan/Alex may take any of those roles.",
     "intro": [
       {
         "start": 0,
@@ -5570,7 +5506,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "A performed confinement in-game, verified working exit and shared clue feed; no real person is restrained. ",
     "dependencies": [
       "Scripted/performed scenes and multiple capture angles; clearly distinguish authored comedy from competitive outcomes."
@@ -5631,7 +5566,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "055",
@@ -5655,7 +5591,6 @@
     "non_gamer_reward": "A victim, suspects, clues and a fair reveal work as a human mystery.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "An ensemble of investigators, suspects and a victim; Alan/Alex may take any of those roles.",
     "intro": [
       {
         "start": 0,
@@ -5675,7 +5610,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "A performed custom-map mystery, equal clue access and visible event timeline; no accusations about real unfilmed behavior. ",
     "dependencies": [
       "Scripted/performed scenes and multiple capture angles; clearly distinguish authored comedy from competitive outcomes.",
@@ -5737,7 +5671,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "056",
@@ -5761,7 +5696,6 @@
     "non_gamer_reward": "Dramatic irony, growing frustration and the reveal create a prank story.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One concealed prank operator, several unaware crew participants and recorded reactions from everyone.",
     "intro": [
       {
         "start": 0,
@@ -5781,7 +5715,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Actual minute triggers and one fixed mission; audience sees the changes, crew reactions are unscripted and retries are defined. ",
     "dependencies": [
       "Reversible, rehearsed difficulty effects and visible cause-and-effect. The audience understands the secret; the final reveal and crew reaction are the payoff."
@@ -5842,7 +5775,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Launch priority"
   },
   {
     "id": "057",
@@ -5866,7 +5800,6 @@
     "non_gamer_reward": "Dramatic irony, growing frustration and the reveal create a prank story.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One concealed prank operator, several unaware crew participants and recorded reactions from everyone.",
     "intro": [
       {
         "start": 0,
@@ -5886,7 +5819,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "One disclosed post-reveal mod setup, changes only between tests and no fake reaction takes; record the alteration log. ",
     "dependencies": [
       "Reversible, rehearsed difficulty effects and visible cause-and-effect. The audience understands the secret; the final reveal and crew reaction are the payoff."
@@ -5947,7 +5879,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Launch priority"
   },
   {
     "id": "058",
@@ -5971,7 +5904,6 @@
     "non_gamer_reward": "Dramatic irony, growing frustration and the reveal create a prank story.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One concealed prank operator, several unaware crew participants and recorded reactions from everyone.",
     "intro": [
       {
         "start": 0,
@@ -5991,7 +5923,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Timed boundary changes shown to viewers, collisions tested and one visible final goal; do not secretly undo a genuine failure. ",
     "dependencies": [
       "Reversible, rehearsed difficulty effects and visible cause-and-effect. The audience understands the secret; the final reveal and crew reaction are the payoff."
@@ -6052,7 +5983,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Launch priority"
   },
   {
     "id": "059",
@@ -6076,7 +6008,6 @@
     "non_gamer_reward": "Dramatic irony, growing frustration and the reveal create a prank story.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "One concealed prank operator, several unaware crew participants and recorded reactions from everyone.",
     "intro": [
       {
         "start": 0,
@@ -6096,7 +6027,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Actual staged water triggers and tested exit routes, game-only effect; audience sees cause before reaction. ",
     "dependencies": [
       "Reversible, rehearsed difficulty effects and visible cause-and-effect. The audience understands the secret; the final reveal and crew reaction are the payoff."
@@ -6157,7 +6087,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Launch priority"
   },
   {
     "id": "060",
@@ -6181,7 +6112,6 @@
     "non_gamer_reward": "Dramatic irony, growing frustration and the reveal create a prank story.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "One concealed prank operator, several unaware crew participants and recorded reactions from everyone.",
     "intro": [
       {
         "start": 0,
@@ -6201,7 +6131,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Working custom rules recorded in a trigger log, fixed build brief and no secret creative-mode repairs. ",
     "dependencies": [
       "Reversible, rehearsed difficulty effects and visible cause-and-effect. The audience understands the secret; the final reveal and crew reaction are the payoff.",
@@ -6263,7 +6192,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Launch priority"
   },
   {
     "id": "061",
@@ -6287,7 +6217,6 @@
     "non_gamer_reward": "The ordinary job and escalating incompetence are understandable.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and customers, with Alan/Alex participating or directing the day.",
     "intro": [
       {
         "start": 0,
@@ -6307,7 +6236,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Crew performs passenger roles, identical base fares and visible route/comfort scoring; no real taxi service or unsuspecting riders. ",
     "dependencies": [
       "Actual supported job mechanic or a transparently performed scenario; keep exposition short and task outcomes visible."
@@ -6359,7 +6287,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "062",
@@ -6383,7 +6312,6 @@
     "non_gamer_reward": "The ordinary job and escalating incompetence are understandable.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and customers, with Alan/Alex participating or directing the day.",
     "intro": [
       {
         "start": 0,
@@ -6403,7 +6331,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Same route windows, tracked cargo and disclosed scoring; the customers are crew performers. ",
     "dependencies": [
       "Actual supported job mechanic or a transparently performed scenario; keep exposition short and task outcomes visible."
@@ -6455,7 +6382,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "063",
@@ -6479,7 +6407,6 @@
     "non_gamer_reward": "The ordinary job and escalating incompetence are understandable.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and customers, with Alan/Alex participating or directing the day.",
     "intro": [
       {
         "start": 0,
@@ -6499,7 +6426,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Crew customers, a fixed simple menu and visible order board; interaction scope and game mod are disclosed. ",
     "dependencies": [
       "Actual supported job mechanic or a transparently performed scenario; keep exposition short and task outcomes visible."
@@ -6555,7 +6481,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "064",
@@ -6579,7 +6506,6 @@
     "non_gamer_reward": "The ordinary job and escalating incompetence are understandable.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and customers, with Alan/Alex participating or directing the day.",
     "intro": [
       {
         "start": 0,
@@ -6599,7 +6525,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Simulated fires only, no real instructional claim; clear rescue markers, timer and tested game tools. ",
     "dependencies": [
       "Actual supported job mechanic or a transparently performed scenario; keep exposition short and task outcomes visible."
@@ -6656,7 +6581,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "065",
@@ -6680,7 +6606,6 @@
     "non_gamer_reward": "The ordinary job and escalating incompetence are understandable.",
     "phase": "Later game expansion",
     "game": "Roblox",
-    "people": "Multiple crew drivers and customers, with Alan/Alex participating or directing the day.",
     "intro": [
       {
         "start": 0,
@@ -6700,7 +6625,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Owned or permitted private experience, crew customers and fixed scoring; no random-player harassment or pay-to-win shopping. ",
     "dependencies": [
       "Actual supported job mechanic or a transparently performed scenario; keep exposition short and task outcomes visible.",
@@ -6753,7 +6677,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "066",
@@ -6777,7 +6702,6 @@
     "non_gamer_reward": "The viewer can see each obstacle, failure and improvement.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members attempt, coach and redesign obstacles; rotate competitors and provide each an understandable objective.",
     "intro": [
       {
         "start": 0,
@@ -6797,7 +6721,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Most impossible is a proposal superlative to test, not a world-record claim; fixed retry/life rules and no hidden shortcuts. ",
     "dependencies": [
       "Course construction, finish-state validation and varied capture; reuse obstacles across subsequent episodes."
@@ -6844,7 +6767,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "067",
@@ -6868,7 +6792,6 @@
     "non_gamer_reward": "The viewer can see each obstacle, failure and improvement.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members attempt, coach and redesign obstacles; rotate competitors and provide each an understandable objective.",
     "intro": [
       {
         "start": 0,
@@ -6888,7 +6811,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Verify the selected skyline and bounded superlative, fixed starts/checkpoints and actual attempt footage. ",
     "dependencies": [
       "Course construction, finish-state validation and varied capture; reuse obstacles across subsequent episodes."
@@ -6935,7 +6857,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "068",
@@ -6959,7 +6882,6 @@
     "non_gamer_reward": "The viewer can see each obstacle, failure and improvement.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members attempt, coach and redesign obstacles; rotate competitors and provide each an understandable objective.",
     "intro": [
       {
         "start": 0,
@@ -6979,7 +6901,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Same vehicle and physics settings, equal attempts and one published checkpoint map. ",
     "dependencies": [
       "Course construction, finish-state validation and varied capture; reuse obstacles across subsequent episodes."
@@ -7035,7 +6956,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "069",
@@ -7059,7 +6981,6 @@
     "non_gamer_reward": "The viewer can see each obstacle, failure and improvement.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Crew members attempt, coach and redesign obstacles; rotate competitors and provide each an understandable objective.",
     "intro": [
       {
         "start": 0,
@@ -7079,7 +7000,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Changes occur after recorded failures, every stage is prototype-tested and the crew sees the update. ",
     "dependencies": [
       "Course construction, finish-state validation and varied capture; reuse obstacles across subsequent episodes."
@@ -7126,7 +7046,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "070",
@@ -7150,7 +7071,6 @@
     "non_gamer_reward": "The viewer can see each obstacle, failure and improvement.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Crew members attempt, coach and redesign obstacles; rotate competitors and provide each an understandable objective.",
     "intro": [
       {
         "start": 0,
@@ -7170,7 +7090,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Custom map, fixed checkpoints and actual player attempts; use the final difficulty claim only after playtesting. ",
     "dependencies": [
       "Course construction, finish-state validation and varied capture; reuse obstacles across subsequent episodes.",
@@ -7218,7 +7137,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "071",
@@ -7242,7 +7162,6 @@
     "non_gamer_reward": "Tradeoffs, regret and a readable ladder are universal.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew contestants with different risk tolerances; a host presents each choice and clearly tracks what is at stake.",
     "intro": [
       {
         "start": 0,
@@ -7262,7 +7181,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "State virtual money in the first frame, publish the reward ladder and rules, and never undo a loss for a better ending. ",
     "dependencies": [
       "Define the actual reward pool, eligibility, challenge and loss conditions. Requested cash headlines need funded real stakes or explicit GTA/game-value wording that tells viewers what is being offered."
@@ -7318,7 +7236,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "072",
@@ -7342,7 +7261,6 @@
     "non_gamer_reward": "Tradeoffs, regret and a readable ladder are universal.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew contestants with different risk tolerances; a host presents each choice and clearly tracks what is at stake.",
     "intro": [
       {
         "start": 0,
@@ -7362,7 +7280,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Car and money are virtual in the launch version; real-prize variation is conditional on separately funded obligations. ",
     "dependencies": [
       "Define the actual reward pool, eligibility, challenge and loss conditions. Requested cash headlines need funded real stakes or explicit GTA/game-value wording that tells viewers what is being offered."
@@ -7418,7 +7335,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "073",
@@ -7442,7 +7360,6 @@
     "non_gamer_reward": "Tradeoffs, regret and a readable ladder are universal.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew contestants with different risk tolerances; a host presents each choice and clearly tracks what is at stake.",
     "intro": [
       {
         "start": 0,
@@ -7462,7 +7379,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Published odds or deterministic ladder, no fake randomness and a visible bank; pressing always has the stated consequence. ",
     "dependencies": [
       "Define the actual reward pool, eligibility, challenge and loss conditions. Requested cash headlines need funded real stakes or explicit GTA/game-value wording that tells viewers what is being offered."
@@ -7518,7 +7434,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "074",
@@ -7542,7 +7459,6 @@
     "non_gamer_reward": "Tradeoffs, regret and a readable ladder are universal.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew contestants with different risk tolerances; a host presents each choice and clearly tracks what is at stake.",
     "intro": [
       {
         "start": 0,
@@ -7562,7 +7478,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "All property is in-game, disclosed house ladder and one fixed final trial; no real-estate promise. ",
     "dependencies": [
       "Define the actual reward pool, eligibility, challenge and loss conditions. Requested cash headlines need funded real stakes or explicit GTA/game-value wording that tells viewers what is being offered."
@@ -7618,7 +7533,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "075",
@@ -7642,7 +7558,6 @@
     "non_gamer_reward": "Tradeoffs, regret and a readable ladder are universal.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Several crew contestants with different risk tolerances; a host presents each choice and clearly tracks what is at stake.",
     "intro": [
       {
         "start": 0,
@@ -7662,7 +7577,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Disclosed game builds and challenge ladder, backup for production safety only and no restoring a loss inside the published outcome. ",
     "dependencies": [
       "Define the actual reward pool, eligibility, challenge and loss conditions. Requested cash headlines need funded real stakes or explicit GTA/game-value wording that tells viewers what is being offered.",
@@ -7719,7 +7633,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "076",
@@ -7743,7 +7658,6 @@
     "non_gamer_reward": "The guards, barriers, plan and freedom are easy to understand.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew inmates; other crew play guards or the designer, with flexible twin roles.",
     "intro": [
       {
         "start": 0,
@@ -7763,7 +7677,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Custom playable prison, fair disclosed life/time rules and crew guards; superlative is a tested creative premise, not a security record. ",
     "dependencies": [
       "Scoped prison/guard behaviors, a solvable final route and multi-angle recording. The most-secure headline needs a visibly exceptional designed challenge."
@@ -7814,7 +7727,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "077",
@@ -7838,7 +7752,6 @@
     "non_gamer_reward": "The guards, barriers, plan and freedom are easy to understand.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew inmates; other crew play guards or the designer, with flexible twin roles.",
     "intro": [
       {
         "start": 0,
@@ -7858,7 +7771,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Game-only oxygen rules, a tested playable exit and fixed retries; no real underwater confinement. ",
     "dependencies": [
       "Scoped prison/guard behaviors, a solvable final route and multi-angle recording. The most-secure headline needs a visibly exceptional designed challenge."
@@ -7909,7 +7821,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "078",
@@ -7933,7 +7846,6 @@
     "non_gamer_reward": "The guards, barriers, plan and freedom are easy to understand.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew inmates; other crew play guards or the designer, with flexible twin roles.",
     "intro": [
       {
         "start": 0,
@@ -7953,7 +7865,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Tested game moving interior, fixed route and no off-camera vehicle teleport; explain custom geometry visually. ",
     "dependencies": [
       "Scoped prison/guard behaviors, a solvable final route and multi-angle recording. The most-secure headline needs a visibly exceptional designed challenge."
@@ -8005,7 +7916,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "079",
@@ -8029,7 +7941,6 @@
     "non_gamer_reward": "The guards, barriers, plan and freedom are easy to understand.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several crew inmates; other crew play guards or the designer, with flexible twin roles.",
     "intro": [
       {
         "start": 0,
@@ -8049,7 +7960,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Every minute change is real and logged, each configuration is solvable and the audience sees the cause. ",
     "dependencies": [
       "Scoped prison/guard behaviors, a solvable final route and multi-angle recording. The most-secure headline needs a visibly exceptional designed challenge."
@@ -8100,7 +8010,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "080",
@@ -8124,7 +8035,6 @@
     "non_gamer_reward": "The guards, barriers, plan and freedom are easy to understand.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Several crew inmates; other crew play guards or the designer, with flexible twin roles.",
     "intro": [
       {
         "start": 0,
@@ -8144,7 +8054,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Custom map, fixed clue budget, true participant attempts and no admin escape during the filmed result. ",
     "dependencies": [
       "Scoped prison/guard behaviors, a solvable final route and multi-angle recording. The most-secure headline needs a visibly exceptional designed challenge.",
@@ -8196,7 +8105,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Develop next"
   },
   {
     "id": "081",
@@ -8220,7 +8130,6 @@
     "non_gamer_reward": "A creative transformation and the participant receiving the thing they wanted carry the payoff.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several cast members or invited builders propose and create, while one host funds and tests the build; twins can rotate hosting.",
     "intro": [
       {
         "start": 0,
@@ -8240,7 +8149,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Launch version buys virtual creations with game currency; explain the cap before building, with no implied real unlimited purchases. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A game/build environment, builder compensation, clear purchase rules and a funded reward cap. If fulfilling real builds is unaffordable, use an explicitly virtual version rather than imply a real purchase."
@@ -8299,7 +8207,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "082",
@@ -8323,7 +8232,6 @@
     "non_gamer_reward": "A creative transformation and the participant receiving the thing they wanted carry the payoff.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several cast members or invited builders propose and create, while one host funds and tests the build; twins can rotate hosting.",
     "intro": [
       {
         "start": 0,
@@ -8343,7 +8251,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Game-only purchase, scoped modular vehicle editor and known asset licenses; no unfunded promise to buy real cars. ",
     "dependencies": [
       "A game/build environment, builder compensation, clear purchase rules and a funded reward cap. If fulfilling real builds is unaffordable, use an explicitly virtual version rather than imply a real purchase."
@@ -8402,7 +8309,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "083",
@@ -8426,7 +8334,6 @@
     "non_gamer_reward": "A creative transformation and the participant receiving the thing they wanted carry the payoff.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Several cast members or invited builders propose and create, while one host funds and tests the build; twins can rotate hosting.",
     "intro": [
       {
         "start": 0,
@@ -8446,7 +8353,6 @@
     ],
     "production_profile_id": "medium",
     "production_tier": "Medium",
-    "conditional_cost_profile_ids": [],
     "production_note": "Virtual purchase, equal plots and functional checklist; funded real-world recreation is a separate later variation. ",
     "dependencies": [
       "A game/build environment, builder compensation, clear purchase rules and a funded reward cap. If fulfilling real builds is unaffordable, use an explicitly virtual version rather than imply a real purchase."
@@ -8505,7 +8411,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "084",
@@ -8529,7 +8436,6 @@
     "non_gamer_reward": "A creative transformation and the participant receiving the thing they wanted carry the payoff.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Several cast members or invited builders propose and create, while one host funds and tests the build; twins can rotate hosting.",
     "intro": [
       {
         "start": 0,
@@ -8549,9 +8455,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [
-      "build-prize"
-    ],
     "production_note": "This real-prize variation requires a committed purchase fund before filming; exclusions, cap and delivery terms are visible from the opening. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A game/build environment, builder compensation, clear purchase rules and a funded reward cap. If fulfilling real builds is unaffordable, use an explicitly virtual version rather than imply a real purchase.",
@@ -8611,7 +8514,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "085",
@@ -8635,7 +8539,6 @@
     "non_gamer_reward": "A creative transformation and the participant receiving the thing they wanted carry the payoff.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Several cast members or invited builders propose and create, while one host funds and tests the build; twins can rotate hosting.",
     "intro": [
       {
         "start": 0,
@@ -8655,7 +8558,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Virtual fulfillment by default, equal color/plot rules and a clear function checklist; real purchase requires separate funding. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A game/build environment, builder compensation, clear purchase rules and a funded reward cap. If fulfilling real builds is unaffordable, use an explicitly virtual version rather than imply a real purchase.",
@@ -8717,7 +8619,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "086",
@@ -8741,7 +8644,6 @@
     "non_gamer_reward": "The audience follows one physical route, a simple scoreboard and a recognizable winner’s reward.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "Two mixed cast teams with separate game/IRL capture, a common presenter and a fair shared scoreboard.",
     "intro": [
       {
         "start": 0,
@@ -8761,7 +8663,6 @@
     ],
     "production_profile_id": "hybrid",
     "production_tier": "Hybrid",
-    "conditional_cost_profile_ids": [],
     "production_note": "Fixed local route, safe lawful real travel and separate in-game/real scale explanation; avoid promising a perfect geography match. Local route only. Global travel and prizes are separate obligations.",
     "dependencies": [
       "Flights only if the selected route requires them; local transport, lodging, access and extra IRL crew/capture are incremental costs. Define scale, checkpoints, allowed transport, start conditions and meal-prize liability."
@@ -8818,7 +8719,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Research next"
   },
   {
     "id": "087",
@@ -8843,7 +8745,6 @@
     "non_gamer_reward": "The audience follows one physical route, a simple scoreboard and a recognizable winner’s reward.",
     "phase": "Later funded global tentpole; local pilot separately scoped",
     "game": "Minecraft",
-    "people": "Two mixed cast teams with separate game/IRL capture, a common presenter and a fair shared scoreboard.",
     "intro": [
       {
         "start": 0,
@@ -8863,9 +8764,6 @@
     ],
     "production_profile_id": "earth-tentpole",
     "production_tier": "Travel",
-    "conditional_cost_profile_ids": [
-      "dinner-prize"
-    ],
     "production_note": "Later global tentpole: proposed New York, Paris, Tokyo and Los Angeles route; verify completed map coverage, permissions, entry requirements, clocks and meal funding before locking the itinerary. A local pilot uses the actual city title instead. Later tentpole, outside the eight-upload slate. Proposed New York/Paris/Tokyo/Los Angeles checkpoints, not a full circumnavigation or complete Earth-map claim. Dinner prize is a separate conditional pool. Local learning pilot uses the hybrid profile and a city-specific title.",
     "dependencies": [
       "Flights only if the selected route requires them; local transport, lodging, access and extra IRL crew/capture are incremental costs. Define scale, checkpoints, allowed transport, start conditions and meal-prize liability.",
@@ -8923,7 +8821,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Research next"
   },
   {
     "id": "088",
@@ -8947,7 +8846,6 @@
     "non_gamer_reward": "The audience follows one physical route, a simple scoreboard and a recognizable winner’s reward.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "Two mixed cast teams with separate game/IRL capture, a common presenter and a fair shared scoreboard.",
     "intro": [
       {
         "start": 0,
@@ -8967,7 +8865,6 @@
     ],
     "production_profile_id": "hybrid",
     "production_tier": "Hybrid",
-    "conditional_cost_profile_ids": [],
     "production_note": "No speeding or risky real maneuvers; lawful route, published task rules and game/real timing shown separately. Local route only. Global travel and prizes are separate obligations.",
     "dependencies": [
       "Flights only if the selected route requires them; local transport, lodging, access and extra IRL crew/capture are incremental costs. Define scale, checkpoints, allowed transport, start conditions and meal-prize liability."
@@ -9020,7 +8917,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Research next"
   },
   {
     "id": "089",
@@ -9044,7 +8942,6 @@
     "non_gamer_reward": "The audience follows one physical route, a simple scoreboard and a recognizable winner’s reward.",
     "phase": "Later hybrid / travel pilot",
     "game": "GTA 5",
-    "people": "Two mixed cast teams with separate game/IRL capture, a common presenter and a fair shared scoreboard.",
     "intro": [
       {
         "start": 0,
@@ -9064,7 +8961,6 @@
     ],
     "production_profile_id": "hybrid",
     "production_tier": "Hybrid",
-    "conditional_cost_profile_ids": [],
     "production_note": "Permitted real maze, game replica of the relevant layout and disclosed scale; no hiding differences that affect the race. Local route only. Global travel and prizes are separate obligations.",
     "dependencies": [
       "Flights only if the selected route requires them; local transport, lodging, access and extra IRL crew/capture are incremental costs. Define scale, checkpoints, allowed transport, start conditions and meal-prize liability."
@@ -9121,7 +9017,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Research next"
   },
   {
     "id": "090",
@@ -9146,7 +9043,6 @@
     "non_gamer_reward": "The audience follows one physical route, a simple scoreboard and a recognizable winner’s reward.",
     "phase": "Later hybrid / travel pilot",
     "game": "Minecraft",
-    "people": "Two mixed cast teams with separate game/IRL capture, a common presenter and a fair shared scoreboard.",
     "intro": [
       {
         "start": 0,
@@ -9166,7 +9062,6 @@
     ],
     "production_profile_id": "hybrid",
     "production_tier": "Hybrid",
-    "conditional_cost_profile_ids": [],
     "production_note": "Real-property permission, small funded retrofit and disclosed time/scale differences; no structural work assumed without specialists. Local route only. Global travel and prizes are separate obligations.",
     "dependencies": [
       "Flights only if the selected route requires them; local transport, lodging, access and extra IRL crew/capture are incremental costs. Define scale, checkpoints, allowed transport, start conditions and meal-prize liability.",
@@ -9224,7 +9119,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Research next"
   },
   {
     "id": "091",
@@ -9248,7 +9144,6 @@
     "non_gamer_reward": "Anyone can understand whether a ridiculous car can fly, cross water or survive a visible obstacle.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and a host, with specialists taking genuinely harder attempts.",
     "intro": [
       {
         "start": 0,
@@ -9268,7 +9163,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Disclosed tested vehicle list and custom assets, fixed task and genuine attempts; danger is in-game spectacle. ",
     "dependencies": [
       "An available varied asset list, rights/access where needed and short test setups. Bespoke vehicle creation increases cost; avoid buying owned capture equipment again."
@@ -9329,7 +9223,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for visible novelty"
   },
   {
     "id": "092",
@@ -9353,7 +9248,6 @@
     "non_gamer_reward": "Anyone can understand whether a ridiculous car can fly, cross water or survive a visible obstacle.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and a host, with specialists taking genuinely harder attempts.",
     "intro": [
       {
         "start": 0,
@@ -9373,7 +9267,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "List the custom size range and truthful scope; identical tasks and unchanged physics settings after the start. ",
     "dependencies": [
       "An available varied asset list, rights/access where needed and short test setups. Bespoke vehicle creation increases cost; avoid buying owned capture equipment again."
@@ -9434,7 +9327,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for visible novelty"
   },
   {
     "id": "093",
@@ -9458,7 +9352,6 @@
     "non_gamer_reward": "Anyone can understand whether a ridiculous car can fly, cross water or survive a visible obstacle.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and a host, with specialists taking genuinely harder attempts.",
     "intro": [
       {
         "start": 0,
@@ -9478,7 +9371,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Custom asset permissions, pretested handling and clear task; no implication these vehicles are stock-game unlocks. ",
     "dependencies": [
       "An available varied asset list, rights/access where needed and short test setups. Bespoke vehicle creation increases cost; avoid buying owned capture equipment again."
@@ -9539,7 +9431,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for visible novelty"
   },
   {
     "id": "094",
@@ -9563,7 +9456,6 @@
     "non_gamer_reward": "Anyone can understand whether a ridiculous car can fly, cross water or survive a visible obstacle.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Multiple crew drivers and a host, with specialists taking genuinely harder attempts.",
     "intro": [
       {
         "start": 0,
@@ -9583,7 +9475,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Fastest refers to the tested selected fleet, not an unverified global record; fixed start, checkpoints and travel restrictions. ",
     "dependencies": [
       "An available varied asset list, rights/access where needed and short test setups. Bespoke vehicle creation increases cost; avoid buying owned capture equipment again."
@@ -9644,7 +9535,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for visible novelty"
   },
   {
     "id": "095",
@@ -9668,7 +9560,6 @@
     "non_gamer_reward": "Anyone can understand whether a ridiculous car can fly, cross water or survive a visible obstacle.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Multiple crew drivers and a host, with specialists taking genuinely harder attempts.",
     "intro": [
       {
         "start": 0,
@@ -9688,7 +9579,6 @@
     ],
     "production_profile_id": "light",
     "production_tier": "Light",
-    "conditional_cost_profile_ids": [],
     "production_note": "Name and license the selected mod, bounded vehicle list and stock/mod disclosure; identical mission for each entry. ",
     "dependencies": [
       "An available varied asset list, rights/access where needed and short test setups. Bespoke vehicle creation increases cost; avoid buying owned capture equipment again.",
@@ -9750,7 +9640,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Rework for visible novelty"
   },
   {
     "id": "096",
@@ -9774,7 +9665,6 @@
     "non_gamer_reward": "A waterpark and a before/after transformation are readable without game lore.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Builders/designers, crew attraction testers and an Alan/Alex host; guest cast can appear at the opening.",
     "intro": [
       {
         "start": 0,
@@ -9794,7 +9684,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Scoped modular map, licensed assets and actual playable rides; reveal only functions the finished build supports. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A scoped modular attraction, working traversal/ride behavior and cinematic crew testing; build one area first instead of committing a whole city."
@@ -9853,7 +9742,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "097",
@@ -9877,7 +9767,6 @@
     "non_gamer_reward": "A waterpark and a before/after transformation are readable without game lore.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Builders/designers, crew attraction testers and an Alan/Alex host; guest cast can appear at the opening.",
     "intro": [
       {
         "start": 0,
@@ -9897,7 +9786,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Clearly bounded park district, pretested interactions and honest custom-map disclosure. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A scoped modular attraction, working traversal/ride behavior and cinematic crew testing; build one area first instead of committing a whole city."
@@ -9956,7 +9844,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "098",
@@ -9980,7 +9869,6 @@
     "non_gamer_reward": "A waterpark and a before/after transformation are readable without game lore.",
     "phase": "GTA 5 launch / follow-up",
     "game": "GTA 5",
-    "people": "Builders/designers, crew attraction testers and an Alan/Alex host; guest cast can appear at the opening.",
     "intro": [
       {
         "start": 0,
@@ -10000,7 +9888,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Bounded map route, usable checkpoints and genuine completion footage; no whole-world scale claim. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A scoped modular attraction, working traversal/ride behavior and cinematic crew testing; build one area first instead of committing a whole city."
@@ -10056,7 +9943,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "099",
@@ -10080,7 +9968,6 @@
     "non_gamer_reward": "A waterpark and a before/after transformation are readable without game lore.",
     "phase": "Later game expansion",
     "game": "Minecraft",
-    "people": "Builders/designers, crew attraction testers and an Alan/Alex host; guest cast can appear at the opening.",
     "intro": [
       {
         "start": 0,
@@ -10100,7 +9987,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Custom map and necessary mods declared, scoped functional rides and tested route; do not promise unsupported water physics. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A scoped modular attraction, working traversal/ride behavior and cinematic crew testing; build one area first instead of committing a whole city.",
@@ -10160,7 +10046,8 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   },
   {
     "id": "100",
@@ -10184,7 +10071,6 @@
     "non_gamer_reward": "A waterpark and a before/after transformation are readable without game lore.",
     "phase": "Later game expansion",
     "game": "Roblox",
-    "people": "Builders/designers, crew attraction testers and an Alan/Alex host; guest cast can appear at the opening.",
     "intro": [
       {
         "start": 0,
@@ -10204,7 +10090,6 @@
     ],
     "production_profile_id": "heavy",
     "production_tier": "Heavy",
-    "conditional_cost_profile_ids": [],
     "production_note": "Owned or permitted experience, no public-user spend assumed and scoped developer features; playability takes priority over empty scenery. One functioning hero feature approved before expanding the set.",
     "dependencies": [
       "A scoped modular attraction, working traversal/ride behavior and cinematic crew testing; build one area first instead of committing a whole city.",
@@ -10264,6 +10149,7 @@
       "scope_note": "Ingredient matches concern the principal object/premise, not proof of every mixed ingredient. Views/lift are observed package/content performance."
     },
     "learning_question": "Does this distinct viewer promise attract broad viewers while feeling recognizably Stokes?",
-    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff."
+    "clip_opportunity": "Extract a complete first-complication-to-result micro-story or one resolved test/reveal; preserve setup and payoff.",
+    "development_priority": "Idea bank"
   }
 ]

@@ -7,9 +7,9 @@
   "new_variants": 26,
   "formats_on_canvas": 26,
   "thumbnail_options": 151,
-  "files": 718,
-  "bytes": 459407374,
-  "feedback": "On-page giscus GitHub Discussion reactions/comments; GitHub sign-in required to post, canvas remains scrollable",
+  "files": 719,
+  "bytes": 459454517,
+  "feedback": "Shared on-page/slideshow giscus reviews with preserved IDs",
   "images": [
     {
       "file": "full/001.jpg",
@@ -1863,5 +1863,8 @@
       "file": "references/thumbnails/_s1y0-x5oJI.jpg",
       "sha256": "e986f6997401c177a11e85fc40a16aea6d9319934eefd1f705fbe9739137f2b1"
     }
-  ]
+  ],
+  "revision": "launch-v6",
+  "launch_selected": 3,
+  "public_scope": "Creative plan and thumbnail canvas only; detailed operations excluded"
 }

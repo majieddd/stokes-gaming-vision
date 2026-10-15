@@ -2,68 +2,58 @@
   "id": "MV01",
   "format_id": "multiverse",
   "format_name": "The Multiverse",
-  "status": "User-selected first-video direction; title and build pending",
-  "title": "I Created the Multiverse",
+  "status": "Selected launch direction; exact crossover pairings and build proof pending",
+  "title": "I Beat The World’s Best Video Game",
   "title_options": [
+    "I Beat The World’s Best Video Game",
     "I Created the Multiverse",
     "I Beat Minecraft With GTA",
-    "I Beat The World's Best Video Game",
     "Stokes Twins vs The Multiverse"
   ],
-  "summary": "The Stokes crew uses GTA-style firepower and an Ender Dragon to survive a Minecraft world invaded by characters from other games.",
-  "objective": "Close the invading portals and complete one clear final objective before the shared world is overrun.",
-  "rules": "Explain one objective, a finite team-life pool and three escalating invasion rounds; confirm the playable mechanics in a prototype before locking the title.",
+  "summary": "Five cast members explore five different game crossovers before joining forces to defeat one final Godzilla.",
+  "objective": "Complete five contrasting individual crossover challenges, then defeat the shared final boss together.",
+  "rules": "One distinct crossover per cast member. Intercut their experiences, then converge into a common five-player Godzilla finale. Exact world goals, failure/retry rules and finale roles remain proposals.",
   "intro": [
     {
       "start": 0,
       "end": 5,
-      "beat": "Open on the promised image: a Stokes host riding the Ender Dragon, firing down at a Flood creature, a zombie and a creeper in a bright Minecraft world."
+      "beat": "Open on one instantly recognizable game collision and a real cast reaction, with a brief glimpse of the giant shared threat."
     },
     {
       "start": 5,
       "end": 15,
-      "beat": "I put all our favorite games into one world. We have to close these portals before they take over. Show the three portals, the crew and the shared life counter."
+      "beat": "Show Alex, Alan, Kat, Tanner and Shawn at five setups, each entering a different mashup. State the simple challenge that brings them together for the final boss."
     },
     {
       "start": 15,
       "end": 30,
-      "beat": "The first portal opens early: an ordinary Minecraft mob is followed by a creature that clearly does not belong. A crew member makes the first consequential rescue or mistake."
+      "beat": "Start a real attempt, then cut to a contrasting world where another player discovers an unexpected mechanic or suffers a clear setback."
     }
   ],
-  "gamer_reward": "Recognizable mechanics collide in unexpected ways, with skillful counters and a genuinely playable dragon finale.",
-  "non_gamer_reward": "Friends have to stop an invasion with absurd tools; the objective, danger and teamwork are readable without knowing the franchises.",
-  "title_reasoning": "I Created the Multiverse sells the universal spectacle; I Beat Minecraft With GTA names the collision and a clear win condition. The latter requires actual, recognizable GTA integration and a defensible definition of beating Minecraft. Do not count GTA-like generic guns alone as GTA or claim the normal dragon-kill ending while riding the only dragon without explaining a different final objective. Additional user-proposed title options: I Beat The World's Best Video Game emphasizes broad curiosity; Stokes Twins vs The Multiverse emphasizes the Stokes brand and crew-versus-world conflict.",
+  "gamer_reward": "Discover surprising mechanics and familiar worlds interacting in new ways.",
+  "non_gamer_reward": "Follow five personalities attempting clear challenges before a shared giant-boss payoff.",
+  "title_reasoning": "The world’s-best curiosity title promises one extraordinary custom experience. Five distinct crossover experiences and a shared finale must earn that promise; it is not an objective game-ranking claim.",
   "thumbnail_direction": "Photographic Stokes host, block-built Ender Dragon, machine gun, Flood creatures from Halo, Call of Duty-style zombies and Minecraft mobs; luminous blue sky, bright green terrain, large hero silhouette and minimal secondary visual groups.",
   "production": {
-    "platform": "Minecraft Java candidate for the first playable prototype; final platform/version unconfirmed",
-    "existing_resources": "Twins, rotating crew, existing capture hardware; normal payroll excluded from incremental allowance",
-    "cost_status": "Scope-first estimate needed; no vendor quote and no committed funding",
-    "prototype": "One host and one crew client, one gun, one vehicle, one invasion enemy, one rideable dragon and a replayable 60-second encounter on one locked game version and loader.",
-    "spend_order": [
-      "Compatibility and multiplayer prototype",
-      "Dragon ride, aim and capture controls",
-      "One readable encounter",
-      "Only then extra enemy packs, set pieces and cinematic finishing"
-    ],
-    "save_money": "Reuse the tested world, portal system, enemy waves and camera setup across later episodes; vary rules and cast roles before commissioning more worlds.",
+    "platform": "Modded GTA 5 plus a separate custom recreation are candidate routes; AI-assisted development supports bounded prototypes.",
+    "prototype": "Prove one individual crossover and a five-client common Godzilla arena before expanding the five-world portfolio.",
     "dependencies": [
-      "Check mod and asset licenses for commercial videos",
-      "Test all mods together on a common version/loader",
-      "Validate server performance, dragon steering, gun aiming and spectator capture",
-      "Confirm GTA assets/mechanics rather than generic lookalikes if GTA remains in the title",
-      "Show the thumbnail action in actual captured gameplay before publishing the episode"
-    ]
+      "Select five clear world/ingredient pairings",
+      "Prove the actual custom gameplay route",
+      "Test the five-player shared finale, restart/rejoin and capture",
+      "Distinguish playable mechanics, transitions and editorial VFX"
+    ],
+    "save_money": "Reuse tested interactions and the common arena; scope each additional world rather than assuming a new engine is already built."
   },
   "series": {
-    "target": "First few uploads build toward New Year; exact meetup payoff awaiting clarification",
-    "status": "Working sequence, not eight newly approved episodes",
+    "target": "Six uploads plus a seventh stretch; New Year is a shared planning goal.",
+    "status": "Only the first three directions are selected; later episodes follow research and capacity review.",
     "beats": [
-      "Create the shared world and survive its first invasion",
-      "Crew learns and exploits one new crossover mechanic",
-      "A secret host-controlled escalation pranks the crew",
-      "Risk a useful reward to unlock the next world",
-      "End-of-year collective finale and meetup payoff, if confirmed"
-    ]
+      "Five individual crossovers and one shared Godzilla finale",
+      "Alex’s fake GTA 6 prank, with viewers kept guessing",
+      "Actual GTA 6 completion: first finisher releases everyone"
+    ],
+    "finale": "No required New Year on-screen meetup or series finale."
   },
   "references": [
     {
@@ -561,5 +551,24 @@
       "title_evidence": "Editorial adaptation of the channel’s direct first-person challenge and spectacle language. Exact title/crossover has no established performance; retained Influint October 5 family comparisons are observational, not title-only CTR evidence."
     }
   ],
-  "evidence_status": "26 active Multiverse thumbnail options, with original B-E archived from the canvas at the user request. These are creative choices rather than 26 scheduled uploads. Exact compatible gameplay and performance remain unverified; composition references do not establish causal CTR gains."
+  "evidence_status": "26 active Multiverse thumbnail options, with original B-E archived from the canvas at the user request. These are creative choices rather than 26 scheduled uploads. Exact compatible gameplay and performance remain unverified; composition references do not establish causal CTR gains.",
+  "cast": [
+    "Alex",
+    "Alan",
+    "Kat",
+    "Tanner",
+    "Shawn"
+  ],
+  "candidate_games": [
+    "Minecraft",
+    "GTA",
+    "Elden Ring",
+    "Pokémon",
+    "Mario Kart",
+    "99 Nights (Roblox)",
+    "Fortnite",
+    "Halo",
+    "Call of Duty"
+  ],
+  "worlds_status": "Five pairings and cast assignments to review from researched proposals"
 }

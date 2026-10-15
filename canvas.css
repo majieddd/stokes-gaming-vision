@@ -28,3 +28,22 @@ dialog.slideshow[open]{display:grid;grid-template-rows:auto minmax(0,1fr)}
 .topbar nav button{font-size:13px}.review-drawer{flex:0 0 var(--review-width);width:var(--review-width);min-width:0;overflow:auto;background:var(--surface);border-left:1px solid var(--line);cursor:default}.review-drawer[hidden]{display:none}.review-header{display:flex;align-items:start;gap:12px;padding:var(--review-gap);border-bottom:1px solid var(--line)}.review-header>div{min-width:0;flex:1}.review-header h2{font-size:18px;line-height:1.35;margin:0 0 7px;overflow-wrap:anywhere}.review-header p{font-size:11px;margin-bottom:7px}.review-header button{font-size:12px;padding:7px 10px}.review-body{padding:var(--review-gap)}#review-preview{display:block;width:var(--review-image);max-width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:8px;margin-bottom:16px}.review-help,#review-loading{font-size:12px;line-height:1.6;color:var(--muted)}.giscus{min-height:220px}.giscus-frame{display:block;width:100%;border:0}.video-card.reviewing .thumb-button{outline:3px solid var(--text);outline-offset:3px}.detail-review-line{display:flex;align-items:center;gap:16px;margin:20px 0}.detail-review-line span{font-size:13px}#detail-evidence{line-height:1.65;margin:20px 0;color:var(--muted)}#detail-evidence summary{color:var(--text);cursor:pointer}#detail-evidence li{margin:8px 0}#detail-evidence a{text-decoration:underline}.card-actions button[data-like][aria-expanded=true]{background:var(--text);color:var(--ground)}
 @media(max-width:1100px) and (min-width:701px){:root{--review-width:360px}}
 @media(max-width:700px){.review-drawer{flex:0 1 52%;width:100%;min-height:230px;border-left:0;border-top:1px solid var(--line)}.workspace.reviewing #viewport{min-height:150px}.workspace.reviewing .rail{flex-basis:48px}.review-header{padding:12px;position:sticky;top:0;background:var(--surface);z-index:1}.review-header h2{font-size:15px}.review-header p{margin-bottom:4px}.review-body{padding:12px}#review-preview{display:none}.review-help{margin-bottom:8px}.detail-review-line{flex-wrap:wrap;gap:10px}.topbar nav button{font-size:12px;padding:6px 9px;min-height:32px}}
+
+/* Launch filters and phone collections reuse the established canvas primitives. */
+:root{--row-padding:40px;--scope-width:230px;--control-focus:3px;--phone-rail:150px}
+body{display:grid;height:100dvh;grid-template-columns:minmax(0,1fr);grid-template-rows:var(--bar) auto minmax(0,1fr) var(--status)}
+.workspace{height:auto;min-height:0}
+.toolbar{height:auto;min-height:var(--tools);flex-wrap:wrap}
+.scope-control{display:block;max-width:100%}
+#review-scope{font:inherit;max-width:var(--scope-width);min-height:40px;background:var(--ground);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:8px}
+.search{flex:1 1 220px;width:auto;min-width:0}
+#toggle-collections{display:none}
+.format-heading,.format-description,.title-options{max-width:calc(var(--canvas-view-width,900px) - 2 * var(--row-padding))}
+.format-heading{flex-wrap:wrap;gap:8px 14px}
+.format-description{line-height:1.65}
+.title-options{flex-wrap:wrap}
+.video-meta{line-height:1.65}
+.topbar nav button{font-size:13px}
+:is(a,button,input,select,summary,main):focus-visible{outline:var(--control-focus) solid var(--text);outline-offset:3px}
+@media(max-width:1000px){.topbar nav{gap:12px}.topbar nav a:nth-child(2){display:none}}
+@media(max-width:700px){:root{--row-padding:24px}.toolbar{min-height:0;gap:8px}.scope-control{flex:1 1 100%}#review-scope{width:100%;max-width:100%}.search{flex:1 1 180px}#toggle-collections{display:block}.rail{display:none;flex:0 0 var(--phone-rail);max-height:var(--phone-rail);overflow:auto}.collections-open .rail{display:block}#format-nav{width:auto;display:grid;grid-template-columns:1fr 1fr}#format-nav button{max-width:none;white-space:normal}#format-nav small{display:block}.zoom{margin-left:0}#refresh-feedback{margin-left:auto}.topbar nav{gap:8px}.identity strong{font-size:14px}.topbar nav button{font-size:12px}.statusbar{gap:8px}#scope-count{white-space:nowrap}.format-heading h2{font-size:20px}.detail-top h1{font-size:16px}}

@@ -1,17 +1,13 @@
-# Stokes Twins Gaming launch vision
+# Stokes Gaming creative launch vision
 
-Public working proposal, published at https://majieddd.github.io/stokes-gaming-vision/.
+[Vision doc](https://majieddd.github.io/stokes-gaming-vision/) · [Thumbnail canvas](https://majieddd.github.io/stokes-gaming-vision/canvas.html)
 
-- `index.html`: full seven-chapter vision doc, 100 original ideas and the new Multiverse launch concept.
-- `canvas.html`: 26 format rows, 151 active thumbnail options (100 original episodes, 26 Multiverse options and 25 options for five new episodes). A is the retained original; B-E are archived from the active canvas; F-J are composition studies; K-T are crossover scenarios; U-AD are ten additional concepts with their own video titles. Existing title-preview buttons apply only to A-T.
-- `Team review` opens a viewport-fitting thumbnail slideshow. Use Previous/Next or the arrow keys to review the current search results. Like/Comment opens the same shared review widget inside the slideshow, so the image and navigation remain visible. GitHub sign-in uses a separate popup.
-- Shared team feedback: card reactions/comments open a nonmodal on-page panel powered by giscus and GitHub Discussions. Sign in with GitHub in a separate window to post or react, then keep browsing. Each option has its own thread. Public count metadata refreshes through one anonymous widget reader, with a local public-count cache. OAuth is managed by giscus; its encrypted session is kept in browser storage, with no personal access token or backend secret embedded in the site. A short-lived sign-in nonce validates the popup callback and session data is removed from the callback URL. The original 105 issue threads remain available and had zero reactions/comments at migration.
-- Web images are high-quality JPEGs for the original 100 and original PNGs for the Multiverse and new-episode options. Exact original PNGs and selected prompts are in the launch-v5 release download; earlier releases are preserved.
-- 001–055, MV-G, MV-H, MV-K–MV-AD and L01-A–L05-E: built-in image generator, model unverified. 056–100, MV-A–MV-F, MV-I and MV-J: verified Higgsfield GPT Image 2.5 Flare, 4K/high. The built-in options were explicitly approved after Higgsfield credits were insufficient. These are generated concepts, not captured episode footage or verified cast photographs.
-- Public evidence snapshots are dated October 5, 2026, with October 11 launch additions. No private CTR or retention curves were accessed. Cost allowances and outcomes are proposals, not approved funding or forecasts. New crossover mod compatibility is unverified.
+The launch view contains five individual crossovers plus a shared Godzilla finale, Alex’s staged GTA prank and actual GTA 6 completion with first-finisher group release. Exact worlds/builds remain proposals.
 
-The reusable blueprint/plugin is in `blueprint-plugin/`. Source videos, evidence limitations and title comparisons are preserved in the vision doc and JSON exports. Original user PDFs, workspace files, logs, secrets and provider media-library records are excluded.
+Six uploads form the base goal, with a seventh stretch. The original 100 ideas, all 151 active images, four archived originals and all 155 shared Discussion mappings remain available. Launch and All ideas are views of the same canvas. Team review opens a slideshow; shared Like/Comment stays on the page and in the slideshow. GitHub sign-in is required for shared writes.
 
-## Hosting
+Detailed budgets, personnel costs and internal production schedules are excluded from this public repository and creative download. Production profiles describe scope only.
 
-GitHub Pages publishes the root of `main`. No build step, dependencies or site server is required. Edits to static files can be reviewed and deployed through this repository. Team feedback is stored as GitHub Discussions and survives page changes. giscus must remain installed with access to this repository and Discussions enabled. `giscus.json` restricts embedding origins to the live Pages domain and localhost previews.
+Existing generated images are concepts, not episode footage. Original generator provenance is preserved. No private CTR or retention curves are supplied; public reference performance is adjacent evidence, not causal thumbnail proof.
+
+GitHub Pages serves the root of main. The authenticated review provider and callback remain unchanged.

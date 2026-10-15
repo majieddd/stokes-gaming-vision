@@ -1,18 +1,18 @@
 [
   {
     "id": "L01",
-    "title": "I Beat GTA 6",
+    "title": "I Survived 100 Hours in GTA",
     "group": "launch-gta6",
-    "summary": "The twins and crew race to complete the same GTA 6 challenge slate first, using team strategy and matched progress rules.",
-    "shape": "I Beat ___",
-    "ingredients": "GTA 6 launch interest + twins versus crew + a clear first-to-finish objective",
-    "objective": "Complete the agreed mission/challenge slate first with matched starts and transparent penalties.",
+    "summary": "The crew plays five individual GTA 6 runs in one room, and everyone can leave when the first person beats the game.",
+    "shape": "I Survived [DURATION] in [GAME]",
+    "ingredients": "Actual GTA 6 + one room + five individual runs + first completion releases everyone",
+    "objective": "Be the first to beat actual GTA 6 and release the entire crew.",
     "intro": [
-      "Show both teams approaching the same final checkpoint, then cut one second before the result.",
-      "Explain twins versus crew, the finish condition and the shared start.",
-      "The crew chooses a faster route while the twins recover from the first mistake."
+      "Show five occupied gaming stations, the closed-room premise and an elapsed clock; cut to a near-finish reaction without giving away the winner.",
+      "Explain that each person plays their own run and one completion lets everyone leave. Establish the agreed finish checkpoint.",
+      "A player gains an early lead while another hits a setback; make progress and crew rivalry easy to follow."
     ],
-    "production": "Launch-dependent. Rockstar lists November 19, 2026 and describes a single-player experience. Plan parallel saves or a relay with team cooperation; native shared story co-op remains unverified. Game copies, capture time and incremental edit labor require a quote; existing equipment is already owned.",
+    "production": "Five individual actual GTA 6 runs with synchronized game/room capture. Verify actual supported access and a clear finish checkpoint. Log and assemble while filming; publish after the first finish, group release and final QC. 100 Hours is a working title, not a required duration. Custom Godzilla is in episode one.",
     "references": [
       {
         "id": "xwdhHTtc-3w",
@@ -95,7 +95,16 @@
         "scene": "A photographic Stokes host is CENTER foreground gripping the side rail of a red-and-black helicopter, face large in ecstatic urgency. The helicopter flies from lower RIGHT toward one rooftop helipad on a sunlit Miami-inspired tower at LEFT. A small blue crew helicopter approaches the same pad from the opposite direction, secondary. Turquoise bay and white high-rises far below, luminous blue sky filling upper half. Low camera outside the main cockpit, one host, one dominant helicopter and one clear final destination. No guns, HUD or text.",
         "information_gap": "Which team reaches the last mission first?"
       }
-    ]
+    ],
+    "launch_slot": 3,
+    "working_title": true,
+    "title_options": [
+      "I Survived 100 Hours in GTA",
+      "We’re Trapped Until We Beat GTA 6",
+      "I Beat GTA 6"
+    ],
+    "rules": "First completion wins and releases everyone. Exact finish proof, starts, saves and reset rules are to review.",
+    "artwork_status": "Existing compositions retained as references; adapt the final package to the room/race/group-release story."
   },
   {
     "id": "L02",
@@ -110,7 +119,7 @@
       "Reveal four cities, team assignments and the linked real/game challenge rule.",
       "A city team gets its first location clue and must find the matching in-game route."
     ],
-    "production": "User confirmed San Francisco in place of San Diego. Route: Los Angeles/Los Santos, San Francisco/San Fierro, NYC/Liberty City and Miami/Vice City. Define coverage before promising literally every historical GTA city: Las Vegas/Las Venturas and earlier international settings are outside this proposed four-city slate. Incremental costs are flights or rail, four-city lodging, local transport, permissions and local support. Reuse owned capture gear. Exact travel dates and quotes remain open.",
+    "production": "Compare actual field travel with local operators, location plates and deliberate virtual staging before selecting an execution. San Francisco is the San Fierro stop. Match the final title to where the cast actually travels.",
     "references": [
       {
         "id": "OMAZB31W9nE",
@@ -193,22 +202,23 @@
         "scene": "A photographic Stokes host fills LEFT foreground on a San Francisco Golden Gate overlook, holding a controller near his chest and pointing across the bay in excited disbelief. At RIGHT one enormous red Golden Gate bridge stretches into the distance. Its near section is photographic steel and real asphalt, gradually becoming a slightly simplified GTA San Fierro-style game model on the far section. One tiny red in-game car crosses toward the transition. Blue sky and cyan bay, low wide viewpoint, one host plus one iconic bridge. No printed signs or labels.",
         "information_gap": "Can the team beat the bridge challenge both in-game and here?"
       }
-    ]
+    ],
+    "launch_slot": null
   },
   {
     "id": "L03",
     "title": "I Found The Leaked GTA 6",
     "group": "launch-gta-prank",
-    "summary": "One twin builds a convincing GTA 5 mod showcase and secretly convinces the crew they are playing an early GTA 6 build before revealing the prank.",
+    "summary": "Alex stages a fake GTA 6 experience for Alan, Kat, Tanner and Shawn, keeping the audience guessing until the reveal.",
     "shape": "I Found The ___",
-    "ingredients": "Anticipated game + apparent early access + crew reactions + a twin-controlled prank",
-    "objective": "Keep the crew believing the staged demo until the final intentionally planted clue reveals the prank.",
+    "ingredients": "Alex as mischievous prankster + fake early access + unaware crew + escalating clues and reveal",
+    "objective": "Build convincing apparent proof, escalating suspicions and an earned prank reveal with real crew reactions.",
     "intro": [
-      "A stunned host tries a beautiful Miami-inspired demo and spots one suspicious detail.",
-      "Explain the crew has been invited to test a mysterious build, without falsely presenting it as authenticated leaked footage to the audience.",
-      "The prankster quietly triggers the first impressive mod set piece while another crew member starts doubting it."
+      "Open with a convincing-looking game moment and a cast reaction that makes the supposed access feel extraordinary.",
+      "Show why the crew believes Alex, establish the first goal and let the audience form its own theory.",
+      "An unusual detail creates the first suspicion while the crew keeps playing; save the explicit prank reveal for the payoff."
     ],
-    "production": "Use a staged GTA 5 mod/retexture/lighting demo and disclose the prank to the audience through framing and payoff. No actual stolen build, leaked files or fabricated Rockstar endorsement. Upscaling can improve a render, not turn GTA 5 into GTA 6. Mod compatibility, permissions and performance need a technical prototype; budget incremental mod setup and prank-control/edit time, not existing cameras.",
+    "production": "Use a scoped GTA 5/custom fake-access experience, controlled clues and resettable action beats. Check who actually knows the setup before calling reactions genuine. Viewers are not told it is a prank in the opening by default.",
     "references": [
       {
         "id": "nuK7e1xzThc",
@@ -291,7 +301,10 @@
         "scene": "A photographic Stokes host is large at CENTER foreground holding a controller with a baffled laughing expression. At LEFT foreground a tiny exquisite miniature Miami game city sits on a low table, with one small red model car. At RIGHT behind the miniature, a second Stokes twin-style figure in a red shirt operates a simple camera on a tripod aimed at the model and smiles mischievously. An oversized screen in far background shows only the camera view of the city, no HUD. Open sunny studio terrace with blue sky. Camera angle makes the tabletop illusion and prank operator obvious, not a random pile of gadgets.",
         "information_gap": "Was the spectacular world just a trick made by his own twin?"
       }
-    ]
+    ],
+    "launch_slot": 2,
+    "rules": "Alex is informed; the other four are intended targets. Keep audience uncertainty until an earned reveal.",
+    "artwork_status": "Existing concepts retained; final title and thumbnail must match the staged experience without spoiling the reveal."
   },
   {
     "id": "L04",
@@ -306,7 +319,7 @@
       "Explain the winner, prize and race rules in one sentence; establish that the reward is a real car.",
       "The first driver takes an aggressive shortcut while a safer competitor gains ground."
     ],
-    "production": "User confirmed a real-car prize. The pictured red luxury and sports cars are illustrative prize classes, not owned or approved giveaway vehicles. Obtain the actual vehicle price, prize funding, title/registration/tax handling, transport and storage quote before commissioning the giveaway. Keep the game-race build and incremental edit costs separate; optional physical presentation can use a controlled parked-car location and existing gear.",
+    "production": "The prize is a real car. Keep the idea conditional on a defined race, damage/reset rules and a separately approved real-prize arrangement. In-game labels are not evidence of a funded cash prize.",
     "references": [
       {
         "id": "xiFsAjUDwdU",
@@ -389,7 +402,8 @@
         "scene": "A glossy red game supercar fills LEFT foreground drifting cleanly around the last broad bend of an elevated game race track, a photographic Stokes host visible large through the open side window, eyes wide in determined excitement. At RIGHT beyond a checkered finish arch, one real photographic red supercar is displayed on a white podium beside a giant plain silver car-key sculpture. Bright blue sky, turquoise coastal bay and green landscape far below. Use wide deep perspective to show one obvious route to the physical prize, with the foreground car dominant and the prize smaller but clear. No crash, gore, text or scoreboard.",
         "information_gap": "Will one last corner cost them the real car?"
       }
-    ]
+    ],
+    "launch_slot": null
   },
   {
     "id": "L05",
@@ -404,7 +418,7 @@
       "Explain the hiding/search rule and the game or three-game comparison selected for the final episode.",
       "A searcher walks past the first entrance while the hidden builder silently reacts."
     ],
-    "production": "The five packaging routes test GTA, Minecraft, Roblox and a three-game comparison. Lock one game or deliberately budget a three-game episode before finalizing the title. Reuse base interiors and hire only the game-specific build/scripting work needed. Estimate incremental builder, server and edit time; no travel or new camera kit by default.",
+    "production": "Choose single-game or multi-game builds, clear search rules, visible progress and an earned reveal. Reuse tested rooms and triggers where they fit the story.",
     "references": [
       {
         "id": "-5bcG6tZKx8",
@@ -487,6 +501,7 @@
         "scene": "A photographic Stokes host fills RIGHT foreground wearing a simple clear diving mask pushed above his forehead, face large with delighted surprise as he points down through bright turquoise water. At LEFT below one physically continuous clear waterline, a single glass Minecraft room is hidden beneath a small grassy island, with one red sofa and warm golden block lighting inside. A short concealed ladder leads down from one tiny surface hatch. The camera sees both sunny blue sky above and the bright underwater glass room below; no creatures or extra buildings. Clean cyan water and green island, one host and one hidden room.",
         "information_gap": "How does anyone find a room hidden beneath the lake?"
       }
-    ]
+    ],
+    "launch_slot": null
   }
 ]
