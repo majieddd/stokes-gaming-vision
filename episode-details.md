@@ -1,6 +1,6 @@
 # Stokes Gaming: Three Launch Video Briefs
 
-Creative proposals, October 15, 2026. Confirmed decisions are separated from proposed mechanics.
+Updated-plan thumbnails are concepts. Proposed mechanics remain subject to proof.
 
 Launch video 1
 
@@ -18,9 +18,9 @@ Five impossible experiences become one game the crew must beat together. The app
 
 Clear one simple mission in each world, then survive and defeat Godzilla as a team.
 
-[![Existing composition study for I Beat The World’s Best Video Game](multiverse/MV-A.webp)](canvas.html?scope=episode1#card-MV-A)
+[![Updated-plan thumbnail concept for I Beat The World’s Best Video Game](updated-thumbnails/MV-AE.webp)](canvas.html?scope=updated#card-MV-AE)
 
-Existing composition reference. Final artwork must match the proved episode. [Review all options](canvas.html?scope=episode1#card-MV-A).
+Updated-plan concept; final artwork follows playable proof. Supporting cast are concept performers. [Compare the five new options](canvas.html?scope=updated#card-MV-AE).
 
 Confirmed direction
 
@@ -339,9 +339,9 @@ An extraordinary-looking game raises one question: is this actually real? The au
 
 The crew attempts three increasingly strange missions while Alex tries to keep his supposed early build believable until the final reveal.
 
-[![Existing composition study for I Found The Leaked GTA 6](launch-episodes/L03-A.webp)](canvas.html?scope=episode2#card-L03-A)
+[![Updated-plan thumbnail concept for I Found The Leaked GTA 6](updated-thumbnails/L03-F.webp)](canvas.html?scope=updated#card-L03-F)
 
-Existing composition reference. Final artwork must match the proved episode. [Review all options](canvas.html?scope=episode2#card-L03-A).
+Updated-plan concept; final artwork follows playable proof. Supporting cast are concept performers. [Compare the five new options](canvas.html?scope=updated#card-L03-F).
 
 Confirmed direction
 
@@ -547,9 +547,9 @@ Five personalities race toward one clear finish while sharing the consequences o
 
 Be the first to complete the agreed main-story finish condition in actual GTA 6.
 
-[![Existing composition study for I Survived 100 Hours in GTA](launch-episodes/L01-D.webp)](canvas.html?scope=episode3#card-L01-D)
+[![Updated-plan thumbnail concept for I Survived 100 Hours in GTA](updated-thumbnails/L01-F.webp)](canvas.html?scope=updated#card-L01-F)
 
-Existing composition reference. Final artwork must match the proved episode. [Review all options](canvas.html?scope=episode3#card-L01-D).
+Updated-plan concept; final artwork follows playable proof. Supporting cast are concept performers. [Compare the five new options](canvas.html?scope=updated#card-L01-F).
 
 Confirmed direction
 
@@ -749,6 +749,6 @@ Existing gaming competition references are adjacent. No private launch-channel r
 
 [Review video 3 thumbnails](canvas.html?scope=episode3)[Back to top](#top)
 
-The public Influint Gaming export was refreshed October 15. Its premise/escalation/rules and game-swap guidance inform these proposals as Theory, not measured guarantees. Public outliers support adjacent formats; they do not supply CTR, private retention curves or compatibility proof. [Inspect the Gaming intelligence](https://majieddd.github.io/influint-channels-public/intelligence_niche-gaming.html).
+The public Influint Gaming export was refreshed October 15. Its premise/escalation/rules and game-swap guidance inform these proposals as Theory, not measured guarantees. Public outliers support adjacent formats; they do not supply CTR, private retention curves or compatibility proof. [Inspect the Gaming intelligence](https://majieddd.github.io/influint-channels-public/intelligence/niche-gaming.html).
 
 Use actual 24-hour, 7-day and first-28-day results per upload. No private CTR or retention curves are available.

@@ -1,0 +1,719 @@
+[
+  {
+    "id": "MV-AE",
+    "episode": "MV01",
+    "slot": 1,
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Giant boss, tiny team",
+    "framework": "Size difference + posed action",
+    "information_gap": "Can five different players beat one giant?",
+    "scene": "Low-angle city-arena showdown. One photographic Stokes host in a plain red T-shirt fills the LEFT foreground, looking back toward camera in wide-eyed awe while holding a game-world energy tool downward. At RIGHT, ONE enormous Godzilla towers above a sunny hybrid city with block-built Minecraft structures and polished GTA-like roads. Godzilla has charcoal reptilian scales, recognizable jagged dorsal plates, a long tail and a restrained blue glow, mouth open in a non-graphic roar. Four other human teammates stand on the raised arena platform between host and boss, seen mostly from behind: one black-haired twin, one woman, two men. Exactly five people total. The four are supportive silhouettes, not a second giant face cluster. One boss and one shared arena, not five separate Godzillas. Electric blue sky, a simple small block-built barricade at their feet. Strong readable triangle: huge real host, small united team, gigantic boss.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Low-angle city-arena showdown. One photographic Stokes host in a plain red T-shirt fills the LEFT foreground, looking back toward camera in wide-eyed awe while holding a game-world energy tool downward. At RIGHT, ONE enormous Godzilla towers above a sunny hybrid city with block-built Minecraft structures and polished GTA-like roads. Godzilla has charcoal reptilian scales, recognizable jagged dorsal plates, a long tail and a restrained blue glow, mouth open in a non-graphic roar. Four other human teammates stand on the raised arena platform between host and boss, seen mostly from behind: one black-haired twin, one woman, two men. Exactly five people total. The four are supportive silhouettes, not a second giant face cluster. One boss and one shared arena, not five separate Godzillas. Electric blue sky, a simple small block-built barricade at their feet. Strong readable triangle: huge real host, small united team, gigantic boss.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "c723ef9a490c33f5bb3a6cc10bd2475176b7d31c4b8ca97562a602d2c0a828cd",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "title": "World's Largest Minecraft Build!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+        "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
+      },
+      {
+        "title": "Halo & MDE",
+        "url": "https://modrinth.com/project/halo-mde",
+        "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
+      },
+      {
+        "title": "Dragon Mounts Remastered",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
+        "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
+      },
+      {
+        "title": "Immersive Vehicles",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
+        "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
+      }
+    ]
+  },
+  {
+    "id": "MV-AF",
+    "episode": "MV01",
+    "slot": 1,
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Five worlds, one threat",
+    "framework": "Repetition + landscape + size difference",
+    "information_gap": "How do these five worlds become one game?",
+    "scene": "One photographic Stokes host in a red shirt stands CENTER foreground, waist-up, amazed, reaching toward the viewer. Behind him FIVE enormous round portal gateways form a clear semicircle, all in one continuous landscape with blue sky. Each gateway shows one distinct simple scene: a GTA sports car on a Minecraft block bridge; a black angular Ender Dragon over a Halo-inspired ring landscape; a tiny yellow electric companion facing a gold-armored fantasy giant; a colorful kart on a real-scale city race road; a wooden nighttime forest defense fort with a blue construction wall. The five are environmental windows, not logos or five vertical poster panels. Above and beyond the portal ring ONE giant Godzilla silhouette rises in the sunlit common arena, with jagged dorsal plates and blue breath glow. Keep the host dominant and portal contents sparse. Hero, portal ring, single giant threat: three visual groups. This depicts proposed worlds and their shared finale.",
+    "prompt": "Edit image 1. Keep the entire thumbnail composition, the photographic Stokes host, all five round portal positions and colors, the single giant Godzilla, bright blue sky and other four portal scenes exactly as they are. Change ONLY the dragon inside the second portal from the left, the violet portal: replace the smooth curved medieval dragon with a recognizable Minecraft ENDER DRAGON made entirely of rigid BLACK VOXEL CUBOIDS, rectangular block head and jaw, rectangular segmented neck and tail, straight angular dark wings and violet square eyes. It must visibly read as Minecraft blocks, not organic scales. Keep the Halo ring world visible behind that block-built dragon inside the same violet portal. Everything else stays intact. Image 2 is only the Stokes host facial reference; preserve the existing photographed identity. No new characters, text, logos or additional portals. ONE wide 16:9 final image.",
+    "prompt_sha256": "6983a15c2ffbe22ae08cf3d66b6b11f578d0e5b050b5924f36d88d084f0015bc",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "title": "World's Largest Minecraft Build!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+        "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
+      },
+      {
+        "title": "Halo & MDE",
+        "url": "https://modrinth.com/project/halo-mde",
+        "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
+      },
+      {
+        "title": "Dragon Mounts Remastered",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
+        "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
+      },
+      {
+        "title": "Immersive Vehicles",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
+        "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
+      }
+    ],
+    "initial_prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: One photographic Stokes host in a red shirt stands CENTER foreground, waist-up, amazed, reaching toward the viewer. Behind him FIVE enormous round portal gateways form a clear semicircle, all in one continuous landscape with blue sky. Each gateway shows one distinct simple scene: a GTA sports car on a Minecraft block bridge; a black angular Ender Dragon over a Halo-inspired ring landscape; a tiny yellow electric companion facing a gold-armored fantasy giant; a colorful kart on a real-scale city race road; a wooden nighttime forest defense fort with a blue construction wall. The five are environmental windows, not logos or five vertical poster panels. Above and beyond the portal ring ONE giant Godzilla silhouette rises in the sunlit common arena, with jagged dorsal plates and blue breath glow. Keep the host dominant and portal contents sparse. Hero, portal ring, single giant threat: three visual groups. This depicts proposed worlds and their shared finale.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "refinement_input_roles": [
+      "Previous generated concept",
+      "Original Stokes host face/hair reference"
+    ],
+    "parent_image_sha256": "5bc43965228857ab0be491593adf0f986d1df3d042ede27031542779ebeb8f0f"
+  },
+  {
+    "id": "MV-AG",
+    "episode": "MV01",
+    "slot": 1,
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Dragon versus Godzilla",
+    "framework": "Posed action + size difference",
+    "information_gap": "Can the dragon turn the final fight?",
+    "scene": "Photographic Stokes host in a red T-shirt rides a recognizable Minecraft Ender Dragon, in a dramatic close three-quarter view from its neck. Host face LARGE at RIGHT, determined and astonished, both hands coherently gripping a simple futuristic game blaster. The dragon is black and block-built with angular wings and glowing purple eyes. At LEFT one gigantic Godzilla head and shoulder rise toward them above a hybrid Minecraft/GTA coastal arena, jaws open in a non-graphic roar, jagged dorsal plates visible. A single blue beam passes behind the rider, not through any person. Four tiny other human teammates are together on a small distant arena platform below, readable as a cooperating ground team. One dragon, one Godzilla, five players total. Main visual groups: real rider/dragon silhouette, enormous boss, small common arena. Bright midday blue sky with a few clouds, no monster crowd or Flood invasion in this image.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Photographic Stokes host in a red T-shirt rides a recognizable Minecraft Ender Dragon, in a dramatic close three-quarter view from its neck. Host face LARGE at RIGHT, determined and astonished, both hands coherently gripping a simple futuristic game blaster. The dragon is black and block-built with angular wings and glowing purple eyes. At LEFT one gigantic Godzilla head and shoulder rise toward them above a hybrid Minecraft/GTA coastal arena, jaws open in a non-graphic roar, jagged dorsal plates visible. A single blue beam passes behind the rider, not through any person. Four tiny other human teammates are together on a small distant arena platform below, readable as a cooperating ground team. One dragon, one Godzilla, five players total. Main visual groups: real rider/dragon silhouette, enormous boss, small common arena. Bright midday blue sky with a few clouds, no monster crowd or Flood invasion in this image.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "841175f7374e403b6141ba20c53c3f99849c5377d2f8316527b92a36f99f8ba6",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "title": "World's Largest Minecraft Build!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+        "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
+      },
+      {
+        "title": "Halo & MDE",
+        "url": "https://modrinth.com/project/halo-mde",
+        "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
+      },
+      {
+        "title": "Dragon Mounts Remastered",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
+        "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
+      },
+      {
+        "title": "Immersive Vehicles",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
+        "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
+      }
+    ]
+  },
+  {
+    "id": "MV-AH",
+    "episode": "MV01",
+    "slot": 1,
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Impossible team shortcut",
+    "framework": "Posed action + amplified reality",
+    "information_gap": "Can the crew use another game’s rules against the boss?",
+    "scene": "A red kart with simple bright wheels launches from a block-built Minecraft ramp across a sunlit GTA-like city arena. A photographic Stokes host in a black T-shirt drives it; his face is large and excited in the LEFT-CENTER foreground, three-quarter side profile, both hands correctly on the steering wheel. The kart/ramp sweep diagonally toward ONE colossal Godzilla at upper RIGHT, charcoal skin and blue dorsal glow. The boss is the shared final target, not a chase by ordinary dinosaurs. Four small human teammates cooperate on the launch platform behind the kart: another black-haired twin, a woman and two men, mostly back-facing. Exactly five people. One clear Minecraft building interaction makes the kart shortcut possible. Azure sky, white clouds, readable car/ramp silhouette, one giant boss. No unrelated franchise pile, no numeric badges.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: A red kart with simple bright wheels launches from a block-built Minecraft ramp across a sunlit GTA-like city arena. A photographic Stokes host in a black T-shirt drives it; his face is large and excited in the LEFT-CENTER foreground, three-quarter side profile, both hands correctly on the steering wheel. The kart/ramp sweep diagonally toward ONE colossal Godzilla at upper RIGHT, charcoal skin and blue dorsal glow. The boss is the shared final target, not a chase by ordinary dinosaurs. Four small human teammates cooperate on the launch platform behind the kart: another black-haired twin, a woman and two men, mostly back-facing. Exactly five people. One clear Minecraft building interaction makes the kart shortcut possible. Azure sky, white clouds, readable car/ramp silhouette, one giant boss. No unrelated franchise pile, no numeric badges.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "730cbed9a26fb19c978f795b8e33b169bca09c2113a9529270de9d2fd39ce6d5",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "title": "World's Largest Minecraft Build!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+        "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
+      },
+      {
+        "title": "Halo & MDE",
+        "url": "https://modrinth.com/project/halo-mde",
+        "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
+      },
+      {
+        "title": "Dragon Mounts Remastered",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
+        "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
+      },
+      {
+        "title": "Immersive Vehicles",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
+        "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
+      }
+    ]
+  },
+  {
+    "id": "MV-AI",
+    "episode": "MV01",
+    "slot": 1,
+    "title": "I Beat The World’s Best Video Game",
+    "label": "All five above the boss",
+    "framework": "Team action + extreme perspective",
+    "information_gap": "Can everyone survive the shared final attack?",
+    "scene": "Dramatic HIGH overhead perspective looking down past a raised Minecraft block platform onto ONE enormous Godzilla face and reaching claw below. The photographic Stokes host in a red T-shirt is in the upper RIGHT foreground, turning toward camera, face large with fierce playful determination. Four human teammates line the same platform beside him, mostly seen from behind: the other black-haired twin, one woman and two men. Exactly five humans, all in one arena. Godzilla’s huge open jaws and scaled head fill the lower-left foreground, with blue-lit dorsal plates receding toward a sunny GTA-like coast. The team’s simple block-built shield bends around the platform edge. This is one shared cooperative final fight, not five personal bosses. Small blue sky strip and turquoise coast maintain uplifting daylight. Clean top-down depth and diagonal platform, totally different from the low-angle city showdown. Non-graphic adventure.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Dramatic HIGH overhead perspective looking down past a raised Minecraft block platform onto ONE enormous Godzilla face and reaching claw below. The photographic Stokes host in a red T-shirt is in the upper RIGHT foreground, turning toward camera, face large with fierce playful determination. Four human teammates line the same platform beside him, mostly seen from behind: the other black-haired twin, one woman and two men. Exactly five humans, all in one arena. Godzilla’s huge open jaws and scaled head fill the lower-left foreground, with blue-lit dorsal plates receding toward a sunny GTA-like coast. The team’s simple block-built shield bends around the platform edge. This is one shared cooperative final fight, not five personal bosses. Small blue sky strip and turquoise coast maintain uplifting daylight. Clean top-down depth and diagonal platform, totally different from the low-angle city showdown. Non-graphic adventure.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "0de0bb8e73d5f93e792309f8756b745b29510e694d15bf70d113fb17c4d05799",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "title": "World's Largest Minecraft Build!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+        "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
+      },
+      {
+        "title": "Halo & MDE",
+        "url": "https://modrinth.com/project/halo-mde",
+        "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
+      },
+      {
+        "title": "Dragon Mounts Remastered",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
+        "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
+      },
+      {
+        "title": "Immersive Vehicles",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
+        "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
+      }
+    ]
+  },
+  {
+    "id": "L03-F",
+    "episode": "L03",
+    "slot": 2,
+    "title": "I Found The Leaked GTA 6",
+    "label": "Is this actually real?",
+    "framework": "Posed portrait + mystery",
+    "information_gap": "Why does Alex have access to this?",
+    "scene": "A convincing mystery-access scene in a premium bright gaming room. Photographic Alex-like Stokes host stands at RIGHT foreground in a plain black T-shirt, large face with a subtle confident half-smile and raised eyebrow, holding a simple black controller. The other twin at LEFT leans toward a single HUGE monitor with a stunned open-mouth expression. The monitor shows a beautiful GTA-style Miami-inspired coastal city, palm trees, turquoise water and one glossy sports car, visibly rendered gameplay rather than a real city photo. No Rockstar marks, developer credentials, leaked-drive labels or explanatory prank props. Keep the audience uncertain: do not use shushing, fake alerts, a hidden operator or a revealed trick. Two real-looking faces and one irresistible game vista. Bright blue sky on the screen, clean photographic skin, one unified room.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: A convincing mystery-access scene in a premium bright gaming room. Photographic Alex-like Stokes host stands at RIGHT foreground in a plain black T-shirt, large face with a subtle confident half-smile and raised eyebrow, holding a simple black controller. The other twin at LEFT leans toward a single HUGE monitor with a stunned open-mouth expression. The monitor shows a beautiful GTA-style Miami-inspired coastal city, palm trees, turquoise water and one glossy sports car, visibly rendered gameplay rather than a real city photo. No Rockstar marks, developer credentials, leaked-drive labels or explanatory prank props. Keep the audience uncertain: do not use shushing, fake alerts, a hidden operator or a revealed trick. Two real-looking faces and one irresistible game vista. Bright blue sky on the screen, clean photographic skin, one unified room.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "b8ab9161e7d6a11c5419ad3890896c0fc4da54314a728b2c9bf69d13b26c2b98",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "nuK7e1xzThc",
+        "title": "Prisoner Drive Thru Prank",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
+        "lift": 2.94,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "AwQz703eOt0",
+        "title": "BUSTING VIRAL TIKTOK GADGETS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
+        "lift": 4.18,
+        "standing": "qualifying public outlier",
+        "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
+        "observed_at": "2026-10-05T06:01:52.265096+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ]
+  },
+  {
+    "id": "L03-G",
+    "episode": "L03",
+    "slot": 2,
+    "title": "I Found The Leaked GTA 6",
+    "label": "The mystery build",
+    "framework": "Product mystery + posed portrait",
+    "information_gap": "What is on that tiny device?",
+    "scene": "Extreme foreground product composition: a plain unlettered black solid-state drive held toward camera by the photographic Stokes host, correct bare fingers, drive dominating the CENTER foreground. His large recognizable face is behind it at upper LEFT, eyes wide with intriguing excitement, black T-shirt. At RIGHT a clean angled monitor shows a gorgeous sunny Miami-inspired GTA-style coastal road and a glossy coral sports car. The other twin is a smaller back-facing figure watching the screen. The drive is a visual metaphor for mysterious access, not an authenticated stolen file: absolutely no real developer logos, official packaging, secret stamps, file names, padlocks or readable text. Clean black object, expressive real host, beautiful game world. Blue sky and warm daylight. Maintain genuine unanswered mystery, not an obvious prank reveal.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Extreme foreground product composition: a plain unlettered black solid-state drive held toward camera by the photographic Stokes host, correct bare fingers, drive dominating the CENTER foreground. His large recognizable face is behind it at upper LEFT, eyes wide with intriguing excitement, black T-shirt. At RIGHT a clean angled monitor shows a gorgeous sunny Miami-inspired GTA-style coastal road and a glossy coral sports car. The other twin is a smaller back-facing figure watching the screen. The drive is a visual metaphor for mysterious access, not an authenticated stolen file: absolutely no real developer logos, official packaging, secret stamps, file names, padlocks or readable text. Clean black object, expressive real host, beautiful game world. Blue sky and warm daylight. Maintain genuine unanswered mystery, not an obvious prank reveal.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "9a47681a4919688101b41eb2834a3a6842aa40919df18676f50a538bbe65ba60",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "nuK7e1xzThc",
+        "title": "Prisoner Drive Thru Prank",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
+        "lift": 2.94,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "AwQz703eOt0",
+        "title": "BUSTING VIRAL TIKTOK GADGETS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
+        "lift": 4.18,
+        "standing": "qualifying public outlier",
+        "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
+        "observed_at": "2026-10-05T06:01:52.265096+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ]
+  },
+  {
+    "id": "L03-H",
+    "episode": "L03",
+    "slot": 2,
+    "title": "I Found The Leaked GTA 6",
+    "label": "One suspicious detail",
+    "framework": "Posed action + visual anomaly",
+    "information_gap": "Is that an unfinished game or a clue?",
+    "scene": "Photographic Stokes host at RIGHT foreground in a red T-shirt, very large skeptical face, one eyebrow raised, pointing into an enormous game monitor at LEFT. The screen shows a brilliantly sunny Miami-inspired GTA street and one sports car arriving at a marked curb, no readable HUD. A subtle but clearly visible oddity: THREE identical casually dressed NPC figures stand in the same pose along the sidewalk, repeated only within the game scene. Do not duplicate the host. The beautiful vista appears convincing at first glance, but the repeated NPCs invite a second look. The host and monitor belong to one believable brightly lit gaming room. Do not show the prankster’s controls, fake labels, glitches everywhere or the final reveal. Two main groups: giant real skeptical face and the game scene with its one odd detail. Blue sky, palms and saturated city colors.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Photographic Stokes host at RIGHT foreground in a red T-shirt, very large skeptical face, one eyebrow raised, pointing into an enormous game monitor at LEFT. The screen shows a brilliantly sunny Miami-inspired GTA street and one sports car arriving at a marked curb, no readable HUD. A subtle but clearly visible oddity: THREE identical casually dressed NPC figures stand in the same pose along the sidewalk, repeated only within the game scene. Do not duplicate the host. The beautiful vista appears convincing at first glance, but the repeated NPCs invite a second look. The host and monitor belong to one believable brightly lit gaming room. Do not show the prankster’s controls, fake labels, glitches everywhere or the final reveal. Two main groups: giant real skeptical face and the game scene with its one odd detail. Blue sky, palms and saturated city colors.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "1ecdb5b23485ffa98ff09fbb01af901a92767400ecc74201967d271784773fc7",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "nuK7e1xzThc",
+        "title": "Prisoner Drive Thru Prank",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
+        "lift": 2.94,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "AwQz703eOt0",
+        "title": "BUSTING VIRAL TIKTOK GADGETS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
+        "lift": 4.18,
+        "standing": "qualifying public outlier",
+        "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
+        "observed_at": "2026-10-05T06:01:52.265096+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ]
+  },
+  {
+    "id": "L03-I",
+    "episode": "L03",
+    "slot": 2,
+    "title": "I Found The Leaked GTA 6",
+    "label": "Can the demo handle this?",
+    "framework": "Posed action + amplified reality",
+    "information_gap": "Will the supposed early build survive a real test?",
+    "scene": "A photoreal Stokes twin in a black T-shirt sits in the RIGHT foreground at a gaming station, body leaning back in startled laughter, one hand on a black controller, face extremely clear. A massive tilted widescreen monitor at LEFT shows a cinematic GTA-style sunny Miami highway escape: one coral sports car leaps over a tiny road gap with a clean line of pursuing vehicles well behind. One slightly absurd but non-graphic detail is a traffic car perched improbably on a low roadside barrier, subtle enough to be an unfinished-game mystery. The scene is a convincing custom demo under pressure, not verified GTA 6 footage. Do not include Minecraft, Godzilla, zombies, a revealed trick or real game logos. Capture the moment the crew tries something unexpected. The monitor’s diagonal and the host’s leaning pose drive the composition. Luminous blue sky on screen, crisp game rendering, bright realistic room light.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: A photoreal Stokes twin in a black T-shirt sits in the RIGHT foreground at a gaming station, body leaning back in startled laughter, one hand on a black controller, face extremely clear. A massive tilted widescreen monitor at LEFT shows a cinematic GTA-style sunny Miami highway escape: one coral sports car leaps over a tiny road gap with a clean line of pursuing vehicles well behind. One slightly absurd but non-graphic detail is a traffic car perched improbably on a low roadside barrier, subtle enough to be an unfinished-game mystery. The scene is a convincing custom demo under pressure, not verified GTA 6 footage. Do not include Minecraft, Godzilla, zombies, a revealed trick or real game logos. Capture the moment the crew tries something unexpected. The monitor’s diagonal and the host’s leaning pose drive the composition. Luminous blue sky on screen, crisp game rendering, bright realistic room light.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "f4e45dd6889b9984e0eee1388e42244b8eb4f3119271c8c0378cd6569efcaa64",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "nuK7e1xzThc",
+        "title": "Prisoner Drive Thru Prank",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
+        "lift": 2.94,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "AwQz703eOt0",
+        "title": "BUSTING VIRAL TIKTOK GADGETS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
+        "lift": 4.18,
+        "standing": "qualifying public outlier",
+        "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
+        "observed_at": "2026-10-05T06:01:52.265096+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ]
+  },
+  {
+    "id": "L03-J",
+    "episode": "L03",
+    "slot": 2,
+    "title": "I Found The Leaked GTA 6",
+    "label": "What’s behind the final door?",
+    "framework": "Threshold mystery + posed portrait",
+    "information_gap": "What did Alex hide in this world?",
+    "scene": "In a vivid GTA-style sunlit Miami district, a huge ordinary warehouse door at CENTER opens just a few inches onto a brilliant warm-gold interior glow. The photographic Stokes host in a red T-shirt is LARGE at LEFT foreground, leaning toward the gap with astonished curiosity, one hand on a plain black controller to establish the game context. A second photographic twin is smaller at RIGHT beside the door, eyes narrowed with a knowing but ambiguous smile. The interior contents remain hidden; do not expose the prank room, production controls, fake build labels or any real leaked material. The real people are photographically composited into the premium rendered world, like high-production gaming creator packaging. One mystery door, two expressive twins, open blue sky and palms. No text, numerical codes or logos. It represents the proposed final mission’s impossible location without spoiling the reveal.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: In a vivid GTA-style sunlit Miami district, a huge ordinary warehouse door at CENTER opens just a few inches onto a brilliant warm-gold interior glow. The photographic Stokes host in a red T-shirt is LARGE at LEFT foreground, leaning toward the gap with astonished curiosity, one hand on a plain black controller to establish the game context. A second photographic twin is smaller at RIGHT beside the door, eyes narrowed with a knowing but ambiguous smile. The interior contents remain hidden; do not expose the prank room, production controls, fake build labels or any real leaked material. The real people are photographically composited into the premium rendered world, like high-production gaming creator packaging. One mystery door, two expressive twins, open blue sky and palms. No text, numerical codes or logos. It represents the proposed final mission’s impossible location without spoiling the reveal.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "0ddd3389265f2dc2a4e60c9414c003c0547ff23475e5abc4a22f14e35e97511b",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "nuK7e1xzThc",
+        "title": "Prisoner Drive Thru Prank",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
+        "lift": 2.94,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
+        "observed_at": "2026-10-05T06:01:52.274157+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "AwQz703eOt0",
+        "title": "BUSTING VIRAL TIKTOK GADGETS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
+        "lift": 4.18,
+        "standing": "qualifying public outlier",
+        "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
+        "observed_at": "2026-10-05T06:01:52.265096+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      }
+    ]
+  },
+  {
+    "id": "L01-F",
+    "episode": "L01",
+    "slot": 3,
+    "title": "I Survived 100 Hours in GTA",
+    "label": "Five stations, one exit",
+    "framework": "Room cutaway + repetition",
+    "information_gap": "Who finishes first and gets everyone out?",
+    "scene": "Bright cinematic dollhouse cutaway of ONE real warehouse gaming room, seen from a high three-quarter angle. Exactly FIVE individual gaming stations form a horseshoe, each occupied by one adult, each with their own controller and screen showing a different progress view of a sunny GTA-style city. The photographic Stokes host in a red T-shirt is large in the FRONT-RIGHT station, turning toward camera with competitive determination. Another black-haired twin and three adult crew members (one woman, two men) occupy the other four stations mostly back-facing. One unmistakable closed exit door at the far end, a bright daylight window above it. Keep all five stations countable and separate; no teams sharing a run and no co-op mission. The open wall/cutaway is a packaging device, not a cage. No Godzilla, no prize car, no numerals, no 100-hour clock. Three groups: dominant real host, five-station room, single exit.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Bright cinematic dollhouse cutaway of ONE real warehouse gaming room, seen from a high three-quarter angle. Exactly FIVE individual gaming stations form a horseshoe, each occupied by one adult, each with their own controller and screen showing a different progress view of a sunny GTA-style city. The photographic Stokes host in a red T-shirt is large in the FRONT-RIGHT station, turning toward camera with competitive determination. Another black-haired twin and three adult crew members (one woman, two men) occupy the other four stations mostly back-facing. One unmistakable closed exit door at the far end, a bright daylight window above it. Keep all five stations countable and separate; no teams sharing a run and no co-op mission. The open wall/cutaway is a packaging device, not a cage. No Godzilla, no prize car, no numerals, no 100-hour clock. Three groups: dominant real host, five-station room, single exit.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "7a5b5f09aae21f01efc8538255f3d1eed41b8c902ec0040fa9063ec211259321",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "xwdhHTtc-3w",
+        "title": "1 vs 10 Hunters in GTA!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
+        "lift": 2.25,
+        "standing": "qualifying public outlier",
+        "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
+        "observed_at": "2026-10-05T06:01:50.829483+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ]
+  },
+  {
+    "id": "L01-G",
+    "episode": "L01",
+    "slot": 3,
+    "title": "I Survived 100 Hours in GTA",
+    "label": "The race across the desks",
+    "framework": "Head-to-head portrait + depth",
+    "information_gap": "Which player beats the game first?",
+    "scene": "Photographic Stokes twins compete at TWO separate foreground gaming stations, facing inward from opposite sides. LEFT twin in a red T-shirt is focused, leaning toward his controller; RIGHT twin in a black T-shirt reacts in shocked frustration. Both faces large, sharp and real. Three additional crew members at their own stations recede between them toward a single closed room door, mostly back-facing. Exactly five individual players total, each with a separate screen showing premium GTA-style sunny city gameplay. The five desks form one strong vanishing-point corridor, not a split screen or a versus graphic. The room is bright and clean, with cyan daylight from a warehouse window. The story is an individual completion race whose first winner releases everyone, not twins versus crew. No game HUD labels, no fake percentages, no fixed time claim, no shared co-op or Godzilla.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Photographic Stokes twins compete at TWO separate foreground gaming stations, facing inward from opposite sides. LEFT twin in a red T-shirt is focused, leaning toward his controller; RIGHT twin in a black T-shirt reacts in shocked frustration. Both faces large, sharp and real. Three additional crew members at their own stations recede between them toward a single closed room door, mostly back-facing. Exactly five individual players total, each with a separate screen showing premium GTA-style sunny city gameplay. The five desks form one strong vanishing-point corridor, not a split screen or a versus graphic. The room is bright and clean, with cyan daylight from a warehouse window. The story is an individual completion race whose first winner releases everyone, not twins versus crew. No game HUD labels, no fake percentages, no fixed time claim, no shared co-op or Godzilla.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "4c930d64a4c82f8d605f15541fcfdaf1b722d0690670707bf74b375942a027e9",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "xwdhHTtc-3w",
+        "title": "1 vs 10 Hunters in GTA!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
+        "lift": 2.25,
+        "standing": "qualifying public outlier",
+        "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
+        "observed_at": "2026-10-05T06:01:50.829483+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ]
+  },
+  {
+    "id": "L01-H",
+    "episode": "L01",
+    "slot": 3,
+    "title": "I Survived 100 Hours in GTA",
+    "label": "One winner opens the door",
+    "framework": "Threshold action + payoff",
+    "information_gap": "Whose finish lets the entire crew leave?",
+    "scene": "View from OUTSIDE a real gaming room through a wide open doorway. The photographic Stokes host in a plain red T-shirt fills the RIGHT foreground, opening the door toward the viewer with one hand and raising his black controller triumphantly with the other, ecstatic relieved grin. Behind him FOUR other players are leaving their separate occupied game stations and moving toward the SAME open exit together; another twin, one woman and two men, mostly back-facing or side silhouettes. The five distinct screens remain visible enough to show separate GTA-style city runs. Exactly five people total. Bright daylight pours over the threshold, blue sky through a small exterior window. This is the first finisher releasing everyone at once. Do not imply each other player must finish separately. No padlocks, prison bars, dangerous restraint, 100-hour numbers, trophies or real game logos. One face, one doorway, the released crew.",
+    "prompt": "Edit image 1 into a clear SINGLE SHARED EXIT payoff. Keep the photographic red-shirt Stokes host large at right opening the foreground door toward the camera with his left hand and holding his controller high with his right hand, same recognizable face, bright relief and celebratory mood. Keep exactly FOUR other adult crew members in the gaming room immediately behind him, one black-haired twin, one woman and two men. Turn their bodies so ALL FOUR walk TOWARD THE CAMERA through the SAME FOREGROUND doorway the host is holding open, smiling with relief and looking toward the foreground exit. Their gaming stations and chairs remain behind them. Replace the distant open door in the center background with an ordinary solid wall and a small high daylight window: there is NO second doorway or second exit anywhere. The one common exit is in the foreground, not behind the crew. Preserve the five distinct sunny GTA-style game screens and premium bright warehouse room. Exactly five people total, one shared doorway, photographic humans. Image 2 is only the original Stokes host face reference. No text, numeric duration, clocks, logos, Godzilla, prison bars or extra people. ONE wide 16:9 final image.",
+    "prompt_sha256": "51c4ebfca129367e99e83ee9361cf32963a6713c0af18172f4b5eafd7a1bcbc1",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "xwdhHTtc-3w",
+        "title": "1 vs 10 Hunters in GTA!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
+        "lift": 2.25,
+        "standing": "qualifying public outlier",
+        "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
+        "observed_at": "2026-10-05T06:01:50.829483+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ],
+    "initial_prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: View from OUTSIDE a real gaming room through a wide open doorway. The photographic Stokes host in a plain red T-shirt fills the RIGHT foreground, opening the door toward the viewer with one hand and raising his black controller triumphantly with the other, ecstatic relieved grin. Behind him FOUR other players are leaving their separate occupied game stations and moving toward the SAME open exit together; another twin, one woman and two men, mostly back-facing or side silhouettes. The five distinct screens remain visible enough to show separate GTA-style city runs. Exactly five people total. Bright daylight pours over the threshold, blue sky through a small exterior window. This is the first finisher releasing everyone at once. Do not imply each other player must finish separately. No padlocks, prison bars, dangerous restraint, 100-hour numbers, trophies or real game logos. One face, one doorway, the released crew.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "refinement_input_roles": [
+      "Previous generated concept",
+      "Original Stokes host face/hair reference"
+    ],
+    "parent_image_sha256": "9abb39bcfc4d4bfaa644f96a52200f98474b4cbe6221d64f451f6290d2eeb84e"
+  },
+  {
+    "id": "L01-I",
+    "episode": "L01",
+    "slot": 3,
+    "title": "I Survived 100 Hours in GTA",
+    "label": "Time is wearing us down",
+    "framework": "Time-pressure portrait + repetition",
+    "information_gap": "Who will break the stalemate?",
+    "scene": "Photographic Stokes host in a black T-shirt at LEFT foreground, huge face resting briefly on one bare hand, tired but determined eyes fixed on his own game screen; the other hand still holds a controller. At upper RIGHT a LARGE simple analog wall clock has plain tick marks and hands but absolutely no numerals or text. Beneath it the other FOUR crew members sit at separate gaming stations in the same bright warehouse room, mostly back-facing, each monitor showing a different sunny GTA-style mission scene. Exactly five players, one closed door visible behind them. A couple of unlettered cups on the desk suggest a long session without filth or distress. Clear three-group hierarchy: real tired face, analog clock, four-station room. Bright cinematic exposure and cyan window light, no gloomy horror grade. The clock symbolizes elapsed time and does not assert 100 hours. No Godzilla, co-op or percentages.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Photographic Stokes host in a black T-shirt at LEFT foreground, huge face resting briefly on one bare hand, tired but determined eyes fixed on his own game screen; the other hand still holds a controller. At upper RIGHT a LARGE simple analog wall clock has plain tick marks and hands but absolutely no numerals or text. Beneath it the other FOUR crew members sit at separate gaming stations in the same bright warehouse room, mostly back-facing, each monitor showing a different sunny GTA-style mission scene. Exactly five players, one closed door visible behind them. A couple of unlettered cups on the desk suggest a long session without filth or distress. Clear three-group hierarchy: real tired face, analog clock, four-station room. Bright cinematic exposure and cyan window light, no gloomy horror grade. The clock symbolizes elapsed time and does not assert 100 hours. No Godzilla, co-op or percentages.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "e95405c6302b9a8ac3c7823df1c65b841e98ff170b4ed861203469ac12615a7e",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "xwdhHTtc-3w",
+        "title": "1 vs 10 Hunters in GTA!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
+        "lift": 2.25,
+        "standing": "qualifying public outlier",
+        "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
+        "observed_at": "2026-10-05T06:01:50.829483+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ]
+  },
+  {
+    "id": "L01-J",
+    "episode": "L01",
+    "slot": 3,
+    "title": "I Survived 100 Hours in GTA",
+    "label": "First finish, everyone celebrates",
+    "framework": "Reaction payoff + diagonal repetition",
+    "information_gap": "Who gets the winning reaction?",
+    "scene": "Wide diagonal overhead view along FIVE separate gaming desks in one bright room. The photographic Stokes host in a red T-shirt stands by the NEAREST desk at LOWER LEFT, face large and ecstatic, lifting his controller in a coherent two-handed celebration. FOUR other seated players at the remaining desks turn toward him and begin celebrating, mostly back-facing: the other black-haired twin, one woman and two men. Exactly five players; all five separate monitors show GTA-style city progress, with no readable text or fabricated completion percentages. At the FAR RIGHT the one room exit swings open to clean daylight, connecting this single winning finish to everyone’s release. Strong diagonal of desks and excited human movement, not a centered cutaway or two-face comparison. Sunny blue sky visible through a high window, warm bright skin, realistic captured-room feel with polished game screens. No Godzilla or fixed time badge.",
+    "prompt": "Bold high-production YouTube gaming thumbnail, wide 16:9 landscape. Photographic real people integrated seamlessly into a glossy cinematic game world, blockbuster adventure scale, bright clean exposure and rich coherent colors. The scene must read at 120px: one dominant face/action and two supporting visual groups. Use a strong sculpting key light, soft fill and crisp white hair/back rim. Luminous blue sky in outdoor worlds; indoor scenes have warm clean skin light and clear cyan daylight from windows or game screens. Keep the photographically real host distinct from rendered game environments. Text-free image: plain unlettered props and screens, no headlines, numerals, watermarks, wordmarks or legible UI. Titles will appear beneath the artwork on the canvas. Deliver ONE finished full-frame image, not a contact sheet or a mockup.\n\nSCENE BRIEF: Wide diagonal overhead view along FIVE separate gaming desks in one bright room. The photographic Stokes host in a red T-shirt stands by the NEAREST desk at LOWER LEFT, face large and ecstatic, lifting his controller in a coherent two-handed celebration. FOUR other seated players at the remaining desks turn toward him and begin celebrating, mostly back-facing: the other black-haired twin, one woman and two men. Exactly five players; all five separate monitors show GTA-style city progress, with no readable text or fabricated completion percentages. At the FAR RIGHT the one room exit swings open to clean daylight, connecting this single winning finish to everyone’s release. Strong diagonal of desks and excited human movement, not a centered cutaway or two-face comparison. Sunny blue sky visible through a high window, warm bright skin, realistic captured-room feel with polished game screens. No Godzilla or fixed time badge.\n\nCHARACTER REFERENCE: the supplied image is a FACE AND HAIR reference only for the real Stokes Twins host. Preserve the same recognizable bone structure, eyes, nose, lips, jaw, skin tone and thick wavy black hair. Photographic human, never a game avatar or a different celebrity. Ignore the reference's garage, car, brush, blue gloves, pose and lighting. A second twin, only when specified, shares the same family likeness. Supporting crew, when specified, are three adult concept performers (one woman, two men), mostly back-facing; do not pretend these are verified likenesses. Keep all hands anatomically plausible and all key faces sharp.\n\nThe reference is used only for facial identity. Create this entirely new scene and camera composition; discard every other reference element.",
+    "prompt_sha256": "87d0295ef9e4b2a7d6973c776de59cf8c2501ea5f3805893726c831ddf59a902",
+    "identity_reference": "6EtuOTq5TmM",
+    "model": "Built-in image generator; model unverified",
+    "artwork_status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "references": [
+      {
+        "id": "xwdhHTtc-3w",
+        "title": "1 vs 10 Hunters in GTA!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
+        "lift": 2.25,
+        "standing": "qualifying public outlier",
+        "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
+        "observed_at": "2026-10-05T06:01:50.829483+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      },
+      {
+        "id": "5ZX_eypUHns",
+        "title": "365 PRANKS IN 365 DAYS!!",
+        "channel": "Stokes Twins",
+        "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
+        "lift": 2.17,
+        "standing": "qualifying public outlier",
+        "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
+        "observed_at": "2026-10-05T06:01:52.236728+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
+      },
+      {
+        "id": "nopEs-K4ExM",
+        "title": "World's Fastest Car!",
+        "channel": "MrBeast Gaming",
+        "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+        "lift": 3.68,
+        "standing": "qualifying public outlier",
+        "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
+        "observed_at": "2026-10-05T06:01:50.825407+00:00",
+        "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
+      }
+    ]
+  }
+]

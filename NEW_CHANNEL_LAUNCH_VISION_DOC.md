@@ -1,6 +1,6 @@
 # Stokes Gaming: Creative Launch Vision
 
-Public creative edition, October 15, 2026. [Detailed briefs for the three priority launch videos](episode-details.html). Detailed operational information is private.
+Public creative edition. [Detailed three-video briefs](episode-details.html) · [15 updated thumbnails](canvas.html?scope=updated). Detailed operations remain private.
 
 ## Ideation
 
@@ -18,9 +18,9 @@ Five cast members explore five different game crossovers before joining forces t
 
 [Full video plan: story, cast, rules and execution](episode-details.html#MV01)
 
-Existing artwork is composition inspiration; the final five pairings and shared boss package remain to review.
+Five updated concepts match this video plan. Earlier artwork is retained on the canvas. Final mechanics and packages still require review and playable proof.
 
-[![A · Sky raid](multiverse/MV-A.webp)A · Sky raid](canvas.html?scope=episode1#card-MV-A)[![H · They followed me](multiverse/MV-H.webp)H · They followed me](canvas.html?scope=episode1#card-MV-H)[![J · Two worlds collide](multiverse/MV-J.webp)J · Two worlds collide](canvas.html?scope=episode1#card-MV-J)
+[![Giant boss, tiny team](updated-thumbnails/MV-AE.webp)Giant boss, tiny team](canvas.html?scope=updated#card-MV-AE)[![Five worlds, one threat](updated-thumbnails/MV-AF.webp)Five worlds, one threat](canvas.html?scope=updated#card-MV-AF)[![Dragon versus Godzilla](updated-thumbnails/MV-AG.webp)Dragon versus Godzilla](canvas.html?scope=updated#card-MV-AG)[![Impossible team shortcut](updated-thumbnails/MV-AH.webp)Impossible team shortcut](canvas.html?scope=updated#card-MV-AH)[![All five above the boss](updated-thumbnails/MV-AI.webp)All five above the boss](canvas.html?scope=updated#card-MV-AI)
 
 1. **0 (First Frame)–5s**Open on one instantly recognizable game collision and a real cast reaction, with a brief glimpse of the giant shared threat.
 2. **5s–15s**Show Alex, Alan, Kat, Tanner and Shawn at five setups, each entering a different mashup. State the simple challenge that brings them together for the final boss.
@@ -47,9 +47,9 @@ Alex stages a fake GTA 6 experience for Alan, Kat, Tanner and Shawn, keeping the
 
 [Full video plan: story, cast, rules and execution](episode-details.html#L03)
 
-Existing concepts retained; final title and thumbnail must match the staged experience without spoiling the reveal.
+Five updated concepts match this video plan. Earlier artwork is retained on the canvas. Final mechanics and packages still require review and playable proof.
 
-[![A · The mysterious build](launch-episodes/L03-A.webp)A · The mysterious build](canvas.html?scope=episode2#card-L03-A)[![B · The prankster behind him](launch-episodes/L03-B.webp)B · The prankster behind him](canvas.html?scope=episode2#card-L03-B)[![C · The beautiful city is a set](launch-episodes/L03-C.webp)C · The beautiful city is a set](canvas.html?scope=episode2#card-L03-C)[![D · Too realistic to be true](launch-episodes/L03-D.webp)D · Too realistic to be true](canvas.html?scope=episode2#card-L03-D)[![E · The game was a prank](launch-episodes/L03-E.webp)E · The game was a prank](canvas.html?scope=episode2#card-L03-E)
+[![Is this actually real?](updated-thumbnails/L03-F.webp)Is this actually real?](canvas.html?scope=updated#card-L03-F)[![The mystery build](updated-thumbnails/L03-G.webp)The mystery build](canvas.html?scope=updated#card-L03-G)[![One suspicious detail](updated-thumbnails/L03-H.webp)One suspicious detail](canvas.html?scope=updated#card-L03-H)[![Can the demo handle this?](updated-thumbnails/L03-I.webp)Can the demo handle this?](canvas.html?scope=updated#card-L03-I)[![What’s behind the final door?](updated-thumbnails/L03-J.webp)What’s behind the final door?](canvas.html?scope=updated#card-L03-J)
 
 1. **0 (First Frame)–5s**Open with a convincing-looking game moment and a cast reaction that makes the supposed access feel extraordinary.
 2. **5s–15s**Show why the crew believes Alex, establish the first goal and let the audience form its own theory.
@@ -75,9 +75,9 @@ The crew plays five individual GTA 6 runs in one room, and everyone can leave wh
 
 [Full video plan: story, cast, rules and execution](episode-details.html#L01)
 
-Existing compositions retained as references; adapt the final package to the room/race/group-release story.
+Five updated concepts match this video plan. Earlier artwork is retained on the canvas. Final mechanics and packages still require review and playable proof.
 
-[![A · The last checkpoint](launch-episodes/L01-A.webp)A · The last checkpoint](canvas.html?scope=episode3#card-L01-A)[![B · We finally beat it](launch-episodes/L01-B.webp)B · We finally beat it](canvas.html?scope=episode3#card-L01-B)[![C · One mistake from losing](launch-episodes/L01-C.webp)C · One mistake from losing](canvas.html?scope=episode3#card-L01-C)[![D · Twins versus the crew](launch-episodes/L01-D.webp)D · Twins versus the crew](canvas.html?scope=episode3#card-L01-D)[![E · One final mission](launch-episodes/L01-E.webp)E · One final mission](canvas.html?scope=episode3#card-L01-E)
+[![Five stations, one exit](updated-thumbnails/L01-F.webp)Five stations, one exit](canvas.html?scope=updated#card-L01-F)[![The race across the desks](updated-thumbnails/L01-G.webp)The race across the desks](canvas.html?scope=updated#card-L01-G)[![One winner opens the door](updated-thumbnails/L01-H.webp)One winner opens the door](canvas.html?scope=updated#card-L01-H)[![Time is wearing us down](updated-thumbnails/L01-I.webp)Time is wearing us down](canvas.html?scope=updated#card-L01-I)[![First finish, everyone celebrates](updated-thumbnails/L01-J.webp)First finish, everyone celebrates](canvas.html?scope=updated#card-L01-J)
 
 1. **0 (First Frame)–5s**Show five occupied gaming stations, the closed-room premise and an elapsed clock; cut to a near-finish reaction without giving away the winner.
 2. **5s–15s**Explain that each person plays their own run and one completion lets everyone leave. Establish the agreed finish checkpoint.
@@ -389,7 +389,7 @@ Reset filters
 
 100 ideas
 
-[Download full document + all images](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v7/Stokes-Gaming-Creative-151.zip)
+[Download full document + all images](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v8/Stokes-Gaming-Creative-166.zip)
 
 Each card includes a finished image, three intro beats, separate shape and ingredient sources, reference composition, and a production brief. Public lift is observational; evidence gaps are explicit.
 
@@ -17113,4 +17113,4 @@ The two attached thumbnail PDFs informed expectation match, complementary text/v
 
 ### Portable source files
 
-[Full editable plan](launch-plan.json)[Sources and metrics](sources.json)[Title-family analysis](title-performance-analysis.json)[Image hashes and provenance](thumbnail-manifest.json)[Full Markdown document](NEW_CHANNEL_LAUNCH_VISION_DOC.md)[Reusable blueprint](blueprint-plugin/skills/new-channel-launch-vision/references/blueprint.md)[Instructional skill](blueprint-plugin/skills/new-channel-launch-vision/SKILL.md)[151 original PNGs + prompts](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v7/Stokes-Gaming-Creative-151.zip)
+[Full editable plan](launch-plan.json)[Sources and metrics](sources.json)[Title-family analysis](title-performance-analysis.json)[Image hashes and provenance](thumbnail-manifest.json)[Full Markdown document](NEW_CHANNEL_LAUNCH_VISION_DOC.md)[Reusable blueprint](blueprint-plugin/skills/new-channel-launch-vision/references/blueprint.md)[Instructional skill](blueprint-plugin/skills/new-channel-launch-vision/SKILL.md)[151 original PNGs + prompts](https://github.com/majieddd/stokes-gaming-vision/releases/download/launch-v8/Stokes-Gaming-Creative-166.zip)

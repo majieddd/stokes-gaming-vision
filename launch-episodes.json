@@ -94,6 +94,51 @@
         "beat": "The final objective becomes a huge visible destination.",
         "scene": "A photographic Stokes host is CENTER foreground gripping the side rail of a red-and-black helicopter, face large in ecstatic urgency. The helicopter flies from lower RIGHT toward one rooftop helipad on a sunlit Miami-inspired tower at LEFT. A small blue crew helicopter approaches the same pad from the opposite direction, secondary. Turquoise bay and white high-rises far below, luminous blue sky filling upper half. Low camera outside the main cockpit, one host, one dominant helicopter and one clear final destination. No guns, HUD or text.",
         "information_gap": "Which team reaches the last mission first?"
+      },
+      {
+        "id": "L01-F",
+        "label": "Five stations, one exit",
+        "scene": "Bright cinematic dollhouse cutaway of ONE real warehouse gaming room, seen from a high three-quarter angle. Exactly FIVE individual gaming stations form a horseshoe, each occupied by one adult, each with their own controller and screen showing a different progress view of a sunny GTA-style city. The photographic Stokes host in a red T-shirt is large in the FRONT-RIGHT station, turning toward camera with competitive determination. Another black-haired twin and three adult crew members (one woman, two men) occupy the other four stations mostly back-facing. One unmistakable closed exit door at the far end, a bright daylight window above it. Keep all five stations countable and separate; no teams sharing a run and no co-op mission. The open wall/cutaway is a packaging device, not a cage. No Godzilla, no prize car, no numerals, no 100-hour clock. Three groups: dominant real host, five-station room, single exit.",
+        "composition": "Room cutaway + repetition",
+        "information_gap": "Who finishes first and gets everyone out?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L01-G",
+        "label": "The race across the desks",
+        "scene": "Photographic Stokes twins compete at TWO separate foreground gaming stations, facing inward from opposite sides. LEFT twin in a red T-shirt is focused, leaning toward his controller; RIGHT twin in a black T-shirt reacts in shocked frustration. Both faces large, sharp and real. Three additional crew members at their own stations recede between them toward a single closed room door, mostly back-facing. Exactly five individual players total, each with a separate screen showing premium GTA-style sunny city gameplay. The five desks form one strong vanishing-point corridor, not a split screen or a versus graphic. The room is bright and clean, with cyan daylight from a warehouse window. The story is an individual completion race whose first winner releases everyone, not twins versus crew. No game HUD labels, no fake percentages, no fixed time claim, no shared co-op or Godzilla.",
+        "composition": "Head-to-head portrait + depth",
+        "information_gap": "Which player beats the game first?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L01-H",
+        "label": "One winner opens the door",
+        "scene": "View from OUTSIDE a real gaming room through a wide open doorway. The photographic Stokes host in a plain red T-shirt fills the RIGHT foreground, opening the door toward the viewer with one hand and raising his black controller triumphantly with the other, ecstatic relieved grin. Behind him FOUR other players are leaving their separate occupied game stations and moving toward the SAME open exit together; another twin, one woman and two men, mostly back-facing or side silhouettes. The five distinct screens remain visible enough to show separate GTA-style city runs. Exactly five people total. Bright daylight pours over the threshold, blue sky through a small exterior window. This is the first finisher releasing everyone at once. Do not imply each other player must finish separately. No padlocks, prison bars, dangerous restraint, 100-hour numbers, trophies or real game logos. One face, one doorway, the released crew.",
+        "composition": "Threshold action + payoff",
+        "information_gap": "Whose finish lets the entire crew leave?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L01-I",
+        "label": "Time is wearing us down",
+        "scene": "Photographic Stokes host in a black T-shirt at LEFT foreground, huge face resting briefly on one bare hand, tired but determined eyes fixed on his own game screen; the other hand still holds a controller. At upper RIGHT a LARGE simple analog wall clock has plain tick marks and hands but absolutely no numerals or text. Beneath it the other FOUR crew members sit at separate gaming stations in the same bright warehouse room, mostly back-facing, each monitor showing a different sunny GTA-style mission scene. Exactly five players, one closed door visible behind them. A couple of unlettered cups on the desk suggest a long session without filth or distress. Clear three-group hierarchy: real tired face, analog clock, four-station room. Bright cinematic exposure and cyan window light, no gloomy horror grade. The clock symbolizes elapsed time and does not assert 100 hours. No Godzilla, co-op or percentages.",
+        "composition": "Time-pressure portrait + repetition",
+        "information_gap": "Who will break the stalemate?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L01-J",
+        "label": "First finish, everyone celebrates",
+        "scene": "Wide diagonal overhead view along FIVE separate gaming desks in one bright room. The photographic Stokes host in a red T-shirt stands by the NEAREST desk at LOWER LEFT, face large and ecstatic, lifting his controller in a coherent two-handed celebration. FOUR other seated players at the remaining desks turn toward him and begin celebrating, mostly back-facing: the other black-haired twin, one woman and two men. Exactly five players; all five separate monitors show GTA-style city progress, with no readable text or fabricated completion percentages. At the FAR RIGHT the one room exit swings open to clean daylight, connecting this single winning finish to everyone’s release. Strong diagonal of desks and excited human movement, not a centered cutaway or two-face comparison. Sunny blue sky visible through a high window, warm bright skin, realistic captured-room feel with polished game screens. No Godzilla or fixed time badge.",
+        "composition": "Reaction payoff + diagonal repetition",
+        "information_gap": "Who gets the winning reaction?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
       }
     ],
     "launch_slot": 3,
@@ -300,6 +345,51 @@
         "beat": "The impossible city is a miniature controlled by the twin.",
         "scene": "A photographic Stokes host is large at CENTER foreground holding a controller with a baffled laughing expression. At LEFT foreground a tiny exquisite miniature Miami game city sits on a low table, with one small red model car. At RIGHT behind the miniature, a second Stokes twin-style figure in a red shirt operates a simple camera on a tripod aimed at the model and smiles mischievously. An oversized screen in far background shows only the camera view of the city, no HUD. Open sunny studio terrace with blue sky. Camera angle makes the tabletop illusion and prank operator obvious, not a random pile of gadgets.",
         "information_gap": "Was the spectacular world just a trick made by his own twin?"
+      },
+      {
+        "id": "L03-F",
+        "label": "Is this actually real?",
+        "scene": "A convincing mystery-access scene in a premium bright gaming room. Photographic Alex-like Stokes host stands at RIGHT foreground in a plain black T-shirt, large face with a subtle confident half-smile and raised eyebrow, holding a simple black controller. The other twin at LEFT leans toward a single HUGE monitor with a stunned open-mouth expression. The monitor shows a beautiful GTA-style Miami-inspired coastal city, palm trees, turquoise water and one glossy sports car, visibly rendered gameplay rather than a real city photo. No Rockstar marks, developer credentials, leaked-drive labels or explanatory prank props. Keep the audience uncertain: do not use shushing, fake alerts, a hidden operator or a revealed trick. Two real-looking faces and one irresistible game vista. Bright blue sky on the screen, clean photographic skin, one unified room.",
+        "composition": "Posed portrait + mystery",
+        "information_gap": "Why does Alex have access to this?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L03-G",
+        "label": "The mystery build",
+        "scene": "Extreme foreground product composition: a plain unlettered black solid-state drive held toward camera by the photographic Stokes host, correct bare fingers, drive dominating the CENTER foreground. His large recognizable face is behind it at upper LEFT, eyes wide with intriguing excitement, black T-shirt. At RIGHT a clean angled monitor shows a gorgeous sunny Miami-inspired GTA-style coastal road and a glossy coral sports car. The other twin is a smaller back-facing figure watching the screen. The drive is a visual metaphor for mysterious access, not an authenticated stolen file: absolutely no real developer logos, official packaging, secret stamps, file names, padlocks or readable text. Clean black object, expressive real host, beautiful game world. Blue sky and warm daylight. Maintain genuine unanswered mystery, not an obvious prank reveal.",
+        "composition": "Product mystery + posed portrait",
+        "information_gap": "What is on that tiny device?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L03-H",
+        "label": "One suspicious detail",
+        "scene": "Photographic Stokes host at RIGHT foreground in a red T-shirt, very large skeptical face, one eyebrow raised, pointing into an enormous game monitor at LEFT. The screen shows a brilliantly sunny Miami-inspired GTA street and one sports car arriving at a marked curb, no readable HUD. A subtle but clearly visible oddity: THREE identical casually dressed NPC figures stand in the same pose along the sidewalk, repeated only within the game scene. Do not duplicate the host. The beautiful vista appears convincing at first glance, but the repeated NPCs invite a second look. The host and monitor belong to one believable brightly lit gaming room. Do not show the prankster’s controls, fake labels, glitches everywhere or the final reveal. Two main groups: giant real skeptical face and the game scene with its one odd detail. Blue sky, palms and saturated city colors.",
+        "composition": "Posed action + visual anomaly",
+        "information_gap": "Is that an unfinished game or a clue?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L03-I",
+        "label": "Can the demo handle this?",
+        "scene": "A photoreal Stokes twin in a black T-shirt sits in the RIGHT foreground at a gaming station, body leaning back in startled laughter, one hand on a black controller, face extremely clear. A massive tilted widescreen monitor at LEFT shows a cinematic GTA-style sunny Miami highway escape: one coral sports car leaps over a tiny road gap with a clean line of pursuing vehicles well behind. One slightly absurd but non-graphic detail is a traffic car perched improbably on a low roadside barrier, subtle enough to be an unfinished-game mystery. The scene is a convincing custom demo under pressure, not verified GTA 6 footage. Do not include Minecraft, Godzilla, zombies, a revealed trick or real game logos. Capture the moment the crew tries something unexpected. The monitor’s diagonal and the host’s leaning pose drive the composition. Luminous blue sky on screen, crisp game rendering, bright realistic room light.",
+        "composition": "Posed action + amplified reality",
+        "information_gap": "Will the supposed early build survive a real test?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
+      },
+      {
+        "id": "L03-J",
+        "label": "What’s behind the final door?",
+        "scene": "In a vivid GTA-style sunlit Miami district, a huge ordinary warehouse door at CENTER opens just a few inches onto a brilliant warm-gold interior glow. The photographic Stokes host in a red T-shirt is LARGE at LEFT foreground, leaning toward the gap with astonished curiosity, one hand on a plain black controller to establish the game context. A second photographic twin is smaller at RIGHT beside the door, eyes narrowed with a knowing but ambiguous smile. The interior contents remain hidden; do not expose the prank room, production controls, fake build labels or any real leaked material. The real people are photographically composited into the premium rendered world, like high-production gaming creator packaging. One mystery door, two expressive twins, open blue sky and palms. No text, numerical codes or logos. It represents the proposed final mission’s impossible location without spoiling the reveal.",
+        "composition": "Threshold mystery + posed portrait",
+        "information_gap": "What did Alex hide in this world?",
+        "asset_directory": "updated-thumbnails",
+        "updated_plan": true
       }
     ],
     "launch_slot": 2,

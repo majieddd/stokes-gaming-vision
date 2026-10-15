@@ -6,9 +6,9 @@
   "archived_thumbnail_options": 4,
   "new_variants": 26,
   "formats_on_canvas": 26,
-  "thumbnail_options": 151,
-  "files": 723,
-  "bytes": 459593212,
+  "thumbnail_options": 166,
+  "files": 770,
+  "bytes": 500859300,
   "feedback": "Shared on-page/slideshow giscus reviews with preserved IDs",
   "images": [
     {
@@ -1252,6 +1252,126 @@
       "sha256": "19bafaa7c38199880e547269ff94380e39b09798c9acfd52884e2bab77f43721"
     },
     {
+      "file": "updated-thumbnails/L01-F.png",
+      "sha256": "6fde0f9aa1eb41120550d5e4992639a96bb9f3f1f4724ec5e407ff188dd51ed4"
+    },
+    {
+      "file": "updated-thumbnails/L01-F.webp",
+      "sha256": "e63c5b88ab5cf6abb1874c44d7f00d8b3592344a8b5f6c2e1e2d15c80f77b04c"
+    },
+    {
+      "file": "updated-thumbnails/L01-G.png",
+      "sha256": "7dd58c545bdda7f741f252b004f75b2e0dcb68198cfb85f82c5fda8c365aede6"
+    },
+    {
+      "file": "updated-thumbnails/L01-G.webp",
+      "sha256": "e61084759f6480d588608964eb4451180cee1f8fe8378d2f355173a098da8716"
+    },
+    {
+      "file": "updated-thumbnails/L01-H.png",
+      "sha256": "63a43d01613b32ec9e573f698af8c9930630bce92ff200381b302c929ddf3421"
+    },
+    {
+      "file": "updated-thumbnails/L01-H.webp",
+      "sha256": "70a6ffa8f48e2d96841737931e218f7369ee2f4c3d0ea6c044b11bff63012140"
+    },
+    {
+      "file": "updated-thumbnails/L01-I.png",
+      "sha256": "63c8f2af152e52d936d9920e36c7ef9c5fa370c71fcfe70c62d8ae286b688ed3"
+    },
+    {
+      "file": "updated-thumbnails/L01-I.webp",
+      "sha256": "4173c9835a14d0e2a8abab52a55f776b900c099e2b9455177c7c06625b109d71"
+    },
+    {
+      "file": "updated-thumbnails/L01-J.png",
+      "sha256": "84e17da5385f2eb07eef2235d0870e16e5eab79bac9d16919e1c928f3a7b8b07"
+    },
+    {
+      "file": "updated-thumbnails/L01-J.webp",
+      "sha256": "1b7c9d776da40f8fc7679fcdac4597bdf7b7770b3103340caf4df5a122a3d941"
+    },
+    {
+      "file": "updated-thumbnails/L03-F.png",
+      "sha256": "13c39ae6b2c6e1f224bf5905a99d8d98baab0011b4e641c69292d034ed2fdec3"
+    },
+    {
+      "file": "updated-thumbnails/L03-F.webp",
+      "sha256": "2f8b6c4626eebacb6bd1a149163b9fbd3f4ada9ea2d8d734e9493c6d5868a138"
+    },
+    {
+      "file": "updated-thumbnails/L03-G.png",
+      "sha256": "a9ff127cee212aa9abacf558b0547659666226ac7f122d085b44bfc2d4163f7c"
+    },
+    {
+      "file": "updated-thumbnails/L03-G.webp",
+      "sha256": "509860fa8447a182f99301b7ec04f195d45290711a1025e43fb5921414508f12"
+    },
+    {
+      "file": "updated-thumbnails/L03-H.png",
+      "sha256": "d64dc519500fc2e2a06101f64fdb4519d145bd28adb515508291d61af91cefbd"
+    },
+    {
+      "file": "updated-thumbnails/L03-H.webp",
+      "sha256": "792fe684f842786644acc055259f5567c9a6f9b7cb04c06c4e6fe4c69a869b49"
+    },
+    {
+      "file": "updated-thumbnails/L03-I.png",
+      "sha256": "44808f141df995d0af08496dabba918f794a28ceb2274ab49d18fad5a7bb6366"
+    },
+    {
+      "file": "updated-thumbnails/L03-I.webp",
+      "sha256": "e7d3ee3d778933eca873e62e98e061f5c2e7144e36e5d674fbe4ddf29311fdb7"
+    },
+    {
+      "file": "updated-thumbnails/L03-J.png",
+      "sha256": "98f8b1ed724fbc3f45307616578fabbc7e5f8ccef1658d418b38a58b702de138"
+    },
+    {
+      "file": "updated-thumbnails/L03-J.webp",
+      "sha256": "e80c5f42d967c2422272ef495a84eadc1ac147527be974c96e76b7e503583764"
+    },
+    {
+      "file": "updated-thumbnails/MV-AE.png",
+      "sha256": "218ac5a6de4374200ce95c830e72c9f18f28f4c46b7c88eacc655c9fc4576edf"
+    },
+    {
+      "file": "updated-thumbnails/MV-AE.webp",
+      "sha256": "51644f7f81273f4d75989e4b179c3414b179bed5ade70e2c5ade8644f250ec63"
+    },
+    {
+      "file": "updated-thumbnails/MV-AF.png",
+      "sha256": "62a467479e6e517332995b1952af4072ed8f52f5de89274e467ff8749d4f519b"
+    },
+    {
+      "file": "updated-thumbnails/MV-AF.webp",
+      "sha256": "618ad0a38e60a95592c8953e2c62702527bb8a3ff52f0fc4ad16c8a67f761352"
+    },
+    {
+      "file": "updated-thumbnails/MV-AG.png",
+      "sha256": "557d3bd68a74e08fe03b384d27e53c5c2af864715160641d34d5341267a71204"
+    },
+    {
+      "file": "updated-thumbnails/MV-AG.webp",
+      "sha256": "5cfd648e5efa3e34e0ec661994459f1cd439f4d9bc7be57b86472cbffe390db5"
+    },
+    {
+      "file": "updated-thumbnails/MV-AH.png",
+      "sha256": "aedd59295531e7e2f312d6202804911d29da7a71a23f4d5953b8ca083f5ab152"
+    },
+    {
+      "file": "updated-thumbnails/MV-AH.webp",
+      "sha256": "2461f72b9e2c2501db762194ea5af2e834025848c9d1aebca8464cdc3b7e1666"
+    },
+    {
+      "file": "updated-thumbnails/MV-AI.png",
+      "sha256": "f98cb3b9e5e655be495aa84f6a2a8706539448c2f79046aae647fc97afb231bb"
+    },
+    {
+      "file": "updated-thumbnails/MV-AI.webp",
+      "sha256": "05bbc00ed61b05a9f2a8a7ea1d18af32af8f83c1e7a6635b09e22eb6d6f82e9d"
+    },
+    {
       "file": "references/thumbnails/-5bcG6tZKx8.jpg",
       "sha256": "872a1a8c0dce7d224fbbb963d3ab95407a971daf52fe20389b06ecff43d050f4"
     },
@@ -1864,7 +1984,10 @@
       "sha256": "e986f6997401c177a11e85fc40a16aea6d9319934eefd1f705fbe9739137f2b1"
     }
   ],
-  "revision": "launch-v7",
+  "revision": "launch-v8",
+  "updated_plan_options": 15,
+  "launch_options": 41,
+  "shared_review_threads": 170,
   "launch_selected": 3,
   "public_scope": "Creative plan and thumbnail canvas only; detailed operations excluded"
 }

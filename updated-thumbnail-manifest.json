@@ -1,0 +1,422 @@
+[
+  {
+    "id": "MV-AE",
+    "episode_id": "MV01",
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Giant boss, tiny team",
+    "file": "updated-thumbnails/MV-AE.png",
+    "preview": "updated-thumbnails/MV-AE.webp",
+    "prompt_file": "updated-thumbnails/MV-AE.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "218ac5a6de4374200ce95c830e72c9f18f28f4c46b7c88eacc655c9fc4576edf",
+    "preview_sha256": "51644f7f81273f4d75989e4b179c3414b179bed5ade70e2c5ade8644f250ec63",
+    "prompt_sha256": "c723ef9a490c33f5bb3a6cc10bd2475176b7d31c4b8ca97562a602d2c0a828cd",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: large real host at left; four supportive back-facing crew on one platform; one enormous Godzilla in a block/city arena. Five people total, blue daylight, clear scale contrast.",
+    "mean_rgb": [
+      130.90854176306382,
+      121.80134324677503,
+      133.69638262766375
+    ]
+  },
+  {
+    "id": "MV-AF",
+    "episode_id": "MV01",
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Five worlds, one threat",
+    "file": "updated-thumbnails/MV-AF.png",
+    "preview": "updated-thumbnails/MV-AF.webp",
+    "prompt_file": "updated-thumbnails/MV-AF.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "62a467479e6e517332995b1952af4072ed8f52f5de89274e467ff8749d4f519b",
+    "preview_sha256": "618ad0a38e60a95592c8953e2c62702527bb8a3ff52f0fc4ad16c8a67f761352",
+    "prompt_sha256": "6983a15c2ffbe22ae08cf3d66b6b11f578d0e5b050b5924f36d88d084f0015bc",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed refined image: five environmental portals, one central photographic host, one Godzilla; the violet portal now has a rigid block-built Ender Dragon. Distinct proposed crossover worlds; no headline text.",
+    "mean_rgb": [
+      144.0621488389121,
+      134.82616731665897,
+      145.31059419634005
+    ]
+  },
+  {
+    "id": "MV-AG",
+    "episode_id": "MV01",
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Dragon versus Godzilla",
+    "file": "updated-thumbnails/MV-AG.png",
+    "preview": "updated-thumbnails/MV-AG.webp",
+    "prompt_file": "updated-thumbnails/MV-AG.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "557d3bd68a74e08fe03b384d27e53c5c2af864715160641d34d5341267a71204",
+    "preview_sha256": "5cfd648e5efa3e34e0ec661994459f1cd439f4d9bc7be57b86472cbffe390db5",
+    "prompt_sha256": "841175f7374e403b6141ba20c53c3f99849c5377d2f8316527b92a36f99f8ba6",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: large photographic rider at right on an angular Ender Dragon; one Godzilla left and four cooperating ground players below. Clear aerial-versus-giant contrast.",
+    "mean_rgb": [
+      107.70569395786829,
+      113.00804969263076,
+      130.71722793119403
+    ]
+  },
+  {
+    "id": "MV-AH",
+    "episode_id": "MV01",
+    "title": "I Beat The World’s Best Video Game",
+    "label": "Impossible team shortcut",
+    "file": "updated-thumbnails/MV-AH.png",
+    "preview": "updated-thumbnails/MV-AH.webp",
+    "prompt_file": "updated-thumbnails/MV-AH.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "aedd59295531e7e2f312d6202804911d29da7a71a23f4d5953b8ca083f5ab152",
+    "preview_sha256": "2461f72b9e2c2501db762194ea5af2e834025848c9d1aebca8464cdc3b7e1666",
+    "prompt_sha256": "730cbed9a26fb19c978f795b8e33b169bca09c2113a9529270de9d2fd39ce6d5",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: real host in a red block-built kart launches along a Minecraft ramp toward one Godzilla; four small crew build behind him. A distinct diagonal vehicle/action composition.",
+    "mean_rgb": [
+      135.9044790994005,
+      130.3585427800009,
+      138.49626720530435
+    ]
+  },
+  {
+    "id": "MV-AI",
+    "episode_id": "MV01",
+    "title": "I Beat The World’s Best Video Game",
+    "label": "All five above the boss",
+    "file": "updated-thumbnails/MV-AI.png",
+    "preview": "updated-thumbnails/MV-AI.webp",
+    "prompt_file": "updated-thumbnails/MV-AI.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "f98cb3b9e5e655be495aa84f6a2a8706539448c2f79046aae647fc97afb231bb",
+    "preview_sha256": "05bbc00ed61b05a9f2a8a7ea1d18af32af8f83c1e7a6635b09e22eb6d6f82e9d",
+    "prompt_sha256": "0de0bb8e73d5f93e792309f8756b745b29510e694d15bf70d113fb17c4d05799",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: five humans share one elevated platform above one giant Godzilla head. High overhead perspective differs from the low-angle city showdown; dominant real host at right.",
+    "mean_rgb": [
+      114.287317142,
+      107.86773017099797,
+      115.1802279464481
+    ]
+  },
+  {
+    "id": "L03-F",
+    "episode_id": "L03",
+    "title": "I Found The Leaked GTA 6",
+    "label": "Is this actually real?",
+    "file": "updated-thumbnails/L03-F.png",
+    "preview": "updated-thumbnails/L03-F.webp",
+    "prompt_file": "updated-thumbnails/L03-F.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "13c39ae6b2c6e1f224bf5905a99d8d98baab0011b4e641c69292d034ed2fdec3",
+    "preview_sha256": "2f8b6c4626eebacb6bd1a149163b9fbd3f4ada9ea2d8d734e9493c6d5868a138",
+    "prompt_sha256": "b8ab9161e7d6a11c5419ad3890896c0fc4da54314a728b2c9bf69d13b26c2b98",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: two recognizable family-like Stokes hosts with contrasting intrigue/shock, one large sunny game monitor. Mystery is retained; no prank label or false developer credential. Small incidental game-map graphics remain.",
+    "mean_rgb": [
+      106.16226693073133,
+      98.06845130650993,
+      104.22665875150633
+    ]
+  },
+  {
+    "id": "L03-G",
+    "episode_id": "L03",
+    "title": "I Found The Leaked GTA 6",
+    "label": "The mystery build",
+    "file": "updated-thumbnails/L03-G.png",
+    "preview": "updated-thumbnails/L03-G.webp",
+    "prompt_file": "updated-thumbnails/L03-G.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "a9ff127cee212aa9abacf558b0547659666226ac7f122d085b44bfc2d4163f7c",
+    "preview_sha256": "509860fa8447a182f99301b7ec04f195d45290711a1025e43fb5921414508f12",
+    "prompt_sha256": "9a47681a4919688101b41eb2834a3a6842aa40919df18676f50a538bbe65ba60",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: plain black drive dominates the foreground beside a real host and a smaller back-facing player at the sunny game screen. Device is a packaging metaphor; no authenticated leak claim.",
+    "mean_rgb": [
+      107.4756958392019,
+      98.66014407456183,
+      100.87035386868291
+    ]
+  },
+  {
+    "id": "L03-H",
+    "episode_id": "L03",
+    "title": "I Found The Leaked GTA 6",
+    "label": "One suspicious detail",
+    "file": "updated-thumbnails/L03-H.png",
+    "preview": "updated-thumbnails/L03-H.webp",
+    "prompt_file": "updated-thumbnails/L03-H.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "d64dc519500fc2e2a06101f64fdb4519d145bd28adb515508291d61af91cefbd",
+    "preview_sha256": "792fe684f842786644acc055259f5567c9a6f9b7cb04c06c4e6fe4c69a869b49",
+    "prompt_sha256": "1ecdb5b23485ffa98ff09fbb01af901a92767400ecc74201967d271784773fc7",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: large skeptical real host points toward three repeated NPCs inside the game display. The single visual oddity opens a fair mystery. Small incidental street/shop textures remain.",
+    "mean_rgb": [
+      126.19293902445226,
+      103.98570440689687,
+      110.58869089688767
+    ]
+  },
+  {
+    "id": "L03-I",
+    "episode_id": "L03",
+    "title": "I Found The Leaked GTA 6",
+    "label": "Can the demo handle this?",
+    "file": "updated-thumbnails/L03-I.png",
+    "preview": "updated-thumbnails/L03-I.webp",
+    "prompt_file": "updated-thumbnails/L03-I.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "44808f141df995d0af08496dabba918f794a28ceb2274ab49d18fad5a7bb6366",
+    "preview_sha256": "e7d3ee3d778933eca873e62e98e061f5c2e7144e36e5d674fbe4ddf29311fdb7",
+    "prompt_sha256": "f4e45dd6889b9984e0eee1388e42244b8eb4f3119271c8c0378cd6569efcaa64",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: photographic controller reaction at right, diagonal game-car leap at left and supportive crew reactions. Readable demo stress test without exposing prank controls. Supporting faces are concept performers.",
+    "mean_rgb": [
+      99.19002295735474,
+      98.8957925499189,
+      110.30705334851959
+    ]
+  },
+  {
+    "id": "L03-J",
+    "episode_id": "L03",
+    "title": "I Found The Leaked GTA 6",
+    "label": "What’s behind the final door?",
+    "file": "updated-thumbnails/L03-J.png",
+    "preview": "updated-thumbnails/L03-J.webp",
+    "prompt_file": "updated-thumbnails/L03-J.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "98f8b1ed724fbc3f45307616578fabbc7e5f8ccef1658d418b38a58b702de138",
+    "preview_sha256": "e80c5f42d967c2422272ef495a84eadc1ac147527be974c96e76b7e503583764",
+    "prompt_sha256": "0ddd3389265f2dc2a4e60c9414c003c0547ff23475e5abc4a22f14e35e97511b",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: one glowing mystery door between two photographic hosts in a sunny city environment. Final-room contents remain concealed; no reveal or leak-authentication label.",
+    "mean_rgb": [
+      135.43347769602732,
+      104.52003683854598,
+      102.24100836939223
+    ]
+  },
+  {
+    "id": "L01-F",
+    "episode_id": "L01",
+    "title": "I Survived 100 Hours in GTA",
+    "label": "Five stations, one exit",
+    "file": "updated-thumbnails/L01-F.png",
+    "preview": "updated-thumbnails/L01-F.webp",
+    "prompt_file": "updated-thumbnails/L01-F.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "6fde0f9aa1eb41120550d5e4992639a96bb9f3f1f4724ec5e407ff188dd51ed4",
+    "preview_sha256": "e63c5b88ab5cf6abb1874c44d7f00d8b3592344a8b5f6c2e1e2d15c80f77b04c",
+    "prompt_sha256": "7a5b5f09aae21f01efc8538255f3d1eed41b8c902ec0040fa9063ec211259321",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: five players visibly occupy separate stations around one closed door; real host foreground, four back-facing players. Bright room and separate game progress; no Godzilla or 100-hour badge.",
+    "mean_rgb": [
+      103.14563492467039,
+      82.8519663749752,
+      82.77121457881009
+    ]
+  },
+  {
+    "id": "L01-G",
+    "episode_id": "L01",
+    "title": "I Survived 100 Hours in GTA",
+    "label": "The race across the desks",
+    "file": "updated-thumbnails/L01-G.png",
+    "preview": "updated-thumbnails/L01-G.webp",
+    "prompt_file": "updated-thumbnails/L01-G.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "7dd58c545bdda7f741f252b004f75b2e0dcb68198cfb85f82c5fda8c365aede6",
+    "preview_sha256": "e61084759f6480d588608964eb4451180cee1f8fe8378d2f355173a098da8716",
+    "prompt_sha256": "4c930d64a4c82f8d605f15541fcfdaf1b722d0690670707bf74b375942a027e9",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: two foreground competitors, three independent stations behind, one shared door with a simple lock symbol. Five players and readable individual race; no twins-versus-crew team label.",
+    "mean_rgb": [
+      113.22350688212174,
+      92.99890043677448,
+      91.46438050734992
+    ]
+  },
+  {
+    "id": "L01-H",
+    "episode_id": "L01",
+    "title": "I Survived 100 Hours in GTA",
+    "label": "One winner opens the door",
+    "file": "updated-thumbnails/L01-H.png",
+    "preview": "updated-thumbnails/L01-H.webp",
+    "prompt_file": "updated-thumbnails/L01-H.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "63a43d01613b32ec9e573f698af8c9930630bce92ff200381b302c929ddf3421",
+    "preview_sha256": "70a6ffa8f48e2d96841737931e218f7369ee2f4c3d0ea6c044b11bff63012140",
+    "prompt_sha256": "51c4ebfca129367e99e83ee9361cf32963a6713c0af18172f4b5eafd7a1bcbc1",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed refined image: red-shirt host holds the foreground door open while all four other crew move toward that same exit. The previous far exit is replaced by a wall/window. Five people leave together; supporting faces remain concept stand-ins.",
+    "mean_rgb": [
+      132.5473587601503,
+      92.34765392613986,
+      88.42793030421673
+    ]
+  },
+  {
+    "id": "L01-I",
+    "episode_id": "L01",
+    "title": "I Survived 100 Hours in GTA",
+    "label": "Time is wearing us down",
+    "file": "updated-thumbnails/L01-I.png",
+    "preview": "updated-thumbnails/L01-I.webp",
+    "prompt_file": "updated-thumbnails/L01-I.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "63c8f2af152e52d936d9920e36c7ef9c5fa370c71fcfe70c62d8ae286b688ed3",
+    "preview_sha256": "4173c9835a14d0e2a8abab52a55f776b900c099e2b9455177c7c06625b109d71",
+    "prompt_sha256": "e95405c6302b9a8ac3c7823df1c65b841e98ff170b4ed861203469ac12615a7e",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: large tired-but-focused real host, simple analog clock without numerals, four separate players in the background. Time-pressure concept without a fixed duration assertion.",
+    "mean_rgb": [
+      106.99832141822046,
+      96.14551797690535,
+      96.51873897258847
+    ]
+  },
+  {
+    "id": "L01-J",
+    "episode_id": "L01",
+    "title": "I Survived 100 Hours in GTA",
+    "label": "First finish, everyone celebrates",
+    "file": "updated-thumbnails/L01-J.png",
+    "preview": "updated-thumbnails/L01-J.webp",
+    "prompt_file": "updated-thumbnails/L01-J.txt",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "84e17da5385f2eb07eef2235d0870e16e5eab79bac9d16919e1c928f3a7b8b07",
+    "preview_sha256": "1b7c9d776da40f8fc7679fcdac4597bdf7b7770b3103340caf4df5a122a3d941",
+    "prompt_sha256": "87d0295ef9e4b2a7d6973c776de59cf8c2501ea5f3805893726c831ddf59a902",
+    "generator": "Built-in image generator",
+    "model": "unverified",
+    "identity_reference": "6EtuOTq5TmM",
+    "supporting_likeness": "Generated concept performers, not verified supporting cast portraits",
+    "style_reference_sent": false,
+    "status": "Updated-plan concept; proposed worlds and final package remain subject to playable proof",
+    "visual_review": "Reviewed full image: winning real host/controller celebration nearest camera, four other players react along a diagonal row of stations and a shared open door. Distinct group-release payoff; no Godzilla or time badge.",
+    "mean_rgb": [
+      122.43978079921085,
+      92.01089393854649,
+      90.59513319333499
+    ]
+  }
+]
