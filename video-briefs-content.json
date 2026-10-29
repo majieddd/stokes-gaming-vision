@@ -1,0 +1,1383 @@
+{
+  "pitch-cities": {
+    "promise": "Play GTA in the real cities that inspired it, with a different challenge in each city.",
+    "how": [
+      "Start in Los Angeles, then travel through the selected GTA-inspired cities.",
+      "In each city, match one recognizable game location and complete one local challenge.",
+      "Finish in Miami with the hardest challenge and a ranking of the cities."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "I’m playing GTA in every city that inspired it.",
+        "Start beside one landmark, then match it to the game version."
+      ],
+      [
+        "ALAN",
+        "But in every city, we have to complete a challenge from the game in real life.",
+        "Show three quick city/challenge pairings."
+      ],
+      [
+        "ALEX",
+        "First stop: Los Angeles. And we’re already late.",
+        "Begin the first challenge; explain its deadline in the action."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "That worked in the game. It definitely didn’t work here.",
+      "Cut from the game plan to the real attempt when that contrast actually happens."
+    ],
+    "payoff": [
+      "ALEX",
+      "We’ve made it to the final city. One challenge left.",
+      "Finish the Miami challenge, then reveal which city delivered the best experience."
+    ],
+    "packaging": [
+      "A familiar franchise × a real-world travel mission.",
+      "One twin, one iconic landmark and its matching game version.",
+      "The game/real-life contrast explains the idea before someone reads the title."
+    ],
+    "support": "Travel and game/real-life references support the ingredients. The exact multi-city GTA format remains a new test.",
+    "refs": [
+      [
+        "SsJ7oOpbmIk",
+        "A recognizable real-world activity makes a technology/game premise accessible."
+      ],
+      [
+        "OMAZB31W9nE",
+        "A journey has a clear destination; this source was below its nearby-upload median."
+      ]
+    ]
+  },
+  "pitch-car": {
+    "promise": "Win a game race and leave with the matching real car.",
+    "how": [
+      "Pair each driver with an in-game replica of a real prize car.",
+      "Run a short qualifier, then one escalating final race.",
+      "Hand the winner the actual keys after the finish."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Win this race, and you keep this car.",
+        "Put the real car and its keys in the first shot."
+      ],
+      [
+        "ALAN",
+        "Everyone is racing the exact car they could drive home today.",
+        "Match each contestant’s game car to the real version."
+      ],
+      [
+        "ALEX",
+        "Three laps. One winner. Go!",
+        "Start the race immediately."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "You can take the safe route—or risk the shortcut.",
+      "Reveal the shortcut when the leading drivers reach it."
+    ],
+    "payoff": [
+      "ALEX",
+      "You won the race. These are yours.",
+      "Show the finish, hand over the keys and capture the first reaction in the real car."
+    ],
+    "packaging": [
+      "A simple action → a tangible reward.",
+      "One red car, oversized keys and a delighted twin.",
+      "The physical prize makes the stakes easy to understand without game knowledge."
+    ],
+    "support": "Car spectacle and keep-the-prize examples support the package; the race-to-real-car conversion is the new hook.",
+    "refs": [
+      [
+        "nopEs-K4ExM",
+        "One fast car makes the game challenge instantly legible."
+      ],
+      [
+        "6EtuOTq5TmM",
+        "The main-channel reference connects a simple challenge with a real car reward."
+      ]
+    ]
+  },
+  "pitch-rooms": {
+    "promise": "Build a secret room in each selected game and see whether the other twin can find them.",
+    "how": [
+      "Give GTA, Minecraft and Roblox one distinctive hidden room each.",
+      "Let the other twin search without knowing where the entrances are.",
+      "Finish with the biggest room and reveal how each entrance was hidden."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "I built a secret room in every one of these video games.",
+        "Open one ordinary-looking wall into a spectacular room."
+      ],
+      [
+        "ALAN",
+        "And I have to find all of them before the timer runs out.",
+        "Show the three game worlds and the search timer."
+      ],
+      [
+        "ALEX",
+        "Your first room is somewhere in this house. Good luck.",
+        "Start the search while the hidden twin watches."
+      ]
+    ],
+    "turn": [
+      "ALEX",
+      "You just walked right past it.",
+      "Hold on the missed entrance, then let the search continue."
+    ],
+    "payoff": [
+      "ALAN",
+      "There is no way this was under us the whole time.",
+      "Reveal the final room and replay the moment the searcher nearly found it."
+    ],
+    "packaging": [
+      "A proven Stokes subject × familiar game worlds.",
+      "A tiny entrance reveals one huge, bright room.",
+      "The image supplies the hidden reveal; the title supplies the cross-game scale."
+    ],
+    "support": "The main-channel secret-room references give a close subject match. The game version is an adaptation, not a measured CTR improvement.",
+    "refs": [
+      [
+        "-5bcG6tZKx8",
+        "Direct Stokes secret-room subject and discovery promise."
+      ],
+      [
+        "X9AYf8gy5sU",
+        "Large hidden interiors and multiple reveals support the visual format."
+      ]
+    ]
+  },
+  "pitch-hunters": {
+    "promise": "The twins must reach an extraction point while 100 GTA hunters try to stop them.",
+    "how": [
+      "Give the twins a destination and a short head start.",
+      "Let the hunters close routes as the twins change their escape plan.",
+      "End with one last push to the extraction point."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "These 100 hunters have one job: stop us from escaping GTA.",
+        "Show the hunters, then the twins beside their getaway car."
+      ],
+      [
+        "ALAN",
+        "If we reach that helicopter, we win. If they catch both of us, we lose.",
+        "Reveal the extraction point in the distance."
+      ],
+      [
+        "ALEX",
+        "They’re coming. Get in!",
+        "Begin the escape at the countdown."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "They’ve blocked the road. We need another way out.",
+      "Use the first route closure to force a new plan."
+    ],
+    "payoff": [
+      "ALEX",
+      "We’re not leaving without both of us.",
+      "Resolve the final rescue and show whether the twins make extraction."
+    ],
+    "packaging": [
+      "A tiny team versus an overwhelming force.",
+      "One small getaway car against a wall of pursuers.",
+      "The imbalance creates the question: how could the twins escape?"
+    ],
+    "support": "GTA hunters and large player manhunts are close format references, with two different game-channel examples above their source baselines.",
+    "refs": [
+      [
+        "xwdhHTtc-3w",
+        "A direct GTA pursuit premise."
+      ],
+      [
+        "dLDj2TTyMGM",
+        "A large player army makes the odds visible."
+      ]
+    ]
+  },
+  "pitch-disasters": {
+    "promise": "Every minute, another disaster changes how the twins can survive the GTA city.",
+    "how": [
+      "Start with one simple disaster and a visible countdown.",
+      "Stack a new hazard every minute so each escape creates the next problem.",
+      "Make the final safe location the last destination."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Every minute, another disaster happens in GTA.",
+        "Show the first timer turning over as the city changes."
+      ],
+      [
+        "ALAN",
+        "We have to survive until the final disaster—and that car is our only way out.",
+        "Show the car and a quick glimpse of the biggest hazard."
+      ],
+      [
+        "ALEX",
+        "The water is already rising. Drive!",
+        "Start the first escape with water entering the route."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "The road’s gone. Head for the roof.",
+      "A new disaster removes the plan that was working."
+    ],
+    "payoff": [
+      "ALEX",
+      "This is the last safe place in the city.",
+      "Bring the remaining hazards together for one final escape or defeat."
+    ],
+    "packaging": [
+      "Survival × a repeating escalation rule.",
+      "A tiny escape vehicle beneath one enormous disaster.",
+      "The title explains the escalation; the picture shows the size of the problem."
+    ],
+    "support": "World-changing hazards and long-form survival both have public reference support. The one-minute GTA escalation is a proposed combination.",
+    "refs": [
+      [
+        "-LUNQPxD0vY",
+        "A flood changes the world and forces new decisions."
+      ],
+      [
+        "jk6thMe6Vq8",
+        "A sustained survival objective gives escalating danger a destination."
+      ]
+    ]
+  },
+  "pitch-life": {
+    "promise": "Let GTA decide what the twins do in real life for one day.",
+    "how": [
+      "Connect game choices to real meals, transport, clothing and activities.",
+      "Reveal each real-life consequence only when the game makes the choice.",
+      "End with the biggest choice of the day and both twins’ verdict."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "For the next 24 hours, GTA controls our real lives.",
+        "Match a game action to its real-life consequence."
+      ],
+      [
+        "ALAN",
+        "Whatever we eat, wear or drive in the game, we have to do in real life.",
+        "Show three fast examples, each clearly different."
+      ],
+      [
+        "ALEX",
+        "So first, the game is choosing our breakfast.",
+        "Start the first choice before explaining the rest of the day."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "Please don’t choose that one.",
+      "Pause on the choice before revealing what the game selects."
+    ],
+    "payoff": [
+      "ALEX",
+      "GTA gets one final decision. Then we get our lives back.",
+      "Resolve the final activity and compare the best and worst choices."
+    ],
+    "packaging": [
+      "Loss of control × a familiar franchise × a fixed day.",
+      "One game choice causes one surprising real-life result.",
+      "The contrast gives non-gamers a reason to watch the outcome."
+    ],
+    "support": "Stokes has an existing life-controlled-for-a-day format. Game chaos supplies an adjacent escalation reference.",
+    "refs": [
+      [
+        "4pAAskz5iw0",
+        "A direct Stokes life-control subject."
+      ],
+      [
+        "D1eZybtieJM",
+        "Repeated game changes create new problems without changing the core promise."
+      ]
+    ]
+  },
+  "pitch-experiments": {
+    "promise": "Find out how large a barrier it takes to stop GTA’s train.",
+    "how": [
+      "Begin with a small car barrier and a real collision.",
+      "Increase the number and improve the barrier after each result.",
+      "End with the full 10,000-car attempt and a clear answer."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Can 10,000 cars stop a train in GTA?",
+        "Put the train opposite the enormous car wall."
+      ],
+      [
+        "ALAN",
+        "We’re starting with ten. And every time the train wins, the wall gets bigger.",
+        "Show the first small barrier next to the final scale."
+      ],
+      [
+        "ALEX",
+        "Here comes the train.",
+        "Play the first impact through to its result."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "More cars didn’t work. What if we change the shape?",
+      "Let the last failure lead directly to the next design."
+    ],
+    "payoff": [
+      "ALEX",
+      "This is the 10,000-car test. Can anything stop it?",
+      "Show the entire final collision, then state the answer."
+    ],
+    "packaging": [
+      "A giant number × a simple yes/no experiment.",
+      "One unstoppable train facing one enormous wall of cars.",
+      "The thumbnail turns the question into an immediately readable collision."
+    ],
+    "support": "Large-scale experiment and destruction references support spectacle. Their views do not establish that the specific train test will win.",
+    "refs": [
+      [
+        "JeTkMdw6RK8",
+        "One oversized experiment makes a clear visual promise."
+      ],
+      [
+        "ABTdTTnnEU8",
+        "A spectacular final test rewards the scale promised in the package."
+      ]
+    ]
+  },
+  "pitch-killer": {
+    "promise": "One hidden killer is inside a group of 100 players, and the twins must find them before time runs out.",
+    "how": [
+      "Give one player the hidden role and introduce the twins as investigators.",
+      "Let each round reveal one new clue and one meaningful accusation.",
+      "End with a final vote and a replay of the clues that exposed the killer."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "One of these 100 players is secretly the killer.",
+        "Show the crowd, then one obscured suspect among them."
+      ],
+      [
+        "ALAN",
+        "We have to find them before they take out the entire lobby.",
+        "Establish the player counter and the first clue."
+      ],
+      [
+        "ALEX",
+        "Everybody freeze. Where were you when this happened?",
+        "Start the first investigation immediately."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "That story doesn’t match the footage.",
+      "Put the accusation beside the clue that contradicts it."
+    ],
+    "payoff": [
+      "ALEX",
+      "We’re locking in our final vote.",
+      "Reveal the killer and replay their earlier choices from the new perspective."
+    ],
+    "packaging": [
+      "A large group × one hidden threat.",
+      "The twins investigate a crowd with one concealed red silhouette.",
+      "A single secret makes the audience play along with every accusation."
+    ],
+    "support": "The strongest reference is a 100-player social-deduction game; murder-mystery packaging provides a second route into the premise.",
+    "refs": [
+      [
+        "-C_hRVM0_po",
+        "A close 100-player hidden-role structure."
+      ],
+      [
+        "Vhlwk1HcFdI",
+        "A recognizable creator mystery creates an immediate question."
+      ]
+    ]
+  },
+  "pitch-course": {
+    "promise": "The crew tries to beat an absurd GTA course that becomes harder at every stage.",
+    "how": [
+      "Show the final obstacle, then begin at the first checkpoint.",
+      "Give each new section a different skill and a clear consequence for failure.",
+      "Bring the closest competitors together for the last crossing."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "We built the most impossible obstacle course in GTA.",
+        "Reveal the entire course, with the final gap clearly visible."
+      ],
+      [
+        "ALAN",
+        "We have to get from here to that finish line without skipping a single obstacle.",
+        "Trace the simple route from start to finish."
+      ],
+      [
+        "ALEX",
+        "The first jump looks easy. You go first.",
+        "Start the first attempt and keep its result."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "You only get one chance at this checkpoint.",
+      "Introduce the final high-stakes section after viewers understand the course."
+    ],
+    "payoff": [
+      "ALEX",
+      "One jump left. Don’t look down.",
+      "Let the decisive attempt finish before the celebration or failure reaction."
+    ],
+    "packaging": [
+      "An impossible superlative × an obvious finish line.",
+      "One tiny player/car facing one enormous suspended course.",
+      "The scale difference explains the difficulty without a rules lecture."
+    ],
+    "support": "Impossible-maze and layered-escape references support progression and an earned finish; the GTA course is the new execution.",
+    "refs": [
+      [
+        "vrUOPr9v8g4",
+        "A huge playable challenge with a clear completion goal."
+      ],
+      [
+        "mXqlDp61MMA",
+        "Each new layer gives the audience a reason to see what comes next."
+      ]
+    ]
+  },
+  "pitch-steal": {
+    "promise": "Complete increasingly difficult GTA heists to win matching real prizes.",
+    "how": [
+      "Begin with a small, clearly stated real reward.",
+      "Move from an easy theft to a guarded target, then the biggest prize.",
+      "Award only the prizes attached to completed game challenges."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Anything you steal in GTA today, you get to keep in real life.",
+        "Match a game object to the real prize beside it."
+      ],
+      [
+        "ALAN",
+        "The better the prize, the harder the heist.",
+        "Reveal three prize levels, with the largest last."
+      ],
+      [
+        "ALEX",
+        "Your first target is parked right there.",
+        "Start the first theft and reveal the obstacle on approach."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "You can keep what you’ve won—or try for the biggest prize.",
+      "Put the secured rewards beside the final target."
+    ],
+    "payoff": [
+      "ALEX",
+      "You got it out. Now it’s yours.",
+      "Resolve the final heist, then hand over the matching real reward."
+    ],
+    "packaging": [
+      "An unrestricted-sounding action × a tangible keep-it reward.",
+      "One GTA target paired with the matching real prize.",
+      "The audience understands what the contestant wants and why the risk grows."
+    ],
+    "support": "Risk/reward and game-build-to-real-prize examples support the ingredients. Theft-specific thumbnail art is still a separate packaging task.",
+    "refs": [
+      [
+        "2O-9RmuiXog",
+        "A bigger reward makes the next risk a meaningful decision."
+      ],
+      [
+        "xN8ENrfE-TY",
+        "The game result can lead to a concrete real-world payoff."
+      ]
+    ]
+  },
+  "pitch-prison": {
+    "promise": "The twins build a GTA prison, then challenge their friends to escape it.",
+    "how": [
+      "Reveal the prison’s main defenses and the escape objective.",
+      "Let the escape team test plans against each security layer.",
+      "Finish with one coordinated attempt while the builders defend."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "I created the world’s most secure prison in GTA.",
+        "Reveal the prison with one enormous, obvious defense."
+      ],
+      [
+        "ALAN",
+        "And our friends have to escape it before the timer runs out.",
+        "Introduce the escape team inside its starting cell."
+      ],
+      [
+        "ALEX",
+        "Your time starts now.",
+        "Show their first escape plan immediately."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "They found a way through. Lock down the next section.",
+      "Use a successful escape step to expose a new defense."
+    ],
+    "payoff": [
+      "ALEX",
+      "This is the last door between you and freedom.",
+      "Resolve the final escape attempt and compare the winning plan with the original prison design."
+    ],
+    "packaging": [
+      "A superlative build × an escape challenge.",
+      "One towering prison, a tiny exit and the twins as opposing sides.",
+      "The title establishes the claim; the attempted escape tests it."
+    ],
+    "support": "Prison and impossible-escape references support the challenge. The new angle makes the twins the builders as well as the hosts.",
+    "refs": [
+      [
+        "WU05jZnUiYs",
+        "A simple escape objective can sustain a sequence of changing barriers."
+      ],
+      [
+        "4ydq5MXO42c",
+        "An extraordinary prison location adds a clear visual twist."
+      ]
+    ]
+  },
+  "pitch-minecraft-halo": {
+    "channel": "Stokes Twins · main channel",
+    "promise": "100 Minecrafters face 100 Halo players in a community-versus-community showdown, with a twin captaining each side.",
+    "how": [
+      "Give each 100-player community one twin as its captain in a shared challenge arena.",
+      "Run a building round and a shooting round; each earns an advantage for the finale.",
+      "End in one huge capture-the-base battle that decides the winning community."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "These are 100 Minecrafters. And these are 100 Halo players.",
+        "Reveal the two armies in matching wide shots, then their captains."
+      ],
+      [
+        "ALAN",
+        "Today, we’re finding out which gaming community is better—builders or shooters.",
+        "Show one spectacular build and one coordinated Halo-style attack."
+      ],
+      [
+        "ALEX",
+        "I’ve got the Halo players. Alan’s got Minecraft. Let the first challenge begin.",
+        "Start the building round with both teams racing toward the same objective."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "You won on your game. Now let’s see what happens on ours.",
+      "Switch from the builders’ home-field round to the shooters’ round, carrying the score forward."
+    ],
+    "payoff": [
+      "ALEX",
+      "No more practice rounds. First team to capture that base wins.",
+      "Bring the earned advantages into the final battle, then celebrate the actual winning community."
+    ],
+    "packaging": [
+      "100 [community] vs 100 [community]—the boys-versus-girls structure with gaming identities.",
+      "Two equally imposing armies, Minecraft versus Halo, with Alan and Alex as the captains.",
+      "The rivalry is understandable to the main-channel audience; each community has someone to support."
+    ],
+    "support": "Two large MrBeast team competitions support the main-channel rivalry package. The Minecraft/Halo matchup is the new variation.",
+    "refs": [
+      [
+        "tVWWp1PqDus",
+        "Two familiar identities and equal-sized teams make the sides immediately clear."
+      ],
+      [
+        "toIeUtplfWQ",
+        "Contrasting strengths give both teams a reason to win different challenges."
+      ]
+    ]
+  },
+  "pitch-civilizations": {
+    "channel": "Stokes Twins · main channel",
+    "promise": "Invite top players from selected game communities to build civilizations and find out which community can rule the shared world.",
+    "how": [
+      "Begin with equal-sized communities and starting territories; proposed games are Minecraft, Halo, GTA and Fortnite.",
+      "Let them build cities, choose leaders, trade, make alliances and handle one shared crisis.",
+      "Open the borders for a final contest over the central capital; the civilization that holds it wins."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "I brought the best players from these video games into one world to build their own civilizations.",
+        "Reveal the proposed game communities and their separate starting territories."
+      ],
+      [
+        "ALAN",
+        "They can build cities, make alliances, or go to war. But only one civilization can rule this world.",
+        "Show a fast tease of one city, one negotiation and one battle."
+      ],
+      [
+        "ALEX",
+        "Players, choose your leaders. Your civilization starts now.",
+        "Drop into the first community’s real decision and introduce a leader to follow."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "The borders are opening. Are you making peace—or preparing for war?",
+      "Let the communities’ choices drive the alliances and the conflict; follow the leaders’ actual decisions."
+    ],
+    "payoff": [
+      "ALEX",
+      "The capital is open. Whoever holds it at the end rules the world.",
+      "Resolve the final contest, name the winning civilization and show what happened to the others."
+    ],
+    "packaging": [
+      "I simulated [recognizable communities] as civilizations → which one wins?",
+      "A large civilization map with two dominant, visibly different game empires and the twins presenting it.",
+      "Game identity supplies instant contrast; the civilization story supplies leaders, alliances and an outcome."
+    ],
+    "support": "Civilization videos on two channels show audience interest in community-led stories. The cross-game community mix is the new variation.",
+    "refs": [
+      [
+        "ef568d0CrRY",
+        "Contrasting starting communities create different societies and leaders to follow."
+      ],
+      [
+        "zPbrkmdcTfo",
+        "A familiar rivalry carries a civilization story through alliances and a final conflict."
+      ]
+    ]
+  },
+  "idea-multiverse": {
+    "promise": "The crew races through a shared adventure built from their favorite games; last place takes a pickle dunk.",
+    "how": [
+      "Open overhead with Alex, Alan, Kat, Tanner and Shawn at their stations, then choose characters and vehicles.",
+      "Race from Rainbow Road through GTA City, the Nether and the End staging area into space; arrivals collect chests and keep moving.",
+      "Resolve the final space challenge, reveal the actual standings and deliver the pickle dunk."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "THIS is the world’s greatest video game.",
+        "Start overhead with the crew standing at their PCs, then show one clear crossover moment."
+      ],
+      [
+        "ALAN",
+        "We put our favorite games into the same adventure. And last place takes a pickle dunk.",
+        "Show the route and the real dunk payoff, then sit into the stations."
+      ],
+      [
+        "CAST",
+        "Can we choose a different punishment?",
+        "Reveal the character/vehicle choices and begin the countdown."
+      ]
+    ],
+    "turn": [
+      "ALEX",
+      "First one here gets the gold chest. Everyone else, choose carefully.",
+      "Let the first arrival open the gold chest while the others are still racing; reveal the next game-world surprise."
+    ],
+    "payoff": [
+      "ALAN",
+      "Last place has one final challenge—in real life.",
+      "Return from the space finale, reveal the actual standings, then show the pickle dunk and the crew’s reaction."
+    ],
+    "packaging": [
+      "A superlative game promise × recognizable crossovers × a real-life consequence.",
+      "One impossible game collision and one strong twin reaction.",
+      "The first shot pays off the title; the route and punishment tell viewers why to stay."
+    ],
+    "support": "The opening and route follow the October 23 production script. Public spectacle/race references support individual ingredients; there is no episode-specific CTR result.",
+    "refs": [
+      [
+        "Dy06SXknr_g",
+        "A recognizable game spectacle can be presented as one large visual idea."
+      ],
+      [
+        "nopEs-K4ExM",
+        "A readable race objective supports the competitive opening."
+      ]
+    ]
+  },
+  "idea-launch-gta-prank": {
+    "promise": "Convince Alex he is playing an early version of GTA 6, then escalate the absurdities until the reveal.",
+    "how": [
+      "Present the setup as an apparent early-game opportunity and let Alex take the controller.",
+      "Begin with believable play, then introduce increasingly strange missions and characters.",
+      "Let the clues build to a clear reveal of how the prank was made."
+    ],
+    "intro": [
+      [
+        "ALAN",
+        "Alex thinks he’s about to play GTA 6. But we built this entire game to prank him.",
+        "Show Alex arriving, then a quick behind-the-scenes glimpse for the audience."
+      ],
+      [
+        "ALAN",
+        "Every mission, every character, and every surprise is controlled by us.",
+        "Tease two strange moments without revealing his biggest reaction."
+      ],
+      [
+        "ALAN",
+        "Alex, come try this.",
+        "Let him sit down and begin the first believable mission."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "Let’s see how long it takes him to notice this.",
+      "Introduce the next clue after Alex has committed to the mission."
+    ],
+    "payoff": [
+      "ALAN",
+      "Alex, there’s something we need to tell you.",
+      "Reveal the prank, show how it was built and let Alex react."
+    ],
+    "packaging": [
+      "An apparently impossible early-access opportunity × a twin prank.",
+      "Alex’s reaction to one unexpected GTA-style scene; the audience gets the prank context in the opening.",
+      "The title creates the opportunity; the first line makes the audience Alan’s accomplice."
+    ],
+    "support": "Stokes prank history and controlled-game surprises support the structure. No actual Rockstar leak or endorsement is part of the pitch.",
+    "refs": [
+      [
+        "5ZX_eypUHns",
+        "A direct Stokes prank identity and escalating surprises."
+      ],
+      [
+        "-LUNQPxD0vY",
+        "A creator secretly changing the game supplies an adjacent prank mechanism."
+      ]
+    ]
+  },
+  "idea-launch-gta6": {
+    "promise": "The boys stay in one room until someone finishes GTA 6, while guests join for complete standalone challenges.",
+    "how": [
+      "Start the room challenge and establish the agreed game finish point.",
+      "Follow the leading run, the setbacks and guest mission blocks while post receives finished segments.",
+      "When the first player finishes, release everyone and resolve the room story."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "We’re locked in this room until one of us beats GTA 6.",
+        "Show the occupied stations, the room and the game starting."
+      ],
+      [
+        "ALAN",
+        "The first person to finish gets everyone out. And we’ve invited some help.",
+        "Tease guest arrivals without claiming a booked guest who has not confirmed."
+      ],
+      [
+        "ALEX",
+        "Start the game. Let’s see who gets us out first.",
+        "Begin the first mission and establish each player’s progress."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "We’ve been stuck here for hours. It’s time to call for help.",
+      "Bring in a confirmed guest with one specific mission to complete."
+    ],
+    "payoff": [
+      "ALEX",
+      "Wait—did you just finish it?",
+      "Show the actual final completion and the whole room’s release before the closing reaction."
+    ],
+    "packaging": [
+      "A closed-room challenge × a long-awaited game × one clear release condition.",
+      "The twins in a visibly used gaming room, with one obvious exit and the game as context.",
+      "The unanswered question is who finishes first and how long the room story lasts."
+    ],
+    "support": "Closed-goal survival and competitive gaming references support the ingredients. Guest appearances and the final recording duration remain unconfirmed.",
+    "refs": [
+      [
+        "jk6thMe6Vq8",
+        "A single survival/completion goal carries a long progression."
+      ],
+      [
+        "xwdhHTtc-3w",
+        "Clear GTA objectives and player reactions keep the game story accessible."
+      ]
+    ]
+  },
+  "idea-01": {
+    "promise": "Put the cheapest and most extravagant options through the same tests and find out what the extra value changes.",
+    "how": [
+      "Reveal the cheapest and most extravagant versions side by side.",
+      "Run three matched tests with visible results.",
+      "Reveal which one won each test and whether the expensive option was worth it."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "This is the cheapest car in GTA. And this is the most expensive.",
+        "Match the two cars in one clear side-by-side shot."
+      ],
+      [
+        "ALAN",
+        "We’re putting both through the same tests to see if the expensive one is actually better.",
+        "Tease the race, impact and final jump."
+      ],
+      [
+        "ALEX",
+        "First test: a straight race. Ready?",
+        "Start the first comparison."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "It’s faster. But can it survive this?",
+      "Change the next test so the first advantage is no longer enough."
+    ],
+    "payoff": [
+      "ALEX",
+      "Here’s what all that extra money actually got us.",
+      "Reveal the results and the biggest surprise."
+    ],
+    "packaging": [
+      "Cheap vs extravagant × the same recognizable object.",
+      "One cheap option beside one outrageous premium version.",
+      "The visible difference makes the comparison easy to understand."
+    ],
+    "refs": [
+      [
+        "IPtpwh7r0Eo",
+        "A direct game-world price comparison."
+      ],
+      [
+        "nopEs-K4ExM",
+        "Fast-car spectacle supports the automotive variation."
+      ]
+    ]
+  },
+  "idea-06": {
+    "promise": "Test spectacular GTA myths and give a clear answer after each attempt.",
+    "how": [
+      "Open with the most visually surprising question.",
+      "Move from a quick test to harder, larger experiments.",
+      "Save the biggest myth for a full final test and result."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Can you survive this in GTA?",
+        "Show the first extraordinary situation before its result."
+      ],
+      [
+        "ALAN",
+        "Today, we’re testing the myths everyone says are impossible.",
+        "Tease two different later tests."
+      ],
+      [
+        "ALEX",
+        "Let’s find out.",
+        "Play the first test through to the answer."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "That worked once. Can we do it at this scale?",
+      "Increase the challenge based on the previous result."
+    ],
+    "payoff": [
+      "ALEX",
+      "This is the one we’ve been waiting to test.",
+      "Run the largest final myth and state the answer."
+    ],
+    "packaging": [
+      "A familiar myth-testing format × impossible game spectacle.",
+      "One clear question shown at its most extreme moment.",
+      "Each test gives a payoff while the next question keeps the video moving."
+    ],
+    "refs": [
+      [
+        "IuWj5GAPdWo",
+        "A direct Stokes myth-testing format."
+      ],
+      [
+        "77164j9LI0I",
+        "Large, escalating myth tests support a bigger finale."
+      ]
+    ]
+  },
+  "idea-08": {
+    "promise": "Build a friend’s dream life in a game and reveal each surprise to them.",
+    "how": [
+      "Start with one personal wish and a small first reveal.",
+      "Build toward a dream home, vehicle or experience tailored to the friend.",
+      "Let the friend explore the finished surprise and choose their favorite part."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Today, I’m giving my friend their dream life in GTA.",
+        "Show the friend’s wish beside a brief glimpse of the finished world."
+      ],
+      [
+        "ALAN",
+        "They have no idea we built all of this for them.",
+        "Reveal two personal details, holding the biggest surprise."
+      ],
+      [
+        "ALEX",
+        "Come outside. I’ve got something to show you.",
+        "Begin the first reveal."
+      ]
+    ],
+    "turn": [
+      "ALEX",
+      "You thought that was the surprise? Follow me.",
+      "Move from the smaller gift to the most personal part of the build."
+    ],
+    "payoff": [
+      "ALAN",
+      "This whole place is yours to explore.",
+      "Let the friend react and spend time with their favorite feature."
+    ],
+    "packaging": [
+      "A personal wish × an oversized game-world reveal.",
+      "One friend reacting to one unmistakable dream object.",
+      "The relationship gives the spectacle a personal reason to matter."
+    ],
+    "support": "These are direct Stokes surprise subjects, but both cited videos were below their source baselines. Treat the package as a relationship-led test.",
+    "refs": [
+      [
+        "sDmJz5TewoA",
+        "A direct twin-to-twin dream-car surprise."
+      ],
+      [
+        "uKHKUyua9OE",
+        "A personalized dream experience on the main channel."
+      ]
+    ]
+  },
+  "idea-12": {
+    "promise": "Secretly make the game harder while the crew tries to complete a normal mission.",
+    "how": [
+      "Give the players one straightforward mission.",
+      "Introduce a new hidden change after each stage.",
+      "Reveal the prank and replay the moments they nearly noticed."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "My friends think this is a normal game of GTA.",
+        "Show them beginning the mission."
+      ],
+      [
+        "ALAN",
+        "But every minute, we’re secretly making it harder.",
+        "Show the control room and tease two changes."
+      ],
+      [
+        "ALEX",
+        "Let’s start with something small.",
+        "Trigger the first change and stay with the reaction."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "They’re starting to notice. Time for the big one.",
+      "Use their real suspicion to lead into the biggest change."
+    ],
+    "payoff": [
+      "ALEX",
+      "We’ve been controlling this the whole time.",
+      "Reveal the prank and show the changes from both perspectives."
+    ],
+    "packaging": [
+      "A secret prank × a repeated difficulty increase.",
+      "One player facing an obviously altered game situation.",
+      "The audience knows the secret and watches for the players to discover it."
+    ],
+    "refs": [
+      [
+        "5ZX_eypUHns",
+        "Stokes prank framing and creator reactions."
+      ],
+      [
+        "-LUNQPxD0vY",
+        "A hidden game-world change creates an immediate problem."
+      ]
+    ]
+  },
+  "idea-13": {
+    "promise": "The twins try an ordinary job in a game and turn it into an escalating competition.",
+    "how": [
+      "Give both twins the same job and a simple target.",
+      "Move from the first ordinary customer/task to increasingly difficult ones.",
+      "Finish with the biggest order and compare their results."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Today, we’re becoming GTA’s worst taxi drivers.",
+        "Show the twins beside their cars and the first waiting customer."
+      ],
+      [
+        "ALAN",
+        "Whoever finishes the most jobs by the end of the day wins.",
+        "Show the simple job counter."
+      ],
+      [
+        "ALEX",
+        "Our first customer is already waiting.",
+        "Start the first job and keep the interaction."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "This is not a normal customer.",
+      "Introduce a task that changes the way the twins have to do the job."
+    ],
+    "payoff": [
+      "ALEX",
+      "One last job. This decides who wins.",
+      "Resolve the last task and reveal the score."
+    ],
+    "packaging": [
+      "An ordinary job × the twins’ incompetence or chaos.",
+      "One recognizable work situation going spectacularly wrong.",
+      "The everyday task keeps the premise accessible to non-gamers."
+    ],
+    "refs": [
+      [
+        "LJYkuCoTOKg",
+        "A creator taking an unfamiliar role supplies the social situation."
+      ],
+      [
+        "MNqF0h6LJDI",
+        "A game-life challenge can make a routine day into a story."
+      ]
+    ]
+  },
+  "idea-18": {
+    "promise": "Race a game version of a challenge against the same task in real life.",
+    "how": [
+      "Give one twin the game route and the other the matching real route.",
+      "Start both together and compare their progress at clear checkpoints.",
+      "Let the last checkpoint decide which world is faster."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "I’m racing across this city in GTA.",
+        "Show the game route and its starting point."
+      ],
+      [
+        "ALAN",
+        "And I’m doing the exact same journey in real life. First one there wins.",
+        "Match the real start to the game version."
+      ],
+      [
+        "ALEX",
+        "Three, two, one—go!",
+        "Start both journeys together."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "You don’t have to deal with this in the game.",
+      "Compare a real-world setback with the other twin’s progress."
+    ],
+    "payoff": [
+      "ALEX",
+      "We can both see the finish. Who gets there first?",
+      "Show the final arrivals and compare the routes."
+    ],
+    "packaging": [
+      "Game vs real life × the same task.",
+      "One precisely matched game/real-world scene.",
+      "The comparison makes viewers predict which world should win."
+    ],
+    "refs": [
+      [
+        "SsJ7oOpbmIk",
+        "A real-world technology challenge gives a familiar comparison."
+      ],
+      [
+        "nopEs-K4ExM",
+        "A clear game race supports speed and finish-line stakes."
+      ]
+    ]
+  },
+  "idea-19": {
+    "promise": "Test increasingly ridiculous vehicles and find out which one is actually useful.",
+    "how": [
+      "Introduce the strangest vehicle with one clear challenge.",
+      "Try a different extreme after each result.",
+      "Bring the most surprising contenders back for the final test."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "These are the most ridiculous vehicles in GTA.",
+        "Put the smallest and largest vehicles in the same shot."
+      ],
+      [
+        "ALAN",
+        "We’re testing all of them to find out which one is actually the best.",
+        "Tease one failed attempt and one spectacular success."
+      ],
+      [
+        "ALEX",
+        "Let’s start with this thing.",
+        "Enter the first vehicle and begin its test."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "It looks useless. But can it do this?",
+      "Give an overlooked vehicle a test that might suit it."
+    ],
+    "payoff": [
+      "ALEX",
+      "These are our finalists. One last test.",
+      "Compare the finalists and reveal the most surprising winner."
+    ],
+    "packaging": [
+      "A superlative test list × visually extreme objects.",
+      "One tiny vehicle beside one enormous vehicle, with a twin for scale.",
+      "The visual difference creates a reason to compare the results."
+    ],
+    "refs": [
+      [
+        "AKa1N3Mo8mQ",
+        "A direct Stokes test-catalogue structure."
+      ],
+      [
+        "nopEs-K4ExM",
+        "An extreme vehicle can carry the visual promise of a game test."
+      ]
+    ]
+  },
+  "idea-20": {
+    "promise": "Transform a familiar game world into one enormous attraction, then let the crew try it.",
+    "how": [
+      "Show the ordinary location before one spectacular reveal.",
+      "Introduce the attraction through the crew’s first attempts.",
+      "Finish with its biggest ride, race or feature."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "I turned GTA into a giant waterpark.",
+        "Reveal one enormous slide above the familiar city."
+      ],
+      [
+        "ALAN",
+        "And today, we’re testing every part of it.",
+        "Tease the biggest ride and a surprising smaller feature."
+      ],
+      [
+        "ALEX",
+        "Who’s going down first?",
+        "Start the first ride immediately."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "That wasn’t even the biggest one.",
+      "Reveal the final attraction after the crew has tried the smaller builds."
+    ],
+    "payoff": [
+      "ALEX",
+      "We saved this for last.",
+      "Let the crew complete the biggest attraction and react together."
+    ],
+    "packaging": [
+      "A familiar world transformed into an impossible attraction.",
+      "One enormous attraction rising from a recognizable game location.",
+      "The before/after contrast makes the scale legible instantly."
+    ],
+    "refs": [
+      [
+        "An52a50mVXs",
+        "A direct Stokes waterpark transformation subject."
+      ],
+      [
+        "WthL6_K8Kys",
+        "A huge attraction reveal can carry both the package and the payoff."
+      ]
+    ]
+  },
+  "guest-howie": {
+    "title": "I Robbed a Bank With Howie Mandel",
+    "channel": "Stokes Twins Gaming · proposed guest episode",
+    "group": "guests",
+    "promise": "Howie joins the twins for one complete GTA bank-heist attempt during the room challenge.",
+    "how": [
+      "Bring Howie into the room and give him a role in the heist.",
+      "Follow the plan, the first mistake and the escape attempt.",
+      "Resolve the heist as its own story, then return to the room challenge."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Today, I’m robbing a bank in GTA with Howie Mandel.",
+        "Show the twins, Howie and the in-game bank."
+      ],
+      [
+        "ALAN",
+        "We need to get the money out and escape before the cops catch us.",
+        "Show the vault and the planned escape route."
+      ],
+      [
+        "ALEX",
+        "Howie, are you ready?",
+        "Give him the controller and start the attempt."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "That was not part of the plan.",
+      "Let the first genuine mistake force a new escape choice."
+    ],
+    "payoff": [
+      "ALEX",
+      "We’ve got the money. Now we just have to get out.",
+      "Resolve the escape and the guest’s reaction before the room story resumes."
+    ],
+    "packaging": [
+      "A familiar GTA activity × an unexpected celebrity partner.",
+      "The twins and Howie at one open bank vault.",
+      "The celebrity changes who performs the familiar mission, not the amount of explanation needed."
+    ],
+    "support": "Guest appearance and the mission are proposed. Existing GTA objective and reward references support the format ingredients.",
+    "refs": [
+      [
+        "xwdhHTtc-3w",
+        "A GTA pursuit gives the heist an obvious escape objective."
+      ],
+      [
+        "2O-9RmuiXog",
+        "Keeping or risking a reward makes the escape decision matter."
+      ]
+    ]
+  },
+  "guest-kai": {
+    "title": "I Escaped the Cops With Kai Cenat",
+    "channel": "Stokes Twins Gaming · proposed guest episode",
+    "group": "guests",
+    "promise": "Kai joins the twins for a GTA wanted-level escape challenge.",
+    "how": [
+      "Introduce Kai, the current wanted level and the escape goal.",
+      "Let him take a controller turn while the twins help choose the route.",
+      "End when they escape or get caught, with a complete guest payoff."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "Kai Cenat is helping us escape the cops in GTA.",
+        "Show Kai joining the twins as the chase begins."
+      ],
+      [
+        "ALAN",
+        "We have to lose them before they destroy this car.",
+        "Show the pursuing cars and the escape route."
+      ],
+      [
+        "ALEX",
+        "Kai, take the wheel.",
+        "Start his controller turn and stay on the first decision."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "They’ve found us again. Take the next turn.",
+      "Use the chase’s actual reversal to change the route."
+    ],
+    "payoff": [
+      "ALEX",
+      "Wait for it—did we lose them?",
+      "Show the wanted-level result and Kai’s reaction."
+    ],
+    "packaging": [
+      "A recognizable guest × an immediate pursuit.",
+      "Three expressive faces in one getaway car, with the cops clearly behind.",
+      "The chase communicates the situation before the viewer knows the rules."
+    ],
+    "support": "Guest booking is unconfirmed. The pursuit structure has close GTA and player-manhunt references.",
+    "refs": [
+      [
+        "xwdhHTtc-3w",
+        "Direct GTA pursuit structure."
+      ],
+      [
+        "dLDj2TTyMGM",
+        "An overwhelming chase gives the guest a clear problem to solve."
+      ]
+    ]
+  },
+  "guest-room": {
+    "title": "Celebrities Helped Us Beat GTA 6",
+    "channel": "Stokes Twins Gaming · proposed guest episode",
+    "group": "guests",
+    "promise": "Bring guests into the room to help the boys clear difficult parts of GTA 6.",
+    "how": [
+      "Introduce the mission the boys cannot pass.",
+      "Bring in a confirmed guest and let them take a controller turn.",
+      "Resolve their attempt before the next guest or the main room story continues."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "We’ve been stuck on this mission for hours.",
+        "Show a brief sequence of actual failed attempts."
+      ],
+      [
+        "ALAN",
+        "So we invited some help.",
+        "Reveal the confirmed guest entering the room."
+      ],
+      [
+        "ALEX",
+        "If you beat this mission, you’re saving all of us.",
+        "Give the guest the controller and start the attempt."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "They’re already further than we got.",
+      "Compare the guest’s progress with the earlier failed run when that happens."
+    ],
+    "payoff": [
+      "ALEX",
+      "That’s the mission we couldn’t beat.",
+      "Show the real result and the whole room’s reaction."
+    ],
+    "packaging": [
+      "A difficult room challenge × an unexpected helper.",
+      "The twins in the room reacting to one guest’s decisive attempt.",
+      "The guest’s role is immediately useful to the ongoing story."
+    ],
+    "support": "The guest roster is proposed. Completion and survival references support progression, rather than celebrity-specific performance.",
+    "refs": [
+      [
+        "jk6thMe6Vq8",
+        "A sustained completion goal makes each setback and breakthrough matter."
+      ],
+      [
+        "xwdhHTtc-3w",
+        "A simple GTA objective keeps the guest block self-contained."
+      ]
+    ]
+  }
+}

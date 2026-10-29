@@ -1,793 +1,578 @@
 {
-  "schema_version": 1,
-  "visibility": "public-creative",
-  "updated": "2026-10-15",
-  "scope": "Only the three priority launch videos, per direct user reply.",
-  "editorial_status": "Detailed creative proposals; confirmed user decisions are separated inside each episode.",
-  "intelligence_access": "Public Influint exports refreshed October 15. Gaming premise/escalation/rules and swap-test guidance remain Theory, not measured guarantees.",
-  "measurement": "Use actual 24-hour, 7-day and first-28-day results per upload. No private CTR or retention curves are available.",
+  "schema_version": 2,
+  "updated": "2026-10-29",
+  "scope": "Three launch videos",
   "episodes": [
     {
-      "id": "MV01",
-      "slot": 1,
+      "id": "idea-multiverse",
       "title": "I Beat The World’s Best Video Game",
-      "short": "Five worlds + Godzilla",
-      "summary": "Five cast members each enter a different game crossover, complete a clear personal challenge and reunite to defeat one shared Godzilla.",
-      "status": "Launch direction confirmed; the five pairings, cast assignments and mechanics below are a creative proposal.",
-      "viewer_promise": "Five impossible experiences become one game the crew must beat together. The appeal is discovery, competitive reactions and a giant shared payoff; viewers need no prior game knowledge.",
-      "confirmed": [
-        "Alex, Alan, Kat, Tanner and Shawn each have their own setup and one different crossover.",
-        "Intercut the five experiences; nobody is required to tour all five worlds.",
-        "All five join one final Godzilla fight.",
-        "Lead packaging with I Beat The World’s Best Video Game; the other existing titles remain tests."
+      "group": "launch",
+      "titleOptions": [
+        "I Beat The World’s Best Video Game",
+        "I Created the Multiverse",
+        "I Beat Minecraft With GTA",
+        "Stokes Twins vs The Multiverse",
+        "I Filled GTA With Dinosaurs!",
+        "I Gave My Friends Every Superpower!",
+        "We Built a Roller Coaster Across Video Games!",
+        "We Escaped the World’s Deadliest Obstacle Course!",
+        "We Escaped a Prison That Changes Games!",
+        "I Controlled GTA With a Board Game!",
+        "I Turned GTA Into a Water Park!",
+        "We Became Ghost Hunters in GTA!",
+        "We Played Soccer With an Exploding Ball!",
+        "I Became Faster Than Every Car in GTA!"
       ],
-      "objective": "Clear one simple mission in each world, then survive and defeat Godzilla as a team.",
-      "rules": [
+      "sourceGroups": [
+        "multiverse"
+      ],
+      "artwork": [
         {
-          "label": "Start",
-          "text": "Introduce the five players and their five different missions before the first meaningful attempt. Use one face/name/world marker per person."
+          "id": "MV-AE",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "updated-thumbnails/MV-AE.webp",
+          "full": "updated-thumbnails/MV-AE.png",
+          "alt": "Giant boss, tiny team; Can five different players beat one giant?"
         },
         {
-          "label": "Individual success",
-          "text": "Every mission has one visible finish condition. Each player earns a team ability for the finale by clearing their own mission; the abilities below are proposals to test."
+          "id": "MV-AF",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "updated-thumbnails/MV-AF.webp",
+          "full": "updated-thumbnails/MV-AF.png",
+          "alt": "Five worlds, one threat; How do these five worlds become one game?"
         },
         {
-          "label": "Failure and help",
-          "text": "A failed attempt returns to a disclosed checkpoint with a visible consequence. Players can exchange advice; they stay in their own worlds. No surprise eliminations."
+          "id": "MV-AG",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "updated-thumbnails/MV-AG.webp",
+          "full": "updated-thumbnails/MV-AG.png",
+          "alt": "Dragon versus Godzilla; Can the dragon turn the final fight?"
         },
         {
-          "label": "Convergence",
-          "text": "Once all five missions are cleared, move all players to the tested common arena. Show this transition clearly; seamless networking between different game engines is not required."
+          "id": "MV-AH",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "updated-thumbnails/MV-AH.webp",
+          "full": "updated-thumbnails/MV-AH.png",
+          "alt": "Impossible team shortcut; Can the crew use another game’s rules against the boss?"
         },
         {
-          "label": "Final win",
-          "text": "Destroy the three visible boss weak points, then complete the final team attack. If the team wipes, show the failed attempt and retry under the same disclosed rules."
+          "id": "MV-AI",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "updated-thumbnails/MV-AI.webp",
+          "full": "updated-thumbnails/MV-AI.png",
+          "alt": "All five above the boss; Can everyone survive the shared final attack?"
+        },
+        {
+          "id": "MV-A",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-A.webp",
+          "full": "multiverse/MV-A.png",
+          "alt": "Stokes host riding the Ender Dragon above a mixed-game invasion, shock expression"
+        },
+        {
+          "id": "MV-F",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-F.webp",
+          "full": "multiverse/MV-F.png",
+          "alt": "One real-life Stokes twin stands waist-up at the LEFT, looking at camera in amazed pride, both hands presenting an enormous floating Minecraft-built Earth on the RIGHT. The sphere is a clearly readable single object: its near hemisphere has bright blocky Minecraft grass and mountains; one curved quadrant is a modern GTA city with recognizable roads and a red supercar; a purple portal seam between the two worlds spills a tiny formation of Halo Flood and Call of Duty zombies onto the grass. A small black block-built Ender Dragon circles the sphere. Make the real human the creator of this impossible world, not a game avatar."
+        },
+        {
+          "id": "MV-G",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-G.webp",
+          "full": "multiverse/MV-G.png",
+          "alt": "One real-life Stokes twin crouches in the LEFT foreground of a bright Minecraft meadow, turning toward camera in shocked excitement, one hand pulling the edge of an enormous upright obsidian portal. The violet portal fills the RIGHT half of frame. Through it is a sunlit modern GTA city, and a red realistic supercar is bursting OUT over the threshold toward the viewer, its nose and front tires outside the portal. Behind the car inside the portal are a small legible cluster of three invading enemies: one Halo Flood combat form with a distorted asymmetrical silhouette and tentacle arm, one ragged Call of Duty zombie, and one green Minecraft creeper. The car casts a contact shadow on the Minecraft grass. This is clearly two game worlds meeting through one physical doorway."
+        },
+        {
+          "id": "MV-H",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-H.webp",
+          "full": "multiverse/MV-H.png",
+          "alt": "One real-life Stokes twin rides astride the neck of the black block-built Minecraft Ender Dragon as it flies directly TOWARD the camera. The host is close and photographic, with a huge open-mouthed excited expression, windswept hair, wearing a simple black T-shirt. He holds a realistic black machine gun securely across his body, muzzle angled down and away from the viewer. The dragon has a blocky square head, unmistakable purple eyes and broad angular wings extending to both sides. Behind them, a single violet portal in a Minecraft cliff has released a looming Halo Flood combat form, two Call of Duty zombies and a creeper; they chase across a block bridge below. Clearly an escape toward the viewer, with the threat behind the rider."
+        },
+        {
+          "id": "MV-I",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-I.webp",
+          "full": "multiverse/MV-I.png",
+          "alt": "One real-life Stokes twin riding the black Minecraft Ender Dragon occupies the LEFT foreground, in profile facing RIGHT while his face turns enough toward camera to be recognizable. He grips a realistic machine gun with both hands, aiming toward one gigantic Halo Flood combat form on the RIGHT. The giant Flood is a recognizable infected humanoid with a hulking asymmetrical body and long tentacled arm, exaggerated but non-gory, rising behind a Minecraft hillside. Its silhouette looms much larger than the rider. One tiny creeper and one ragged Call of Duty zombie at its feet establish the ridiculous scale. The host has fierce surprised determination. The dragon square head and purple eyes are visible."
+        },
+        {
+          "id": "MV-J",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-J.webp",
+          "full": "multiverse/MV-J.png",
+          "alt": "One real-life Stokes twin is large in the CENTER foreground, bracing with both arms out in astonishment as two enormous floating game-world islands collide behind him. The LEFT island is a sunny modern GTA city with clean roads, skyscrapers and a single vivid red supercar skidding toward the edge. The RIGHT island is a lush block-built Minecraft landscape, with an obsidian violet portal on a hill and a black Ender Dragon banking above it. The two islands meet at ONE dramatic glowing purple seam in the middle distance; block fragments and road pieces fly upward along that seam. At the seam a small cluster of Halo Flood combat forms, Call of Duty zombies and creepers is crossing from one world into the other. Make it a coherent physical collision, not panels or tiny franchise windows."
+        },
+        {
+          "id": "MV-K",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-K.webp",
+          "full": "multiverse/MV-K.png",
+          "alt": "A real-life Stokes host fills the LEFT foreground, hanging safely from a helicopter hoist harness and looking at camera in shocked excitement. At RIGHT, an enormous cyan pixel-cut Minecraft diamond, larger than a house, hangs on a thick cable beneath a recognizable GTA Cargobob cargo helicopter. Below the diamond is a small block-built Minecraft bank with an orange oval Portal exit opening in its roof; the diamond has just been pulled through. One coherent sunny Minecraft landscape with a distant realistic GTA skyline. The huge diamond is the single hero object, with helicopter small enough to establish its scale. No police swarm or extra creatures."
+        },
+        {
+          "id": "MV-L",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-L.webp",
+          "full": "multiverse/MV-L.png",
+          "alt": "A real-life Stokes host is large at LEFT, visible waist-up through the open driver's side of a glossy red GTA supercar, face turned toward camera with ecstatic shock. The car launches diagonally from lower-left toward upper-right across one missing section of Mario Kart Rainbow Road, suspended high in a luminous blue sky. A clear orange Rocket League boost plume trails from the car. One oversized blue spiny shell chases at RIGHT behind the car, visibly separated from it. Rainbow track curves once into the distance. The host, one red car and one blue shell are the only foreground groups. No other racers or HUD."
+        },
+        {
+          "id": "MV-M",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-M.webp",
+          "full": "multiverse/MV-M.png",
+          "alt": "A real-life Stokes host is large at LEFT foreground, chest-up on the roof edge of one compact fortress, bracing with an amazed determined expression. The fortress fills RIGHT and has a single clean architectural cutaway: unmistakable Minecraft grass and cobblestone base, Fortnite wood ramps and metal upper walls, and a bright blue protected power core visible in its center. A small, coherent wave of ragged Call of Duty zombies approaches its base from lower-right, non-gory and secondary. One damaged wall makes the threat readable. Bright green plain and open blue sky. The fortress is one coherent building, not a collage of tiny game screenshots."
+        },
+        {
+          "id": "MV-N",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-N.webp",
+          "full": "multiverse/MV-N.png",
+          "alt": "A real-life Stokes host fills LEFT foreground, chest-up gripping the side of a small rescue dinghy with a wide-eyed terrified but playful expression. One huge Sea of Thieves pirate ship occupies the RIGHT middle distance between sunlit flooded GTA skyscrapers. Use a clean natural ocean waterline across the lower third: beneath the cyan transparent water, one enormous pale Reaper Leviathan with red facial fins and four curved mandibles curls below the ship, much larger than it. Its mouth is non-gory. Above the water, blue sky and white clouds remain dominant. Keep the waterline physically continuous and the face unobscured. No extra boats, sharks or overlays."
+        },
+        {
+          "id": "MV-O",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-O.webp",
+          "full": "multiverse/MV-O.png",
+          "alt": "A real-life Stokes host is large at LEFT foreground, waist-up, carefully holding one recognizable small yellow Pikachu at chest height with amazed delight. Pikachu has long black-tipped ears, red cheek circles and a lightning-bolt tail; it looks determined and friendly. A single branching yellow electricity arc crosses to the RIGHT, connecting a simple oversized Minecraft redstone relay to an enormous realistic GTA city skyline whose windows light up. One violet exit portal glows at the relay base, secondary. Bright blue sky, daylight, no night scene. Tiny Pikachu versus huge powered city is the main visual question. No other Pokémon, franchise logos or UI."
+        },
+        {
+          "id": "MV-P",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-P.webp",
+          "full": "multiverse/MV-P.png",
+          "alt": "A real-life Stokes host fills the LEFT foreground, chest-up facing the camera and proudly holding a bright cyan Minecraft diamond power core, unaware of trouble behind him. At RIGHT middle ground, a red Among Us crewmate with a large cyan visor secretly pulls one oversized lever on the open door of a realistic GTA bank vault. The lever is visibly linked to one violet portal opening inside the vault, with a single Minecraft creeper stepping out. The host's real face and the red saboteur are the two main focal groups. Sunny blue sky is visible through the bank's broken roof. No knives, gore, words, accusation arrows or multiple tiny faces."
+        },
+        {
+          "id": "MV-Q",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-Q.webp",
+          "full": "multiverse/MV-Q.png",
+          "alt": "A real-life Stokes host fills LEFT foreground, waist-up holding a black-and-yellow pressure washer lance with bare hands, looking at camera in surprised disbelief. One red GTA supercar fills RIGHT, parked in a sunny open city plaza. A powerful clearly visible water jet sweeps across its middle: the front half is glossy realistic automotive metal and the back half is transformed into chunky, clean red Minecraft voxel blocks, physically joined as one car. A narrow moving spray boundary explains the transformation without panels. Some plaza pavement behind the block half has become Minecraft grass. Blue sky and distant soft skyscrapers. No dirt, muddy Rolls-Royce, cleaning brush, blue gloves or text."
+        },
+        {
+          "id": "MV-R",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-R.webp",
+          "full": "multiverse/MV-R.png",
+          "alt": "A real-life Stokes host is large at LEFT foreground, leaning from the driver's window of a red GTA off-road car with mouth open in alarm. One enormous purple T-shaped Tetris tetromino hangs directly overhead at RIGHT, seconds from landing on the road. A simple staircase of already-landed bright colored tetrominoes forms the escape route up toward a small violet portal on a Minecraft cliff. Make the suspended T piece the one dominant threat, with only two landed pieces visible, clear spacing and readable geometric silhouettes. Luminous blue sky, sunlit block-built landscape. No numbers, grid overlay, extra enemies or logos."
+        },
+        {
+          "id": "MV-S",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-S.webp",
+          "full": "multiverse/MV-S.png",
+          "alt": "A real-life Stokes host is large at LEFT foreground, waist-up in the passenger seat of an open-top red GTA getaway car, looking toward camera in comic disbelief and pointing at the driver. At RIGHT foreground, one large recognizable white Untitled Goose Game goose with orange beak and feet sits upright in the driver's seat, wings gripping the steering wheel and a bulging money sack beside it. Keep goose stylized like the game, human fully photographic, car premium realistic game rendering. One small police car follows in the far background on a sunny GTA city road. Blue sky, simple diagonal road perspective. The absurd goose driver is immediately readable. No extra passengers or text."
+        },
+        {
+          "id": "MV-T",
+          "title": "I Beat The World’s Best Video Game",
+          "preview": "multiverse/MV-T.webp",
+          "full": "multiverse/MV-T.png",
+          "alt": "A real-life Stokes host fills LEFT foreground, chest-up standing on the shoulder platform of a giant humanoid robot, one hand gripping a rail and the other presenting the machine with triumphant amazement. The robot fills RIGHT as one coherent, clean silhouette: Minecraft iron-block torso and head, a glossy red GTA supercar integrated as its forearm with the car's front clearly visible, and one huge glowing blue Halo energy sword in its opposite hand. Feet stand on a small Minecraft hillside in front of a distant GTA skyline. A single small violet rift behind the machine establishes the mission. Use low-angle scale and luminous blue sky. No other giant enemies, loose floating props, logos or text."
+        },
+        {
+          "id": "MV-U",
+          "title": "I Filled GTA With Dinosaurs!",
+          "preview": "multiverse/MV-U.webp",
+          "full": "multiverse/MV-U.png",
+          "alt": "A real-life Stokes host in a black T-shirt is CENTER foreground, waist-up standing through the open roof of a glossy red GTA supercar, face large with thrilled alarm. At RIGHT one enormous recognizable ARK Tyrannosaurus lowers its open non-gory jaw toward the back of the car, almost biting it. Its massive head dwarfs the human. At LEFT, far behind, one long-neck dinosaur steps over a tiny sunlit city bus. The host reaches toward camera as the car races forward on a broad GTA boulevard. Blue sky fills the upper third. One dominant dinosaur head, one real human and one car; background dinosaur very small. Bright playful adventure, no injury or gore."
+        },
+        {
+          "id": "MV-V",
+          "title": "I Gave My Friends Every Superpower!",
+          "preview": "multiverse/MV-V.webp",
+          "full": "multiverse/MV-V.png",
+          "alt": "A photographic real-life Stokes host is large at RIGHT foreground in a clean red-and-blue Spider-Man suit with NO mask, real black hair and face fully visible. He grins in excited disbelief and fires a thick white web from his LEFT hand diagonally across the image. At LEFT a GTA police car hangs high above the ground, securely caught in a single huge web sling. Directly under the suspended car is a compact staircase of floating Minecraft grass blocks rising from a sunny GTA plaza, showing a second impossible ability. The visible web connects host wrist to car and explains the action. Luminous blue sky; low-angle camera and clean negative space. The host and one web-caught car are the two main visual groups. No extra superheroes or printed chest emblem."
+        },
+        {
+          "id": "MV-W",
+          "title": "We Built a Roller Coaster Across Video Games!",
+          "preview": "multiverse/MV-W.webp",
+          "full": "multiverse/MV-W.png",
+          "alt": "Front-facing ride camera: a photographic real-life Stokes host occupies the CENTER of the image in the front seat of one bright yellow roller-coaster train. His face is very large, hair blown back, mouth open in joyous shock, both hands on the safety bar. A tiny blocky Roblox passenger sits in the next row, secondary. Behind the host the single red track dives dramatically from upper LEFT through a chunky Minecraft grass cliff and swings toward distant realistic GTA skyscrapers on the RIGHT. The near track falls sharply away below the front seat to communicate a huge drop. One uninterrupted physical track, not separated panels. Sunny blue sky and white clouds, vivid green terrain, simple coherent depth. No text, no multiple unrelated portals."
+        },
+        {
+          "id": "MV-X",
+          "title": "We Escaped the World’s Deadliest Obstacle Course!",
+          "preview": "multiverse/MV-X.webp",
+          "full": "multiverse/MV-X.png",
+          "alt": "A photographic real-life Stokes host in a black T-shirt leaps from LEFT middle ground toward RIGHT foreground and toward the camera, face clearly visible in playful panic, one hand stretched forward. His foreshortened body is suspended above one enormous glowing Minecraft lava gap. One huge pink-and-white padded Fall Guys hammer swings past behind him at LEFT, nearly missing his shoes. At RIGHT foreground a single bright cyan Roblox plastic platform is the obvious safe landing target, with a blocky Roblox friend small in the far background. Use a close dramatic wide-angle viewpoint at platform height; real human contact perspective, bright blue sky upper half. One jump, one swinging hammer and one landing pad; non-gory game obstacle, not realistic injury."
+        },
+        {
+          "id": "MV-Y",
+          "title": "We Escaped a Prison That Changes Games!",
+          "preview": "multiverse/MV-Y.webp",
+          "full": "multiverse/MV-Y.png",
+          "alt": "The camera looks into a single sunlit Minecraft prison cell with an open front-wall cutaway. A photographic real-life Stokes host in an orange prison jumpsuit crouches at RIGHT foreground, face large looking to camera in amazed relief. Behind him on the LEFT a glowing blue oval Portal exit opens in the solid block-built cell wall; inside that one portal we clearly see a red GTA getaway supercar parked in a realistic sunny city street. The host reaches one arm through the portal toward the car. One pair of thick pixel iron bars hangs bent at the cell edge to show the old exit failed. Blue sky visible over the short roofless cell wall. One coherent prison space and one portal window, no split panels, no dozens of doors or tiny mazes."
+        },
+        {
+          "id": "MV-Z",
+          "title": "I Controlled GTA With a Board Game!",
+          "preview": "multiverse/MV-Z.webp",
+          "full": "multiverse/MV-Z.png",
+          "alt": "A photographic real-life Stokes host looms large at the TOP CENTER of the image behind a tabletop miniature GTA city, as if he is the giant game master. His face is large with delighted surprise; one hand releases an oversized ivory die with simple dark pips, no printed numerals or letters. The die is mid-air over the LEFT foreground. The miniature city roads form one simple squared board path of vivid Mario Party-style colored spaces curving through realistic tiny GTA skyscrapers. A glossy red GTA supercar is the main player token at RIGHT foreground, approaching one oversized red Monopoly-style hotel piece blocking its route. Camera near tabletop height creates strong scale and shallow perspective. Bright blue sky beyond the host, no board captions, no money text, no game logos. The face, die and tiny threatened car form one visual story."
+        },
+        {
+          "id": "MV-AA",
+          "title": "I Turned GTA Into a Water Park!",
+          "preview": "multiverse/MV-AA.webp",
+          "full": "multiverse/MV-AA.png",
+          "alt": "Ride-level action camera on a giant open turquoise water slide twisting between sunny GTA skyscrapers. A photographic real-life Stokes host sits on a bright yellow inflatable ring at RIGHT foreground, black T-shirt and shorts, face large and ecstatic as he looks back toward the camera over his shoulder. At LEFT the enormous slide curves sharply downward toward a distant beach pool, showing dramatic safe amusement-park scale. The middle portion of the continuous slide transforms into clean Minecraft glass and water blocks, then reconnects to a glossy Planet Coaster-style aqua flume; the transition is clear and physically joined. Bright blue sky, sunny skyline, clean cyan water splashing around the ring. One host, one uninterrupted huge slide and small pool below. No flood, creatures, pirate ships, printed signs or text."
+        },
+        {
+          "id": "MV-AB",
+          "title": "We Became Ghost Hunters in GTA!",
+          "preview": "multiverse/MV-AB.webp",
+          "full": "multiverse/MV-AB.png",
+          "alt": "A photographic real-life Stokes host occupies the RIGHT foreground, waist-up wearing a plain black T-shirt and a red-and-gray Luigi’s Mansion Poltergust vacuum backpack. His real face is large with laughing shock. He braces a dark vacuum nozzle with both hands and aims it to the LEFT. One enormous vivid red Pac-Man ghost with rounded dome, scalloped bottom and big white cartoon eyes is being pulled into the nozzle through one visible cyan spiraling suction stream, its lower body stretched toward the nozzle while its head stays huge. Sunny GTA city street recedes behind them, one tiny abandoned car and blue sky. A simple cause-and-effect diagonal connects ghost to nozzle to host. No night scene, gore, extra spirits, text, hats with logos or UI."
+        },
+        {
+          "id": "MV-AC",
+          "title": "We Played Soccer With an Exploding Ball!",
+          "preview": "multiverse/MV-AC.webp",
+          "full": "multiverse/MV-AC.png",
+          "alt": "A giant recognizable black Mario Bob-omb occupies the LEFT foreground like an enormous soccer ball, with two simple white oval eyes, brass wind-up key, small orange feet and one short fuse throwing bright harmless sparks. At RIGHT middle foreground a glossy red GTA supercar accelerates toward it; a photographic real-life Stokes host leans high through the open driver window, real face large with thrilled alarm, visibly driving. In the CENTER background one enormous Rocket League blue goal with hexagonal netting is directly behind the bomb, establishing the scoring target. Low wide camera on vibrant green pitch, luminous blue sky and simple stadium rim. The bomb is larger than the car; fuse prominent, no explosion yet, no injuries, no text or score UI."
+        },
+        {
+          "id": "MV-AD",
+          "title": "I Became Faster Than Every Car in GTA!",
+          "preview": "multiverse/MV-AD.webp",
+          "full": "multiverse/MV-AD.png",
+          "alt": "A photographic real-life Stokes host runs straight toward the camera in the CENTER foreground, waist-up and one giant foreshortened leg visible, real face large with ecstatic competitive surprise. He wears a plain black T-shirt, dark shorts and recognizable Sonic bright red running shoes with one white strap each, no character mask or blue fur. A single sweeping electric-blue speed trail curls behind his feet. At LEFT and RIGHT behind him, two small GTA supercars race but are clearly losing. The smooth road transitions naturally into chunky Minecraft grass and cobblestone near the lower frame, with distant sunny GTA towers. Very low dynamic camera, clean bright blue sky, motion blur only at edges; face and shoes tack-sharp. No printed finish banner, no extra creatures, no text or UI."
         }
+      ],
+      "promise": "The crew races through a shared adventure built from their favorite games; last place takes a pickle dunk.",
+      "how": [
+        "Open overhead with Alex, Alan, Kat, Tanner and Shawn at their stations, then choose characters and vehicles.",
+        "Race from Rainbow Road through GTA City, the Nether and the End staging area into space; arrivals collect chests and keep moving.",
+        "Resolve the final space challenge, reveal the actual standings and deliver the pickle dunk."
       ],
       "intro": [
         {
-          "label": "0 (First Frame)–5s",
-          "text": "A real host rides a dragon over an impossible game collision, or another equally clear playable hero moment. Smash-cut to Godzilla towering over the crew. This shot only leads if its gameplay has been proved."
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "THIS is the world’s greatest video game.",
+          "show": "Start overhead with the crew standing at their PCs, then show one clear crossover moment."
         },
         {
-          "label": "5s–15s",
-          "text": "“We combined our favorite games, gave everyone a different world, and now we have to beat them all.” Show five quick player/world reveals with one plain-language goal each."
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "We put our favorite games into the same adventure. And last place takes a pickle dunk.",
+          "show": "Show the route and the real dunk payoff, then sit into the stations."
         },
         {
-          "label": "15s–30s",
-          "text": "Start one real attempt: a car approaches a missing block bridge, then cut to a completely different player discovering their own problem. Leave the first outcome open only until the next relevant return."
+          "time": "15–30s",
+          "speaker": "CAST",
+          "line": "Can we choose a different punishment?",
+          "show": "Reveal the character/vehicle choices and begin the countdown."
         }
       ],
-      "worlds": [
-        {
-          "cast": "Alex",
-          "pairing": "GTA × Minecraft",
-          "name": "Build the getaway",
-          "goal": "Deliver one marked car across a broken block-built route to a rescue pad.",
-          "mechanic": "Three road gaps require a choice between limited bridge pieces, a risky ramp or a longer route. Building changes the driving problem.",
-          "failure": "Falling or losing the marked car resets to the previous checkpoint and consumes the disclosed retry consequence.",
-          "escalation": "The last bridge must support the car while pursuing enemies close in.",
-          "finale_role": "Proposed: build a short bridge or shield platform so the team can reach a boss weak point.",
-          "proof": "One drive/build/reset loop in a bounded GTA 5/custom scene. Cosmetic blocks alone do not deliver this crossover.",
-          "fallback": "Use a small tested block course with prebuilt placement choices instead of free building across a whole city."
-        },
-        {
-          "cast": "Alan",
-          "pairing": "Minecraft × Halo, with optional Call of Duty-style horde detail",
-          "name": "Dragon rescue",
-          "goal": "Disable three visible invasion beacons and rescue the villagers below.",
-          "mechanic": "Ride a dragon and use a tested ranged weapon against beacon guards; Halo/Flood-inspired threats give the familiar Minecraft setting a new problem.",
-          "failure": "Losing the dragon or a failed beacon approach returns to a clear checkpoint. Keep the rescue target count visible.",
-          "escalation": "The final beacon is protected by a larger wave, forcing a low pass or a different attack angle.",
-          "finale_role": "Proposed: aerial distraction and an attack on the high weak point.",
-          "proof": "Rider control, aiming, target damage and reset must work together. The existing dragon and Halo component listings do not prove compatibility.",
-          "fallback": "A short controllable dragon segment followed by a ground defense; revise the thumbnail if mounted weapon use is not playable."
-        },
-        {
-          "cast": "Kat",
-          "pairing": "Pokémon × Elden Ring",
-          "name": "Tiny companion, giant enemy",
-          "goal": "Recruit one small companion and use its ability to defeat a much larger guardian.",
-          "mechanic": "Choose between two readable companion abilities, then learn a visible boss attack and exploit its opening. Explain “catch a helper, dodge the giant, hit the weak spot.”",
-          "failure": "A missed capture or boss defeat triggers the same agreed retry; no hidden stat or lore requirement.",
-          "escalation": "The guardian changes its attack in phase two, making the first strategy insufficient.",
-          "finale_role": "Proposed: a support ability that protects or revives one teammate during the shared fight.",
-          "proof": "One bounded capture/companion/boss interaction in an approved custom route. Do not assume the commercial games can be networked together.",
-          "fallback": "One fixed companion with one support action and a single custom guardian arena."
-        },
-        {
-          "cast": "Tanner",
-          "pairing": "Mario Kart × GTA",
-          "name": "The impossible delivery",
-          "goal": "Carry a marked package through three city checkpoints and cross the finish with it.",
-          "mechanic": "Kart-style items change a GTA-style road race: a boost opens a route, a shell forces a dodge, and a shortcut trades speed for danger.",
-          "failure": "Dropping the package or missing a checkpoint returns to the last checkpoint; shortcuts count only inside the marked route.",
-          "escalation": "A giant chasing obstacle interrupts the final straight, making the item choice matter.",
-          "finale_role": "Proposed: drive a distraction vehicle to pull Godzilla away from the ground team.",
-          "proof": "A short race course with working items, route checks and reliable resets. Equalize the tested controls before recording.",
-          "fallback": "Two reliable items and three designed corners, rather than an entire new racing system."
-        },
-        {
-          "cast": "Shawn",
-          "pairing": "99 Nights (Roblox) × Fortnite",
-          "name": "Build before nightfall",
-          "goal": "Protect one rescue beacon through three increasingly difficult night waves.",
-          "mechanic": "Gather a small material allowance and build defenses before a shrinking safe area and a visible creature wave reach the beacon.",
-          "failure": "Beacon destruction resets the wave with the disclosed consequence; do not turn it into an unexplained survival grind.",
-          "escalation": "The last wave attacks from two sides, forcing a tradeoff between repairing defenses and fighting.",
-          "finale_role": "Proposed: place a defensive shelter or temporary cover during Godzilla’s area attack.",
-          "proof": "One build/defend/wave loop in a bounded custom scene. Roblox/Fortnite integration is a creative direction, not a confirmed cross-platform mod.",
-          "fallback": "Fixed defensive placement points and three short waves with a clear safe-zone boundary."
-        }
+      "turn": [
+        "ALEX",
+        "First one here gets the gold chest. Everyone else, choose carefully.",
+        "Let the first arrival open the gold chest while the others are still racing; reveal the next game-world surprise."
       ],
-      "story": [
-        {
-          "phase": "Launch the five stories",
-          "action": "Give each cast member an immediately different problem. Start with the clearest collision, then introduce the others through action rather than five long explanations.",
-          "question": "Which world would you choose, and who has the hardest mission?"
-        },
-        {
-          "phase": "Discover the rules",
-          "action": "Cut between meaningful discoveries: one player finds a shortcut, another wastes a scarce tool, another learns a boss pattern. Return before an open question feels abandoned.",
-          "question": "Can the crew turn these unfamiliar mechanics to their advantage?"
-        },
-        {
-          "phase": "Pressure and reversals",
-          "action": "Reveal the next obstacle when a player appears comfortable. Use visible progress and honest resets; do not manufacture the same setback for everyone.",
-          "question": "Will the last unfinished mission hold everyone back?"
-        },
-        {
-          "phase": "Earn the convergence",
-          "action": "Show every mission’s actual finish and the ability it contributes. A simple transition moves the cast into one common arena.",
-          "question": "Will five very different abilities work together?"
-        },
-        {
-          "phase": "Fight Godzilla together",
-          "action": "Phase one teaches a readable attack. Phase two requires two roles to cooperate. The final weak point needs the full team’s coordinated attempt.",
-          "question": "Can they complete the team attack before the boss overwhelms them?"
-        },
-        {
-          "phase": "Pay off the title",
-          "action": "Show the actual winning hit, immediate cast reactions and a concise look back at the five worlds. If the filmed result changes, let the result determine the ending.",
-          "question": "Did this custom game earn the “world’s best” claim for this crew?"
-        }
-      ],
-      "finale": [
-        {
-          "label": "Readable objective",
-          "text": "One Godzilla, one arena and three visible weak points. Keep the boss and team progress on screen; avoid five separate meters viewers cannot interpret."
-        },
-        {
-          "label": "Meaningful cooperation",
-          "text": "Ground distraction exposes a target, a builder creates access, the flyer reaches the high point, and support/defense keeps the attempt alive. Roles can be swapped after testing for actual fun and balance."
-        },
-        {
-          "label": "Earned jeopardy",
-          "text": "Telegraph a stomp or area attack so viewers understand why the crew moves. A failed coordinated attack creates a real recovery problem rather than an arbitrary cutscene."
-        },
-        {
-          "label": "Actual team gameplay",
-          "text": "The five players must affect the shared fight. Cinematic inserts can show scale; a rendered sequence cannot stand in for their participation."
-        }
-      ],
-      "cast_roles": [
-        {
-          "label": "Proposed assignment",
-          "text": "Alex: build/getaway; Alan: aerial rescue; Kat: companion/boss; Tanner: item race; Shawn: build/defend. Reassign from playtests and cast preference; these are not approved assignments."
-        },
-        {
-          "label": "Ensemble edit",
-          "text": "Rotate discovery, competence, mistakes and recoveries across the entire cast. Neither twin automatically owns every important beat."
-        }
-      ],
-      "hero_moments": [
-        {
-          "label": "A collision that changes the action",
-          "text": "A block bridge changes a car route; a tiny companion counters a giant; a familiar kart item becomes a city-scale problem. Show the mechanic causing the result."
-        },
-        {
-          "label": "The last solo finish",
-          "text": "The others can advise and react while the last player attempts their mission. Keep the outcome genuine and include the successful attempt."
-        },
-        {
-          "label": "Five-player rescue",
-          "text": "One player’s mistake during the boss fight creates a clear reason for another player’s earned ability to matter."
-        }
+      "payoff": [
+        "ALAN",
+        "Last place has one final challenge—in real life.",
+        "Return from the space finale, reveal the actual standings, then show the pickle dunk and the crew’s reaction."
       ],
       "packaging": [
+        "A superlative game promise × recognizable crossovers × a real-life consequence.",
+        "One impossible game collision and one strong twin reaction.",
+        "The first shot pays off the title; the route and punishment tell viewers why to stay."
+      ],
+      "support": "The opening and route follow the October 23 production script. Public spectacle/race references support individual ingredients; there is no episode-specific CTR result.",
+      "refs": [
         {
-          "label": "Representative collision",
-          "text": "Photographic Stokes host on the playable dragon with one clean threat group below, luminous blue sky and minimal text. Retain as a reference until the flight/weapon mechanic is proved."
+          "source": "Dy06SXknr_g",
+          "take": "A recognizable game spectacle can be presented as one large visual idea."
         },
         {
-          "label": "Five worlds, one threat",
-          "text": "One large human foreground, a simple five-region world composition and a dominant Godzilla silhouette. Distinct worlds must read as regions, not a logo collage."
-        },
-        {
-          "label": "Team versus the boss",
-          "text": "Real cast foreground reacting to an enormous Godzilla in a game arena. Keep one face dominant and the other players supportive so the image works at phone size."
+          "source": "nopEs-K4ExM",
+          "take": "A readable race objective supports the competitive opening."
         }
       ],
-      "production": [
-        {
-          "label": "Minimum playable proof",
-          "text": "Prove one individual mission, the common five-client arena and the handoff before expanding the other worlds. Record an actual control-to-outcome test."
-        },
-        {
-          "label": "Repeatable recovery",
-          "text": "Every scene needs a known reset, a working save/checkpoint and a way to restore a failed client without pretending the failure did not happen."
-        },
-        {
-          "label": "Capture needs",
-          "text": "Save each individual game feed and player reaction separately, plus the common finale feeds. Preserve the moment that proves each mission and the final win."
-        },
-        {
-          "label": "Scope boundary",
-          "text": "Modded GTA 5 and a separate recreation with AI-assisted development are candidates. A wholly new engine or seamless engine-to-engine networking is not assumed complete."
-        }
-      ],
-      "post": [
-        {
-          "label": "Comprehension",
-          "text": "Use a consistent cast/name/world marker, one sentence of rules at first use and a visible objective. Explain the consequence of an item before relying on game knowledge."
-        },
-        {
-          "label": "Intercutting",
-          "text": "Cut when a discovery, decision or consequence earns the next point of view. Do not alternate mechanically just to give everyone equal seconds."
-        },
-        {
-          "label": "Finale transition",
-          "text": "Explain that the five experiences lead into the common boss arena; use the same earned ability labels so the transition feels like a payoff."
-        },
-        {
-          "label": "Localization",
-          "text": "Prefer icons, simple verbs and short labels. Keep jokes understandable through action and reactions; separate dialogue, music and game sound for later localization."
-        }
-      ],
-      "shorts": [
-        {
-          "label": "Impossible interaction",
-          "text": "One recognizable crossover, a first attempt and its result in a self-contained extract."
-        },
-        {
-          "label": "Crew recovery",
-          "text": "A player makes a readable mistake, then a teammate’s advice or ability changes the outcome."
-        },
-        {
-          "label": "Shared boss payoff",
-          "text": "A short role/reversal/winning action that makes sense without explaining all five worlds."
-        }
-      ],
-      "success_checks": [
-        "A new viewer can name each player’s goal after its first reveal.",
-        "The package depicts a mechanic or scene that actually exists in the finished episode.",
-        "Every world contributes a distinctive discovery and a visible result.",
-        "The shared boss resolves the five-world story instead of feeling like an unrelated extra video."
-      ],
-      "open_choices": [
-        "Approve or revise the five proposed pairings and cast assignments.",
-        "Choose the exact mission finish conditions, retry consequences and finale abilities after prototype playtests.",
-        "Select a title/composition matched to the proved hero moment; commission revised artwork only after that choice."
-      ],
-      "references": [
-        {
-          "title": "World's Largest Minecraft Build!",
-          "channel": "MrBeast Gaming",
-          "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
-          "use": "Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover."
-        },
-        {
-          "title": "Halo & MDE",
-          "url": "https://modrinth.com/project/halo-mde",
-          "use": "Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack."
-        },
-        {
-          "title": "Dragon Mounts Remastered",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/dmr",
-          "use": "Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works."
-        },
-        {
-          "title": "Immersive Vehicles",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator",
-          "use": "Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration."
-        }
-      ],
-      "evidence_note": "Existing composition and component references are adjacent evidence. They do not establish a working nine-game stack, tested five-world retention or causal thumbnail lift."
+      "channel": "Stokes Twins Gaming"
     },
     {
-      "id": "L03",
-      "slot": 2,
+      "id": "idea-launch-gta-prank",
       "title": "I Found The Leaked GTA 6",
-      "short": "Alex’s fake GTA prank",
-      "summary": "Alex gives the crew a convincing custom “early GTA 6” experience, lets their suspicions build and reveals how he fooled them.",
-      "status": "Alex’s prank and audience uncertainty are confirmed; the mission sequence and reveal mechanics below are proposed.",
-      "viewer_promise": "An extraordinary-looking game raises one question: is this actually real? The audience gets enough clues to form a theory while the cast tries to finish a fun challenge.",
-      "confirmed": [
-        "Alex is the informed prankster; Alan, Kat, Tanner and Shawn are the intended targets.",
-        "Keep the audience guessing from the opening rather than announcing the prank immediately.",
-        "The experience is a staged GTA 5/custom build, not a genuine GTA 6 leak.",
-        "Confirm actual briefing history before describing a reaction as unaware."
+      "group": "launch",
+      "titleOptions": [
+        "I Found The Leaked GTA 6"
       ],
-      "objective": "The crew attempts three increasingly strange missions while Alex tries to keep his supposed early build believable until the final reveal.",
-      "rules": [
+      "sourceGroups": [
+        "launch-gta-prank"
+      ],
+      "artwork": [
         {
-          "label": "Player objective",
-          "text": "Deliver one marked car, complete a short escape and reach a final reveal location. The cast can understand the task even if they have never played GTA."
+          "id": "L03-F",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "updated-thumbnails/L03-F.webp",
+          "full": "updated-thumbnails/L03-F.png",
+          "alt": "Is this actually real?; Why does Alex have access to this?"
         },
         {
-          "label": "Alex’s constraint",
-          "text": "He operates only the prepared changes. He must answer the crew’s challenges using the actual build; he cannot simply declare every impossible event normal."
+          "id": "L03-G",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "updated-thumbnails/L03-G.webp",
+          "full": "updated-thumbnails/L03-G.png",
+          "alt": "The mystery build; What is on that tiny device?"
         },
         {
-          "label": "Suspicion",
-          "text": "Track real questions and predictions in the edit. A suspicion board is an editorial device, not a score that guarantees everyone is fooled."
+          "id": "L03-H",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "updated-thumbnails/L03-H.webp",
+          "full": "updated-thumbnails/L03-H.png",
+          "alt": "One suspicious detail; Is that an unfinished game or a clue?"
         },
         {
-          "label": "Retries",
-          "text": "Technical crashes are production failures, not proof of an intentional prank. Use a tested restart point and be truthful if a failure affects the story."
+          "id": "L03-I",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "updated-thumbnails/L03-I.webp",
+          "full": "updated-thumbnails/L03-I.png",
+          "alt": "Can the demo handle this?; Will the supposed early build survive a real test?"
         },
         {
-          "label": "Payoff",
-          "text": "The final location exposes the mechanism and Alex takes responsibility. Show the crew understanding the trick and trying the revealed mechanic themselves."
+          "id": "L03-J",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "updated-thumbnails/L03-J.webp",
+          "full": "updated-thumbnails/L03-J.png",
+          "alt": "What’s behind the final door?; What did Alex hide in this world?"
+        },
+        {
+          "id": "L03-A",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "launch-episodes/L03-A.webp",
+          "full": "launch-episodes/L03-A.png",
+          "alt": "A photographic Stokes host is large at LEFT foreground holding one oversized transparent cyan USB drive close to camera, eyes wide in amazed disbelief. At RIGHT a single monitor shows a gorgeous sunny Miami-inspired GTA-style driving scene with a red supercar and palm boulevard, no HUD or branding. The translucent drive contains a tiny glowing city model as a visual metaphor. Bright gaming room with blue sky through a window. Face, drive and screen only; no labels, game packaging, company logo or leaked-source claim printed in the image."
+        },
+        {
+          "id": "L03-B",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "launch-episodes/L03-B.webp",
+          "full": "launch-episodes/L03-B.png",
+          "alt": "A photographic Stokes host fills RIGHT foreground playing with a controller, face delighted and amazed at a huge monitor at LEFT showing a bright Miami-style game city. Behind the monitor a second photographic identical-twin-style Stokes figure crouches in a plain red shirt with a mischievous grin and one finger to his lips, secretly holding a small remote trigger. Both faces use the supplied Stokes family likeness; foreground face dominant, prankster smaller. Sunny room, luminous blue sky through window. No words, no official logos, no threatening objects."
+        },
+        {
+          "id": "L03-C",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "launch-episodes/L03-C.webp",
+          "full": "launch-episodes/L03-C.png",
+          "alt": "A photographic Stokes host stands large at RIGHT foreground, astonished face toward camera, pulling back the corner of one giant glossy scenic wall like a stage curtain. The wall at LEFT depicts a bright realistic Miami-inspired game boulevard; behind the lifted corner we see an older, simpler GTA 5-style city set, a projector and one plain control console. A small red supercar is continuous across the front and revealed old set. One unified sunny soundstage-like game world with blue sky above, not a panel collage. The peeled edge is huge and instantly readable."
+        },
+        {
+          "id": "L03-D",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "launch-episodes/L03-D.webp",
+          "full": "launch-episodes/L03-D.png",
+          "alt": "A photographic Stokes host fills LEFT foreground pointing in shocked amusement toward one red supercar at RIGHT. The car is one continuous physical object: its front is incredibly glossy realistic metal and its rear visibly becomes a simpler old-game polygon wireframe with clean cyan edges. A small black projector on the ground illuminates the transformation boundary. Bright sunny Miami-style plaza, palm trees and blue sky. Close side-on view with clear front/rear change, only host and car dominate. No text, comparison panels, Nvidia logos or claim of a real leaked asset."
+        },
+        {
+          "id": "L03-E",
+          "title": "I Found The Leaked GTA 6",
+          "preview": "launch-episodes/L03-E.webp",
+          "full": "launch-episodes/L03-E.png",
+          "alt": "A photographic Stokes host is large at CENTER foreground holding a controller with a baffled laughing expression. At LEFT foreground a tiny exquisite miniature Miami game city sits on a low table, with one small red model car. At RIGHT behind the miniature, a second Stokes twin-style figure in a red shirt operates a simple camera on a tripod aimed at the model and smiles mischievously. An oversized screen in far background shows only the camera view of the city, no HUD. Open sunny studio terrace with blue sky. Camera angle makes the tabletop illusion and prank operator obvious, not a random pile of gadgets."
         }
+      ],
+      "promise": "Convince Alex he is playing an early version of GTA 6, then escalate the absurdities until the reveal.",
+      "how": [
+        "Present the setup as an apparent early-game opportunity and let Alex take the controller.",
+        "Begin with believable play, then introduce increasingly strange missions and characters.",
+        "Let the clues build to a clear reveal of how the prank was made."
       ],
       "intro": [
         {
-          "label": "0 (First Frame)–5s",
-          "text": "Show a convincing-looking sunny city/game moment and a genuine “how did you get this?” reaction. Avoid an opening explanation that gives away the trick."
+          "time": "0–5s",
+          "speaker": "ALAN",
+          "line": "Alex thinks he’s about to play GTA 6. But we built this entire game to prank him.",
+          "show": "Show Alex arriving, then a quick behind-the-scenes glimpse for the audience."
         },
         {
-          "label": "5s–15s",
-          "text": "Alex presents the supposed access and the crew starts one simple mission. Establish what would make the experience extraordinary without inventing a real leaked source."
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "Every mission, every character, and every surprise is controlled by us.",
+          "show": "Tease two strange moments without revealing his biggest reaction."
         },
         {
-          "label": "15s–30s",
-          "text": "A small unusual detail creates the first doubt, but a playable driving moment pulls the crew back into the challenge. Let the audience start forming its own theory."
+          "time": "15–30s",
+          "speaker": "ALAN",
+          "line": "Alex, come try this.",
+          "show": "Let him sit down and begin the first believable mission."
         }
       ],
-      "story": [
-        {
-          "phase": "Make the access feel extraordinary",
-          "action": "A convincing single district, responsive car handling and one polished interaction establish why the crew would keep playing. Use only apparent proof the staged premise can support.",
-          "question": "Did Alex really get something nobody else has?"
-        },
-        {
-          "phase": "First mission: delivery",
-          "action": "The crew follows an easy route to a marked destination. A subtle repeated character, oddly familiar building or unusual sign gives attentive viewers a clue.",
-          "question": "Is that detail a clue or just an unfinished game?"
-        },
-        {
-          "phase": "Second mission: escape",
-          "action": "A controlled chase introduces one absurd behavior that is still playable. The crew tests Alex’s explanation instead of passively listening to it.",
-          "question": "Can the build survive an unscripted test?"
-        },
-        {
-          "phase": "The crew investigates",
-          "action": "Let a real suspicion change the action: take an unexpected turn, revisit the odd interaction or ask to try a different vehicle. Preserve the cause-and-effect chain.",
-          "question": "Who will work out what Alex changed?"
-        },
-        {
-          "phase": "Third mission: the impossible location",
-          "action": "The final objective leads to a location that exposes the setup: a custom room or world element directly tied to Alex and the crew. It should answer earlier clues.",
-          "question": "What is behind the final door?"
-        },
-        {
-          "phase": "Reveal and reaction",
-          "action": "Alex explains the custom GTA 5/recreation route in plain language. Show brief proof of the trick and the crew’s real responses, then give them a short turn playing with it knowingly.",
-          "question": "Which clue should have given it away?"
-        }
+      "turn": [
+        "ALAN",
+        "Let’s see how long it takes him to notice this.",
+        "Introduce the next clue after Alex has committed to the mission."
       ],
-      "cast_roles": [
-        {
-          "label": "Alex",
-          "text": "Owns the misdirection, responds to suspicion and delivers the reveal. His control is the story’s engine, but the edit can withhold selected information until payoff."
-        },
-        {
-          "label": "Alan, Kat, Tanner and Shawn",
-          "text": "Each gets a distinct attempt or investigation: driving, testing an interaction, following a clue or challenging Alex’s explanation. Assign the exact missions around authentic reactions, not predetermined “believer” or “skeptic” roles."
-        },
-        {
-          "label": "Knowledge boundary",
-          "text": "Separate people who know the setup from the intended targets before filming. If someone already knows, use their actual role rather than presenting them as fooled."
-        }
-      ],
-      "hero_moments": [
-        {
-          "label": "Almost caught",
-          "text": "A target tests something Alex did not expect. Hold enough of the interaction to show whether his explanation actually survives."
-        },
-        {
-          "label": "A believable game becomes ridiculous",
-          "text": "One prepared change turns a normal delivery or escape into a surprising crew problem; its consequence stays understandable."
-        },
-        {
-          "label": "The evidence pays off",
-          "text": "Revisit two or three earlier clues after the reveal. The viewer gets the satisfaction of solving the same puzzle, not an unrelated backstage montage."
-        }
-      ],
-      "contingencies": [
-        {
-          "label": "Someone identifies it immediately",
-          "text": "Do not reset their knowledge or ask them to fake belief. Shift to whether Alex can convince the others, or whether the crew can find every planted change."
-        },
-        {
-          "label": "Everyone believes too long",
-          "text": "Let the mission introduce a stronger, playable inconsistency. The reveal still needs evidence and a satisfying reaction; extra minutes of driving are not suspense."
-        },
-        {
-          "label": "A target already knows",
-          "text": "Reframe their role openly in the planning/edit. The remaining unaware reactions can carry the prank without fabricated innocence."
-        },
-        {
-          "label": "The build cannot support exploration",
-          "text": "Use a bounded route and a clear mission boundary. A convincing small experience is preferable to promising a whole unexplorable game."
-        }
+      "payoff": [
+        "ALAN",
+        "Alex, there’s something we need to tell you.",
+        "Reveal the prank, show how it was built and let Alex react."
       ],
       "packaging": [
+        "An apparently impossible early-access opportunity × a twin prank.",
+        "Alex’s reaction to one unexpected GTA-style scene; the audience gets the prank context in the opening.",
+        "The title creates the opportunity; the first line makes the audience Alan’s accomplice."
+      ],
+      "support": "Stokes prank history and controlled-game surprises support the structure. No actual Rockstar leak or endorsement is part of the pitch.",
+      "refs": [
         {
-          "label": "Mystery access",
-          "text": "Large photographic host holding one intriguing object beside a beautiful game scene. The object is a metaphor for access, not evidence of an actual leaked drive."
+          "source": "5ZX_eypUHns",
+          "take": "A direct Stokes prank identity and escalating surprises."
         },
         {
-          "label": "Is this real?",
-          "text": "Real host at a station with one striking in-game vista or uncanny detail. Keep the uncertainty in the image and avoid an obvious prank reveal."
-        },
-        {
-          "label": "Title alignment",
-          "text": "I Found The Leaked GTA 6 remains a working packaging test. The episode must reveal that it is staged; do not invent genuine developer access or unsupported provenance to justify the title."
+          "source": "-LUNQPxD0vY",
+          "take": "A creator secretly changing the game supplies an adjacent prank mechanism."
         }
       ],
-      "production": [
-        {
-          "label": "Playable scope",
-          "text": "Build one convincing district/route and three reliable mission interactions, with operator controls and reset points. More visual detail only helps if the crew can play it."
-        },
-        {
-          "label": "Source of the illusion",
-          "text": "Visual polish, selected models and post effects support the story. Upscaling or AI-assisted development does not turn GTA 5 into actual GTA 6."
-        },
-        {
-          "label": "Reaction capture",
-          "text": "Preserve each target’s first encounter, questions and the moment their belief changes. Later pickups should not be presented as first reactions."
-        },
-        {
-          "label": "Reveal proof",
-          "text": "Capture a simple demonstration of the changes Alex controlled so the ending answers the audience’s questions."
-        }
-      ],
-      "post": [
-        {
-          "label": "Keep the audience guessing fairly",
-          "text": "Withhold the explicit mechanism, but include real clues and doubts. Avoid editing a sincere objection out just to claim the crew was completely fooled."
-        },
-        {
-          "label": "Escalation",
-          "text": "Move from plausible polish to a small oddity, then a consequential inconsistency, then the reveal. Each step changes what the crew does."
-        },
-        {
-          "label": "Pacing",
-          "text": "Cut unproductive navigation and technical explanations. Keep the moments where a player tests, doubts, commits or catches Alex."
-        },
-        {
-          "label": "Ending",
-          "text": "Resolve the prank, identify the custom experience and pay off the strongest clue. Let the final cast reaction close the story."
-        }
-      ],
-      "shorts": [
-        {
-          "label": "Suspicion without the answer",
-          "text": "One strange interaction and a cast theory, with a clear route to the full episode after release."
-        },
-        {
-          "label": "Reveal extract",
-          "text": "After the long-form reveal is public, show the clue, the explanation and the immediate reaction as a complete short."
-        },
-        {
-          "label": "Playable absurdity",
-          "text": "A standalone mission change with its own funny consequence; it should still make sense without the leak premise."
-        }
-      ],
-      "success_checks": [
-        "A non-gamer understands the mission and why the supposed access matters.",
-        "Suspicion produces new action instead of repetitive dialogue.",
-        "The reveal explains the planted clues and correctly identifies the build.",
-        "Claims about who knew the prank match the actual briefing and footage."
-      ],
-      "open_choices": [
-        "Choose the bounded custom route and three prepared interactions after a playable test.",
-        "Confirm the cast knowledge boundary and what Alex can control live.",
-        "Choose the strongest reveal mechanism and a package that preserves uncertainty without inventing genuine leak evidence."
-      ],
-      "references": [
-        {
-          "id": "nuK7e1xzThc",
-          "title": "Prisoner Drive Thru Prank",
-          "channel": "Stokes Twins",
-          "url": "https://www.youtube.com/watch?v=nuK7e1xzThc",
-          "lift": 2.94,
-          "standing": "qualifying public outlier",
-          "observation": "Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.",
-          "observed_at": "2026-10-05T06:01:52.274157+00:00",
-          "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
-        },
-        {
-          "id": "5ZX_eypUHns",
-          "title": "365 PRANKS IN 365 DAYS!!",
-          "channel": "Stokes Twins",
-          "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
-          "lift": 2.17,
-          "standing": "qualifying public outlier",
-          "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
-          "observed_at": "2026-10-05T06:01:52.236728+00:00",
-          "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
-        },
-        {
-          "id": "AwQz703eOt0",
-          "title": "BUSTING VIRAL TIKTOK GADGETS!!",
-          "channel": "Stokes Twins",
-          "url": "https://www.youtube.com/watch?v=AwQz703eOt0",
-          "lift": 4.18,
-          "standing": "qualifying public outlier",
-          "observation": "Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.",
-          "observed_at": "2026-10-05T06:01:52.265096+00:00",
-          "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
-        }
-      ],
-      "evidence_note": "Public prank and gaming references support adjacent packaging/story analysis. They do not prove that a fake-GTA-access premise will outperform or that these specific reactions will occur."
+      "channel": "Stokes Twins Gaming"
     },
     {
-      "id": "L01",
-      "slot": 3,
+      "id": "idea-launch-gta6",
       "title": "I Survived 100 Hours in GTA",
-      "short": "First completion releases everyone",
-      "summary": "Alex, Alan, Kat, Tanner and Shawn start separate GTA 6 runs in one room, and the first person to finish wins and lets the whole crew leave.",
-      "status": "Actual GTA 6, five individual runs and first-finisher group release are confirmed; finish proof and competition rules below remain to agree.",
-      "viewer_promise": "Five personalities race toward one clear finish while sharing the consequences of staying in the room. The audience can follow the leader, recoveries and crew dynamics without knowing GTA missions.",
-      "confirmed": [
-        "Five players each have an individual game run; this is not assumed to be shared story co-op.",
-        "The first completion wins and releases everyone together.",
-        "100 hours is a working title. Actual elapsed duration determines the final truthful package.",
-        "Godzilla is in the first mashup video, not this completion challenge.",
-        "Record from actual game access, assemble while recording and publish ASAP after the winner, group release and final QC."
+      "group": "launch",
+      "titleOptions": [
+        "I Survived 100 Hours in GTA",
+        "We’re Trapped Until We Beat GTA 6",
+        "I Beat GTA 6"
       ],
-      "objective": "Be the first to complete the agreed main-story finish condition in actual GTA 6.",
-      "rules": [
+      "sourceGroups": [
+        "launch-gta6"
+      ],
+      "artwork": [
         {
-          "label": "Matched start",
-          "text": "Begin from the same agreed game state and use the same difficulty/settings where the actual game allows them. Record the starts and any unavoidable difference."
+          "id": "L01-F",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "updated-thumbnails/L01-F.webp",
+          "full": "updated-thumbnails/L01-F.png",
+          "alt": "Five stations, one exit; Who finishes first and gets everyone out?"
         },
         {
-          "label": "Finish proof",
-          "text": "Recommended: the agreed main-story ending/credits checkpoint, chosen after the real game’s completion routes are understood. Side activities and 100% completion are excluded unless the cast deliberately chooses a different premise."
+          "id": "L01-G",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "updated-thumbnails/L01-G.webp",
+          "full": "updated-thumbnails/L01-G.png",
+          "alt": "The race across the desks; Which player beats the game first?"
         },
         {
-          "label": "Individual runs",
-          "text": "Each player controls their own run. No save transfers, substitute players or unannounced skips. Agree any assistance policy before the race."
+          "id": "L01-H",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "updated-thumbnails/L01-H.webp",
+          "full": "updated-thumbnails/L01-H.png",
+          "alt": "One winner opens the door; Whose finish lets the entire crew leave?"
         },
         {
-          "label": "Help policy proposal",
-          "text": "Players can talk and exchange advice because their shared exit encourages cooperation; nobody takes over another person’s controls. This creates a useful tension between personal victory and collective release."
+          "id": "L01-I",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "updated-thumbnails/L01-I.webp",
+          "full": "updated-thumbnails/L01-I.png",
+          "alt": "Time is wearing us down; Who will break the stalemate?"
         },
         {
-          "label": "Failures and interruptions",
-          "text": "Normal in-game failures use the game’s normal retry/save system. Log a technical outage separately and apply the same agreed remedy to everyone; the precise remedy is a pending rule."
+          "id": "L01-J",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "updated-thumbnails/L01-J.webp",
+          "full": "updated-thumbnails/L01-J.png",
+          "alt": "First finish, everyone celebrates; Who gets the winning reaction?"
         },
         {
-          "label": "Room and breaks",
-          "text": "Agree a fair rest/break policy before recording. Keep the elapsed clock honest and explain meaningful pauses. The room is the challenge setting; the premise does not depend on denying ordinary needs."
+          "id": "L01-A",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "launch-episodes/L01-A.webp",
+          "full": "launch-episodes/L01-A.png",
+          "alt": "A photographic Stokes host is large at RIGHT, leaning from an orange-red supercar racing diagonally toward the camera. At LEFT a blue supercar driven by one anonymous adult crew member draws level. Both cars pass under one simple black-and-white checkered finish arch on a sunny Miami-inspired coastal highway. One palm-lined skyline and turquoise ocean beyond. Low wide camera near the road, foreground host face sharp, only two cars and one finish. The game world is premium cinematic GTA-style rendering; the human is photographic."
         },
         {
-          "label": "Winner and release",
-          "text": "The first verified finish ends the competition and releases all five. There is no requirement to film the others completing separate endings after the race is over."
+          "id": "L01-B",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "launch-episodes/L01-B.webp",
+          "full": "launch-episodes/L01-B.png",
+          "alt": "A photographic Stokes host is CENTER foreground standing on the roof of one parked red supercar, waist-up and face large, raising a huge simple gold cup in both hands with triumphant excitement. Behind at RIGHT a small blue crew car is still racing toward a distant checkered arch. Sunlit Miami-style art-deco waterfront, turquoise water, palms and luminous blue sky. Eye-level hero portrait with trophy dominating upper LEFT, face center, car roof lower third. No prize money or game logo."
+        },
+        {
+          "id": "L01-C",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "launch-episodes/L01-C.webp",
+          "full": "launch-episodes/L01-C.png",
+          "alt": "A photographic Stokes host fills LEFT foreground in the open driver seat of a red convertible, shocked face turned toward camera. At RIGHT the car is half on the edge of a broken coastal stunt-road segment, front tire just short of a safe landing ramp. A small blue crew car is already on the far side. Freeze the jump before any collision. Bright sunny Miami-inspired game world, water below and open blue sky. One red car, one gap and tiny blue rival; close dramatic perspective with a clear safe landing. No injury or explosion."
+        },
+        {
+          "id": "L01-D",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "launch-episodes/L01-D.webp",
+          "full": "launch-episodes/L01-D.png",
+          "alt": "A real sunny studio with one large open window revealing a cinematic Miami game city outside. At LEFT foreground one photographic Stokes host in a black shirt holds a controller and looks toward camera in competitive excitement. At RIGHT two anonymous adult crew members in blue shirts share a second gaming station, one playing and one pointing toward the screen. One huge screen between the teams shows an orange car and blue car approaching a finish arch in the same scene, with no HUD. One unified physical room, not a split-panel collage. Strong blue sky through the window, faces large, simple color separation red/orange team versus blue crew."
+        },
+        {
+          "id": "L01-E",
+          "title": "I Survived 100 Hours in GTA",
+          "preview": "launch-episodes/L01-E.webp",
+          "full": "launch-episodes/L01-E.png",
+          "alt": "A photographic Stokes host is CENTER foreground gripping the side rail of a red-and-black helicopter, face large in ecstatic urgency. The helicopter flies from lower RIGHT toward one rooftop helipad on a sunlit Miami-inspired tower at LEFT. A small blue crew helicopter approaches the same pad from the opposite direction, secondary. Turquoise bay and white high-rises far below, luminous blue sky filling upper half. Low camera outside the main cockpit, one host, one dominant helicopter and one clear final destination. No guns, HUD or text."
         }
+      ],
+      "promise": "The boys stay in one room until someone finishes GTA 6, while guests join for complete standalone challenges.",
+      "how": [
+        "Start the room challenge and establish the agreed game finish point.",
+        "Follow the leading run, the setbacks and guest mission blocks while post receives finished segments.",
+        "When the first player finishes, release everyone and resolve the room story."
       ],
       "intro": [
         {
-          "label": "0 (First Frame)–5s",
-          "text": "Five occupied stations, the room door closing and a readable elapsed clock. Cut to a genuine late-race reaction that does not reveal who wins."
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "We’re locked in this room until one of us beats GTA 6.",
+          "show": "Show the occupied stations, the room and the game starting."
         },
         {
-          "label": "5s–15s",
-          "text": "“We can’t leave until one of us beats GTA 6.” Explain that everyone has their own run and the first finisher releases the entire crew. Show the agreed finish marker."
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "The first person to finish gets everyone out. And we’ve invited some help.",
+          "show": "Tease guest arrivals without claiming a booked guest who has not confirmed."
         },
         {
-          "label": "15s–30s",
-          "text": "Start the real competition. One player gains an early advantage while another faces a readable setback; establish the cast through choices and reactions, not a long setup tour."
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Start the game. Let’s see who gets us out first.",
+          "show": "Begin the first mission and establish each player’s progress."
         }
       ],
-      "story": [
-        {
-          "phase": "Start and establish the rule",
-          "action": "Show matched starts, the room promise and five clear progress lanes. Use only the first meaningful mission decisions needed to understand each competitor.",
-          "question": "Who gets ahead first?"
-        },
-        {
-          "phase": "Early confidence meets the game",
-          "action": "Find the first genuine skill gap or mistake. Explain what the setback costs in progress, rather than assuming viewers know the mission.",
-          "question": "Is the early leader actually the strongest player?"
-        },
-        {
-          "phase": "The room becomes part of the story",
-          "action": "Use breaks, food, rivalry and advice where they change the competition. Time jumps are explicitly labeled; do not confuse hours elapsed with hours of uninterrupted play.",
-          "question": "Will they prioritize winning or helping someone finish?"
-        },
-        {
-          "phase": "Comebacks and late-race pressure",
-          "action": "Crosscut actual reversals and approaching finish checkpoints. A delayed feed or editing choice must not imply a close race that did not happen.",
-          "question": "Can the trailing player catch the real leader?"
-        },
-        {
-          "phase": "Verify the first finish",
-          "action": "Hold enough gameplay and reaction to establish the actual ending checkpoint. Confirm who finished first using synchronized records, then reveal the winner.",
-          "question": "Is this the run that finally lets everyone out?"
-        },
-        {
-          "phase": "Release and close",
-          "action": "Show the whole crew leaving together and a concise final progress/elapsed-time wrap-up. Their unfinished runs are a scoreboard recap, not a new requirement to stay.",
-          "question": "How long did it really take, and who was closest behind?"
-        }
+      "turn": [
+        "ALAN",
+        "We’ve been stuck here for hours. It’s time to call for help.",
+        "Bring in a confirmed guest with one specific mission to complete."
       ],
-      "cast_roles": [
-        {
-          "label": "All five competitors",
-          "text": "Alex, Alan, Kat, Tanner and Shawn each have a visible progress lane. Let the footage establish the confident starter, surprise leader, helper and comeback player; do not assign fictional skill rankings in advance."
-        },
-        {
-          "label": "Crew tension",
-          "text": "Someone may help a rival because any winner lets them leave, then regret giving away their lead. Follow that tension only if it happens."
-        },
-        {
-          "label": "Winner uncertainty",
-          "text": "Build the edit around actual progress and finish proof. Either twin or any crew member can carry the decisive final run."
-        }
-      ],
-      "hero_moments": [
-        {
-          "label": "A clear progress reversal",
-          "text": "A player loses an apparent lead through a normal mission failure, while another completes a visible milestone. Explain both sides of the change."
-        },
-        {
-          "label": "Help the rival",
-          "text": "Keep a real exchange where advice makes the group’s exit more likely but threatens the helper’s chance to win."
-        },
-        {
-          "label": "The finish in the room",
-          "text": "Capture the winning game state, the winner’s first reaction, the others discovering it and the group-release action as one connected payoff."
-        }
-      ],
-      "contingencies": [
-        {
-          "label": "It takes far less than 100 hours",
-          "text": "Use the actual duration or a completion-led title. Do not prolong the recording or fabricate the clock to preserve a working headline."
-        },
-        {
-          "label": "It takes much longer",
-          "text": "Follow the agreed break/save policy, keep the room story truthful and let recording length determine the edit; no fixed 100-hour quota is assumed."
-        },
-        {
-          "label": "The winner leads comfortably",
-          "text": "Use the genuine suspense of whether they can finish and release the crew. Do not fabricate an opponent who is seconds behind."
-        },
-        {
-          "label": "Two players appear to finish together",
-          "text": "Use synchronized game capture and the agreed checkpoint to resolve order. Establish a tie rule before recording rather than improvising a favorable winner."
-        },
-        {
-          "label": "Actual GTA 6 access/capture is not proved",
-          "text": "Keep the episode pending. The modded GTA 5/recreation route belongs to the custom episodes and cannot be relabeled actual GTA 6."
-        }
+      "payoff": [
+        "ALEX",
+        "Wait—did you just finish it?",
+        "Show the actual final completion and the whole room’s release before the closing reaction."
       ],
       "packaging": [
+        "A closed-room challenge × a long-awaited game × one clear release condition.",
+        "The twins in a visibly used gaming room, with one obvious exit and the game as context.",
+        "The unanswered question is who finishes first and how long the room story lasts."
+      ],
+      "support": "Closed-goal survival and competitive gaming references support the ingredients. Guest appearances and the final recording duration remain unconfirmed.",
+      "refs": [
         {
-          "label": "Room and race",
-          "text": "A photographic host in the foreground, the other four occupied stations and one clear door/clock cue. The image should communicate “finish the game to get out.”"
+          "source": "jk6thMe6Vq8",
+          "take": "A single survival/completion goal carries a long progression."
         },
         {
-          "label": "Real elapsed time",
-          "text": "A tired or triumphant real cast reaction beside a readable elapsed clock can work after the duration is known. Do not bake an unearned 100-hour claim into the final art."
-        },
-        {
-          "label": "Title tests",
-          "text": "Keep I Survived 100 Hours in GTA as provisional. I Beat GTA 6 and a completion/room-led title are alternatives; choose after footage establishes the actual story."
+          "source": "xwdhHTtc-3w",
+          "take": "Clear GTA objectives and player reactions keep the game story accessible."
         }
       ],
-      "production": [
-        {
-          "label": "Actual access and individual state",
-          "text": "Prove five actual game runs, settings, save states and supported access/capture. PCs may be capture/control stations, but that is not proof of a native PC version."
-        },
-        {
-          "label": "Finish verification",
-          "text": "Use synchronized timestamps on the game and room records. Preserve uninterrupted evidence around each possible winning checkpoint."
-        },
-        {
-          "label": "Long-session capture",
-          "text": "Test storage rollover, recording continuity, game saves and a recovery procedure before relying on a long recording. Detailed infrastructure costs stay in the private packet."
-        },
-        {
-          "label": "Rolling post",
-          "text": "Log milestone progress and assemble while recording. The final cut waits for verified winner/group release and final picture, sound and factual QC."
-        }
-      ],
-      "post": [
-        {
-          "label": "Readable progress",
-          "text": "Use a five-lane scoreboard tied to actual verified milestones. Do not invent a percentage when the game supplies no reliable completion measure."
-        },
-        {
-          "label": "Compress repetition",
-          "text": "Summarize repeated driving or failed attempts when they add no new decision; preserve the attempt that changes the lead or the player’s strategy."
-        },
-        {
-          "label": "Truthful time",
-          "text": "Show elapsed-time jumps and meaningful breaks clearly. A tight edit can still make the length and changing room mood understandable."
-        },
-        {
-          "label": "ASAP publication",
-          "text": "Prepare reusable progress graphics and ongoing assemblies, then finish from the real outcome. Fast turnaround does not justify losing the finish proof or confusing the release rule."
-        }
-      ],
-      "shorts": [
-        {
-          "label": "A comeback",
-          "text": "One setback, the player’s changed approach and the result, with a simple progress graphic."
-        },
-        {
-          "label": "Crew rivalry",
-          "text": "A short advice/trash-talk exchange tied to a visible game consequence."
-        },
-        {
-          "label": "Everyone gets out",
-          "text": "After the episode’s intended release, the winning finish and whole-room reaction form a standalone payoff."
-        }
-      ],
-      "success_checks": [
-        "A new viewer understands that one person finishing releases everyone.",
-        "The final title and clock match actual recorded duration.",
-        "The scoreboard reflects real milestones and the winner is supported by finish evidence.",
-        "The ending resolves the winner and group release without reintroducing the superseded individual-exit rule."
-      ],
-      "open_choices": [
-        "Agree the exact story-finish checkpoint, assistance policy, break rule, tie rule and technical-outage remedy.",
-        "Prove actual game access and synchronized five-station capture.",
-        "Select the final title and revised room-focused artwork from the recorded story and duration."
-      ],
-      "references": [
-        {
-          "id": "xwdhHTtc-3w",
-          "title": "1 vs 10 Hunters in GTA!",
-          "channel": "MrBeast Gaming",
-          "url": "https://www.youtube.com/watch?v=xwdhHTtc-3w",
-          "lift": 2.25,
-          "standing": "qualifying public outlier",
-          "observation": "Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.",
-          "observed_at": "2026-10-05T06:01:50.829483+00:00",
-          "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
-        },
-        {
-          "id": "5ZX_eypUHns",
-          "title": "365 PRANKS IN 365 DAYS!!",
-          "channel": "Stokes Twins",
-          "url": "https://www.youtube.com/watch?v=5ZX_eypUHns",
-          "lift": 2.17,
-          "standing": "qualifying public outlier",
-          "observation": "Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.",
-          "observed_at": "2026-10-05T06:01:52.236728+00:00",
-          "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html"
-        },
-        {
-          "id": "nopEs-K4ExM",
-          "title": "World's Fastest Car!",
-          "channel": "MrBeast Gaming",
-          "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
-          "lift": 3.68,
-          "standing": "qualifying public outlier",
-          "observation": "Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.",
-          "observed_at": "2026-10-05T06:01:50.825407+00:00",
-          "source_url": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html"
-        }
-      ],
-      "evidence_note": "Existing gaming competition references are adjacent. No private launch-channel retention, CTR or verified audience response is supplied; the hook and edit choices are proposals to test."
+      "channel": "Stokes Twins Gaming"
     }
-  ]
+  ],
+  "creative_briefs": "video-briefs.json"
 }

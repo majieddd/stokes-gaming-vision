@@ -1,3 +1,5 @@
+> Current video briefs: [spoken openings, story and packaging references](episode-details.html). Updated October 29, 2026. The reference research below is retained.
+
 # Stokes Gaming: Creative Launch Vision
 
 Public creative edition. [Detailed three-video briefs](episode-details.html) · [15 updated thumbnails](canvas.html?scope=updated). Detailed operations remain private.
@@ -16684,7 +16686,7 @@ MrBeast Gaming · Indexed through 548s of 605s catalogue runtime; incomplete cov
 
 Introduce the hunters in the same shot as the player relationship.
 
-**Avoid:** A decorative crowd without real pursuit does not earn the count.
+**Avoid:** Open on the hunters closing in, then show the twins’ escape goal.
 
 [2:30 · View moment ↗](https://www.youtube.com/watch?v=xwdhHTtc-3w&t=150s)
 

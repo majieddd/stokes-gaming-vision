@@ -1,0 +1,8 @@
+/* New pitch concepts. The original 166 cards and their shared-review IDs are unchanged. */
+(()=>{
+ const pitches=[
+  {id:'minecraft-halo',card:'PITCH-MH-A',title:'100 Minecrafters vs 100 Halo Players',titles:['100 Minecraft Players vs 100 Halo Players','Minecraft Players vs Halo Players: Who Wins?'],image:'new-pitch-thumbnails/minecraft-vs-halo.jpg',summary:'Alan leads 100 Minecrafters and Alex leads 100 Halo players through building, shooting and one final battle to find which gaming community wins.',alt:'AI thumbnail concept: the Stokes Twins captain two opposing Minecraft and Halo-inspired armies in one colorful game arena.'},
+  {id:'civilizations',card:'PITCH-CIV-A',title:'I Simulated Every Video Game Civilization',titles:['Which Video Game Would Build the Best Civilization?','I Made the Best Gamers Build a Civilization'],image:'new-pitch-thumbnails/game-civilizations.jpg',summary:'Top players from selected game communities build rival civilizations, choose leaders, make alliances and compete for one final victory. Proposed starting roster: Minecraft, Halo, GTA and Fortnite.',alt:'AI thumbnail concept: a Stokes host presents rival Minecraft, Halo, GTA and Fortnite-inspired civilizations on one island.'}
+ ];
+ for(const p of pitches)window.STOKES_CANVAS.groups.push({id:'new-'+p.id,name:p.title,short:p.title,label:'New pitch · Stokes Twins',description:p.summary,titleOptions:[p.title,...p.titles],cards:[{id:p.card,channel:'Stokes Twins',title:p.title,originalTitle:p.title,formatName:p.title,preview:p.image,full:p.image,alt:p.alt,variant:'A · New concept',meta:'New pitch · Stokes Twins main channel',summary:p.summary,brief:'episode-details.html#pitch-'+p.id,artworkStatus:'AI concept',sharedReviewPending:true,shortlisted:false}]});
+})();

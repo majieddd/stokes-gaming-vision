@@ -1,754 +1,1299 @@
-# Stokes Gaming: Three Launch Video Briefs
+# Stokes video briefs
 
-Updated-plan thumbnails are concepts. Proposed mechanics remain subject to proof.
+Updated October 29, 2026. Proposed script lines and linked public reference snapshots.
 
-Launch video 1
+## I Played GTA in Every GTA City
+
+Play GTA in the real cities that inspired it, with a different challenge in each city.
+
+### How it works
+
+- Start in Los Angeles, then travel through the selected GTA-inspired cities.
+- In each city, match one recognizable game location and complete one local challenge.
+- Finish in Miami with the hardest challenge and a ranking of the cities.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “I’m playing GTA in every city that inspired it.”
+
+Show: Start beside one landmark, then match it to the game version.
+
+**5–15s · ALAN:** “But in every city, we have to complete a challenge from the game in real life.”
+
+Show: Show three quick city/challenge pairings.
+
+**15–30s · ALEX:** “First stop: Los Angeles. And we’re already late.”
+
+Show: Begin the first challenge; explain its deadline in the action.
+
+### Turn
+
+ALAN: “That worked in the game. It definitely didn’t work here.”
+
+Cut from the game plan to the real attempt when that contrast actually happens.
+
+### Payoff
+
+ALEX: “We’ve made it to the final city. One challenge left.”
+
+Finish the Miami challenge, then reveal which city delivered the best experience.
+
+### Packaging
+
+- A familiar franchise × a real-world travel mission.
+- One twin, one iconic landmark and its matching game version.
+- The game/real-life contrast explains the idea before someone reads the title.
+
+[Stokes Twins · Tesla Autopilot For 24 Hours!](https://www.youtube.com/watch?v=SsJ7oOpbmIk) — 38,321,506 public views · 4.25× nearby-upload median (source-reported). A recognizable real-world activity makes a technology/game premise accessible.
+
+[MrBeast Gaming · I Walked Across The Earth!](https://www.youtube.com/watch?v=OMAZB31W9nE) — 45,862,805 public views · 0.75× nearby-upload median (source-reported). A journey has a clear destination; this source was below its nearby-upload median.
+
+---
+
+## Win This Race, Keep Your Car
+
+Win a game race and leave with the matching real car.
+
+### How it works
+
+- Pair each driver with an in-game replica of a real prize car.
+- Run a short qualifier, then one escalating final race.
+- Hand the winner the actual keys after the finish.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Win this race, and you keep this car.”
+
+Show: Put the real car and its keys in the first shot.
+
+**5–15s · ALAN:** “Everyone is racing the exact car they could drive home today.”
+
+Show: Match each contestant’s game car to the real version.
+
+**15–30s · ALEX:** “Three laps. One winner. Go!”
+
+Show: Start the race immediately.
+
+### Turn
+
+ALAN: “You can take the safe route—or risk the shortcut.”
+
+Reveal the shortcut when the leading drivers reach it.
+
+### Payoff
+
+ALEX: “You won the race. These are yours.”
+
+Show the finish, hand over the keys and capture the first reaction in the real car.
+
+### Packaging
+
+- A simple action → a tangible reward.
+- One red car, oversized keys and a delighted twin.
+- The physical prize makes the stakes easy to understand without game knowledge.
+
+[MrBeast Gaming · World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM) — 122,277,058 public views · 3.68× nearby-upload median (source-reported). One fast car makes the game challenge instantly legible.
+
+[Stokes Twins · Clean The Sports Car, Keep It!](https://www.youtube.com/watch?v=6EtuOTq5TmM) — 87,106,209 public views · 1.48× nearby-upload median (source-reported). The main-channel reference connects a simple challenge with a real car reward.
+
+---
+
+## I Built Secret Rooms in Every Video Game
+
+Build a secret room in each selected game and see whether the other twin can find them.
+
+### How it works
+
+- Give GTA, Minecraft and Roblox one distinctive hidden room each.
+- Let the other twin search without knowing where the entrances are.
+- Finish with the biggest room and reveal how each entrance was hidden.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “I built a secret room in every one of these video games.”
+
+Show: Open one ordinary-looking wall into a spectacular room.
+
+**5–15s · ALAN:** “And I have to find all of them before the timer runs out.”
+
+Show: Show the three game worlds and the search timer.
+
+**15–30s · ALEX:** “Your first room is somewhere in this house. Good luck.”
+
+Show: Start the search while the hidden twin watches.
+
+### Turn
+
+ALEX: “You just walked right past it.”
+
+Hold on the missed entrance, then let the search continue.
+
+### Payoff
+
+ALAN: “There is no way this was under us the whole time.”
+
+Reveal the final room and replay the moment the searcher nearly found it.
+
+### Packaging
+
+- A proven Stokes subject × familiar game worlds.
+- A tiny entrance reveals one huge, bright room.
+- The image supplies the hidden reveal; the title supplies the cross-game scale.
+
+[Stokes Twins · I Built 5 SECRET Rooms You’d Never Find!](https://www.youtube.com/watch?v=-5bcG6tZKx8) — 222,712,770 public views · 1.69× nearby-upload median (source-reported). Direct Stokes secret-room subject and discovery promise.
+
+[Unspeakable · I Built 30 Secret Rooms You’d Never Find!](https://www.youtube.com/watch?v=X9AYf8gy5sU) — 18,997,959 public views · 5.0× nearby-upload median (source-reported). Large hidden interiors and multiple reveals support the visual format.
+
+---
+
+## I Escaped 100 Hunters in GTA
+
+The twins must reach an extraction point while 100 GTA hunters try to stop them.
+
+### How it works
+
+- Give the twins a destination and a short head start.
+- Let the hunters close routes as the twins change their escape plan.
+- End with one last push to the extraction point.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “These 100 hunters have one job: stop us from escaping GTA.”
+
+Show: Show the hunters, then the twins beside their getaway car.
+
+**5–15s · ALAN:** “If we reach that helicopter, we win. If they catch both of us, we lose.”
+
+Show: Reveal the extraction point in the distance.
+
+**15–30s · ALEX:** “They’re coming. Get in!”
+
+Show: Begin the escape at the countdown.
+
+### Turn
+
+ALAN: “They’ve blocked the road. We need another way out.”
+
+Use the first route closure to force a new plan.
+
+### Payoff
+
+ALEX: “We’re not leaving without both of us.”
+
+Resolve the final rescue and show whether the twins make extraction.
+
+### Packaging
+
+- A tiny team versus an overwhelming force.
+- One small getaway car against a wall of pursuers.
+- The imbalance creates the question: how could the twins escape?
+
+[MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w) — 116,232,703 public views · 2.25× nearby-upload median (source-reported). A direct GTA pursuit premise.
+
+[MrBeast Gaming · 1 vs 100 Player Manhunt!](https://www.youtube.com/watch?v=dLDj2TTyMGM) — 164,600,391 public views · 2.18× nearby-upload median (source-reported). A large player army makes the odds visible.
+
+---
+
+## We Survived GTA’s Deadliest Disasters
+
+Every minute, another disaster changes how the twins can survive the GTA city.
+
+### How it works
+
+- Start with one simple disaster and a visible countdown.
+- Stack a new hazard every minute so each escape creates the next problem.
+- Make the final safe location the last destination.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Every minute, another disaster happens in GTA.”
+
+Show: Show the first timer turning over as the city changes.
+
+**5–15s · ALAN:** “We have to survive until the final disaster—and that car is our only way out.”
+
+Show: Show the car and a quick glimpse of the biggest hazard.
+
+**15–30s · ALEX:** “The water is already rising. Drive!”
+
+Show: Start the first escape with water entering the route.
+
+### Turn
+
+ALAN: “The road’s gone. Head for the roof.”
+
+A new disaster removes the plan that was working.
+
+### Payoff
+
+ALEX: “This is the last safe place in the city.”
+
+Bring the remaining hazards together for one final escape or defeat.
+
+### Packaging
+
+- Survival × a repeating escalation rule.
+- A tiny escape vehicle beneath one enormous disaster.
+- The title explains the escalation; the picture shows the size of the problem.
+
+[PrestonPlayz · Why I Flooded My Friend’s ENTIRE World?](https://www.youtube.com/watch?v=-LUNQPxD0vY) — 13,665,235 public views · 2.81× nearby-upload median (source-reported). A flood changes the world and forces new decisions.
+
+[MrBeast Gaming · I Survived 100 Days Of Hardcore Minecraft!](https://www.youtube.com/watch?v=jk6thMe6Vq8) — 186,681,366 public views · 4.27× nearby-upload median (source-reported). A sustained survival objective gives escalating danger a destination.
+
+---
+
+## I Let GTA Control My Life for 24 Hours
+
+Let GTA decide what the twins do in real life for one day.
+
+### How it works
+
+- Connect game choices to real meals, transport, clothing and activities.
+- Reveal each real-life consequence only when the game makes the choice.
+- End with the biggest choice of the day and both twins’ verdict.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “For the next 24 hours, GTA controls our real lives.”
+
+Show: Match a game action to its real-life consequence.
+
+**5–15s · ALAN:** “Whatever we eat, wear or drive in the game, we have to do in real life.”
+
+Show: Show three fast examples, each clearly different.
+
+**15–30s · ALEX:** “So first, the game is choosing our breakfast.”
+
+Show: Start the first choice before explaining the rest of the day.
+
+### Turn
+
+ALAN: “Please don’t choose that one.”
+
+Pause on the choice before revealing what the game selects.
+
+### Payoff
+
+ALEX: “GTA gets one final decision. Then we get our lives back.”
+
+Resolve the final activity and compare the best and worst choices.
+
+### Packaging
+
+- Loss of control × a familiar franchise × a fixed day.
+- One game choice causes one surprising real-life result.
+- The contrast gives non-gamers a reason to watch the outcome.
+
+[Stokes Twins · Instagram Followers Control Our Life For a Day! | Stokes Twins](https://www.youtube.com/watch?v=4pAAskz5iw0) — 5,373,705 public views · 1.48× nearby-upload median (source-reported). A direct Stokes life-control subject.
+
+[MrBeast Gaming · Minecraft, But Every Minute There's Random Chaos!](https://www.youtube.com/watch?v=D1eZybtieJM) — 77,561,333 public views · 2.05× nearby-upload median (source-reported). Repeated game changes create new problems without changing the core promise.
+
+---
+
+## Can 10,000 Cars Stop a Train in GTA?
+
+Find out how large a barrier it takes to stop GTA’s train.
+
+### How it works
+
+- Begin with a small car barrier and a real collision.
+- Increase the number and improve the barrier after each result.
+- End with the full 10,000-car attempt and a clear answer.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Can 10,000 cars stop a train in GTA?”
+
+Show: Put the train opposite the enormous car wall.
+
+**5–15s · ALAN:** “We’re starting with ten. And every time the train wins, the wall gets bigger.”
+
+Show: Show the first small barrier next to the final scale.
+
+**15–30s · ALEX:** “Here comes the train.”
+
+Show: Play the first impact through to its result.
+
+### Turn
+
+ALAN: “More cars didn’t work. What if we change the shape?”
+
+Let the last failure lead directly to the next design.
+
+### Payoff
+
+ALEX: “This is the 10,000-car test. Can anything stop it?”
+
+Show the entire final collision, then state the answer.
+
+### Packaging
+
+- A giant number × a simple yes/no experiment.
+- One unstoppable train facing one enormous wall of cars.
+- The thumbnail turns the question into an immediately readable collision.
+
+[MrBeast Gaming · World's Largest Experiment!](https://www.youtube.com/watch?v=JeTkMdw6RK8) — 147,057,293 public views · 2.78× nearby-upload median (source-reported). One oversized experiment makes a clear visual promise.
+
+[MrBeast Gaming · World’s Largest Explosion!](https://www.youtube.com/watch?v=ABTdTTnnEU8) — 287,473,152 public views · 3.15× nearby-upload median (source-reported). A spectacular final test rewards the scale promised in the package.
+
+---
+
+## 100 Players Versus One Secret Killer
+
+One hidden killer is inside a group of 100 players, and the twins must find them before time runs out.
+
+### How it works
+
+- Give one player the hidden role and introduce the twins as investigators.
+- Let each round reveal one new clue and one meaningful accusation.
+- End with a final vote and a replay of the clues that exposed the killer.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “One of these 100 players is secretly the killer.”
+
+Show: Show the crowd, then one obscured suspect among them.
+
+**5–15s · ALAN:** “We have to find them before they take out the entire lobby.”
+
+Show: Establish the player counter and the first clue.
+
+**15–30s · ALEX:** “Everybody freeze. Where were you when this happened?”
+
+Show: Start the first investigation immediately.
+
+### Turn
+
+ALAN: “That story doesn’t match the footage.”
+
+Put the accusation beside the clue that contradicts it.
+
+### Payoff
+
+ALEX: “We’re locking in our final vote.”
+
+Reveal the killer and replay their earlier choices from the new perspective.
+
+### Packaging
+
+- A large group × one hidden threat.
+- The twins investigate a crowd with one concealed red silhouette.
+- A single secret makes the audience play along with every accusation.
+
+[MrBeast Gaming · Among Us With 100 Real Players!](https://www.youtube.com/watch?v=-C_hRVM0_po) — 131,674,651 public views · 4.1× nearby-upload median (source-reported). A close 100-player hidden-role structure.
+
+[Stokes Twins · MrBeast Was Murdered..](https://www.youtube.com/watch?v=Vhlwk1HcFdI) — 207,198,706 public views · 1.77× nearby-upload median (source-reported). A recognizable creator mystery creates an immediate question.
+
+---
+
+## We Built the Most Impossible Obstacle Course in GTA
+
+The crew tries to beat an absurd GTA course that becomes harder at every stage.
+
+### How it works
+
+- Show the final obstacle, then begin at the first checkpoint.
+- Give each new section a different skill and a clear consequence for failure.
+- Bring the closest competitors together for the last crossing.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “We built the most impossible obstacle course in GTA.”
+
+Show: Reveal the entire course, with the final gap clearly visible.
+
+**5–15s · ALAN:** “We have to get from here to that finish line without skipping a single obstacle.”
+
+Show: Trace the simple route from start to finish.
+
+**15–30s · ALEX:** “The first jump looks easy. You go first.”
+
+Show: Start the first attempt and keep its result.
+
+### Turn
+
+ALAN: “You only get one chance at this checkpoint.”
+
+Introduce the final high-stakes section after viewers understand the course.
+
+### Payoff
+
+ALEX: “One jump left. Don’t look down.”
+
+Let the decisive attempt finish before the celebration or failure reaction.
+
+### Packaging
+
+- An impossible superlative × an obvious finish line.
+- One tiny player/car facing one enormous suspended course.
+- The scale difference explains the difficulty without a rules lecture.
+
+[MrBeast Gaming · I Made 100 Players Escape An Impossible Maze!](https://www.youtube.com/watch?v=vrUOPr9v8g4) — 157,040,201 public views · 3.72× nearby-upload median (source-reported). A huge playable challenge with a clear completion goal.
+
+[Unspeakable · I Escaped 1,000 Layers of ICE!](https://www.youtube.com/watch?v=mXqlDp61MMA) — 13,160,154 public views · 3.66× nearby-upload median (source-reported). Each new layer gives the audience a reason to see what comes next.
+
+---
+
+## Anything You Steal in GTA You Keep
+
+Complete increasingly difficult GTA heists to win matching real prizes.
+
+### How it works
+
+- Begin with a small, clearly stated real reward.
+- Move from an easy theft to a guarded target, then the biggest prize.
+- Award only the prizes attached to completed game challenges.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Anything you steal in GTA today, you get to keep in real life.”
+
+Show: Match a game object to the real prize beside it.
+
+**5–15s · ALAN:** “The better the prize, the harder the heist.”
+
+Show: Reveal three prize levels, with the largest last.
+
+**15–30s · ALEX:** “Your first target is parked right there.”
+
+Show: Start the first theft and reveal the obstacle on approach.
+
+### Turn
+
+ALAN: “You can keep what you’ve won—or try for the biggest prize.”
+
+Put the secured rewards beside the final target.
+
+### Payoff
+
+ALEX: “You got it out. Now it’s yours.”
+
+Resolve the final heist, then hand over the matching real reward.
+
+### Packaging
+
+- An unrestricted-sounding action × a tangible keep-it reward.
+- One GTA target paired with the matching real prize.
+- The audience understands what the contestant wants and why the risk grows.
+
+[MrBeast Gaming · Would You Risk $5,000 for $100,000?](https://www.youtube.com/watch?v=2O-9RmuiXog) — 159,792,929 public views · 2.7× nearby-upload median (source-reported). A bigger reward makes the next risk a meaningful decision.
+
+[MrBeast Gaming · If You Build a House, I'll Pay For It!](https://www.youtube.com/watch?v=xN8ENrfE-TY) — 249,642,469 public views · 5.38× nearby-upload median (source-reported). The game result can lead to a concrete real-world payoff.
+
+---
+
+## I Created the World’s Most Secure Prison in GTA
+
+The twins build a GTA prison, then challenge their friends to escape it.
+
+### How it works
+
+- Reveal the prison’s main defenses and the escape objective.
+- Let the escape team test plans against each security layer.
+- Finish with one coordinated attempt while the builders defend.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “I created the world’s most secure prison in GTA.”
+
+Show: Reveal the prison with one enormous, obvious defense.
+
+**5–15s · ALAN:** “And our friends have to escape it before the timer runs out.”
+
+Show: Introduce the escape team inside its starting cell.
+
+**15–30s · ALEX:** “Your time starts now.”
+
+Show: Show their first escape plan immediately.
+
+### Turn
+
+ALAN: “They found a way through. Lock down the next section.”
+
+Use a successful escape step to expose a new defense.
+
+### Payoff
+
+ALEX: “This is the last door between you and freedom.”
+
+Resolve the final escape attempt and compare the winning plan with the original prison design.
+
+### Packaging
+
+- A superlative build × an escape challenge.
+- One towering prison, a tiny exit and the twins as opposing sides.
+- The title establishes the claim; the attempted escape tests it.
+
+[Unspeakable · 7 Days Escaping Cardboard Prison!](https://www.youtube.com/watch?v=WU05jZnUiYs) — 12,880,314 public views · 3.65× nearby-upload median (source-reported). A simple escape objective can sustain a sequence of changing barriers.
+
+[Brianna · Preston TRAPPED Me in an UNDERWATER Prison!](https://www.youtube.com/watch?v=4ydq5MXO42c) — 4,059,814 public views · 2.97× nearby-upload median (source-reported). An extraordinary prison location adds a clear visual twist.
+
+---
+
+## 100 Minecrafters vs 100 Halo Players
+
+100 Minecrafters face 100 Halo players in a community-versus-community showdown, with a twin captaining each side.
+
+### How it works
+
+- Give each 100-player community one twin as its captain in a shared challenge arena.
+- Run a building round and a shooting round; each earns an advantage for the finale.
+- End in one huge capture-the-base battle that decides the winning community.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “These are 100 Minecrafters. And these are 100 Halo players.”
+
+Show: Reveal the two armies in matching wide shots, then their captains.
+
+**5–15s · ALAN:** “Today, we’re finding out which gaming community is better—builders or shooters.”
+
+Show: Show one spectacular build and one coordinated Halo-style attack.
+
+**15–30s · ALEX:** “I’ve got the Halo players. Alan’s got Minecraft. Let the first challenge begin.”
+
+Show: Start the building round with both teams racing toward the same objective.
+
+### Turn
+
+ALAN: “You won on your game. Now let’s see what happens on ours.”
+
+Switch from the builders’ home-field round to the shooters’ round, carrying the score forward.
+
+### Payoff
+
+ALEX: “No more practice rounds. First team to capture that base wins.”
+
+Bring the earned advantages into the final battle, then celebrate the actual winning community.
+
+### Packaging
+
+- 100 [community] vs 100 [community]—the boys-versus-girls structure with gaming identities.
+- Two equally imposing armies, Minecraft versus Halo, with Alan and Alex as the captains.
+- The rivalry is understandable to the main-channel audience; each community has someone to support.
+
+[MrBeast · 100 Boys Vs 100 Girls For $500,000](https://www.youtube.com/watch?v=tVWWp1PqDus) — 315,020,842 public views. Two familiar identities and equal-sized teams make the sides immediately clear.
+
+[MrBeast · Is Being Smart or Strong Better?](https://www.youtube.com/watch?v=toIeUtplfWQ) — 182,018,513 public views. Contrasting strengths give both teams a reason to win different challenges.
+
+---
+
+## I Simulated Every Video Game Civilization
+
+Invite top players from selected game communities to build civilizations and find out which community can rule the shared world.
+
+### How it works
+
+- Begin with equal-sized communities and starting territories; proposed games are Minecraft, Halo, GTA and Fortnite.
+- Let them build cities, choose leaders, trade, make alliances and handle one shared crisis.
+- Open the borders for a final contest over the central capital; the civilization that holds it wins.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “I brought the best players from these video games into one world to build their own civilizations.”
+
+Show: Reveal the proposed game communities and their separate starting territories.
+
+**5–15s · ALAN:** “They can build cities, make alliances, or go to war. But only one civilization can rule this world.”
+
+Show: Show a fast tease of one city, one negotiation and one battle.
+
+**15–30s · ALEX:** “Players, choose your leaders. Your civilization starts now.”
+
+Show: Drop into the first community’s real decision and introduce a leader to follow.
+
+### Turn
+
+ALAN: “The borders are opening. Are you making peace—or preparing for war?”
+
+Let the communities’ choices drive the alliances and the conflict; follow the leaders’ actual decisions.
+
+### Payoff
+
+ALEX: “The capital is open. Whoever holds it at the end rules the world.”
+
+Resolve the final contest, name the winning civilization and show what happened to the others.
+
+### Packaging
+
+- I simulated [recognizable communities] as civilizations → which one wins?
+- A large civilization map with two dominant, visibly different game empires and the twins presenting it.
+- Game identity supplies instant contrast; the civilization story supplies leaders, alliances and an outcome.
+
+[ish · 1000 Players Simulate Civilization: Rich & Poor](https://www.youtube.com/watch?v=ef568d0CrRY) — 49,855,143 public views. Contrasting starting communities create different societies and leaders to follow.
+
+[MrBeast Gaming · 1000 Players Simulate Civilization: Boys vs Girls](https://www.youtube.com/watch?v=zPbrkmdcTfo) — 51,778,931 public views. A familiar rivalry carries a civilization story through alliances and a final conflict.
+
+---
 
 ## I Beat The World’s Best Video Game
 
-Five cast members each enter a different game crossover, complete a clear personal challenge and reunite to defeat one shared Godzilla.
+The crew races through a shared adventure built from their favorite games; last place takes a pickle dunk.
 
-Launch direction confirmed; the five pairings, cast assignments and mechanics below are a creative proposal.
+### How it works
 
-### The viewer promise
+- Open overhead with Alex, Alan, Kat, Tanner and Shawn at their stations, then choose characters and vehicles.
+- Race from Rainbow Road through GTA City, the Nether and the End staging area into space; arrivals collect chests and keep moving.
+- Resolve the final space challenge, reveal the actual standings and deliver the pickle dunk.
 
-Five impossible experiences become one game the crew must beat together. The appeal is discovery, competitive reactions and a giant shared payoff; viewers need no prior game knowledge.
+### Opening 30 seconds
 
-### The objective
+**0–5s · ALEX:** “THIS is the world’s greatest video game.”
 
-Clear one simple mission in each world, then survive and defeat Godzilla as a team.
+Show: Start overhead with the crew standing at their PCs, then show one clear crossover moment.
 
-[![Updated-plan thumbnail concept for I Beat The World’s Best Video Game](updated-thumbnails/MV-AE.webp)](canvas.html?scope=updated#card-MV-AE)
+**5–15s · ALAN:** “We put our favorite games into the same adventure. And last place takes a pickle dunk.”
 
-Updated-plan concept; final artwork follows playable proof. Supporting cast are concept performers. [Compare the five new options](canvas.html?scope=updated#card-MV-AE).
+Show: Show the route and the real dunk payoff, then sit into the stations.
 
-Confirmed direction
+**15–30s · CAST:** “Can we choose a different punishment?”
 
-* Alex, Alan, Kat, Tanner and Shawn each have their own setup and one different crossover.
-* Intercut the five experiences; nobody is required to tour all five worlds.
-* All five join one final Godzilla fight.
-* Lead packaging with I Beat The World’s Best Video Game; the other existing titles remain tests.
+Show: Reveal the character/vehicle choices and begin the countdown.
 
-### First 30 seconds
+### Turn
 
-Proposed opening beats; select real moments after the playable test and shoot.
+ALEX: “First one here gets the gold chest. Everyone else, choose carefully.”
 
-1. **0 (First Frame)–5s**A real host rides a dragon over an impossible game collision, or another equally clear playable hero moment. Smash-cut to Godzilla towering over the crew. This shot only leads if its gameplay has been proved.
-2. **5s–15s**“We combined our favorite games, gave everyone a different world, and now we have to beat them all.” Show five quick player/world reveals with one plain-language goal each.
-3. **15s–30s**Start one real attempt: a car approaches a missing block bridge, then cut to a completely different player discovering their own problem. Leave the first outcome open only until the next relevant return.
+Let the first arrival open the gold chest while the others are still racing; reveal the next game-world surprise.
 
-### Five proposed worlds
+### Payoff
 
-One different crossover per person, intercut into one common finale. Pairings and assignments are proposals to review.
+ALAN: “Last place has one final challenge—in real life.”
 
-**1 · Alex**GTA × Minecraft · Build the getaway
+Return from the space finale, reveal the actual standings, then show the pickle dunk and the crew’s reaction.
 
-Goal
-:   Deliver one marked car across a broken block-built route to a rescue pad.
+### Packaging
 
-Playable interaction
-:   Three road gaps require a choice between limited bridge pieces, a risky ramp or a longer route. Building changes the driving problem.
+- A superlative game promise × recognizable crossovers × a real-life consequence.
+- One impossible game collision and one strong twin reaction.
+- The first shot pays off the title; the route and punishment tell viewers why to stay.
 
-Failure and retry
-:   Falling or losing the marked car resets to the previous checkpoint and consumes the disclosed retry consequence.
+[MrBeast Gaming · World's Largest Minecraft Build!](https://www.youtube.com/watch?v=Dy06SXknr_g) — 46,271,437 public views · 0.81× nearby-upload median (source-reported). A recognizable game spectacle can be presented as one large visual idea.
 
-Escalation
-:   The last bridge must support the car while pursuing enemies close in.
+[MrBeast Gaming · World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM) — 122,277,058 public views · 3.68× nearby-upload median (source-reported). A readable race objective supports the competitive opening.
 
-Shared finale role
-:   Proposed: build a short bridge or shield platform so the team can reach a boss weak point.
-
-Playable proof
-:   One drive/build/reset loop in a bounded GTA 5/custom scene. Cosmetic blocks alone do not deliver this crossover.
-
-Smaller version
-:   Use a small tested block course with prebuilt placement choices instead of free building across a whole city.
-
-**2 · Alan**Minecraft × Halo, with optional Call of Duty-style horde detail · Dragon rescue
-
-Goal
-:   Disable three visible invasion beacons and rescue the villagers below.
-
-Playable interaction
-:   Ride a dragon and use a tested ranged weapon against beacon guards; Halo/Flood-inspired threats give the familiar Minecraft setting a new problem.
-
-Failure and retry
-:   Losing the dragon or a failed beacon approach returns to a clear checkpoint. Keep the rescue target count visible.
-
-Escalation
-:   The final beacon is protected by a larger wave, forcing a low pass or a different attack angle.
-
-Shared finale role
-:   Proposed: aerial distraction and an attack on the high weak point.
-
-Playable proof
-:   Rider control, aiming, target damage and reset must work together. The existing dragon and Halo component listings do not prove compatibility.
-
-Smaller version
-:   A short controllable dragon segment followed by a ground defense; revise the thumbnail if mounted weapon use is not playable.
-
-**3 · Kat**Pokémon × Elden Ring · Tiny companion, giant enemy
-
-Goal
-:   Recruit one small companion and use its ability to defeat a much larger guardian.
-
-Playable interaction
-:   Choose between two readable companion abilities, then learn a visible boss attack and exploit its opening. Explain “catch a helper, dodge the giant, hit the weak spot.”
-
-Failure and retry
-:   A missed capture or boss defeat triggers the same agreed retry; no hidden stat or lore requirement.
-
-Escalation
-:   The guardian changes its attack in phase two, making the first strategy insufficient.
-
-Shared finale role
-:   Proposed: a support ability that protects or revives one teammate during the shared fight.
-
-Playable proof
-:   One bounded capture/companion/boss interaction in an approved custom route. Do not assume the commercial games can be networked together.
-
-Smaller version
-:   One fixed companion with one support action and a single custom guardian arena.
-
-**4 · Tanner**Mario Kart × GTA · The impossible delivery
-
-Goal
-:   Carry a marked package through three city checkpoints and cross the finish with it.
-
-Playable interaction
-:   Kart-style items change a GTA-style road race: a boost opens a route, a shell forces a dodge, and a shortcut trades speed for danger.
-
-Failure and retry
-:   Dropping the package or missing a checkpoint returns to the last checkpoint; shortcuts count only inside the marked route.
-
-Escalation
-:   A giant chasing obstacle interrupts the final straight, making the item choice matter.
-
-Shared finale role
-:   Proposed: drive a distraction vehicle to pull Godzilla away from the ground team.
-
-Playable proof
-:   A short race course with working items, route checks and reliable resets. Equalize the tested controls before recording.
-
-Smaller version
-:   Two reliable items and three designed corners, rather than an entire new racing system.
-
-**5 · Shawn**99 Nights (Roblox) × Fortnite · Build before nightfall
-
-Goal
-:   Protect one rescue beacon through three increasingly difficult night waves.
-
-Playable interaction
-:   Gather a small material allowance and build defenses before a shrinking safe area and a visible creature wave reach the beacon.
-
-Failure and retry
-:   Beacon destruction resets the wave with the disclosed consequence; do not turn it into an unexplained survival grind.
-
-Escalation
-:   The last wave attacks from two sides, forcing a tradeoff between repairing defenses and fighting.
-
-Shared finale role
-:   Proposed: place a defensive shelter or temporary cover during Godzilla’s area attack.
-
-Playable proof
-:   One build/defend/wave loop in a bounded custom scene. Roblox/Fortnite integration is a creative direction, not a confirmed cross-platform mod.
-
-Smaller version
-:   Fixed defensive placement points and three short waves with a clear safe-zone boundary.
-
-Cast roles and competition rules
-
-Proposed assignment
-:   Alex: build/getaway; Alan: aerial rescue; Kat: companion/boss; Tanner: item race; Shawn: build/defend. Reassign from playtests and cast preference; these are not approved assignments.
-
-Ensemble edit
-:   Rotate discovery, competence, mistakes and recoveries across the entire cast. Neither twin automatically owns every important beat.
-
-#### Rules to agree
-
-Start
-:   Introduce the five players and their five different missions before the first meaningful attempt. Use one face/name/world marker per person.
-
-Individual success
-:   Every mission has one visible finish condition. Each player earns a team ability for the finale by clearing their own mission; the abilities below are proposals to test.
-
-Failure and help
-:   A failed attempt returns to a disclosed checkpoint with a visible consequence. Players can exchange advice; they stay in their own worlds. No surprise eliminations.
-
-Convergence
-:   Once all five missions are cleared, move all players to the tested common arena. Show this transition clearly; seamless networking between different game engines is not required.
-
-Final win
-:   Destroy the three visible boss weak points, then complete the final team attack. If the team wipes, show the failed attempt and retry under the same disclosed rules.
-
-Story progression and hero moments
-
-1. #### Launch the five stories
-
-   Give each cast member an immediately different problem. Start with the clearest collision, then introduce the others through action rather than five long explanations.
-
-   **Audience question:** Which world would you choose, and who has the hardest mission?
-2. #### Discover the rules
-
-   Cut between meaningful discoveries: one player finds a shortcut, another wastes a scarce tool, another learns a boss pattern. Return before an open question feels abandoned.
-
-   **Audience question:** Can the crew turn these unfamiliar mechanics to their advantage?
-3. #### Pressure and reversals
-
-   Reveal the next obstacle when a player appears comfortable. Use visible progress and honest resets; do not manufacture the same setback for everyone.
-
-   **Audience question:** Will the last unfinished mission hold everyone back?
-4. #### Earn the convergence
-
-   Show every mission’s actual finish and the ability it contributes. A simple transition moves the cast into one common arena.
-
-   **Audience question:** Will five very different abilities work together?
-5. #### Fight Godzilla together
-
-   Phase one teaches a readable attack. Phase two requires two roles to cooperate. The final weak point needs the full team’s coordinated attempt.
-
-   **Audience question:** Can they complete the team attack before the boss overwhelms them?
-6. #### Pay off the title
-
-   Show the actual winning hit, immediate cast reactions and a concise look back at the five worlds. If the filmed result changes, let the result determine the ending.
-
-   **Audience question:** Did this custom game earn the “world’s best” claim for this crew?
-
-#### Moments to earn on camera
-
-A collision that changes the action
-:   A block bridge changes a car route; a tiny companion counters a giant; a familiar kart item becomes a city-scale problem. Show the mechanic causing the result.
-
-The last solo finish
-:   The others can advise and react while the last player attempts their mission. Keep the outcome genuine and include the successful attempt.
-
-Five-player rescue
-:   One player’s mistake during the boss fight creates a clear reason for another player’s earned ability to matter.
-
-The shared Godzilla finale
-
-Readable objective
-:   One Godzilla, one arena and three visible weak points. Keep the boss and team progress on screen; avoid five separate meters viewers cannot interpret.
-
-Meaningful cooperation
-:   Ground distraction exposes a target, a builder creates access, the flyer reaches the high point, and support/defense keeps the attempt alive. Roles can be swapped after testing for actual fun and balance.
-
-Earned jeopardy
-:   Telegraph a stomp or area attack so viewers understand why the crew moves. A failed coordinated attack creates a real recovery problem rather than an arbitrary cutscene.
-
-Actual team gameplay
-:   The five players must affect the shared fight. Cinematic inserts can show scale; a rendered sequence cannot stand in for their participation.
-
-Title and thumbnail directions
-
-Three compositions to test after gameplay proof. Existing canvas images are references, not newly approved packages.
-
-Representative collision
-:   Photographic Stokes host on the playable dragon with one clean threat group below, luminous blue sky and minimal text. Retain as a reference until the flight/weapon mechanic is proved.
-
-Five worlds, one threat
-:   One large human foreground, a simple five-region world composition and a dominant Godzilla silhouette. Distinct worlds must read as regions, not a logo collage.
-
-Team versus the boss
-:   Real cast foreground reacting to an enormous Godzilla in a game arena. Keep one face dominant and the other players supportive so the image works at phone size.
-
-Playable proof and capture
-
-Minimum playable proof
-:   Prove one individual mission, the common five-client arena and the handoff before expanding the other worlds. Record an actual control-to-outcome test.
-
-Repeatable recovery
-:   Every scene needs a known reset, a working save/checkpoint and a way to restore a failed client without pretending the failure did not happen.
-
-Capture needs
-:   Save each individual game feed and player reaction separately, plus the common finale feeds. Preserve the moment that proves each mission and the final win.
-
-Scope boundary
-:   Modded GTA 5 and a separate recreation with AI-assisted development are candidates. A wholly new engine or seamless engine-to-engine networking is not assumed complete.
-
-#### Before filming
-
-* A new viewer can name each player’s goal after its first reveal.
-* The package depicts a mechanic or scene that actually exists in the finished episode.
-* Every world contributes a distinctive discovery and a visible result.
-* The shared boss resolves the five-world story instead of feeling like an unrelated extra video.
-Editing and Shorts
-
-#### Long-form edit
-
-Comprehension
-:   Use a consistent cast/name/world marker, one sentence of rules at first use and a visible objective. Explain the consequence of an item before relying on game knowledge.
-
-Intercutting
-:   Cut when a discovery, decision or consequence earns the next point of view. Do not alternate mechanically just to give everyone equal seconds.
-
-Finale transition
-:   Explain that the five experiences lead into the common boss arena; use the same earned ability labels so the transition feels like a payoff.
-
-Localization
-:   Prefer icons, simple verbs and short labels. Keep jokes understandable through action and reactions; separate dialogue, music and game sound for later localization.
-
-#### Self-contained Shorts
-
-Impossible interaction
-:   One recognizable crossover, a first attempt and its result in a self-contained extract.
-
-Crew recovery
-:   A player makes a readable mistake, then a teammate’s advice or ability changes the outcome.
-
-Shared boss payoff
-:   A short role/reversal/winning action that makes sense without explaining all five worlds.
-
-Creative choices still open
-
-* Approve or revise the five proposed pairings and cast assignments.
-* Choose the exact mission finish conditions, retry consequences and finale abilities after prototype playtests.
-* Select a title/composition matched to the proved hero moment; commission revised artwork only after that choice.
-References and evidence limits
-
-* [MrBeast Gaming · World's Largest Minecraft Build!](https://www.youtube.com/watch?v=Dy06SXknr_g)
-
-  Observed thumbnail: large real host beside a block-built Earth with bright blue sky. Style/composition reference only; no claim this validates the new crossover.
-* [Halo & MDE](https://modrinth.com/project/halo-mde)
-
-  Developer-maintained Halo mod listing. Candidate component, not a tested full crossover stack.
-* [Dragon Mounts Remastered](https://www.curseforge.com/minecraft/mc-mods/dmr)
-
-  Developer-maintained rideable dragon mod listing. Does not establish that the exact Ender Dragon and gun combination works.
-* [Immersive Vehicles](https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator)
-
-  Developer-maintained vehicle framework. Candidate tool, not evidence of GTA integration.
-
-Existing composition and component references are adjacent evidence. They do not establish a working nine-game stack, tested five-world retention or causal thumbnail lift.
-
-[Review video 1 thumbnails](canvas.html?scope=episode1)[Back to top](#top)
-
-Launch video 2
+---
 
 ## I Found The Leaked GTA 6
 
-Alex gives the crew a convincing custom “early GTA 6” experience, lets their suspicions build and reveals how he fooled them.
+Convince Alex he is playing an early version of GTA 6, then escalate the absurdities until the reveal.
 
-Alex’s prank and audience uncertainty are confirmed; the mission sequence and reveal mechanics below are proposed.
+### How it works
 
-### The viewer promise
+- Present the setup as an apparent early-game opportunity and let Alex take the controller.
+- Begin with believable play, then introduce increasingly strange missions and characters.
+- Let the clues build to a clear reveal of how the prank was made.
 
-An extraordinary-looking game raises one question: is this actually real? The audience gets enough clues to form a theory while the cast tries to finish a fun challenge.
+### Opening 30 seconds
 
-### The objective
+**0–5s · ALAN:** “Alex thinks he’s about to play GTA 6. But we built this entire game to prank him.”
 
-The crew attempts three increasingly strange missions while Alex tries to keep his supposed early build believable until the final reveal.
+Show: Show Alex arriving, then a quick behind-the-scenes glimpse for the audience.
 
-[![Updated-plan thumbnail concept for I Found The Leaked GTA 6](updated-thumbnails/L03-F.webp)](canvas.html?scope=updated#card-L03-F)
+**5–15s · ALAN:** “Every mission, every character, and every surprise is controlled by us.”
 
-Updated-plan concept; final artwork follows playable proof. Supporting cast are concept performers. [Compare the five new options](canvas.html?scope=updated#card-L03-F).
+Show: Tease two strange moments without revealing his biggest reaction.
 
-Confirmed direction
+**15–30s · ALAN:** “Alex, come try this.”
 
-* Alex is the informed prankster; Alan, Kat, Tanner and Shawn are the intended targets.
-* Keep the audience guessing from the opening rather than announcing the prank immediately.
-* The experience is a staged GTA 5/custom build, not a genuine GTA 6 leak.
-* Confirm actual briefing history before describing a reaction as unaware.
+Show: Let him sit down and begin the first believable mission.
 
-### First 30 seconds
+### Turn
 
-Proposed opening beats; select real moments after the playable test and shoot.
+ALAN: “Let’s see how long it takes him to notice this.”
 
-1. **0 (First Frame)–5s**Show a convincing-looking sunny city/game moment and a genuine “how did you get this?” reaction. Avoid an opening explanation that gives away the trick.
-2. **5s–15s**Alex presents the supposed access and the crew starts one simple mission. Establish what would make the experience extraordinary without inventing a real leaked source.
-3. **15s–30s**A small unusual detail creates the first doubt, but a playable driving moment pulls the crew back into the challenge. Let the audience start forming its own theory.
+Introduce the next clue after Alex has committed to the mission.
 
-Cast roles and competition rules
+### Payoff
 
-Alex
-:   Owns the misdirection, responds to suspicion and delivers the reveal. His control is the story’s engine, but the edit can withhold selected information until payoff.
+ALAN: “Alex, there’s something we need to tell you.”
 
-Alan, Kat, Tanner and Shawn
-:   Each gets a distinct attempt or investigation: driving, testing an interaction, following a clue or challenging Alex’s explanation. Assign the exact missions around authentic reactions, not predetermined “believer” or “skeptic” roles.
+Reveal the prank, show how it was built and let Alex react.
 
-Knowledge boundary
-:   Separate people who know the setup from the intended targets before filming. If someone already knows, use their actual role rather than presenting them as fooled.
+### Packaging
 
-#### Rules to agree
+- An apparently impossible early-access opportunity × a twin prank.
+- Alex’s reaction to one unexpected GTA-style scene; the audience gets the prank context in the opening.
+- The title creates the opportunity; the first line makes the audience Alan’s accomplice.
 
-Player objective
-:   Deliver one marked car, complete a short escape and reach a final reveal location. The cast can understand the task even if they have never played GTA.
+[Stokes Twins · 365 PRANKS IN 365 DAYS!!](https://www.youtube.com/watch?v=5ZX_eypUHns) — 169,418,903 public views · 2.17× nearby-upload median (source-reported). A direct Stokes prank identity and escalating surprises.
 
-Alex’s constraint
-:   He operates only the prepared changes. He must answer the crew’s challenges using the actual build; he cannot simply declare every impossible event normal.
+[PrestonPlayz · Why I Flooded My Friend’s ENTIRE World?](https://www.youtube.com/watch?v=-LUNQPxD0vY) — 13,665,235 public views · 2.81× nearby-upload median (source-reported). A creator secretly changing the game supplies an adjacent prank mechanism.
 
-Suspicion
-:   Track real questions and predictions in the edit. A suspicion board is an editorial device, not a score that guarantees everyone is fooled.
-
-Retries
-:   Technical crashes are production failures, not proof of an intentional prank. Use a tested restart point and be truthful if a failure affects the story.
-
-Payoff
-:   The final location exposes the mechanism and Alex takes responsibility. Show the crew understanding the trick and trying the revealed mechanic themselves.
-
-Story progression and hero moments
-
-1. #### Make the access feel extraordinary
-
-   A convincing single district, responsive car handling and one polished interaction establish why the crew would keep playing. Use only apparent proof the staged premise can support.
-
-   **Audience question:** Did Alex really get something nobody else has?
-2. #### First mission: delivery
-
-   The crew follows an easy route to a marked destination. A subtle repeated character, oddly familiar building or unusual sign gives attentive viewers a clue.
-
-   **Audience question:** Is that detail a clue or just an unfinished game?
-3. #### Second mission: escape
-
-   A controlled chase introduces one absurd behavior that is still playable. The crew tests Alex’s explanation instead of passively listening to it.
-
-   **Audience question:** Can the build survive an unscripted test?
-4. #### The crew investigates
-
-   Let a real suspicion change the action: take an unexpected turn, revisit the odd interaction or ask to try a different vehicle. Preserve the cause-and-effect chain.
-
-   **Audience question:** Who will work out what Alex changed?
-5. #### Third mission: the impossible location
-
-   The final objective leads to a location that exposes the setup: a custom room or world element directly tied to Alex and the crew. It should answer earlier clues.
-
-   **Audience question:** What is behind the final door?
-6. #### Reveal and reaction
-
-   Alex explains the custom GTA 5/recreation route in plain language. Show brief proof of the trick and the crew’s real responses, then give them a short turn playing with it knowingly.
-
-   **Audience question:** Which clue should have given it away?
-
-#### Moments to earn on camera
-
-Almost caught
-:   A target tests something Alex did not expect. Hold enough of the interaction to show whether his explanation actually survives.
-
-A believable game becomes ridiculous
-:   One prepared change turns a normal delivery or escape into a surprising crew problem; its consequence stays understandable.
-
-The evidence pays off
-:   Revisit two or three earlier clues after the reveal. The viewer gets the satisfaction of solving the same puzzle, not an unrelated backstage montage.
-
-If the shoot develops differently
-
-Someone identifies it immediately
-:   Do not reset their knowledge or ask them to fake belief. Shift to whether Alex can convince the others, or whether the crew can find every planted change.
-
-Everyone believes too long
-:   Let the mission introduce a stronger, playable inconsistency. The reveal still needs evidence and a satisfying reaction; extra minutes of driving are not suspense.
-
-A target already knows
-:   Reframe their role openly in the planning/edit. The remaining unaware reactions can carry the prank without fabricated innocence.
-
-The build cannot support exploration
-:   Use a bounded route and a clear mission boundary. A convincing small experience is preferable to promising a whole unexplorable game.
-
-Title and thumbnail directions
-
-Three compositions to test after gameplay proof. Existing canvas images are references, not newly approved packages.
-
-Mystery access
-:   Large photographic host holding one intriguing object beside a beautiful game scene. The object is a metaphor for access, not evidence of an actual leaked drive.
-
-Is this real?
-:   Real host at a station with one striking in-game vista or uncanny detail. Keep the uncertainty in the image and avoid an obvious prank reveal.
-
-Title alignment
-:   I Found The Leaked GTA 6 remains a working packaging test. The episode must reveal that it is staged; do not invent genuine developer access or unsupported provenance to justify the title.
-
-Playable proof and capture
-
-Playable scope
-:   Build one convincing district/route and three reliable mission interactions, with operator controls and reset points. More visual detail only helps if the crew can play it.
-
-Source of the illusion
-:   Visual polish, selected models and post effects support the story. Upscaling or AI-assisted development does not turn GTA 5 into actual GTA 6.
-
-Reaction capture
-:   Preserve each target’s first encounter, questions and the moment their belief changes. Later pickups should not be presented as first reactions.
-
-Reveal proof
-:   Capture a simple demonstration of the changes Alex controlled so the ending answers the audience’s questions.
-
-#### Before filming
-
-* A non-gamer understands the mission and why the supposed access matters.
-* Suspicion produces new action instead of repetitive dialogue.
-* The reveal explains the planted clues and correctly identifies the build.
-* Claims about who knew the prank match the actual briefing and footage.
-Editing and Shorts
-
-#### Long-form edit
-
-Keep the audience guessing fairly
-:   Withhold the explicit mechanism, but include real clues and doubts. Avoid editing a sincere objection out just to claim the crew was completely fooled.
-
-Escalation
-:   Move from plausible polish to a small oddity, then a consequential inconsistency, then the reveal. Each step changes what the crew does.
-
-Pacing
-:   Cut unproductive navigation and technical explanations. Keep the moments where a player tests, doubts, commits or catches Alex.
-
-Ending
-:   Resolve the prank, identify the custom experience and pay off the strongest clue. Let the final cast reaction close the story.
-
-#### Self-contained Shorts
-
-Suspicion without the answer
-:   One strange interaction and a cast theory, with a clear route to the full episode after release.
-
-Reveal extract
-:   After the long-form reveal is public, show the clue, the explanation and the immediate reaction as a complete short.
-
-Playable absurdity
-:   A standalone mission change with its own funny consequence; it should still make sense without the leak premise.
-
-Creative choices still open
-
-* Choose the bounded custom route and three prepared interactions after a playable test.
-* Confirm the cast knowledge boundary and what Alex can control live.
-* Choose the strongest reveal mechanism and a package that preserves uncertainty without inventing genuine leak evidence.
-References and evidence limits
-
-* [Stokes Twins · Prisoner Drive Thru Prank](https://www.youtube.com/watch?v=nuK7e1xzThc)
-
-  Observed source image: a real host in an orange prisoner costume inside a car, with a highlighted secondary face. The prank performance and human context are useful; the source is 2.94x.
-
-  Public snapshot: 2026-10-05. Historical observation, not current performance.
-* [Stokes Twins · 365 PRANKS IN 365 DAYS!!](https://www.youtube.com/watch?v=5ZX_eypUHns)
-
-  Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.
-
-  Public snapshot: 2026-10-05. Historical observation, not current performance.
-* [Stokes Twins · BUSTING VIRAL TIKTOK GADGETS!!](https://www.youtube.com/watch?v=AwQz703eOt0)
-
-  Large host gesture at left presents one surprising gadget mechanism at right. We keep the presentation gesture and replace the dark background with the requested blue sky.
-
-  Public snapshot: 2026-10-05. Historical observation, not current performance.
-
-Public prank and gaming references support adjacent packaging/story analysis. They do not prove that a fake-GTA-access premise will outperform or that these specific reactions will occur.
-
-[Review video 2 thumbnails](canvas.html?scope=episode2)[Back to top](#top)
-
-Launch video 3
+---
 
 ## I Survived 100 Hours in GTA
 
-Alex, Alan, Kat, Tanner and Shawn start separate GTA 6 runs in one room, and the first person to finish wins and lets the whole crew leave.
+The boys stay in one room until someone finishes GTA 6, while guests join for complete standalone challenges.
 
-Actual GTA 6, five individual runs and first-finisher group release are confirmed; finish proof and competition rules below remain to agree.
+### How it works
 
-### The viewer promise
+- Start the room challenge and establish the agreed game finish point.
+- Follow the leading run, the setbacks and guest mission blocks while post receives finished segments.
+- When the first player finishes, release everyone and resolve the room story.
 
-Five personalities race toward one clear finish while sharing the consequences of staying in the room. The audience can follow the leader, recoveries and crew dynamics without knowing GTA missions.
+### Opening 30 seconds
 
-### The objective
+**0–5s · ALEX:** “We’re locked in this room until one of us beats GTA 6.”
 
-Be the first to complete the agreed main-story finish condition in actual GTA 6.
+Show: Show the occupied stations, the room and the game starting.
 
-[![Updated-plan thumbnail concept for I Survived 100 Hours in GTA](updated-thumbnails/L01-F.webp)](canvas.html?scope=updated#card-L01-F)
+**5–15s · ALAN:** “The first person to finish gets everyone out. And we’ve invited some help.”
 
-Updated-plan concept; final artwork follows playable proof. Supporting cast are concept performers. [Compare the five new options](canvas.html?scope=updated#card-L01-F).
+Show: Tease guest arrivals without claiming a booked guest who has not confirmed.
 
-Confirmed direction
+**15–30s · ALEX:** “Start the game. Let’s see who gets us out first.”
 
-* Five players each have an individual game run; this is not assumed to be shared story co-op.
-* The first completion wins and releases everyone together.
-* 100 hours is a working title. Actual elapsed duration determines the final truthful package.
-* Godzilla is in the first mashup video, not this completion challenge.
-* Record from actual game access, assemble while recording and publish ASAP after the winner, group release and final QC.
+Show: Begin the first mission and establish each player’s progress.
 
-### First 30 seconds
+### Turn
 
-Proposed opening beats; select real moments after the playable test and shoot.
+ALAN: “We’ve been stuck here for hours. It’s time to call for help.”
 
-1. **0 (First Frame)–5s**Five occupied stations, the room door closing and a readable elapsed clock. Cut to a genuine late-race reaction that does not reveal who wins.
-2. **5s–15s**“We can’t leave until one of us beats GTA 6.” Explain that everyone has their own run and the first finisher releases the entire crew. Show the agreed finish marker.
-3. **15s–30s**Start the real competition. One player gains an early advantage while another faces a readable setback; establish the cast through choices and reactions, not a long setup tour.
+Bring in a confirmed guest with one specific mission to complete.
 
-Cast roles and competition rules
+### Payoff
 
-All five competitors
-:   Alex, Alan, Kat, Tanner and Shawn each have a visible progress lane. Let the footage establish the confident starter, surprise leader, helper and comeback player; do not assign fictional skill rankings in advance.
+ALEX: “Wait—did you just finish it?”
 
-Crew tension
-:   Someone may help a rival because any winner lets them leave, then regret giving away their lead. Follow that tension only if it happens.
+Show the actual final completion and the whole room’s release before the closing reaction.
 
-Winner uncertainty
-:   Build the edit around actual progress and finish proof. Either twin or any crew member can carry the decisive final run.
+### Packaging
 
-#### Rules to agree
+- A closed-room challenge × a long-awaited game × one clear release condition.
+- The twins in a visibly used gaming room, with one obvious exit and the game as context.
+- The unanswered question is who finishes first and how long the room story lasts.
 
-Matched start
-:   Begin from the same agreed game state and use the same difficulty/settings where the actual game allows them. Record the starts and any unavoidable difference.
+[MrBeast Gaming · I Survived 100 Days Of Hardcore Minecraft!](https://www.youtube.com/watch?v=jk6thMe6Vq8) — 186,681,366 public views · 4.27× nearby-upload median (source-reported). A single survival/completion goal carries a long progression.
 
-Finish proof
-:   Recommended: the agreed main-story ending/credits checkpoint, chosen after the real game’s completion routes are understood. Side activities and 100% completion are excluded unless the cast deliberately chooses a different premise.
+[MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w) — 116,232,703 public views · 2.25× nearby-upload median (source-reported). Clear GTA objectives and player reactions keep the game story accessible.
 
-Individual runs
-:   Each player controls their own run. No save transfers, substitute players or unannounced skips. Agree any assistance policy before the race.
+---
 
-Help policy proposal
-:   Players can talk and exchange advice because their shared exit encourages cooperation; nobody takes over another person’s controls. This creates a useful tension between personal victory and collective release.
+## Cheap versus extravagant, same test
 
-Failures and interruptions
-:   Normal in-game failures use the game’s normal retry/save system. Log a technical outage separately and apply the same agreed remedy to everyone; the precise remedy is a pending rule.
+Put the cheapest and most extravagant options through the same tests and find out what the extra value changes.
 
-Room and breaks
-:   Agree a fair rest/break policy before recording. Keep the elapsed clock honest and explain meaningful pauses. The room is the challenge setting; the premise does not depend on denying ordinary needs.
+### How it works
 
-Winner and release
-:   The first verified finish ends the competition and releases all five. There is no requirement to film the others completing separate endings after the race is over.
+- Reveal the cheapest and most extravagant versions side by side.
+- Run three matched tests with visible results.
+- Reveal which one won each test and whether the expensive option was worth it.
 
-Story progression and hero moments
+### Opening 30 seconds
 
-1. #### Start and establish the rule
+**0–5s · ALEX:** “This is the cheapest car in GTA. And this is the most expensive.”
 
-   Show matched starts, the room promise and five clear progress lanes. Use only the first meaningful mission decisions needed to understand each competitor.
+Show: Match the two cars in one clear side-by-side shot.
 
-   **Audience question:** Who gets ahead first?
-2. #### Early confidence meets the game
+**5–15s · ALAN:** “We’re putting both through the same tests to see if the expensive one is actually better.”
 
-   Find the first genuine skill gap or mistake. Explain what the setback costs in progress, rather than assuming viewers know the mission.
+Show: Tease the race, impact and final jump.
 
-   **Audience question:** Is the early leader actually the strongest player?
-3. #### The room becomes part of the story
+**15–30s · ALEX:** “First test: a straight race. Ready?”
 
-   Use breaks, food, rivalry and advice where they change the competition. Time jumps are explicitly labeled; do not confuse hours elapsed with hours of uninterrupted play.
+Show: Start the first comparison.
 
-   **Audience question:** Will they prioritize winning or helping someone finish?
-4. #### Comebacks and late-race pressure
+### Turn
 
-   Crosscut actual reversals and approaching finish checkpoints. A delayed feed or editing choice must not imply a close race that did not happen.
+ALAN: “It’s faster. But can it survive this?”
 
-   **Audience question:** Can the trailing player catch the real leader?
-5. #### Verify the first finish
+Change the next test so the first advantage is no longer enough.
 
-   Hold enough gameplay and reaction to establish the actual ending checkpoint. Confirm who finished first using synchronized records, then reveal the winner.
+### Payoff
 
-   **Audience question:** Is this the run that finally lets everyone out?
-6. #### Release and close
+ALEX: “Here’s what all that extra money actually got us.”
 
-   Show the whole crew leaving together and a concise final progress/elapsed-time wrap-up. Their unfinished runs are a scoreboard recap, not a new requirement to stay.
+Reveal the results and the biggest surprise.
 
-   **Audience question:** How long did it really take, and who was closest behind?
+### Packaging
 
-#### Moments to earn on camera
+- Cheap vs extravagant × the same recognizable object.
+- One cheap option beside one outrageous premium version.
+- The visible difference makes the comparison easy to understand.
 
-A clear progress reversal
-:   A player loses an apparent lead through a normal mission failure, while another completes a visible milestone. Explain both sides of the change.
+[MrBeast Gaming · $2 VS $16,000 Minecraft House!](https://www.youtube.com/watch?v=IPtpwh7r0Eo) — 116,928,432 public views · 3.26× nearby-upload median (source-reported). A direct game-world price comparison.
 
-Help the rival
-:   Keep a real exchange where advice makes the group’s exit more likely but threatens the helper’s chance to win.
+[MrBeast Gaming · World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM) — 122,277,058 public views · 3.68× nearby-upload median (source-reported). Fast-car spectacle supports the automotive variation.
 
-The finish in the room
-:   Capture the winning game state, the winner’s first reaction, the others discovering it and the group-release action as one connected payoff.
+---
 
-If the shoot develops differently
+## Busting spectacular myths
 
-It takes far less than 100 hours
-:   Use the actual duration or a completion-led title. Do not prolong the recording or fabricate the clock to preserve a working headline.
+Test spectacular GTA myths and give a clear answer after each attempt.
 
-It takes much longer
-:   Follow the agreed break/save policy, keep the room story truthful and let recording length determine the edit; no fixed 100-hour quota is assumed.
+### How it works
 
-The winner leads comfortably
-:   Use the genuine suspense of whether they can finish and release the crew. Do not fabricate an opponent who is seconds behind.
+- Open with the most visually surprising question.
+- Move from a quick test to harder, larger experiments.
+- Save the biggest myth for a full final test and result.
 
-Two players appear to finish together
-:   Use synchronized game capture and the agreed checkpoint to resolve order. Establish a tie rule before recording rather than improvising a favorable winner.
+### Opening 30 seconds
 
-Actual GTA 6 access/capture is not proved
-:   Keep the episode pending. The modded GTA 5/recreation route belongs to the custom episodes and cannot be relabeled actual GTA 6.
+**0–5s · ALEX:** “Can you survive this in GTA?”
 
-Title and thumbnail directions
+Show: Show the first extraordinary situation before its result.
 
-Three compositions to test after gameplay proof. Existing canvas images are references, not newly approved packages.
+**5–15s · ALAN:** “Today, we’re testing the myths everyone says are impossible.”
 
-Room and race
-:   A photographic host in the foreground, the other four occupied stations and one clear door/clock cue. The image should communicate “finish the game to get out.”
+Show: Tease two different later tests.
 
-Real elapsed time
-:   A tired or triumphant real cast reaction beside a readable elapsed clock can work after the duration is known. Do not bake an unearned 100-hour claim into the final art.
+**15–30s · ALEX:** “Let’s find out.”
 
-Title tests
-:   Keep I Survived 100 Hours in GTA as provisional. I Beat GTA 6 and a completion/room-led title are alternatives; choose after footage establishes the actual story.
+Show: Play the first test through to the answer.
 
-Playable proof and capture
+### Turn
 
-Actual access and individual state
-:   Prove five actual game runs, settings, save states and supported access/capture. PCs may be capture/control stations, but that is not proof of a native PC version.
+ALAN: “That worked once. Can we do it at this scale?”
 
-Finish verification
-:   Use synchronized timestamps on the game and room records. Preserve uninterrupted evidence around each possible winning checkpoint.
+Increase the challenge based on the previous result.
 
-Long-session capture
-:   Test storage rollover, recording continuity, game saves and a recovery procedure before relying on a long recording. Detailed infrastructure costs stay in the private packet.
+### Payoff
 
-Rolling post
-:   Log milestone progress and assemble while recording. The final cut waits for verified winner/group release and final picture, sound and factual QC.
+ALEX: “This is the one we’ve been waiting to test.”
 
-#### Before filming
+Run the largest final myth and state the answer.
 
-* A new viewer understands that one person finishing releases everyone.
-* The final title and clock match actual recorded duration.
-* The scoreboard reflects real milestones and the winner is supported by finish evidence.
-* The ending resolves the winner and group release without reintroducing the superseded individual-exit rule.
-Editing and Shorts
+### Packaging
 
-#### Long-form edit
+- A familiar myth-testing format × impossible game spectacle.
+- One clear question shown at its most extreme moment.
+- Each test gives a payoff while the next question keeps the video moving.
 
-Readable progress
-:   Use a five-lane scoreboard tied to actual verified milestones. Do not invent a percentage when the game supplies no reliable completion measure.
+[Stokes Twins · BUSTING 100 MYTHS IN 24 HOURS!!](https://www.youtube.com/watch?v=IuWj5GAPdWo) — 112,113,127 public views · 2.15× nearby-upload median (source-reported). A direct Stokes myth-testing format.
 
-Compress repetition
-:   Summarize repeated driving or failed attempts when they add no new decision; preserve the attempt that changes the lead or the player’s strategy.
+[Brianna · Busting 1000 Deadliest Myths in 24 Hours](https://www.youtube.com/watch?v=77164j9LI0I) — 16,791,526 public views · 6.38× nearby-upload median (source-reported). Large, escalating myth tests support a bigger finale.
 
-Truthful time
-:   Show elapsed-time jumps and meaningful breaks clearly. A tight edit can still make the length and changing room mood understandable.
+---
 
-ASAP publication
-:   Prepare reusable progress graphics and ongoing assemblies, then finish from the real outcome. Fast turnaround does not justify losing the finish proof or confusing the release rule.
+## Give the crew their dream lives
 
-#### Self-contained Shorts
+Build a friend’s dream life in a game and reveal each surprise to them.
 
-A comeback
-:   One setback, the player’s changed approach and the result, with a simple progress graphic.
+### How it works
 
-Crew rivalry
-:   A short advice/trash-talk exchange tied to a visible game consequence.
+- Start with one personal wish and a small first reveal.
+- Build toward a dream home, vehicle or experience tailored to the friend.
+- Let the friend explore the finished surprise and choose their favorite part.
 
-Everyone gets out
-:   After the episode’s intended release, the winning finish and whole-room reaction form a standalone payoff.
+### Opening 30 seconds
 
-Creative choices still open
+**0–5s · ALEX:** “Today, I’m giving my friend their dream life in GTA.”
 
-* Agree the exact story-finish checkpoint, assistance policy, break rule, tie rule and technical-outage remedy.
-* Prove actual game access and synchronized five-station capture.
-* Select the final title and revised room-focused artwork from the recorded story and duration.
-References and evidence limits
+Show: Show the friend’s wish beside a brief glimpse of the finished world.
 
-* [MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w)
+**5–15s · ALAN:** “They have no idea we built all of this for them.”
 
-  Large real host at left with an airborne supercar on a clear diagonal at right against blue sky.
+Show: Reveal two personal details, holding the biggest surprise.
 
-  Public snapshot: 2026-10-05. Historical observation, not current performance.
-* [Stokes Twins · 365 PRANKS IN 365 DAYS!!](https://www.youtube.com/watch?v=5ZX_eypUHns)
+**15–30s · ALEX:** “Come outside. I’ve got something to show you.”
 
-  Original is a two-panel prank thumbnail. One panel places a threat behind an unaware person; our chase combines that relation into a single coherent game scene.
+Show: Begin the first reveal.
 
-  Public snapshot: 2026-10-05. Historical observation, not current performance.
-* [MrBeast Gaming · World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM)
+### Turn
 
-  Observed source image: host left beside a rear-view sports car on a bright green acceleration lane. Source score 3.68x is a qualifying public outlier.
+ALEX: “You thought that was the surprise? Follow me.”
 
-  Public snapshot: 2026-10-05. Historical observation, not current performance.
+Move from the smaller gift to the most personal part of the build.
 
-Existing gaming competition references are adjacent. No private launch-channel retention, CTR or verified audience response is supplied; the hook and edit choices are proposals to test.
+### Payoff
 
-[Review video 3 thumbnails](canvas.html?scope=episode3)[Back to top](#top)
+ALAN: “This whole place is yours to explore.”
 
-The public Influint Gaming export was refreshed October 15. Its premise/escalation/rules and game-swap guidance inform these proposals as Theory, not measured guarantees. Public outliers support adjacent formats; they do not supply CTR, private retention curves or compatibility proof. [Inspect the Gaming intelligence](https://majieddd.github.io/influint-channels-public/intelligence/niche-gaming.html).
+Let the friend react and spend time with their favorite feature.
 
-Use actual 24-hour, 7-day and first-28-day results per upload. No private CTR or retention curves are available.
+### Packaging
+
+- A personal wish × an oversized game-world reveal.
+- One friend reacting to one unmistakable dream object.
+- The relationship gives the spectacle a personal reason to matter.
+
+[Stokes Twins · SURPRISING MY TWIN BROTHER WITH HIS DREAM CAR!!](https://www.youtube.com/watch?v=sDmJz5TewoA) — 8,967,316 public views · 0.88× nearby-upload median (source-reported). A direct twin-to-twin dream-car surprise.
+
+[Stokes Twins · Surprising Twin Brother With Dream Vacation!](https://www.youtube.com/watch?v=uKHKUyua9OE) — 67,863,866 public views · 0.85× nearby-upload median (source-reported). A personalized dream experience on the main channel.
+
+---
+
+## Pranks that change the mission
+
+Secretly make the game harder while the crew tries to complete a normal mission.
+
+### How it works
+
+- Give the players one straightforward mission.
+- Introduce a new hidden change after each stage.
+- Reveal the prank and replay the moments they nearly noticed.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “My friends think this is a normal game of GTA.”
+
+Show: Show them beginning the mission.
+
+**5–15s · ALAN:** “But every minute, we’re secretly making it harder.”
+
+Show: Show the control room and tease two changes.
+
+**15–30s · ALEX:** “Let’s start with something small.”
+
+Show: Trigger the first change and stay with the reaction.
+
+### Turn
+
+ALAN: “They’re starting to notice. Time for the big one.”
+
+Use their real suspicion to lead into the biggest change.
+
+### Payoff
+
+ALEX: “We’ve been controlling this the whole time.”
+
+Reveal the prank and show the changes from both perspectives.
+
+### Packaging
+
+- A secret prank × a repeated difficulty increase.
+- One player facing an obviously altered game situation.
+- The audience knows the secret and watches for the players to discover it.
+
+[Stokes Twins · 365 PRANKS IN 365 DAYS!!](https://www.youtube.com/watch?v=5ZX_eypUHns) — 169,418,903 public views · 2.17× nearby-upload median (source-reported). Stokes prank framing and creator reactions.
+
+[PrestonPlayz · Why I Flooded My Friend’s ENTIRE World?](https://www.youtube.com/watch?v=-LUNQPxD0vY) — 13,665,235 public views · 2.81× nearby-upload median (source-reported). A hidden game-world change creates an immediate problem.
+
+---
+
+## One day in an impossible job
+
+The twins try an ordinary job in a game and turn it into an escalating competition.
+
+### How it works
+
+- Give both twins the same job and a simple target.
+- Move from the first ordinary customer/task to increasingly difficult ones.
+- Finish with the biggest order and compare their results.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Today, we’re becoming GTA’s worst taxi drivers.”
+
+Show: Show the twins beside their cars and the first waiting customer.
+
+**5–15s · ALAN:** “Whoever finishes the most jobs by the end of the day wins.”
+
+Show: Show the simple job counter.
+
+**15–30s · ALEX:** “Our first customer is already waiting.”
+
+Show: Start the first job and keep the interaction.
+
+### Turn
+
+ALAN: “This is not a normal customer.”
+
+Introduce a task that changes the way the twins have to do the job.
+
+### Payoff
+
+ALEX: “One last job. This decides who wins.”
+
+Resolve the last task and reveal the score.
+
+### Packaging
+
+- An ordinary job × the twins’ incompetence or chaos.
+- One recognizable work situation going spectacularly wrong.
+- The everyday task keeps the premise accessible to non-gamers.
+
+[Stokes Twins · I Became A Principal At The World's Strictest School!](https://www.youtube.com/watch?v=LJYkuCoTOKg) — 58,118,322 public views · 1.58× nearby-upload median (source-reported). A creator taking an unfamiliar role supplies the social situation.
+
+[Brianna · LIVING Like MY SIM For 24 HOURS! - Challenge](https://www.youtube.com/watch?v=MNqF0h6LJDI) — 17,927,907 public views · 4.58× nearby-upload median (source-reported). A game-life challenge can make a routine day into a story.
+
+---
+
+## Game versus real life, same race
+
+Race a game version of a challenge against the same task in real life.
+
+### How it works
+
+- Give one twin the game route and the other the matching real route.
+- Start both together and compare their progress at clear checkpoints.
+- Let the last checkpoint decide which world is faster.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “I’m racing across this city in GTA.”
+
+Show: Show the game route and its starting point.
+
+**5–15s · ALAN:** “And I’m doing the exact same journey in real life. First one there wins.”
+
+Show: Match the real start to the game version.
+
+**15–30s · ALEX:** “Three, two, one—go!”
+
+Show: Start both journeys together.
+
+### Turn
+
+ALAN: “You don’t have to deal with this in the game.”
+
+Compare a real-world setback with the other twin’s progress.
+
+### Payoff
+
+ALEX: “We can both see the finish. Who gets there first?”
+
+Show the final arrivals and compare the routes.
+
+### Packaging
+
+- Game vs real life × the same task.
+- One precisely matched game/real-world scene.
+- The comparison makes viewers predict which world should win.
+
+[Stokes Twins · Tesla Autopilot For 24 Hours!](https://www.youtube.com/watch?v=SsJ7oOpbmIk) — 38,321,506 public views · 4.25× nearby-upload median (source-reported). A real-world technology challenge gives a familiar comparison.
+
+[MrBeast Gaming · World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM) — 122,277,058 public views · 3.68× nearby-upload median (source-reported). A clear game race supports speed and finish-line stakes.
+
+---
+
+## Extreme test-drive catalogue
+
+Test increasingly ridiculous vehicles and find out which one is actually useful.
+
+### How it works
+
+- Introduce the strangest vehicle with one clear challenge.
+- Try a different extreme after each result.
+- Bring the most surprising contenders back for the final test.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “These are the most ridiculous vehicles in GTA.”
+
+Show: Put the smallest and largest vehicles in the same shot.
+
+**5–15s · ALAN:** “We’re testing all of them to find out which one is actually the best.”
+
+Show: Tease one failed attempt and one spectacular success.
+
+**15–30s · ALEX:** “Let’s start with this thing.”
+
+Show: Enter the first vehicle and begin its test.
+
+### Turn
+
+ALAN: “It looks useless. But can it do this?”
+
+Give an overlooked vehicle a test that might suit it.
+
+### Payoff
+
+ALEX: “These are our finalists. One last test.”
+
+Compare the finalists and reveal the most surprising winner.
+
+### Packaging
+
+- A superlative test list × visually extreme objects.
+- One tiny vehicle beside one enormous vehicle, with a twin for scale.
+- The visual difference creates a reason to compare the results.
+
+[Stokes Twins · I Tested 100 BANNED School Products!](https://www.youtube.com/watch?v=AKa1N3Mo8mQ) — 66,555,519 public views · 1.4× nearby-upload median (source-reported). A direct Stokes test-catalogue structure.
+
+[MrBeast Gaming · World's Fastest Car!](https://www.youtube.com/watch?v=nopEs-K4ExM) — 122,277,058 public views · 3.68× nearby-upload median (source-reported). An extreme vehicle can carry the visual promise of a game test.
+
+---
+
+## Transform the world into an impossible attraction
+
+Transform a familiar game world into one enormous attraction, then let the crew try it.
+
+### How it works
+
+- Show the ordinary location before one spectacular reveal.
+- Introduce the attraction through the crew’s first attempts.
+- Finish with its biggest ride, race or feature.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “I turned GTA into a giant waterpark.”
+
+Show: Reveal one enormous slide above the familiar city.
+
+**5–15s · ALAN:** “And today, we’re testing every part of it.”
+
+Show: Tease the biggest ride and a surprising smaller feature.
+
+**15–30s · ALEX:** “Who’s going down first?”
+
+Show: Start the first ride immediately.
+
+### Turn
+
+ALAN: “That wasn’t even the biggest one.”
+
+Reveal the final attraction after the crew has tried the smaller builds.
+
+### Payoff
+
+ALEX: “We saved this for last.”
+
+Let the crew complete the biggest attraction and react together.
+
+### Packaging
+
+- A familiar world transformed into an impossible attraction.
+- One enormous attraction rising from a recognizable game location.
+- The before/after contrast makes the scale legible instantly.
+
+[Stokes Twins · I Built a WATERPARK In My House!](https://www.youtube.com/watch?v=An52a50mVXs) — 169,904,985 public views · 1.21× nearby-upload median (source-reported). A direct Stokes waterpark transformation subject.
+
+[Unspeakable · I Turned My House Into a Waterpark!](https://www.youtube.com/watch?v=WthL6_K8Kys) — 20,543,332 public views · 4.23× nearby-upload median (source-reported). A huge attraction reveal can carry both the package and the payoff.
+
+---
+
+## I Robbed a Bank With Howie Mandel
+
+Howie joins the twins for one complete GTA bank-heist attempt during the room challenge.
+
+### How it works
+
+- Bring Howie into the room and give him a role in the heist.
+- Follow the plan, the first mistake and the escape attempt.
+- Resolve the heist as its own story, then return to the room challenge.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Today, I’m robbing a bank in GTA with Howie Mandel.”
+
+Show: Show the twins, Howie and the in-game bank.
+
+**5–15s · ALAN:** “We need to get the money out and escape before the cops catch us.”
+
+Show: Show the vault and the planned escape route.
+
+**15–30s · ALEX:** “Howie, are you ready?”
+
+Show: Give him the controller and start the attempt.
+
+### Turn
+
+ALAN: “That was not part of the plan.”
+
+Let the first genuine mistake force a new escape choice.
+
+### Payoff
+
+ALEX: “We’ve got the money. Now we just have to get out.”
+
+Resolve the escape and the guest’s reaction before the room story resumes.
+
+### Packaging
+
+- A familiar GTA activity × an unexpected celebrity partner.
+- The twins and Howie at one open bank vault.
+- The celebrity changes who performs the familiar mission, not the amount of explanation needed.
+
+[MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w) — 116,232,703 public views · 2.25× nearby-upload median (source-reported). A GTA pursuit gives the heist an obvious escape objective.
+
+[MrBeast Gaming · Would You Risk $5,000 for $100,000?](https://www.youtube.com/watch?v=2O-9RmuiXog) — 159,792,929 public views · 2.7× nearby-upload median (source-reported). Keeping or risking a reward makes the escape decision matter.
+
+---
+
+## I Escaped the Cops With Kai Cenat
+
+Kai joins the twins for a GTA wanted-level escape challenge.
+
+### How it works
+
+- Introduce Kai, the current wanted level and the escape goal.
+- Let him take a controller turn while the twins help choose the route.
+- End when they escape or get caught, with a complete guest payoff.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “Kai Cenat is helping us escape the cops in GTA.”
+
+Show: Show Kai joining the twins as the chase begins.
+
+**5–15s · ALAN:** “We have to lose them before they destroy this car.”
+
+Show: Show the pursuing cars and the escape route.
+
+**15–30s · ALEX:** “Kai, take the wheel.”
+
+Show: Start his controller turn and stay on the first decision.
+
+### Turn
+
+ALAN: “They’ve found us again. Take the next turn.”
+
+Use the chase’s actual reversal to change the route.
+
+### Payoff
+
+ALEX: “Wait for it—did we lose them?”
+
+Show the wanted-level result and Kai’s reaction.
+
+### Packaging
+
+- A recognizable guest × an immediate pursuit.
+- Three expressive faces in one getaway car, with the cops clearly behind.
+- The chase communicates the situation before the viewer knows the rules.
+
+[MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w) — 116,232,703 public views · 2.25× nearby-upload median (source-reported). Direct GTA pursuit structure.
+
+[MrBeast Gaming · 1 vs 100 Player Manhunt!](https://www.youtube.com/watch?v=dLDj2TTyMGM) — 164,600,391 public views · 2.18× nearby-upload median (source-reported). An overwhelming chase gives the guest a clear problem to solve.
+
+---
+
+## Celebrities Helped Us Beat GTA 6
+
+Bring guests into the room to help the boys clear difficult parts of GTA 6.
+
+### How it works
+
+- Introduce the mission the boys cannot pass.
+- Bring in a confirmed guest and let them take a controller turn.
+- Resolve their attempt before the next guest or the main room story continues.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “We’ve been stuck on this mission for hours.”
+
+Show: Show a brief sequence of actual failed attempts.
+
+**5–15s · ALAN:** “So we invited some help.”
+
+Show: Reveal the confirmed guest entering the room.
+
+**15–30s · ALEX:** “If you beat this mission, you’re saving all of us.”
+
+Show: Give the guest the controller and start the attempt.
+
+### Turn
+
+ALAN: “They’re already further than we got.”
+
+Compare the guest’s progress with the earlier failed run when that happens.
+
+### Payoff
+
+ALEX: “That’s the mission we couldn’t beat.”
+
+Show the real result and the whole room’s reaction.
+
+### Packaging
+
+- A difficult room challenge × an unexpected helper.
+- The twins in the room reacting to one guest’s decisive attempt.
+- The guest’s role is immediately useful to the ongoing story.
+
+[MrBeast Gaming · I Survived 100 Days Of Hardcore Minecraft!](https://www.youtube.com/watch?v=jk6thMe6Vq8) — 186,681,366 public views · 4.27× nearby-upload median (source-reported). A sustained completion goal makes each setback and breakthrough matter.
+
+[MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w) — 116,232,703 public views · 2.25× nearby-upload median (source-reported). A simple GTA objective keeps the guest block self-contained.
+
+---

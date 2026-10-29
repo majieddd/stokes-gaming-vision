@@ -7,3 +7,5 @@
 .phase.reported-start{border-left:5px solid var(--post)}
 
 .legend button{color:var(--text)}
+
+.guest-brief{color:var(--guest);font-size:12px;text-decoration:underline}

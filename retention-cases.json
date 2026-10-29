@@ -16,28 +16,24 @@
           "sec": 0,
           "label": "Promise and build spectacle",
           "adaptation": "Start with the build promise before a lecture; translate the setup into a real GTA room entrance.",
-          "avoid": "Do not treat a beauty montage as proof that the room functions.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 4,
           "label": "First concrete budget and objective",
           "adaptation": "A tiny first build makes the comparison understandable and begins searching quickly.",
-          "avoid": "Do not spend the opening on every later room.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 20,
           "label": "An early revealed room",
           "adaptation": "Reward curiosity early, then retain another larger reveal for later.",
-          "avoid": "Do not make all the reveals identical.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 28,
           "label": "Judging adds a second engine",
           "adaptation": "A clear scoring/reward rule explains why the cast will compare the rooms.",
-          "avoid": "In the Stokes version, state real versus virtual prize and the budget scope sooner.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         }
       ]
@@ -56,28 +52,24 @@
           "sec": 0,
           "label": "Visible opposition",
           "adaptation": "Introduce the hunters in the same shot as the player relationship.",
-          "avoid": "A decorative crowd without real pursuit does not earn the count.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 150,
           "label": "Chase and search perspective",
           "adaptation": "Alternate escape decisions and what hunters know; maintain a marked destination.",
-          "avoid": "Close-up cuts alone can make geography unreadable.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 303,
           "label": "A coordinated getaway",
           "adaptation": "A friend’s vehicle pickup converts banter into consequential teamwork.",
-          "avoid": "Keep the real approach, pickup and exit in a legible sequence.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 535,
           "label": "Final pressure and result",
           "adaptation": "A late encounter and captured player provide a clear outcome to resolve.",
-          "avoid": "Scene indexing stops before the catalogue runtime; verify the original ending before adapting it.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         }
       ]
@@ -96,35 +88,30 @@
           "sec": 0,
           "label": "Risk demonstrated immediately",
           "adaptation": "An initial win and visible failure risk teach the game through action.",
-          "avoid": "No long reward/economy preamble.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 85,
           "label": "A bank-or-continue choice",
           "adaptation": "Pause for the contestant’s decision before the harder attempt.",
-          "avoid": "Do not force everyone to take the same risk.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 145,
           "label": "Personal meaning after a result",
           "adaptation": "Let a winner explain what the reward means once the outcome is clear.",
-          "avoid": "Avoid adding a sentimental speech before the first playable decision.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 550,
           "label": "Reward visibly drains under pressure",
           "adaptation": "A diminishing amount turns damage into an understandable human stake.",
-          "avoid": "Maintain the visible tally; do not create a fake loss after filming.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 610,
           "label": "Final account and ending",
           "adaptation": "Resolve the last participant’s reward and finish on fulfilled value.",
-          "avoid": "This is a candidate editorial payoff, not a measured retention peak.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         }
       ]
@@ -143,24 +130,22 @@
           "sec": 0,
           "label": "Direct secret-room promise",
           "adaptation": "Open with the hidden-build commitment and a recognizable Stokes host.",
-          "avoid": "Avoid obscure map names or lore.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 7,
           "label": "Confidence tested by a seeker",
           "adaptation": "Turn a reveal into a challenge by introducing who will search.",
-          "avoid": "An expert label alone does not create credible pressure.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         },
         {
           "sec": 14,
           "label": "Clear consequence",
           "adaptation": "Add an understandable consequence to concealment while the entrance stays mysterious.",
-          "avoid": "This analysis covers only 19 seconds; do not infer later structure or successful audience retention.",
           "confidence": "editorial hypothesis from automated index; no retention measurement"
         }
       ]
     }
-  ]
+  ],
+  "editorial_note": "Positive creative directions are retained as reference notes. Use video-briefs.json for the current spoken openings."
 }

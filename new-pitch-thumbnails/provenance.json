@@ -1,0 +1,28 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "model": "Not supplied by tool",
+  "created": "2026-10-29",
+  "purpose": "Illustrative thumbnail concepts for proposed Stokes Twins main-channel pitches; not captured gameplay.",
+  "prompts": [
+    {
+      "key": "minecraft-vs-halo",
+      "prompt": "Use case: ads-marketing. Create a single polished 16:9 YouTube thumbnail concept for the Stokes Twins main-channel video '100 Minecrafters vs 100 Halo Players'. Both recognizable adult Stokes Twins Alan and Alex Stokes are expressive photographic hosts, one in blue on the left commanding a vast clearly blocky Minecraft builder army and one in orange on the right commanding a vast green-armored Halo-style futuristic soldier army. One coherent huge sunny game arena with Minecraft block fortifications on left and clean futuristic Halo-style base on right, two equally imposing teams facing one another across a central line, block swords/pickaxes versus futuristic energy gear. Broad mass competition vibe like MrBeast's boys versus girls, but distinctly video game communities. Two large clear host faces dominate top-left and top-right, armies form two organized receding groups below, clean bright blue sky. Bold simple numeric text '100' above each army and a small 'VS' at center; no additional text. Vivid high contrast, mobile readable, three principal composition zones, celebratory competitive gaming not real war. No blood, injuries, official endorsement badges, fake screenshots, watermarks or tiny UI."
+    },
+    {
+      "key": "game-civilizations",
+      "prompt": "Use case: ads-marketing. Create one polished 16:9 YouTube thumbnail concept for the Stokes Twins main-channel video 'I Simulated Every Video Game Civilization'. A recognizable adult Stokes Twins host Alan Stokes is a big photographic excited face near lower center, presenting a huge continuous colorful game-world island viewed from a low aerial perspective. At left one spectacular Minecraft block-built thriving kingdom with a blocky tower, at right one spectacular Halo-inspired futuristic green/blue fortress with a spaceship silhouette. Two smaller background territories hint at a GTA-style tropical neon city and Fortnite-style improvised timber/metal tower settlement. Each civilization has a simple colored boundary on the ground, connected by routes leading to a shared central throne island. Tiny distinct game community figures give scale, no crowd clutter close to camera. Focus on two dominant competing civilizations and host face, make the other two secondary. Bright cyan sea, warm sunlight, rich green and blue worlds, cinematic 3D-game rendering against photographic real host. No text, no charts, no real game UI, no official logos or watermark. Illustrative concept art for a proposed community civilization contest, not actual captured gameplay."
+    }
+  ],
+  "assets": [
+    {
+      "path": "new-pitch-thumbnails/minecraft-vs-halo.jpg",
+      "sha256": "f14aab79b59b270dee4d541dace9dde082cbc132932b299076741981311c1763",
+      "encoding": "JPEG quality 94; no composition edits"
+    },
+    {
+      "path": "new-pitch-thumbnails/game-civilizations.jpg",
+      "sha256": "5da83c5a438dd1c8cc1ba5aa82e91917162fa190285154be8ce8962e0da257e5",
+      "encoding": "JPEG quality 94; no composition edits"
+    }
+  ]
+}
