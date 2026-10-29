@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "title": "Stokes Gaming · First three videos",
+  "asOf": "2026-10-29",
+  "officialRelease": "2026-11-19",
+  "defaults": {
+    "editStart": "2026-10-26",
+    "firstUpload": "2026-11-07",
+    "fakeUpload": "2026-11-14",
+    "gtaStart": "2026-11-19",
+    "captureDays": 3
+  },
+  "durations": {
+    "creativeCalendarDays": 7,
+    "productionCalendarDays": 10,
+    "recordingCalendarDays": 1,
+    "postCalendarDays": 12,
+    "guestPostCalendarDays": 2
+  },
+  "dateBasis": "Calendar days, inclusive phase dates; upload day follows edit/review. Dates have no time-of-day or timezone booking attached.",
+  "reportedFacts": [
+    "Video 1 took about a week to write, about a week and a half to prepare, and one day to record.",
+    "Video 1 edit started approximately Monday; interpreted as October 26, 2026.",
+    "Video 1 desired upload November 7, 2026.",
+    "Fake GTA 6 desired upload November 14 or 15, before launch.",
+    "Main GTA VI room challenge should allow celebrity guest blocks to be edited and published while room recording continues."
+  ],
+  "assumptions": [
+    "Historical Video 1 creative/production/shoot dates are reconstructed, not verified.",
+    "1.5 weeks is rounded to 10 calendar days.",
+    "12-day post allocation includes review/finishing; extrapolated from October 26 to November 6.",
+    "Video 2 readiness and staffing have not been confirmed.",
+    "The 3-day room capture hold is illustrative; no game completion duration is known.",
+    "GTA VI is listed as single-player. Guests can take turns; simultaneous multiplayer/co-op is not assumed.",
+    "Guest identities are proposed, not booked.",
+    "Guest release targets need complete story blocks, mission access, approvals and dedicated editors.",
+    "Main-film post retains the full baseline after room capture; parallel assembly is additional capacity, not a guaranteed faster finish."
+  ],
+  "videos": [
+    {
+      "id": "v1",
+      "number": 1,
+      "short": "World’s Best Video Game",
+      "title": "I Beat The World’s Best Video Game",
+      "existingCanvasScope": "episode1"
+    },
+    {
+      "id": "v2",
+      "number": 2,
+      "short": "Fake GTA 6 prank",
+      "title": "Fake GTA 6 / Alex’s staged prank",
+      "existingCanvasScope": "episode2"
+    },
+    {
+      "id": "v3",
+      "number": 3,
+      "short": "Locked in until GTA VI is finished",
+      "title": "Locked in a Room Until We Finish GTA 6",
+      "existingCanvasScope": "episode3"
+    }
+  ],
+  "guests": [
+    {
+      "id": "howie-bank",
+      "name": "Howie Mandel",
+      "title": "I Robbed a Bank With Howie Mandel",
+      "asset": "timeline-thumbnails/howie-bank.jpg",
+      "alt": "Illustrative AI concept: Alan and Alex Stokes and Howie Mandel at a GTA-inspired bank vault with cash and gold.",
+      "story": "Guest joins a bank-heist mission attempt. Establish the goal, the attempt and a clear result before handing the block to post. Exact mission access unverified."
+    },
+    {
+      "id": "kai-getaway",
+      "name": "Kai Cenat",
+      "title": "I Escaped the Cops With Kai Cenat",
+      "asset": "timeline-thumbnails/kai-getaway.jpg",
+      "alt": "Illustrative AI concept: the Stokes Twins and Kai Cenat in a red getaway car in a GTA-inspired tropical city.",
+      "story": "A self-contained wanted-level escape challenge with Kai taking a controller turn. Plan a fallback activity until playable police mechanics are verified."
+    },
+    {
+      "id": "guest-room",
+      "name": "Guest room challenge",
+      "proposedGuest": "Kai Cenat or another available guest",
+      "title": "Celebrities Helped Us Beat GTA 6",
+      "asset": "timeline-thumbnails/guest-room.jpg",
+      "alt": "Illustrative AI concept: Alan and Alex Stokes in a gaming room with Kai Cenat and a generic tropical-city game on a monitor.",
+      "story": "A guest helps the boys pass a difficult section, then leaves with a complete payoff. Alternate packaging/episode block; not a confirmed second Kai booking."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.rockstargames.com/VI",
+      "claim": "November 19, 2026 release date",
+      "checked": "2026-10-29"
+    },
+    {
+      "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "claim": "Single-player experience; PS5 release November 19, 2026",
+      "checked": "2026-10-29"
+    }
+  ],
+  "imageProvenance": {
+    "tool": "Built-in image_gen.imagegen",
+    "model": "Not supplied by tool",
+    "purpose": "Proposed thumbnail concepts only; not actual GTA VI screenshots or confirmed celebrity collaborations.",
+    "prompts": [
+      {
+        "id": "howie-bank",
+        "prompt": "Use case: ads-marketing. Create a single 16:9 YouTube thumbnail concept for the proposed Stokes Twins gaming episode titled 'I Robbed a Bank With Howie Mandel'. No title text inside the image. Depict both recognizable adult Stokes Twins, Alan and Alex Stokes, with Howie Mandel (bald, glasses, short grey facial hair), all three as large expressive photographic faces integrated into a bright cinematic GTA-inspired fictional video-game bank heist. One twin at left holds an open black duffel bursting with cash, Howie center looks astonished while lifting a gold bar, the other twin right looks excited and points toward the massive open circular bank vault behind them. Faces unobscured, simple black casual jackets, clear happy mischievous gaming challenge energy. Photographic human faces against a polished GTA-style 3D game-world vault, NOT real news footage and not an actual GTA VI screenshot. Large subjects, clean composition, vivid cyan and warm gold contrast, crisp cutout edges, readable at mobile thumbnail size, maximum three main subject groups. No guns, no injuries, no extra people, no HUD, no text, no logos or watermark. This is fictional illustrative concept art, no endorsement implied."
+      },
+      {
+        "id": "kai-getaway",
+        "prompt": "Use case: ads-marketing. Create a single 16:9 YouTube thumbnail concept for the proposed Stokes Twins gaming episode titled 'I Escaped the Cops With Kai Cenat'. No title text inside the image. Both recognizable adult Stokes Twins Alan and Alex Stokes plus recognizable Kai Cenat, big expressive photographic faces, leaning from the open windows of one vivid red sports getaway car driving toward camera in a colorful GTA-inspired fictional palm-lined Miami game world. Kai in foreground driver seat laughing in shocked excitement, one Stokes twin in passenger seat eyes wide, second twin visible leaning from rear window, no duplicate people. Two small clearly game-rendered police cars far behind establish chase with blue-red lights; bright turquoise sky and palm trees; no crashes or injuries. Foreground car and three faces dominate, clean cinematic perspective, strong saturated colors, polished YouTube packaging. Photographic faces with game-rendered scene, clearly a fictional gaming scenario, not a documentary or a real GTA VI screenshot. No guns, text, HUD, watermark, official logos, or endorsement badges."
+      },
+      {
+        "id": "guest-room",
+        "prompt": "Use case: ads-marketing. Create one 16:9 YouTube thumbnail concept for a Stokes Twins GTA gaming room challenge episode, 'Celebrities Helped Us Beat GTA 6'. No title text inside image. Both recognizable adult Stokes Twins Alan and Alex Stokes inside a colorful custom gaming room, one twin at left holds a white console controller and looks exhausted-but-amused, other twin right leans forward excitedly. Recognizable Kai Cenat visits between them, standing and cheering at a wall monitor showing a generic GTA-inspired tropical city mission, not actual GTA VI footage. One big bright red locked-door prop in background suggests room challenge, but normal safe recording set and no injury. Three large photographic human faces, one hero monitor with readable city/car silhouettes, clean simple layout with strong blue and yellow color contrast, polished high energy cinematic YouTube thumbnail, sharp and readable on phone. Illustrative proposed collaboration concept. No real gameplay screenshots, no countdown or invented hour count, no text, no HUD, no logos, no watermark."
+      }
+    ],
+    "assets": [
+      {
+        "id": "howie-bank",
+        "path": "timeline-thumbnails/howie-bank.jpg",
+        "source": "exec-3f96fd24-7bde-4d7d-860d-f77fd474e411.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "6425e2882dbb5bf79d657a5d1dd4a193d0cf88db15fd19a425426f3b01672764",
+        "encoding": "JPEG quality 94; no composition edits"
+      },
+      {
+        "id": "kai-getaway",
+        "path": "timeline-thumbnails/kai-getaway.jpg",
+        "source": "exec-5b676b73-b2b0-4a27-b18f-711205e29f0a.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "4021ac8f47d6eb64a4b6d7e4ae0a38aa6aea4dafe386b9730a244054506234a6",
+        "encoding": "JPEG quality 94; no composition edits"
+      },
+      {
+        "id": "guest-room",
+        "path": "timeline-thumbnails/guest-room.jpg",
+        "source": "exec-7cccf71e-a917-44cd-b19e-662aafb404a6.png",
+        "width": 1672,
+        "height": 941,
+        "sha256": "e986ca5d14fceb8c8a96150d6366cf1a7115b4b38ce7e4ae99d29c3cb8baf204",
+        "encoding": "JPEG quality 94; no composition edits"
+      }
+    ]
+  }
+}
