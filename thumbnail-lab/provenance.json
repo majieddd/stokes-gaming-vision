@@ -1,0 +1,1180 @@
+{
+  "date": "2026-10-30",
+  "tool": "built-in image_gen",
+  "method": "One independent base generation per option, with targeted revisions where needed. Reference image used for twin likeness and broad thumbnail craft, not scene copying. JPEG and WebP encoding preserve the complete generated composition.",
+  "identityReference": "https://www.youtube.com/watch?v=6EtuOTq5TmM",
+  "prompts": "creative-directions.json",
+  "research": "research.json",
+  "assets": [
+    {
+      "id": "N26-CITIES-01",
+      "full": "thumbnail-lab/pitch-cities/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "097d99b5bf61cf75af7b7ab9057dd9404db19372659a81f0148b3027173be372",
+      "sourceSha256": "ab7d55c4150193044159b4208bcb15636e12676a6cdb19332ff5f0fb4d88358b"
+    },
+    {
+      "id": "N26-CITIES-02",
+      "full": "thumbnail-lab/pitch-cities/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5528440d4745f29ef71fb3fa8c13ddc66a5a4e538d11ef2a23a3dd06e21ec2e6",
+      "sourceSha256": "4034b07c9398d71ef84d1982102988c1e5a1ce8e9ab7b544b6c2a94c05ba83e3"
+    },
+    {
+      "id": "N26-CITIES-03",
+      "full": "thumbnail-lab/pitch-cities/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6447058152a38a08fbf4442b4b535137396205e5a1a2872ea62361fa8f14c1aa",
+      "sourceSha256": "466d46d0e954d150864c838d4c6b75f3bc7b3cadfdfc8adf8fa2a12d4c78c61e"
+    },
+    {
+      "id": "N26-CITIES-04",
+      "full": "thumbnail-lab/pitch-cities/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e9265ab87b6f0dbec7ef60c43d1e82b7916adb35fa528ab7515e1d2106d1d508",
+      "sourceSha256": "2fc4b77728271d6eae6ea21b3cab6f8ccdfcabfff0ec86654b46e04fff217d1d"
+    },
+    {
+      "id": "N26-CITIES-05",
+      "full": "thumbnail-lab/pitch-cities/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d81bbcb3335768a8c1a6ef4fcf3dbed64d81d632961d996f24318bb656d66816",
+      "sourceSha256": "52ce16e44c1ac3722fdaf35eea6eb69dd7cefa5931ff63bbd8c560fad61612e4"
+    },
+    {
+      "id": "N26-CITIES-06",
+      "full": "thumbnail-lab/pitch-cities/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dd61cfb3172b2fc9197d64b82693f4f8b69e6c91ce696fce9cd7498c8b76ee04",
+      "sourceSha256": "aaff6edc036f73668462f2c732b18717760d3ac42c9551fcf8d95e3cd04d52d0"
+    },
+    {
+      "id": "N26-CITIES-07",
+      "full": "thumbnail-lab/pitch-cities/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b65cfa461f55d9ddb26b9ccdf53b69f92a91a1b5ee7ca6a39d05ffa9f8bb4d6c",
+      "sourceSha256": "38ef91ca0cf045f83e58666a8309c6f5f1e791e3bbcbf107323623e2b333d8e1"
+    },
+    {
+      "id": "N26-CITIES-08",
+      "full": "thumbnail-lab/pitch-cities/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "33f644ef1ffb89c3926c906cb5f494268bd24004ec255a42bd4a88fa147824ad",
+      "sourceSha256": "070fa9959f07be6350a6b67623109fda2acaa3b7621eef0f719af3c8320946ed"
+    },
+    {
+      "id": "N26-CITIES-09",
+      "full": "thumbnail-lab/pitch-cities/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4fd3a2bc0c4ce05fe47646a01872e68bd717f780fbce5c35bae7b0fa294b88e5",
+      "sourceSha256": "a37eacf4e1970e9be0da21dfa48061dda6d15189ff1bfb7486854d03d61da51e"
+    },
+    {
+      "id": "N26-CITIES-10",
+      "full": "thumbnail-lab/pitch-cities/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-cities/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7a17ee0716ba99d1c17d04b19ad49c17a2f47da75913951b59f55f827c59f023",
+      "sourceSha256": "abee311eb5e82a54f91713c7613f5088122763f0f94013b5fbc598a15133cb42"
+    },
+    {
+      "id": "N26-CAR-01",
+      "full": "thumbnail-lab/pitch-car/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e9852bf9dc624abe3eccc53772c09395cdbe476dbfbd926cb22a616388800c4f",
+      "sourceSha256": "afd212b99e1be57355b4d2f4b8d4e298478f5304fd43896709fd4916977bb8f2"
+    },
+    {
+      "id": "N26-CAR-02",
+      "full": "thumbnail-lab/pitch-car/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "82f3bf47d80a4942e5c394cf0922c0428d1de92b1f344b2ea92c2bd7073dee84",
+      "sourceSha256": "ca82f6d7eb640d345685a2e7a4cbe22333619145d1d55b7ad6ba880fc76bdbd9"
+    },
+    {
+      "id": "N26-CAR-03",
+      "full": "thumbnail-lab/pitch-car/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "939a4750feed12b162bcee36214af313e9632c28db1d6b360324edc22cb42190",
+      "sourceSha256": "5077a7ea49349316bad22aa36690f843ddc0d3e33fd6251ce984f0b72de5a959"
+    },
+    {
+      "id": "N26-CAR-04",
+      "full": "thumbnail-lab/pitch-car/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "598964452366866285a75b75b248b380ac958d928ff0d4edfd9ba6266bca6f2f",
+      "sourceSha256": "4b319d6b00fc8525db77ada1bfffe7a7a7e897a6e5e8f87d7a8467adf6d3c607"
+    },
+    {
+      "id": "N26-CAR-05",
+      "full": "thumbnail-lab/pitch-car/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "40beff25bac9d00ee71a0943632dacbd75d1abf53f48b600652e98472635c010",
+      "sourceSha256": "96efc947d9e5b5d003d7cf16d68d622b39e4d3c91a2145a9d5e988bcbcfdd6fb"
+    },
+    {
+      "id": "N26-CAR-06",
+      "full": "thumbnail-lab/pitch-car/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "dd6ecbb05d1abd3e4543caf03404a6c9b180e76345661c272976dab9238683ba",
+      "sourceSha256": "9ca6c74b6f6c739372067b52170797229eb044369953f6b22eff9cc2cd2f48cb"
+    },
+    {
+      "id": "N26-CAR-07",
+      "full": "thumbnail-lab/pitch-car/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "489029208f14c98c93027e09ecdb4c151b6404f311609b726d5ae83045eb3fc7",
+      "sourceSha256": "6829daf67f5e90167af896905aaecebf896d3ce4bc604458ae9d68e2d2f45161"
+    },
+    {
+      "id": "N26-CAR-08",
+      "full": "thumbnail-lab/pitch-car/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-08-preview.webp",
+      "width": 1672,
+      "height": 940,
+      "sha256": "f3866909e7c96978123e14ade5802faafd8fe528348053a63d2743612db298c8",
+      "sourceSha256": "2efa8b2046d9696485bc3a42f885346cbe2ce3579f82cc183e87e70c18a03103"
+    },
+    {
+      "id": "N26-CAR-09",
+      "full": "thumbnail-lab/pitch-car/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4a31b15c6f6cc88cd2301a8875b00df7c7a0ff31e51ecca1cef7132f5e687924",
+      "sourceSha256": "32419fdfcec63b0d5a2fefad802359c51fbbdf3e50c7a1caba988dc54c21fd5b"
+    },
+    {
+      "id": "N26-CAR-10",
+      "full": "thumbnail-lab/pitch-car/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-car/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e76a522d3e30a81f2895b6a57b6fe4f55d3ca5179a608a6c8c0dc872443ef2b7",
+      "sourceSha256": "6b7319b987033c061fb9a05ba1b17164c0503d999755d5d906f35a37cacbf3e5"
+    },
+    {
+      "id": "N26-ROOMS-01",
+      "full": "thumbnail-lab/pitch-rooms/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4c57ac9e16771ab99009724fb5691f3b7f2e71f6f218d77fdcca56e380e35939",
+      "sourceSha256": "5a8cdc7a3653e11bdbacf42e1358de68ad87acbc5cb5c5880b1e39e8b6c72f5d"
+    },
+    {
+      "id": "N26-ROOMS-02",
+      "full": "thumbnail-lab/pitch-rooms/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9b8aafa34afd9a2c93f102e64c9211adf0851257957bfa6eff194450e98d37f9",
+      "sourceSha256": "a7bb4391b3acc97896bf6ac1b740b0f1c1611a865c6b5558306d94a128d56778"
+    },
+    {
+      "id": "N26-ROOMS-03",
+      "full": "thumbnail-lab/pitch-rooms/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8ff68f5278087da3fec62ba9614551057da6cb2d500e1d537e5c4c8449e6e873",
+      "sourceSha256": "69bf45dc8fe0987dafc4ef7427191118fc3ff7936e34f78d78bd2f367288c7be"
+    },
+    {
+      "id": "N26-ROOMS-04",
+      "full": "thumbnail-lab/pitch-rooms/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "eca61b39f19a1aaaa0e442c29a66a7cffcdd595f77c12b96fde8dd8581413c8b",
+      "sourceSha256": "6366ac1d715dcf00983e633dc4d427db11ccdb4ca65207a0e713debcb45a8c66"
+    },
+    {
+      "id": "N26-ROOMS-05",
+      "full": "thumbnail-lab/pitch-rooms/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a5ca085729b52bba3ec75f752b6263164605242faee2c6d80367b6d2be1a461a",
+      "sourceSha256": "95c0c31f9fed5b99def33199fa672cf0de80c19162af89ec54da07eb0647d421"
+    },
+    {
+      "id": "N26-ROOMS-06",
+      "full": "thumbnail-lab/pitch-rooms/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "463fbf6d2857934dc52893e7e5634bbb9bc9986eee3126afddcec3dc8aba3ea4",
+      "sourceSha256": "09a0fcbe9ae8997129c9f244c1e08804b0a9aba36b24c6ef233b51bbc4c93bb9"
+    },
+    {
+      "id": "N26-ROOMS-07",
+      "full": "thumbnail-lab/pitch-rooms/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3e4de6994333876609051f647f59edeada70e439ac237ea2686a576cb2aac657",
+      "sourceSha256": "25acb59045aaa1142adf73c32cc11611f6880f482023aa303624c43c80621ad6"
+    },
+    {
+      "id": "N26-ROOMS-08",
+      "full": "thumbnail-lab/pitch-rooms/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9b16d243ba7bcf34392afd7cd1c4a3ea802d8cb76fd36490f49d0d8ef53acb37",
+      "sourceSha256": "6b5f36522c2b8b6986f3453fa44108b6b8f7b6bc9daa6bef64a426957eee54a7"
+    },
+    {
+      "id": "N26-ROOMS-09",
+      "full": "thumbnail-lab/pitch-rooms/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1da81cdff06ae1202d804499acbcaa50435208ed5781209e3f85a16296fe49de",
+      "sourceSha256": "5e998614a81e0ceacfa2eeaba776e9e387cf381b0a2a4c2c45e36cd815bf09d9"
+    },
+    {
+      "id": "N26-ROOMS-10",
+      "full": "thumbnail-lab/pitch-rooms/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-rooms/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "961910ebaec049068f6b719792b03b6f40c7d62969a1174899105548bca55522",
+      "sourceSha256": "e00584cd458a79367d288adbd82342205b9548826b195da7ebfc87f2b5e213c9"
+    },
+    {
+      "id": "N26-HUNTERS-01",
+      "full": "thumbnail-lab/pitch-hunters/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d77673854a344235bb868b271ac49d341984fe7b80ea408618e329e49eaa38e4",
+      "sourceSha256": "fc5d9decca56abc1fd302f353351158403fb3875c088e9b5cb0d8881d0c82e8f"
+    },
+    {
+      "id": "N26-HUNTERS-02",
+      "full": "thumbnail-lab/pitch-hunters/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3caff039eb37d10ba4362b6e9c9fadc8cbae704f82a5a7ba93a5f382f2f96913",
+      "sourceSha256": "eed212883c6d0a11830814fa3cf4340bee8e5e57e75b0c07d41cfb1f2495541a"
+    },
+    {
+      "id": "N26-HUNTERS-03",
+      "full": "thumbnail-lab/pitch-hunters/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "db63455ddc678bb779d31b227bbd58a3a8521b6300c36d87543a812dcbfdd507",
+      "sourceSha256": "b1d21893a7f0186f0d8261601d9d84568f715bd364f4c8e07008620f1a29ea9d"
+    },
+    {
+      "id": "N26-HUNTERS-04",
+      "full": "thumbnail-lab/pitch-hunters/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "132750ee4a42e8662db1797423a66349cee128c1c63e2eb28926f10a5ad02349",
+      "sourceSha256": "5d1101183a2ca41c748072fab837141daad1013101c089e2c82b17582b9bb332"
+    },
+    {
+      "id": "N26-HUNTERS-05",
+      "full": "thumbnail-lab/pitch-hunters/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2dc07c5f5c918710ef9a5b145ace85350b5ca4711f7e377d13545bd6f1114224",
+      "sourceSha256": "25593d0c3f00d239343dd6277bdf69fc90f33d3ef446720634ddfa5010e5db19"
+    },
+    {
+      "id": "N26-HUNTERS-06",
+      "full": "thumbnail-lab/pitch-hunters/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c6ac4087973e472e79b02002e36fb95e4c8bafa04b3a0504aa26faae1588fb30",
+      "sourceSha256": "9f4366bd9a841f6e2b4a4640ac79f257f2244864972083212106a60c9937cb37"
+    },
+    {
+      "id": "N26-HUNTERS-07",
+      "full": "thumbnail-lab/pitch-hunters/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-07-preview.webp",
+      "width": 1672,
+      "height": 940,
+      "sha256": "72afbf0a95c5bde546aaa9620ca494f1f9e7c12f7e7c8c442514398e71ca1cfa",
+      "sourceSha256": "6df756352e69a9793b1f3578bdffaf4e393548b482966fbdd367e485ef2ae3f4"
+    },
+    {
+      "id": "N26-HUNTERS-08",
+      "full": "thumbnail-lab/pitch-hunters/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "eef705c37a3d245ae039eead84a8ce86d10d40b3d2480510486071cc7f21eb35",
+      "sourceSha256": "945b117993ebb5dc2e63c1a319c72fbe34ad22f8202b581dcf98097a728eb2cc"
+    },
+    {
+      "id": "N26-HUNTERS-09",
+      "full": "thumbnail-lab/pitch-hunters/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ce79095d985ae86151b0ef8db79d1b9ef5caba11584a069b689c2de75c638f0e",
+      "sourceSha256": "a50246df17cadd370bc1e741d5ca1858750158bf200e9c1f7fda7f5469c09fa8"
+    },
+    {
+      "id": "N26-HUNTERS-10",
+      "full": "thumbnail-lab/pitch-hunters/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-hunters/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "351cbea08e6f59254a861c650920291b246570fbdafb91066aece79dc85a21ab",
+      "sourceSha256": "4629fc391bcecc6e44b74dc164fe7ec496c0a2e9c047ecd3fbaca02515abb501"
+    },
+    {
+      "id": "N26-DISASTERS-01",
+      "full": "thumbnail-lab/pitch-disasters/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6ac69dcd1ab830707ac59a83b6530fee9f150589488228b57196657111dbbb15",
+      "sourceSha256": "41a34e46148bc4f8b6cf8381e29936d76b8d4732779ae15c5e41d0bb7d9db0f8"
+    },
+    {
+      "id": "N26-DISASTERS-02",
+      "full": "thumbnail-lab/pitch-disasters/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ee76cd7077de00cfab0f06b80bfbf64dfb3b9045223b84f127cc7ed3838d95f9",
+      "sourceSha256": "2839947c6782ae95dd543b750e0f8c68184274da1a22c66aed502aae21244275"
+    },
+    {
+      "id": "N26-DISASTERS-03",
+      "full": "thumbnail-lab/pitch-disasters/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "017a5b07bd523957627d36e631eda78914e13a08e307d0dd1a0234828f049d80",
+      "sourceSha256": "45f8cb3d9bebc91399f2f2cd4bca54ea8ac86cbe45871743bf27620f7048ddb7"
+    },
+    {
+      "id": "N26-DISASTERS-04",
+      "full": "thumbnail-lab/pitch-disasters/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "edb73032ff17d9fe09b64a831b31a121e50a0662a92e6939b0ea96bbb98852fa",
+      "sourceSha256": "8b488bb88a74ea0a1e98a4ae77fcced3075379b561d451fd17d42fb02c2f607d"
+    },
+    {
+      "id": "N26-DISASTERS-05",
+      "full": "thumbnail-lab/pitch-disasters/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2f380ba77acae166c09838588ca431d5aefdee90b7068d94ba49a7411a94b7ec",
+      "sourceSha256": "5715483d52a4cb55eff842eefa7c13731e6d4a04d8053b7eb4510f32127ebe12"
+    },
+    {
+      "id": "N26-DISASTERS-06",
+      "full": "thumbnail-lab/pitch-disasters/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "90c50be8554154c3ab3b5458920fe43410a7e1e601ea9a547f8e4668a2f75ca9",
+      "sourceSha256": "559316dfec25a7cb5b268735d15104911741344f9860cd1da4c4523c5efe975d"
+    },
+    {
+      "id": "N26-DISASTERS-07",
+      "full": "thumbnail-lab/pitch-disasters/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b21cd21363b7a1c384f7bede16a4f61f5fd042f1365271f9923445be01dcd443",
+      "sourceSha256": "3d41df03ac838d094103cfaaf6a346eb57bedbc915e15a0659f120a48eb00d9a"
+    },
+    {
+      "id": "N26-DISASTERS-08",
+      "full": "thumbnail-lab/pitch-disasters/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ca2dfd5bf6ae560fbb7941109b31f941a50de6223fbdf2e5ffef5026ff7568b1",
+      "sourceSha256": "e42161a680c0ecf33bb40938a2eb512b5bcc80fc6b8441145c621d9f3cee102d"
+    },
+    {
+      "id": "N26-DISASTERS-09",
+      "full": "thumbnail-lab/pitch-disasters/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6fe5bc22187f4e34fb7636578113b6b0243166347981c7cde2210f8d18a9f832",
+      "sourceSha256": "79133821953fc6bb7e2a1626f7d012f33352a5c75f7bb96e75802b38fdd3c4b7"
+    },
+    {
+      "id": "N26-DISASTERS-10",
+      "full": "thumbnail-lab/pitch-disasters/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-disasters/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f562c25152601d21ded1190b550ab2cc90aec873412793bca63c01a37c81185f",
+      "sourceSha256": "ead29279a5264227ac05c00b566fd817fce143ff7aa892cd1b6f8f36db353b4a"
+    },
+    {
+      "id": "N26-LIFE-01",
+      "full": "thumbnail-lab/pitch-life/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1e6e326e50a03c7ed9c46157aec6c2c3423cb2e3fd1ee69ab768c4b3bc192f4b",
+      "sourceSha256": "f0bf56ea0f75635ce1e3b88aa3e72e6c35c2f62333b57e42cbd52f0fbb9e9caf"
+    },
+    {
+      "id": "N26-LIFE-02",
+      "full": "thumbnail-lab/pitch-life/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3857ea91b8308a9f447a9885b81611e0515007a5cfc306649b3b151f25d92c6e",
+      "sourceSha256": "1d617c7e78e67844fe610fe64c15a17e479dc9d1aca19b9f0c2b5d3c2e721667"
+    },
+    {
+      "id": "N26-LIFE-03",
+      "full": "thumbnail-lab/pitch-life/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "48da783ee9e4b8eac71a63211bce2687b9b99327207fc437b637bb41d6f98a68",
+      "sourceSha256": "98bb91f2f6b0b405c9570686655a63f7070be2c20954fca109db06722d9eb2a6"
+    },
+    {
+      "id": "N26-LIFE-04",
+      "full": "thumbnail-lab/pitch-life/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "39272f4c8dc44fb8ed9791e2280e15eadf703852fe9c526feef7cb516bee0515",
+      "sourceSha256": "6b054dbe07c4a7ba5a80a60c3e9d0c206e547add47884a7134d2dff164c73e29"
+    },
+    {
+      "id": "N26-LIFE-05",
+      "full": "thumbnail-lab/pitch-life/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d0704ce04f009a455b0aa4cdc7173ff14a272d7ce3607932a0b3ffd710c9efa3",
+      "sourceSha256": "b4e365179d874a9ea24dbd0009696f8dee1c2800e7a6f1e2e1226d179e6e2edb"
+    },
+    {
+      "id": "N26-LIFE-06",
+      "full": "thumbnail-lab/pitch-life/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9fa97bd1f09c899599e8a43243fb3ea63d91e060552d576e9d763633cdabd7a3",
+      "sourceSha256": "a0fc1915001293c10f51c0f4265d50c8f476e387da56bf7f2e7a1b56d316f2c3"
+    },
+    {
+      "id": "N26-LIFE-07",
+      "full": "thumbnail-lab/pitch-life/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1d78c1fb08d3ef642bd3f02913a48eefc6f58ce2f02369e170c2e91a42e09cb7",
+      "sourceSha256": "859b2dd36d44f5d7e9c13fbf8b727126f4ec8d27a498a60956481415212412e7"
+    },
+    {
+      "id": "N26-LIFE-08",
+      "full": "thumbnail-lab/pitch-life/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bfa20297c1030cf87b01204b21baa4df176bd11bfe5fe9109c45551f410d28ed",
+      "sourceSha256": "8c87e62f6eeb99eb60b49bb78089f5a75d5b80f2d5c8137ff41b77d8fc7e5e2a"
+    },
+    {
+      "id": "N26-LIFE-09",
+      "full": "thumbnail-lab/pitch-life/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0ec6576d6c3cd333e1f1f694b02a911f44f29947f67e1df5ec8dd84520434640",
+      "sourceSha256": "76c341a75d4910b8e4352a7e0ea9dffed09e731bdd90c1b2a12ef46407f83288"
+    },
+    {
+      "id": "N26-LIFE-10",
+      "full": "thumbnail-lab/pitch-life/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-life/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6121208b362bacef61bb1720b4bd3e394e6076cfd6778c49f0516bae0244dcb5",
+      "sourceSha256": "8746ae9210e8cb5a5bc493a644692853cf35ad7e427b4174a5b0d2537a3e1c92"
+    },
+    {
+      "id": "N26-EXPERIMENTS-01",
+      "full": "thumbnail-lab/pitch-experiments/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "281581d0e0bf159af5bf5cd51d3b0085be01fa5a834dc741454ec44c5b29e92d",
+      "sourceSha256": "f84ed9823bde56348582e3c528ecec9ae7c598b3b56e6377ad1555c59d3006d5"
+    },
+    {
+      "id": "N26-EXPERIMENTS-02",
+      "full": "thumbnail-lab/pitch-experiments/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4bd39592691125c9d3dc43b83d742fe589acab50d6ea75c3b2b0c4ef2a221591",
+      "sourceSha256": "fe826198dfaa02726dc0a5ccbf040f177d301072136ef768ab94a8db9d4d70bb"
+    },
+    {
+      "id": "N26-EXPERIMENTS-03",
+      "full": "thumbnail-lab/pitch-experiments/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9b73d183b9a8e102c5c8bf6c3e6da8d13e05731a184225ed6a83e74daf733f32",
+      "sourceSha256": "386737a4883089bcebe291e661155e38bd14ae1ea6cba4dbed2330232d43268d"
+    },
+    {
+      "id": "N26-EXPERIMENTS-04",
+      "full": "thumbnail-lab/pitch-experiments/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2cea987767eac851af7480ed03bb28ba584f6b2ab2eeefa51e4b914bf5da2e6d",
+      "sourceSha256": "0974918e60de859777fd351fad1205025decc40aa7f152f5cece190035d88b9a"
+    },
+    {
+      "id": "N26-EXPERIMENTS-05",
+      "full": "thumbnail-lab/pitch-experiments/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "77b2a4d48023a41995dc7628f2c8918e7400c071c60040d64e41bc95d8d5e783",
+      "sourceSha256": "10a86f8aefe2db49278947430d766159145ee63defc37c9ff7eb8faefebc5b92"
+    },
+    {
+      "id": "N26-EXPERIMENTS-06",
+      "full": "thumbnail-lab/pitch-experiments/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4aadd9c053b19e84a3d61ae49943ffb046ffc60cb8e3f64359516e2bb9f2c638",
+      "sourceSha256": "3107d534470bbf540b62dbb85193acbf8499da56e1b3c7d0e5ae31bcc3371174"
+    },
+    {
+      "id": "N26-EXPERIMENTS-07",
+      "full": "thumbnail-lab/pitch-experiments/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2442c784df0f871ef8bd2e6e6307258aae5d392a93f38e4be61fb8472bffe1ae",
+      "sourceSha256": "76ff927d9e607b9baa5e6d6f9af94434182e0f63c7a4f5425dc51de657a160c0"
+    },
+    {
+      "id": "N26-EXPERIMENTS-08",
+      "full": "thumbnail-lab/pitch-experiments/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8e8a89834affb11ab01eeb6051525e30e406a4e52e150e58f4ba68a8a2d41076",
+      "sourceSha256": "121c244d481159cab7e9bde035943f185d70c8b81607b99081aa848c649cb842"
+    },
+    {
+      "id": "N26-EXPERIMENTS-09",
+      "full": "thumbnail-lab/pitch-experiments/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c57e58cbaaf444f91cb68c4f73b75dbfa54c92125aede9e8ece349efecbf62d7",
+      "sourceSha256": "7bfa20c4f3ce4337771632db4a9b267e67aa98295284519e0156e8e255489cf8"
+    },
+    {
+      "id": "N26-EXPERIMENTS-10",
+      "full": "thumbnail-lab/pitch-experiments/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-experiments/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e5eb5d934f339943ae2632b785f47ed9a3613fb0160e927fcc77fb4204e7bff8",
+      "sourceSha256": "32ab030f8dd5cff6f83ce337d2ca7fc1dcce9a7b890168f3e1db872a03a19226"
+    },
+    {
+      "id": "N26-KILLER-01",
+      "full": "thumbnail-lab/pitch-killer/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1bd5a467188252d13803991a00c5bedc0d4a2cb833b1720bf5a2bb1b102ff1be",
+      "sourceSha256": "18c0b107c5fbe49286285a190e0e288ec1af129e8d6ebc2046b0a7a43273861c"
+    },
+    {
+      "id": "N26-KILLER-02",
+      "full": "thumbnail-lab/pitch-killer/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "16e93f27d289676fd2b6adb975880ec0187e70687add3d6cc94a4b79e13aad2c",
+      "sourceSha256": "0e02c6af05e190eaf9af1b1b549afeed2e9f26b9e0aaf2a7f2f9c024c42d417a"
+    },
+    {
+      "id": "N26-KILLER-03",
+      "full": "thumbnail-lab/pitch-killer/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "56de4530a3d9ff0cae94951ca8f8e97941d216ed4f199ef360cea96a76846f66",
+      "sourceSha256": "a979c70333bce10dd0cbbb8bb3e2758273909d59db51a61b3af9d7353353892c"
+    },
+    {
+      "id": "N26-KILLER-04",
+      "full": "thumbnail-lab/pitch-killer/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9948232d57e35fe339d3775eebd076a0bb2201fd96d0ec1b41f534957573101d",
+      "sourceSha256": "4ec58806ae2d51afdcf73967eeb6e4d897aec09e26514e236b705ec45093fe9d"
+    },
+    {
+      "id": "N26-KILLER-05",
+      "full": "thumbnail-lab/pitch-killer/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "95a1b42ef538bdf8b16917edded049dc01a30237cd1f4f7fb610f78f44f28a08",
+      "sourceSha256": "0f0221899f8b96e60640bba29b7eeef8da8e5ea377abc97e089f15cfadd016ef"
+    },
+    {
+      "id": "N26-KILLER-06",
+      "full": "thumbnail-lab/pitch-killer/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9584c660165c9c6e51e16fcf18964be02aaf0dc52513a2422331ec35b06e8f23",
+      "sourceSha256": "4bb596afd0b3e10905d5e1ec192864cfc3554c9276e40f26bf7f26c69eb3bbe6"
+    },
+    {
+      "id": "N26-KILLER-07",
+      "full": "thumbnail-lab/pitch-killer/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e21113a0cd5049a7d6dfacd1c9e6882b40c6836435380df5d89cb9313ff5bf6b",
+      "sourceSha256": "63130233c96fcac8e6803bfe044f526e108e5ba0b48af186c597f1b62709766c"
+    },
+    {
+      "id": "N26-KILLER-08",
+      "full": "thumbnail-lab/pitch-killer/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "05cc8847297fdce2e76cb917904192c998d45cafd7b79ccb40898935a1eae0a5",
+      "sourceSha256": "bf3c378b78f98513837655e54290485855db2a03aae47e639e108f349cbc6ecf"
+    },
+    {
+      "id": "N26-KILLER-09",
+      "full": "thumbnail-lab/pitch-killer/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4241a34f765e4b565f1932ca7f8b0bf89029ad969a268fbcef98bfcfd3f2b84e",
+      "sourceSha256": "4b7e40a4ff1bef3e8be5cd864c8004e6e490d7f81c386f7890aa65c0c1120fcc"
+    },
+    {
+      "id": "N26-KILLER-10",
+      "full": "thumbnail-lab/pitch-killer/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-killer/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "97fc7aa3da3a500acce11ba5f6ff847b221875bea908e9786e90082ed86f30de",
+      "sourceSha256": "169d9461f488faaa894b66b561490c5144ced1fd8e068ed080c94308315d83e1"
+    },
+    {
+      "id": "N26-COURSE-01",
+      "full": "thumbnail-lab/pitch-course/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "8c63d1a388916b67a54136663761b91560430b22465e72c9bf04623c42e7c2a0",
+      "sourceSha256": "d2213367a1ae078f7e50863f806196a097f5212aad1d5bbe6ad9a56282d1046a"
+    },
+    {
+      "id": "N26-COURSE-02",
+      "full": "thumbnail-lab/pitch-course/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a651fa5e9b4e6fc04517fad6cf33bd17b07c5d35d000c516ede837e95df4f1ef",
+      "sourceSha256": "ff0c16829c9e4f11304c78735853d29fb37eecdfa61bf7b4b6eb3b422dd9116f"
+    },
+    {
+      "id": "N26-COURSE-03",
+      "full": "thumbnail-lab/pitch-course/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a342fdd623ac19b6440076e4b7de1f80c57b7f5620b80f5bac3881621f9f28aa",
+      "sourceSha256": "56a491db0143a936be159494ce98562e9cb99e7573cc2ec5499a1d399ec4f699"
+    },
+    {
+      "id": "N26-COURSE-04",
+      "full": "thumbnail-lab/pitch-course/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "314afd8834cc668d63df72d5acc6cd75b604c996719dc7f226f10d539c572119",
+      "sourceSha256": "cf500e73c647f6ee5b57a0b6f5b836efd4633dd9f7b32889655e11a3ddb82d76"
+    },
+    {
+      "id": "N26-COURSE-05",
+      "full": "thumbnail-lab/pitch-course/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "afed2b6a9cf32db245752b41f24c4473a7ed51a43dc0bf8f2c979e2ed21000e5",
+      "sourceSha256": "3eea5766182ccec280c31733e7c8709b9b3e9f70f098d63cd5d36f3b4d8b3426"
+    },
+    {
+      "id": "N26-COURSE-06",
+      "full": "thumbnail-lab/pitch-course/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9c818d9b9bcc270ecf38509ceaa01ee4b6c8e308905e66fa401b0c5a8376ba8e",
+      "sourceSha256": "06483b3fc62e90312e2efa75e18e7cc4c9ed300d93eed8bb382d759010021f50"
+    },
+    {
+      "id": "N26-COURSE-07",
+      "full": "thumbnail-lab/pitch-course/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "69e29bbe9d2f53e867cd7d166ba3a9dc02612d1de564b28b7b3634b7507832f6",
+      "sourceSha256": "4979b6ea1b8f90e73bcb09893a4c868981c5a30584b00314d4c00b772b15a8bb"
+    },
+    {
+      "id": "N26-COURSE-08",
+      "full": "thumbnail-lab/pitch-course/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "210ac01648db3318d2c22e91c908c1710246db8a3a7bb62d20f3cd063921829e",
+      "sourceSha256": "5128af020118693f9f7d672dc616037bd7ffc61c4af50549f2b37ffa3d3af042"
+    },
+    {
+      "id": "N26-COURSE-09",
+      "full": "thumbnail-lab/pitch-course/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "26692fb29db88eda4ce9f414ecedea63bc07f5854fa98ea7796a159b3752399d",
+      "sourceSha256": "ad03841348ae759e22e470fcffeaf9ed9dd664ed46992d801363c9d10f5c0630"
+    },
+    {
+      "id": "N26-COURSE-10",
+      "full": "thumbnail-lab/pitch-course/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-course/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "0006963a5b69bb2bced3bcd784b8fa739e7f39c0febfa31e3ae41ff8ec678df6",
+      "sourceSha256": "47d6e1a6582cd84b99ef9ce0251ed693f63153abe748106f11636131a7ab0211"
+    },
+    {
+      "id": "N26-STEAL-01",
+      "full": "thumbnail-lab/pitch-steal/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "454f46116aec50bb73bb63b55d45e2c84344eb085c788bf462a3a20d11ed7f5e",
+      "sourceSha256": "a9c47485e6c23b0f3795f6a97c2c76724b0ec636b10c96c2c09c4ccb4d76d4f8"
+    },
+    {
+      "id": "N26-STEAL-02",
+      "full": "thumbnail-lab/pitch-steal/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7379e23f58926839cb5e5b8f88f7f976db707613f77cecde9bd0bdab911d4d7e",
+      "sourceSha256": "f210bfd77d9ce4db156142be44959483ea1d556e0fb4b62162800eddf1daed1e"
+    },
+    {
+      "id": "N26-STEAL-03",
+      "full": "thumbnail-lab/pitch-steal/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "065feb061b3dc9809fced2dc86865a73617479e38c3971388eed553f9512d77b",
+      "sourceSha256": "3e66b5bd082a0d11ef7fc3943e4f8fa4eadeaeafae96527cb20eb32240be0239"
+    },
+    {
+      "id": "N26-STEAL-04",
+      "full": "thumbnail-lab/pitch-steal/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cf4bec58567b12df232aca1a492b91a57af125fd37f28244be6f1a5f52ae5e35",
+      "sourceSha256": "1b498d2b5d3fe61c540655aba0b07e8cad3a76472bb3e1908ffa94ed5ac4a81b"
+    },
+    {
+      "id": "N26-STEAL-05",
+      "full": "thumbnail-lab/pitch-steal/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a8e416d2530dd241544cdaef962e9cdb2fdb743192a14d29441ea9be700d2214",
+      "sourceSha256": "fefbf8cd652c15aa6aecf46a15edca7d1f6308fe02ca6151f6cdbca728424efa"
+    },
+    {
+      "id": "N26-STEAL-06",
+      "full": "thumbnail-lab/pitch-steal/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7ad8222a4d3c442c018047104904a9ee7ca785c8429054c3a5354f1d63c68bc7",
+      "sourceSha256": "505062695e4bf6ed1eaab1839b205a4e70670940ac93149e82fcb9ea7839eb20"
+    },
+    {
+      "id": "N26-STEAL-07",
+      "full": "thumbnail-lab/pitch-steal/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e1ceeb3be1e58f91f2da03aa0be51f052953529b8aae718c78c86905e9dad84d",
+      "sourceSha256": "85195b3dbe45821349cb3ad490f51ea1cab4a3e8f083a6dbb57886a5166e7221"
+    },
+    {
+      "id": "N26-STEAL-08",
+      "full": "thumbnail-lab/pitch-steal/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1ee2f399d82e60ae4e9c5b38929fb21acb1ce8e3f2ed4dd5ca16879055175d6a",
+      "sourceSha256": "1b03cc0ff16e2a8ec693ec5cc4162900ebe93c4ec76b7acc90830f65c31f96d3"
+    },
+    {
+      "id": "N26-STEAL-09",
+      "full": "thumbnail-lab/pitch-steal/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "640340103551af22103fee5116364e302d9ba7bf98c01afd457b56d5d6ef3e8b",
+      "sourceSha256": "51fc43a01646e49626681f46384a33e313855482704f57706375ab352ac85ce1"
+    },
+    {
+      "id": "N26-STEAL-10",
+      "full": "thumbnail-lab/pitch-steal/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-steal/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "511bb3889c750327cc9b7e5d23f813468fb6448694d350b6145d8372e12543d7",
+      "sourceSha256": "58f81e83a14195e4c42ff57012e6ce0ead84a01342199d3be38828db64654398"
+    },
+    {
+      "id": "N26-PRISON-01",
+      "full": "thumbnail-lab/pitch-prison/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a90e127df4033f2fedf1cf5f3213b8d3d3d65ece77e898f9d594fa579bd6b020",
+      "sourceSha256": "e3d0da650f8ec9ce6858a9f7a60863e4bf0102d1fccca599fd466ae1bfa0321c"
+    },
+    {
+      "id": "N26-PRISON-02",
+      "full": "thumbnail-lab/pitch-prison/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b90a1052fe8245cad84de114d96ac9bfcdc441e39dabfb1b756b74d44226e6d6",
+      "sourceSha256": "08741d3b90880f58a67ddc7a45cb3c29e82284d8e9ae774117f036dbf8a248cf"
+    },
+    {
+      "id": "N26-PRISON-03",
+      "full": "thumbnail-lab/pitch-prison/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2afdfe68888a9b2e98549ef1ecd9de1964bb13ae4b357030f90a3b34ba55af2f",
+      "sourceSha256": "aea56c657466869bdd9a729be7035bdf4f8c151acb7865de836ed4d37c4ac14b"
+    },
+    {
+      "id": "N26-PRISON-04",
+      "full": "thumbnail-lab/pitch-prison/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ebe7f827076dd51502143315e61db031f42792cf6e20669f074e3a99c1d7ba4f",
+      "sourceSha256": "8cdb7ad6cf8fa332a8362a85ea5822dc731c60f653146f92dc1ef4f9a6da187f"
+    },
+    {
+      "id": "N26-PRISON-05",
+      "full": "thumbnail-lab/pitch-prison/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "569cf24d877b0e93bcebff47633923c7da76e24bb428fb72997e03d55a62bd6c",
+      "sourceSha256": "288fa45c5baf92f4c248db5839f36dd62f72a2c08517c9eb3169eb2a5d1ee43d"
+    },
+    {
+      "id": "N26-PRISON-06",
+      "full": "thumbnail-lab/pitch-prison/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "a3f7b0bf3fccfb6aa7ee04f68e8cd26de69f201a9a46a76020a2d3ce87aea223",
+      "sourceSha256": "94bf27a9a05bf48f71f09acbf136831e1e343246a9543616581bad0937f14406"
+    },
+    {
+      "id": "N26-PRISON-07",
+      "full": "thumbnail-lab/pitch-prison/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "82a2fbb6f134ea217f67801492c3ef7bb5bd30e40090a707fde1b6e5e1ce36c7",
+      "sourceSha256": "c2de35a9633386d29294e3c2a84a701cda2f6fd1aa4a07a55518f19f775b22df"
+    },
+    {
+      "id": "N26-PRISON-08",
+      "full": "thumbnail-lab/pitch-prison/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "1492bd04680cef3a147d863dcee14886994dd7844b9cb20269afd680bc3e8749",
+      "sourceSha256": "bcb3bf7ad8504bc7f259dccbe5b106f4a499ee9341a64735ad4bdfa986992852"
+    },
+    {
+      "id": "N26-PRISON-09",
+      "full": "thumbnail-lab/pitch-prison/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "89a283ab0eafdd332fb2c6faae10f6dbeb214afb40f0f3abb55dcba6d33f332a",
+      "sourceSha256": "b41835546c1f6b9bbe3b0b471fa716f536c6d078fdbec340779c73178af589b7"
+    },
+    {
+      "id": "N26-PRISON-10",
+      "full": "thumbnail-lab/pitch-prison/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-prison/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e9c5ea16d939cce7ffc43c2008fcce3057f0c0239a751345520a4c39481e3719",
+      "sourceSha256": "6cfcfeebda55e503c63ed1765a3cfc7a709760529deece63fba4445f4723ab23"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-01",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-01-preview.webp",
+      "width": 1672,
+      "height": 940,
+      "sha256": "dcc25fe46db30de62b0a69916fdf4be0141af0160a4b77df70d48afa8a4987c8",
+      "sourceSha256": "fd0b0b30bbba5dcc4c05b54949cb0790959e91a88283218341d6c779b6656526"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-02",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "cdd45fdddc72e9bfc6b9654916c19f4a6d4de422123654d54eb80ccb95f4b4b7",
+      "sourceSha256": "06b01ac8b032d3cf7e0bcd926cc10f7376c4059478c8e34abc39b5b9ce793c62"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-03",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "693e882650564a9bfe954104d485c677e6ee68a4823d3140d9ace2b3aaeb10a5",
+      "sourceSha256": "97683b51ed20d28b610c5339d8f1f695c2d21191de07d25d6e2ac9969a8ebe51"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-04",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "3552a16bda776749031b8065abf23c52b24401094371263fe84bd518ab7fccbd",
+      "sourceSha256": "448a9a2e1e2384a7fed8101f7286ad01f2e75cb29b546abcb082c874b2ca2053"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-05",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9dcb4abe4d76c5870b00807b088d2a9c24ccd5edb08b7f5167f0b61bcc00da2d",
+      "sourceSha256": "36ccb1df044522e737e2ea755c8a4ca5886f4fe634fb9d7bb6af34c7adddb767"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-06",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "75899c967e97f0eb4903811b5a2ef2f8a9dd9ac04df3233c9b148394225587a6",
+      "sourceSha256": "8ac90824af532dcd7e6b75bba7c8f672fc3b6aafc2c1e6c84fc8b8e6f4206f08"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-07",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "625ec5817bd6c005c6c200d94b50ed33ac5f24ca8bf81f13536c020884566220",
+      "sourceSha256": "2e19c08ce3994549a10ff4dc4467bcd58e02b8818a962abfc29c56ed6cafdefa"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-08",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "616925e6adb584c4ce968688355e917dd0e33380951f7ebee7bd637019456ca8",
+      "sourceSha256": "73210cdcb8a3d5ec58dddd3a0688dc532c07b13115ff0048667a45117948324e"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-09",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "f77484e4e570dbd63a6d82a0c1a387f77be9ed6e19cbb254f2899f3d49e70b5b",
+      "sourceSha256": "acbc5215ee7fd5fcaa1bada7cb407948b58d8d7231ee19935abb15b9cb2acaa4"
+    },
+    {
+      "id": "N26-MINECRAFT-HALO-10",
+      "full": "thumbnail-lab/pitch-minecraft-halo/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-minecraft-halo/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b7f9a67ee1053d29dd30eb01ce5b12d7f4f1ff9a49c92778c13b5a08712e134b",
+      "sourceSha256": "4416d38204dff35f63f0f2340dd9b392ef2321ca4df2431152659f8d626fa80e"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-01",
+      "full": "thumbnail-lab/pitch-civilizations/option-01.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-01-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "580c14cbae4c1b40418915bb69ce63e51ba13274e4eab41b3249e742e79c55e9",
+      "sourceSha256": "408cf665ccc9d0c90c7c344769146c352539d29e3632210161a7783e9ce1882f"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-02",
+      "full": "thumbnail-lab/pitch-civilizations/option-02.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-02-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7f9d48b23aa81492dd3c69a6693725d22f36eaa9dce7339416b543b15778dc2d",
+      "sourceSha256": "a3e90992f889db327e00cd01e476e25a16379dd33f784cb5324539bfb1a148d6"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-03",
+      "full": "thumbnail-lab/pitch-civilizations/option-03.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-03-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ccac5184a10be642609e44be48d97069d89108bfd1e7e4f9ab93232b97e52fa7",
+      "sourceSha256": "80a9cc5bb234ff94bfe33e99970cbb240fe8b04621fd91a38ab15a3e6d629f1c"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-04",
+      "full": "thumbnail-lab/pitch-civilizations/option-04.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-04-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bf18113924c659bfe60e52c6b43a6a76e09f1c6a3afed19eafe3c8fb0e365e3e",
+      "sourceSha256": "e14dd46bdbb3610e4bdbc5d73c4b89ca8a51a10ee3c7f1cff3013cf70907c11d"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-05",
+      "full": "thumbnail-lab/pitch-civilizations/option-05.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-05-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "25dd34abcf0dffe01a4c8755b34f4fa7bb23a57fa660a2d54fad77299d3e3836",
+      "sourceSha256": "12769fde7bfd8d659ec78cb5b0739e66bd1423334f6ecd28a14f4d84f91df78c"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-06",
+      "full": "thumbnail-lab/pitch-civilizations/option-06.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-06-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c0aa51972ade00e74f222dc118aefc95e7333f66b8a8b156036029e31cb86633",
+      "sourceSha256": "7235a48f919cac50d4434e5d099a235d1f82febc88479f6c64b27b14d6bc4125"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-07",
+      "full": "thumbnail-lab/pitch-civilizations/option-07.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-07-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "75c5a421e6f6f7fa22adbffa18a1b470d00bdea077ae61505ad1170f1e7e41b9",
+      "sourceSha256": "c8da9c248d71289d66d563bd6f167ef375c1c4c88231b08da82cb812e9fe63ae"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-08",
+      "full": "thumbnail-lab/pitch-civilizations/option-08.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-08-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e81d0792711a576e4c5b8774ff8243450810df4da0d9e1429e02d6ca05c06f27",
+      "sourceSha256": "3c19818b747bb256ecea3209dba8d65da47ec7d3ff1ffbb22b2b54ded4f1bdef"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-09",
+      "full": "thumbnail-lab/pitch-civilizations/option-09.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-09-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "59f5c87539a7ec586ba0f9eab1f06794d2323b579381fd67b301c7f13bfd78a9",
+      "sourceSha256": "ce635be517f17773e9bbaf2d5267375df936fd49b22ba0b2cf96b2d260a04903"
+    },
+    {
+      "id": "N26-CIVILIZATIONS-10",
+      "full": "thumbnail-lab/pitch-civilizations/option-10.jpg",
+      "preview": "thumbnail-lab/pitch-civilizations/option-10-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "aa3c1f2460abf478595e85b3b24e9c89366cb366bba768c4724e61fddc809f1e",
+      "sourceSha256": "aa819b1304b06f78aec2758548e1db8e41a7865517bd33bceff03af3849fa8fc"
+    }
+  ]
+}

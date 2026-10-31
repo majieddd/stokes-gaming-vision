@@ -1,3 +1,6 @@
 *.log
 .DS_Store
 __pycache__/
+
+thumbnail-lab/generated-assets.jsonl
+thumbnail-lab/uploaded-blobs.jsonl

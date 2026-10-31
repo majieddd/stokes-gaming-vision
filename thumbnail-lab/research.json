@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-30",
+  "intelligenceUrl": "https://majieddd.github.io/influint-channels-public/intelligence-system.html",
+  "measurementNote": "Influint public catalogue updated October 29, 2026. These channels have no Studio CTR or retention grant. View counts and nearby-upload multiples describe past uploads, not the causal effect of a thumbnail. Composition, focal-point and text claims below are practitioner guidance, labelled Theory or Warning by the system. New designs are creative hypotheses, not predicted CTR winners.",
+  "recoveryNote": "The original research.json was unavailable in the recovered export. Reference uploads and metrics below are restored from the original 130-option manifest. Creative guidance is restored from the original generation prompts; it is not a measured performance claim. Missing original written research notes have not been recreated as source evidence.",
+  "principles": [
+    {
+      "title": "One clear visual promise",
+      "body": "Recovered creative constraint: show one understandable story with two or three dominant visual anchors. Use a clear focal point and a simple background."
+    },
+    {
+      "title": "Read at thumbnail size",
+      "body": "Recovered creative constraint: keep faces and the main action clear at 160 pixels wide, with essential details away from the timestamp corner."
+    },
+    {
+      "title": "Make each direction distinct",
+      "body": "Recovered creative constraint: vary the camera angle, reveal and visual mechanism for each option. Preserve the specific scene and composition rather than repeating one layout."
+    }
+  ],
+  "channels": [
+    {
+      "name": "MrBeast Gaming",
+      "source": "https://majieddd.github.io/influint-channels-public/channels/UCIPPMRA040LQr5QPyJEbmXA.html",
+      "catalogueDate": "2026-10-29",
+      "selected": [
+        {
+          "url": "https://www.youtube.com/watch?v=nM21hVqvhmk",
+          "id": "nM21hVqvhmk",
+          "title": "If You Escape, You Win $1,000,000",
+          "views": 53643818,
+          "lift": 0.85,
+          "image": "https://i.ytimg.com/vi/nM21hVqvhmk/mqdefault.jpg",
+          "metricLabel": "54M views · 10 days ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=h8VE9_aHd94",
+          "id": "h8VE9_aHd94",
+          "title": "$10,000 Every Day You Survive In Minecraft",
+          "views": 68482502,
+          "lift": 1.18,
+          "image": "https://i.ytimg.com/vi/h8VE9_aHd94/mqdefault.jpg",
+          "metricLabel": "68M views · 19 days ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=PyLGTmWz37U",
+          "id": "PyLGTmWz37U",
+          "title": "I Found My 13 Year Old Minecraft World",
+          "views": 51758206,
+          "lift": 0.82,
+          "image": "https://i.ytimg.com/vi/PyLGTmWz37U/mqdefault.jpg",
+          "metricLabel": "52M views (28d) · 1 month ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=nopEs-K4ExM",
+          "id": "nopEs-K4ExM",
+          "title": "World's Fastest Car!",
+          "views": 124097854,
+          "lift": 3.73,
+          "image": "https://i.ytimg.com/vi/nopEs-K4ExM/mqdefault.jpg",
+          "metricLabel": "124M views · 4 years ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xN8ENrfE-TY",
+          "id": "xN8ENrfE-TY",
+          "title": "If You Build a House, I'll Pay For It!",
+          "views": 251656741,
+          "lift": 5.41,
+          "image": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
+          "metricLabel": "252M views · 5 years ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=SCrO3kS1upU",
+          "id": "SCrO3kS1upU",
+          "title": "1000 Zombies vs Mutant Enderman!",
+          "views": 159610467,
+          "lift": 3.72,
+          "image": "https://i.ytimg.com/vi/SCrO3kS1upU/mqdefault.jpg",
+          "metricLabel": "160M views · 5 years ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zPbrkmdcTfo",
+          "id": "zPbrkmdcTfo",
+          "title": "1000 Players Simulate Civilization: Boys vs Girls",
+          "views": 56042864,
+          "lift": 1.18,
+          "image": "https://i.ytimg.com/vi/zPbrkmdcTfo/mqdefault.jpg",
+          "metricLabel": "56M views · 10 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Caxv8tLATnc",
+          "id": "Caxv8tLATnc",
+          "title": "I Got Hunted By 50 Pros",
+          "views": 59336450,
+          "lift": 1.03,
+          "image": "https://i.ytimg.com/vi/Caxv8tLATnc/mqdefault.jpg",
+          "metricLabel": "59M views · 5 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=FO9kMeIQI7M",
+          "id": "FO9kMeIQI7M",
+          "title": "10 YouTubers vs 1 Secret Traitor",
+          "views": 66399650,
+          "lift": 1.08,
+          "image": "https://i.ytimg.com/vi/FO9kMeIQI7M/mqdefault.jpg",
+          "metricLabel": "66M views · 5 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Dy06SXknr_g",
+          "id": "Dy06SXknr_g",
+          "title": "World's Largest Minecraft Build!",
+          "views": 46271437,
+          "lift": 0.8,
+          "image": "https://i.ytimg.com/vi/Dy06SXknr_g/mqdefault.jpg",
+          "metricLabel": "46M views (28d) · 2 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gVE2t-LRK-s",
+          "id": "gVE2t-LRK-s",
+          "title": "Whatever You Hide As, You Keep!",
+          "views": 62769359,
+          "lift": 1.07,
+          "image": "https://i.ytimg.com/vi/gVE2t-LRK-s/mqdefault.jpg",
+          "metricLabel": "63M views · 2 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DWCl2dN6hpg",
+          "id": "DWCl2dN6hpg",
+          "title": "1 Pro vs 500 Hunters",
+          "views": 66035945,
+          "lift": 1.63,
+          "image": "https://i.ytimg.com/vi/DWCl2dN6hpg/mqdefault.jpg",
+          "metricLabel": "66M views · 10 months ago"
+        }
+      ]
+    },
+    {
+      "name": "Stokes Twins",
+      "source": "https://majieddd.github.io/influint-channels-public/channels/UCbp9MyKCTEww4CxEzc_Tp0Q.html",
+      "catalogueDate": "2026-10-29",
+      "selected": [
+        {
+          "url": "https://www.youtube.com/watch?v=qTim1iIQbwA",
+          "id": "qTim1iIQbwA",
+          "title": "My Twin Brother Was MURDERED In The Backrooms..",
+          "views": 5727767,
+          "lift": 0.21,
+          "image": "https://i.ytimg.com/vi/qTim1iIQbwA/mqdefault.jpg",
+          "metricLabel": "5.7M views · 4 days ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TQmwAmCsj_I",
+          "id": "TQmwAmCsj_I",
+          "title": "I Ate Rare Food in Every Color!",
+          "views": 9536701,
+          "lift": 0.35,
+          "image": "https://i.ytimg.com/vi/TQmwAmCsj_I/mqdefault.jpg",
+          "metricLabel": "9.5M views · 19 days ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kbRvNp8kwA0",
+          "id": "kbRvNp8kwA0",
+          "title": "Trapped in Level 1-100 Backrooms!",
+          "views": 39966376,
+          "lift": 1.67,
+          "image": "https://i.ytimg.com/vi/kbRvNp8kwA0/mqdefault.jpg",
+          "metricLabel": "40M views (28d) · 1 month ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cfFtBojH_-Y",
+          "id": "cfFtBojH_-Y",
+          "title": "I Built 5 SECRET Rooms In ONE COLOR!",
+          "views": 182212724,
+          "lift": 1.72,
+          "image": "https://i.ytimg.com/vi/cfFtBojH_-Y/mqdefault.jpg",
+          "metricLabel": "182M views · 1 year ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-5bcG6tZKx8",
+          "id": "-5bcG6tZKx8",
+          "title": "I Built 5 SECRET Rooms You’d Never Find!",
+          "views": 226145045,
+          "lift": 1.7,
+          "image": "https://i.ytimg.com/vi/-5bcG6tZKx8/mqdefault.jpg",
+          "metricLabel": "226M views · 2 years ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=6EtuOTq5TmM",
+          "id": "6EtuOTq5TmM",
+          "title": "Clean The Sports Car, Keep It!",
+          "views": 94263796,
+          "lift": 1.53,
+          "image": "https://i.ytimg.com/vi/6EtuOTq5TmM/mqdefault.jpg",
+          "metricLabel": "94M views · 8 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mPcvc6Rak6A",
+          "id": "mPcvc6Rak6A",
+          "title": "I Exposed 100 Evil Kids!",
+          "views": 39720095,
+          "lift": 1.39,
+          "image": "https://i.ytimg.com/vi/mPcvc6Rak6A/mqdefault.jpg",
+          "metricLabel": "40M views · 4 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yyEOJstAEIk",
+          "id": "yyEOJstAEIk",
+          "title": "Destroy Your Car, Win a New Lamborghini!",
+          "views": 27888837,
+          "lift": 0.78,
+          "image": "https://i.ytimg.com/vi/yyEOJstAEIk/mqdefault.jpg",
+          "metricLabel": "28M views · 5 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=U8UNlVatBCM",
+          "id": "U8UNlVatBCM",
+          "title": "I Built 5 Secret Rooms To Escape EVIL KPop Demon Hunters!",
+          "views": 53099737,
+          "lift": 0.94,
+          "image": "https://i.ytimg.com/vi/U8UNlVatBCM/mqdefault.jpg",
+          "metricLabel": "53M views · 7 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=AKa1N3Mo8mQ",
+          "id": "AKa1N3Mo8mQ",
+          "title": "I Tested 100 BANNED School Products!",
+          "views": 69855910,
+          "lift": 1.37,
+          "image": "https://i.ytimg.com/vi/AKa1N3Mo8mQ/mqdefault.jpg",
+          "metricLabel": "70M views · 8 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=g3Qjx7y0eag",
+          "id": "g3Qjx7y0eag",
+          "title": "I Built 67 Secret Rooms In One Color!",
+          "views": 37889308,
+          "lift": 0.53,
+          "image": "https://i.ytimg.com/vi/g3Qjx7y0eag/mqdefault.jpg",
+          "metricLabel": "38M views · 10 months ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=sp5wggWA5Xo",
+          "id": "sp5wggWA5Xo",
+          "title": "I Built 5 SECRET Rooms In School!",
+          "views": 69839531,
+          "lift": 1.03,
+          "image": "https://i.ytimg.com/vi/sp5wggWA5Xo/mqdefault.jpg",
+          "metricLabel": "70M views · 1 year ago"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=sPuDW_GhWuw",
+          "id": "sPuDW_GhWuw",
+          "title": "First To Lose 100 LBS, Wins $200,000!",
+          "views": 63094421,
+          "lift": 0.86,
+          "image": "https://i.ytimg.com/vi/sPuDW_GhWuw/mqdefault.jpg",
+          "metricLabel": "63M views · 1 year ago"
+        }
+      ]
+    }
+  ],
+  "visualObservations": [
+    {
+      "channel": "MrBeast Gaming",
+      "observed": "These original reference uploads and dated public metrics were preserved in the recovered manifest. The original written visual-review notes were not recovered."
+    },
+    {
+      "channel": "Stokes Twins",
+      "observed": "These original reference uploads and dated public metrics were preserved in the recovered manifest. The original written visual-review notes were not recovered."
+    }
+  ]
+}

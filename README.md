@@ -39,3 +39,23 @@ Validation: `node checks/planning.test.cjs` covers schedule dependencies, launch
 Two new Stokes Twins main-channel pitches—100 Minecrafters vs 100 Halo Players, and I Simulated Every Video Game Civilization—have new concept art and join Videos to pitch. All 166 earlier cards and shared-review identities are preserved; the canvas now has 168 concepts. The two new cards have no pre-created shared-review thread; the review controls show that state rather than binding them to an unrelated discussion. Existing collection backups migrate both new ideas into Videos to pitch without moving existing assignments.
 
 Editorial source: `video-briefs-content.json`. Reference additions: `brief-reference-updates.json`. Build with `python scripts/build_video_briefs.py`. Generated routes: `canvas-brief-map.js`; current brief data: `video-briefs.json`. Existing vision-page research and title/thumbnail options are retained; its 100 idea openings now contain spoken lines and positive show directions. The dated public metrics are reference evidence, not private CTR/retention or promised video performance.
+
+
+## October 30 thumbnail directions
+
+`thumbnail-lab.html` adds ten independently generated options to each of the thirteen Videos to pitch ideas (130 new thumbnails). Filter by video, inspect at 160 × 90, open the full image, download it, and save a browser-local shortlist. Shortlists can be exported as JSON. They do not automatically sync between devices.
+
+The same options are appended to their existing canvas groups by `canvas-thumbnail-refresh.js`; the original 168 concepts, title variants, and review bindings stay intact. The new `refreshed` scope isolates the 130 new options. Brief pages also include the new artwork.
+
+`thumbnail-lab/research.json` restores the dated public channel snapshots from the original manifest and creative guidance from the original prompts. Its recovery note discloses that the exact original research file and written visual-review notes were unavailable. The visual guidance is practitioner theory or warning; public views are not thumbnail CTR measurements. No predicted uplift or winner is claimed.
+
+Every independent prompt is in `thumbnail-lab/creative-directions.json`; `thumbnail-lab/provenance.json` records the built-in image generation and image hashes. Source image references supply likeness and thumbnail craft, while the new scene and composition are specified independently. Full JPEG images preserve the generated composition; WebP previews keep the gallery light.
+
+To rebuild after generating assets: `python scripts/build_thumbnail_lab.py`. Then run `node checks/thumbnails.test.cjs` along with the existing brief and planning checks.
+
+
+### Recovery and publication verification
+
+All 130 full JPEG thumbnails were recovered with their original SHA-256 checksums. The 168 earlier canvas concepts, title variants and review mappings are retained, and all 498 earlier image files are unchanged. Some WebP previews were re-encoded from checksum-matched original PNGs. See `thumbnail-lab/recovery-report.json` for the recovery record and the disclosed research-record limitation. Private conversation records and browser caches are excluded from this repository.
+
+[Download the 130 new thumbnails](https://github.com/majieddd/stokes-gaming-vision/releases/download/thumbnail-recovery-2026-10-30/Stokes-New-Thumbnails-130.zip).

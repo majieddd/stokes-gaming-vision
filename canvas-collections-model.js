@@ -8,9 +8,9 @@
   {id:'pitch-disasters',title:'We Survived GTA’s Deadliest Disasters',groups:['05'],titles:['Every minute another disaster happens in GTA']},
   {id:'pitch-life',title:'I Let GTA Control My Life for 24 Hours',groups:['07']},
   {id:'pitch-experiments',title:'Can 10,000 Cars Stop a Train in GTA?',groups:['09'],note:'Experiments'},
-  {id:'pitch-killer',title:'100 Players Versus One Secret Killer',groups:['11'],note:'Reframed pitch. Existing whodunit art is retained; player-count visuals are not yet updated.'},
+  {id:'pitch-killer',title:'100 Players Versus One Secret Killer',groups:['11'],note:'100-player pitch with new crowd and hidden-killer concepts; earlier whodunit art retained.'},
   {id:'pitch-course',title:'We Built the Most Impossible Obstacle Course in GTA',groups:['14']},
-  {id:'pitch-steal',title:'Anything You Steal in GTA You Keep',groups:['15','17'],note:'New pitch with related keep-or-risk and buy-anything concept art. These originals are references, not finished theft-specific thumbnails.'},
+  {id:'pitch-steal',title:'Anything You Steal in GTA You Keep',groups:['15','17'],note:'New theft-specific options plus the related original prize concepts.'},
   {id:'pitch-prison',title:'I Created the World’s Most Secure Prison in GTA',groups:['16'],note:'Build-focused pitch; the original prison-escape concepts and titles remain available.'},
   {id:'pitch-minecraft-halo',title:'100 Minecrafters vs 100 Halo Players',groups:['new-minecraft-halo'],note:'Stokes Twins main-channel pitch · gaming communities compete in a large team challenge.'},
   {id:'pitch-civilizations',title:'I Simulated Every Video Game Civilization',groups:['new-civilizations'],note:'Stokes Twins main-channel pitch · top players build competing game civilizations.'}
