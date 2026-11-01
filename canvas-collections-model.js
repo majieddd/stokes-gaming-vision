@@ -1,6 +1,7 @@
 (function(root){
  'use strict';
  const seeds=[
+  {id:'pitch-gta-guests',title:'GTA 6 With Celebrity Guests',groups:['gta-guest-missions']},
   {id:'pitch-cities',title:'I Played GTA in Every GTA City',groups:['launch-gta-cities','10']},
   {id:'pitch-car',title:'Win This Race, Keep Your Car',groups:['launch-keep-car']},
   {id:'pitch-rooms',title:'I Built Secret Rooms in Every Video Game',groups:['launch-secret-rooms','03','04']},

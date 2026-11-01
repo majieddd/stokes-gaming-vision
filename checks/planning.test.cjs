@@ -25,10 +25,10 @@ assert.equal(T.build(plan,{fakeUpload:'2026-11-15'}).phases.find(p=>p.video==='v
 assert.equal(T.build(plan,{firstUpload:'2026-11-08'}).editDays,13);
 for(const input of [{gtaStart:'2026-11-18'},{captureDays:2},{captureDays:3.5},{editStart:'2026-02-30'},{firstUpload:'2026-10-26'}])assert.throws(()=>T.build(plan,input));
 const context={window:{}};
-vm.createContext(context);for(const file of ['canvas-data.js','canvas-new-pitches.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
+vm.createContext(context);for(const file of ['canvas-data.js','canvas-new-pitches.js','canvas-guest-missions.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
 const data=JSON.parse(JSON.stringify(context.window.STOKES_CANVAS));
 const ideas=C.catalog(data.groups),state=C.defaults(ideas),original=data.groups.flatMap(g=>g.cards),catalog=ideas.flatMap(i=>i.cards);
-assert.equal(state.collections[0].name,'Videos to pitch');assert.equal(state.collections[0].ideaIds.length,13);
+assert.equal(state.collections[0].name,'Videos to pitch');assert.equal(state.collections[0].ideaIds.length,14);
 assert.equal(catalog.length,original.length);assert.equal(new Set(catalog.map(c=>c.id)).size,original.length);
 const identity=cards=>cards.map(c=>[c.id,c.full,c.preview,c.discussion,c.discussionId]).sort();
 assert.deepEqual(identity(catalog),identity(original));
@@ -37,7 +37,7 @@ assert(ideas.find(i=>i.id==='pitch-disasters').titles.includes('Every minute ano
 state.collections.push({id:'custom-test',name:'Ready to film',ideaIds:[state.collections[0].ideaIds.shift()]});
 state.titles['pitch-disasters']=['New disaster title'];state.selectedTitles['pitch-disasters']='New disaster title';
 const loaded=C.validate(JSON.parse(JSON.stringify(state)),ideas);
-assert.equal(loaded.collections.find(c=>c.id==='custom-test').ideaIds[0],'pitch-cities');
+assert.equal(loaded.collections.find(c=>c.id==='custom-test').ideaIds[0],'pitch-gta-guests');
 assert.equal(loaded.selectedTitles['pitch-disasters'],'New disaster title');
 assert.equal(new Set(loaded.collections.flatMap(c=>c.ideaIds)).size,ideas.length);
 const recovered=C.validate({version:1,collections:[]},ideas);

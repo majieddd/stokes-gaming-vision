@@ -6,11 +6,13 @@ import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+from build_guest_missions import build as build_guest_missions
+guest_missions = build_guest_missions(ROOT)
 read = lambda name: json.loads((ROOT / name).read_text())
 write = lambda name, data: (ROOT / name).write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
 code = """
 const fs=require('fs'),vm=require('vm');const c={window:{}};vm.createContext(c);
-for(const f of ['canvas-data.js','canvas-new-pitches.js'])vm.runInContext(fs.readFileSync(f,'utf8'),c);
+for(const f of ['canvas-data.js','canvas-new-pitches.js','canvas-guest-missions.js'])vm.runInContext(fs.readFileSync(f,'utf8'),c);
 const model=require('./canvas-collections-model.js');
 console.log(JSON.stringify(model.catalog(c.window.STOKES_CANVAS.groups)));
 """
@@ -85,9 +87,20 @@ for idea in plan['ideas']:
                          beat=f"{beat['speaker']}: “{beat['line']}” Show: {beat['show']}") for (a,b),beat in zip([(0,5),(5,15),(15,30)], intro)]
     idea['creative_brief'] = 'episode-details.html?variant=' + id + '#' + card_map[id]
 
+for guest in guest_missions['entries']:
+    variants[guest['card']] = dict(
+        id=guest['card'], brief=guest_missions['ideaId'], title=guest['title'], promise=guest['goal'],
+        how=[guest['goal'], guest['rule'], 'Resolve the actual result and guest reaction; send the complete story to post while room filming continues.'],
+        intro=[dict(time=time, speaker=speaker, line=line, show=show) for time, speaker, line, show in [
+            ('0–5s', 'ALEX', guest['introLine'], 'Show ' + guest['guest'] + ' in the room, then the actual game objective.'),
+            ('5–15s', 'ALAN', guest['challengeLine'], 'Show the goal and agreed rules. ' + guest['condition']),
+            ('15–30s', 'ALEX', guest['firstLine'], 'Hand over the controller and begin the first attempt.')]],
+        turn=['ALAN', guest['turnLine'], guest['turnShow']],
+        payoff=['ALEX', guest['payoffLine'], guest['payoffShow']])
+
 used = {r['source'] for b in briefs for r in b['refs']}
 assert all(id in sources for id in used)
-out = dict(schemaVersion=2, updated='2026-10-29', voice='Short spoken lines, visible actions, one clear objective and an earned payoff.',
+out = dict(schemaVersion=2, updated='2026-11-01', voice='Short spoken lines, visible actions, one clear objective and an earned payoff.',
     measurementNote='Reference views and source-reported nearby-upload multiples are public snapshots, not CTR or measured intro retention. They support the format ingredients, not a guaranteed result.',
     scriptNote='Script lines are proposed. Say the payoff lines when the corresponding result occurs.',
     briefs=briefs, variants=variants, cardToBrief=card_map, aliases=aliases, references={id:sources[id] for id in sorted(used)})
@@ -100,7 +113,7 @@ write('canvas-brief-map.json', card_map)
 plan['creative_brief_version'] = 2
 plan['creative_briefs'] = 'video-briefs.json'
 plan['editorial_style'] = out['voice']
-plan['new_pitches'] = [b for b in briefs if b['id'] in ['pitch-minecraft-halo', 'pitch-civilizations']]
+plan['new_pitches'] = [b for b in briefs if b['id'] in ['pitch-minecraft-halo', 'pitch-civilizations', 'pitch-gta-guests']]
 def clean(value):
     if isinstance(value, dict):
         return {k:clean(v) for k,v in value.items() if k != 'avoid'}
@@ -116,7 +129,7 @@ write('retention-cases.json', retention)
 # The earlier three-episode download now mirrors the current, concise launch briefs.
 write('episode-treatments.json', dict(schema_version=2, updated='2026-10-29', scope='Three launch videos',
     episodes=[b for b in briefs if b['id'] in launch_ids], creative_briefs='video-briefs.json'))
-lines = ['# Stokes video briefs', '', 'Updated October 29, 2026. Proposed script lines and linked public reference snapshots.', '']
+lines = ['# Stokes video briefs', '', 'Updated November 1, 2026. Proposed script lines and linked public reference snapshots.', '']
 for b in briefs:
     lines += ['## '+b['title'], '', b['promise'], '', '### How it works', ''] + ['- '+s for s in b['how']]
     lines += ['', '### Opening 30 seconds', '']
@@ -134,6 +147,8 @@ for b in briefs:
 # thumbnails and title variants, and route the main Brief action to the new hub.
 index = (ROOT/'index.html').read_text()
 for id, v in variants.items():
+    if not re.fullmatch(r'\d{3}', id):
+        continue
     pattern=r'(<article\b[^>]*\bid="idea-'+re.escape(id)+r'"[^>]*>)(.*?)(</article>)'
     def update_article(match):
         body=match.group(2)

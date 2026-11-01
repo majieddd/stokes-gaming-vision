@@ -1,0 +1,58 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "model": "Not returned by tool",
+  "generatedAt": "2026-11-01",
+  "purpose": "Proposed guests, scenarios and prize terms. AI concepts, not captured GTA VI footage.",
+  "encoding": "JPEG quality 94 and resized WebP previews; no composition changes",
+  "assets": [
+    {
+      "id": "kai-race",
+      "source": "exec-76ee7ef0-0ebe-440a-a507-55e7c51d3fd2.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "4a42c57ece36b3144bf81649e65b376ee5bc171e720ddab5b637946db44014bf"
+    },
+    {
+      "id": "speed-wanted",
+      "source": "exec-6b69124b-f9db-42ca-aff7-0889fbc5415e.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "b3584da79e7d458a86902adc451f3933324f39d15320510133cf6a931079adbf"
+    },
+    {
+      "id": "mrbeast-steal",
+      "source": "exec-420c3b09-7b1c-4fd8-a902-de380e14703f.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2eb6a4cff0fdb4e81ad58de8779143621d5c287697b4249bcd07db8a4d68731e"
+    },
+    {
+      "id": "kevin-plane",
+      "source": "exec-9634852b-bfbd-41f6-bf0f-bb2bf7eb8543.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c960cc78dda01db16f27b3ae320b52981a9a6db2b30a80c57f4c15bf2574b71c"
+    },
+    {
+      "id": "snoop-supercar",
+      "source": "exec-27a3b4fb-0a65-436b-965d-8ac44d54a628.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "c4bd084f31b25055ba6700244ad6b791fbd9d30c8043ee85f74bafe114adc438"
+    },
+    {
+      "id": "ludwig-law",
+      "source": "exec-44b22a65-6132-48a6-ba15-9fdd0e869a7f.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9dbd13d156be61aa5f7caac8cfacfad968ed45e864d5748041a00759c61315ec"
+    },
+    {
+      "id": "mark-rober",
+      "source": "exec-38b1af1c-21d1-4fed-9baf-d494b267367d.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "02036e83d9258477718d5f8e07c0776146d2069f115020e871c5d14cea23aba0"
+    }
+  ]
+}

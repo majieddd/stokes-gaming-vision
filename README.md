@@ -1,5 +1,15 @@
 # Stokes Gaming creative launch vision
 
+## GTA 6 guest-mission series · November 1, 2026
+
+**GTA 6 With Celebrity Guests** is a separate Videos to pitch idea with eight packages: Howie Mandel, Kai Cenat, IShowSpeed, MrBeast, Kevin Hart, Snoop Dogg, Ludwig and Mark Rober. Each guest has a standalone mission story and opening, while the overall room-completion challenge keeps filming. The original Howie vault thumbnail is reused unchanged; seven new images were generated. The two earlier Kai alternatives remain linked from the series brief and in the production timeline.
+
+`gta-guest-missions.json` preserves the exact prompts, guest-specific conditions and Influint's dated October 22 public-export evidence. This is practitioner-guided creative work, with no new-channel Studio baseline or forecast. Guest bookings, actual GTA VI footage, mission availability and prize terms are unconfirmed. Kai's race can use sequential timed runs; supported multiplayer is not assumed.
+
+`python3 scripts/build_video_briefs.py` rebuilds the guest canvas module and all brief routes. The new seed migrates into existing saved pitch collections without moving other videos. Guest episode titles remain attached to their own thumbnails when a series title is previewed. All earlier 298 concepts and shared-review identities remain intact. Downloads include all eight images and the prompt/evidence manifest in `guest-mission-thumbnails/eight-guest-packages.zip`.
+
+Validation: `node checks/guest-missions.test.cjs` plus the existing planning, briefs and thumbnail checks.
+
 [Vision doc](https://majieddd.github.io/stokes-gaming-vision/) · [Thumbnail canvas](https://majieddd.github.io/stokes-gaming-vision/canvas.html)
 
 The launch view contains five individual crossovers plus a shared Godzilla finale, Alex’s staged GTA prank and actual GTA 6 completion with first-finisher group release. Exact worlds/builds remain proposals.

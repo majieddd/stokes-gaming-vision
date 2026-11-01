@@ -1,6 +1,54 @@
 # Stokes video briefs
 
-Updated October 29, 2026. Proposed script lines and linked public reference snapshots.
+Updated November 1, 2026. Proposed script lines and linked public reference snapshots.
+
+## GTA 6 With Celebrity Guests
+
+Turn Trapped Until I Beat GTA 6 into a repeatable guest-mission series: one celebrity, one complete GTA challenge, one standalone upload. Edit and release finished guest stories while the room challenge keeps recording, then use the full completion journey for the main film.
+
+### How it works
+
+- A guest enters the GTA room for one clear mission or challenge. Set the goal and rules immediately; the twins and guest take controller turns.
+- Film a complete story: guest arrival → goal → attempts → complication → final result. Send that finished guest block to a dedicated editor while the room keeps recording.
+- Publish each guest story as its own video. Save the overall progress, setbacks and final completion for Trapped Until I Beat GTA 6.
+
+### Opening 30 seconds
+
+**0–5s · ALEX:** “We’re trapped until we beat GTA 6—and today, Howie Mandel is joining us.”
+
+Show: Open on Howie entering the room, then cut to the bank objective.
+
+**5–15s · ALAN:** “Before he leaves, we have to finish this heist.”
+
+Show: Show the mission goal, Howie’s role and the escape target.
+
+**15–30s · ALEX:** “Howie, you’re on the controller.”
+
+Show: Start the first attempt. Each future episode gets its own guest, goal and opening.
+
+### Turn
+
+ALAN: “That changes the plan.”
+
+Stay with a real mistake or unexpected choice that makes this guest’s attempt its own story.
+
+### Payoff
+
+ALEX: “Let’s see if we did it.”
+
+Resolve the guest’s mission and final reaction before returning to the main room story.
+
+### Packaging
+
+- A recognizable guest + one GTA activity + a concrete challenge or stake. Eight episode packages, each with a different guest.
+- Seven new images use one twin + the guest + a clear mission centerpiece. The recovered Howie vault image keeps both twins. Each package has a different composition and exact episode title.
+- The guest brings a distinct character to a self-contained mission. The series can produce separate uploads while the overall completion challenge develops.
+
+[MrBeast Gaming · I Survived 100 Days Of Hardcore Minecraft!](https://www.youtube.com/watch?v=jk6thMe6Vq8) — 186,681,366 public views · 4.27× nearby-upload median (source-reported). The sustained completion challenge supplies the larger story around the standalone guest attempts.
+
+[MrBeast Gaming · 1 vs 10 Hunters in GTA!](https://www.youtube.com/watch?v=xwdhHTtc-3w) — 116,232,703 public views · 2.25× nearby-upload median (source-reported). A specific GTA pursuit is a reference for a clear, self-contained mission objective.
+
+---
 
 ## I Played GTA in Every GTA City
 

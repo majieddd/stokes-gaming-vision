@@ -1,10 +1,182 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-29",
+  "updated": "2026-11-01",
   "voice": "Short spoken lines, visible actions, one clear objective and an earned payoff.",
   "measurementNote": "Reference views and source-reported nearby-upload multiples are public snapshots, not CTR or measured intro retention. They support the format ingredients, not a guaranteed result.",
   "scriptNote": "Script lines are proposed. Say the payoff lines when the corresponding result occurs.",
   "briefs": [
+    {
+      "id": "pitch-gta-guests",
+      "title": "GTA 6 With Celebrity Guests",
+      "group": "pitch",
+      "titleOptions": [
+        "GTA 6 With Celebrity Guests",
+        "I Robbed a Bank With Howie Mandel in GTA 6!",
+        "I Robbed a Bank With Howie Mandel!",
+        "Howie Mandel Helped Me Rob a Bank in GTA 6",
+        "I Raced Kai Cenat for $100,000 in GTA 6!",
+        "I Raced Against Kai Cenat for $100,000",
+        "Can I Beat Kai Cenat in a $100,000 GTA 6 Race?",
+        "I Survived 5 Stars With IShowSpeed in GTA 6!",
+        "IShowSpeed Helped Me Escape the Cops in GTA 6",
+        "Can IShowSpeed Survive GTA 6’s Biggest Police Chase?",
+        "Anything MrBeast Steals in GTA 6, I Buy Him!",
+        "I Let MrBeast Steal My Money in GTA 6",
+        "MrBeast Chooses What I Buy in GTA 6",
+        "I Let Kevin Hart Fly My Plane in GTA 6!",
+        "Kevin Hart Tried to Land My Plane in GTA 6",
+        "Can Kevin Hart Survive His First GTA 6 Flight?",
+        "I Stole a Supercar With Snoop Dogg in GTA 6!",
+        "Snoop Dogg Helped Me Steal GTA 6’s Coolest Car",
+        "Can Snoop Dogg Get This Supercar Home in GTA 6?",
+        "I Made Ludwig Beat a GTA 6 Mission Without Breaking the Law!",
+        "Can Ludwig Beat One GTA 6 Mission Without Breaking the Law?",
+        "I Made Ludwig Obey Every Law in GTA 6",
+        "Mark Rober Built Our GTA 6 Getaway Plan!",
+        "Can Mark Rober Outsmart the Cops in GTA 6?",
+        "I Let Mark Rober Plan My GTA 6 Escape"
+      ],
+      "sourceGroups": [
+        "gta-guest-missions"
+      ],
+      "artwork": [
+        {
+          "id": "G6-HOWIE",
+          "title": "I Robbed a Bank With Howie Mandel in GTA 6!",
+          "preview": "timeline-thumbnails/howie-bank.jpg",
+          "full": "timeline-thumbnails/howie-bank.jpg",
+          "alt": "AI concept: The Stokes Twins and Howie Mandel at an open GTA-inspired bank vault, cash in the foreground."
+        },
+        {
+          "id": "G6-KAI",
+          "title": "I Raced Kai Cenat for $100,000 in GTA 6!",
+          "preview": "guest-mission-thumbnails/kai-race-preview.webp",
+          "full": "guest-mission-thumbnails/kai-race.jpg",
+          "alt": "AI concept: Kai and one twin face off in purple and lime sports cars at one starting line."
+        },
+        {
+          "id": "G6-SPEED",
+          "title": "I Survived 5 Stars With IShowSpeed in GTA 6!",
+          "preview": "guest-mission-thumbnails/speed-wanted-preview.webp",
+          "full": "guest-mission-thumbnails/speed-wanted.jpg",
+          "alt": "AI concept: Speed and a twin in an orange convertible with one police helicopter looming behind."
+        },
+        {
+          "id": "G6-BEAST",
+          "title": "Anything MrBeast Steals in GTA 6, I Buy Him!",
+          "preview": "guest-mission-thumbnails/mrbeast-steal-preview.webp",
+          "full": "guest-mission-thumbnails/mrbeast-steal.jpg",
+          "alt": "AI concept: MrBeast presents the key to one gold supercar as a twin reacts to the cost."
+        },
+        {
+          "id": "G6-KEVIN",
+          "title": "I Let Kevin Hart Fly My Plane in GTA 6!",
+          "preview": "guest-mission-thumbnails/kevin-plane-preview.webp",
+          "full": "guest-mission-thumbnails/kevin-plane.jpg",
+          "alt": "AI concept: Kevin at the controls beside a shocked twin; the runway tilts below the cockpit."
+        },
+        {
+          "id": "G6-SNOOP",
+          "title": "I Stole a Supercar With Snoop Dogg in GTA 6!",
+          "preview": "guest-mission-thumbnails/snoop-supercar-preview.webp",
+          "full": "guest-mission-thumbnails/snoop-supercar.jpg",
+          "alt": "AI concept: A calm Snoop leans on a magenta supercar while a twin urgently points toward the exit."
+        },
+        {
+          "id": "G6-LUDWIG",
+          "title": "I Made Ludwig Beat a GTA 6 Mission Without Breaking the Law!",
+          "preview": "guest-mission-thumbnails/ludwig-law-preview.webp",
+          "full": "guest-mission-thumbnails/ludwig-law.jpg",
+          "alt": "AI concept: Ludwig waits obediently in a yellow car at a red light as a twin reacts."
+        },
+        {
+          "id": "G6-ROBER",
+          "title": "Mark Rober Built Our GTA 6 Getaway Plan!",
+          "preview": "guest-mission-thumbnails/mark-rober-preview.webp",
+          "full": "guest-mission-thumbnails/mark-rober.jpg",
+          "alt": "AI concept: Mark and a twin frame one orange car jumping a ramp over a blue canal."
+        }
+      ],
+      "promise": "Turn Trapped Until I Beat GTA 6 into a repeatable guest-mission series: one celebrity, one complete GTA challenge, one standalone upload. Edit and release finished guest stories while the room challenge keeps recording, then use the full completion journey for the main film.",
+      "channel": "Stokes Twins Gaming · guest-mission series",
+      "how": [
+        "A guest enters the GTA room for one clear mission or challenge. Set the goal and rules immediately; the twins and guest take controller turns.",
+        "Film a complete story: guest arrival → goal → attempts → complication → final result. Send that finished guest block to a dedicated editor while the room keeps recording.",
+        "Publish each guest story as its own video. Save the overall progress, setbacks and final completion for Trapped Until I Beat GTA 6."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "We’re trapped until we beat GTA 6—and today, Howie Mandel is joining us.",
+          "show": "Open on Howie entering the room, then cut to the bank objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "Before he leaves, we have to finish this heist.",
+          "show": "Show the mission goal, Howie’s role and the escape target."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Howie, you’re on the controller.",
+          "show": "Start the first attempt. Each future episode gets its own guest, goal and opening."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "That changes the plan.",
+        "Stay with a real mistake or unexpected choice that makes this guest’s attempt its own story."
+      ],
+      "payoff": [
+        "ALEX",
+        "Let’s see if we did it.",
+        "Resolve the guest’s mission and final reaction before returning to the main room story."
+      ],
+      "packaging": [
+        "A recognizable guest + one GTA activity + a concrete challenge or stake. Eight episode packages, each with a different guest.",
+        "Seven new images use one twin + the guest + a clear mission centerpiece. The recovered Howie vault image keeps both twins. Each package has a different composition and exact episode title.",
+        "The guest brings a distinct character to a self-contained mission. The series can produce separate uploads while the overall completion challenge develops."
+      ],
+      "support": "Proposed guests and scenarios; bookings, playable objectives and prize terms remain unconfirmed. Kai’s $100,000 race uses sequential timed runs unless supported multiplayer is verified. Influint’s October 22, 2026 public export supplies practitioner packaging guidance, not measured guest results or a forecast. The two other recovered Kai concepts remain in the original guest briefs and production timeline.",
+      "relatedLinks": [
+        {
+          "title": "Recovered Howie bank-heist concept",
+          "url": "episode-details.html#guest-howie"
+        },
+        {
+          "title": "Recovered Kai getaway concept",
+          "url": "episode-details.html#guest-kai"
+        },
+        {
+          "title": "Recovered guest-room concept",
+          "url": "episode-details.html#guest-room"
+        },
+        {
+          "title": "Rolling guest-episode production plan",
+          "url": "production-timeline.html#guests"
+        },
+        {
+          "title": "Download all 8 packages and prompts",
+          "url": "guest-mission-thumbnails/eight-guest-packages.zip"
+        },
+        {
+          "title": "Influint evidence notes and exact prompts",
+          "url": "gta-guest-missions.json"
+        }
+      ],
+      "refs": [
+        {
+          "source": "jk6thMe6Vq8",
+          "take": "The sustained completion challenge supplies the larger story around the standalone guest attempts."
+        },
+        {
+          "source": "xwdhHTtc-3w",
+          "take": "A specific GTA pursuit is a reference for a clear, self-contained mission objective."
+        }
+      ]
+    },
     {
       "id": "pitch-cities",
       "title": "I Played GTA in Every GTA City",
@@ -7208,9 +7380,345 @@
         "Let’s see how this ends.",
         "Open the private park, show actual play and reveal the guest-vote winner."
       ]
+    },
+    "G6-HOWIE": {
+      "id": "G6-HOWIE",
+      "brief": "pitch-gta-guests",
+      "title": "I Robbed a Bank With Howie Mandel in GTA 6!",
+      "promise": "Complete a bank-heist attempt and escape with Howie taking a controller turn.",
+      "how": [
+        "Complete a bank-heist attempt and escape with Howie taking a controller turn.",
+        "One heist attempt, with Howie taking the agreed controller section.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "Today, I’m robbing a bank in GTA 6 with Howie Mandel.",
+          "show": "Show Howie Mandel in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "We have to get the money out and escape.",
+          "show": "Show the goal and agreed rules. Requires a playable bank-heist objective; choose the specific mission after access is verified."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Howie, you’re on the controller.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "Howie, that was our way out!",
+        "Use a genuine mistake or blocked route to force a new escape plan."
+      ],
+      "payoff": [
+        "ALEX",
+        "Did we get the money out?",
+        "Resolve the escape and show the actual result before Howie leaves."
+      ]
+    },
+    "G6-KAI": {
+      "id": "G6-KAI",
+      "brief": "pitch-gta-guests",
+      "title": "I Raced Kai Cenat for $100,000 in GTA 6!",
+      "promise": "Race Kai on the same route under matching conditions; the faster clean run wins the agreed $100,000 prize.",
+      "how": [
+        "Race Kai on the same route under matching conditions; the faster clean run wins the agreed $100,000 prize.",
+        "Same car, same route, same start conditions. Fastest valid timed run wins.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "I’m racing Kai Cenat in GTA 6 for $100,000.",
+          "show": "Show Kai Cenat in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "Same car. Same route. Fastest time wins.",
+          "show": "Show the goal and agreed rules. Proposed $100,000 prize requires an agreed funded payout. Use sequential timed runs with the same vehicle and restart rules; no simultaneous multiplayer assumed."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Kai, set the time to beat.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "Kai just beat our time. We get one final run.",
+        "Reveal the actual leading time and a final attempt if that format is agreed."
+      ],
+      "payoff": [
+        "ALEX",
+        "Let’s compare the final times.",
+        "Show both valid times, the winner and the agreed payout."
+      ]
+    },
+    "G6-SPEED": {
+      "id": "G6-SPEED",
+      "brief": "pitch-gta-guests",
+      "title": "I Survived 5 Stars With IShowSpeed in GTA 6!",
+      "promise": "Take turns through a wanted-level escape with Speed and reach a clear safe finish.",
+      "how": [
+        "Take turns through a wanted-level escape with Speed and reach a clear safe finish.",
+        "Start from the agreed wanted level; the guest takes the first escape attempt.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "Today, IShowSpeed is helping us escape the cops in GTA 6.",
+          "show": "Show IShowSpeed in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "We have to lose them before they stop the car.",
+          "show": "Show the goal and agreed rules. Use '5 Stars' only if that exact wanted level exists and is reached in captured gameplay; otherwise use the escape-the-cops title."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Speed, take the wheel.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "Speed, they’re still on us!",
+        "Stay with the real pursuit and the next route choice."
+      ],
+      "payoff": [
+        "ALEX",
+        "Are we finally clear?",
+        "Show the wanted state ending or the failed attempt; include Speed’s reaction."
+      ]
+    },
+    "G6-BEAST": {
+      "id": "G6-BEAST",
+      "brief": "pitch-gta-guests",
+      "title": "Anything MrBeast Steals in GTA 6, I Buy Him!",
+      "promise": "Let MrBeast choose an obtainable in-game item to steal, then buy the agreed real-world equivalent if he finishes the challenge.",
+      "how": [
+        "Let MrBeast choose an obtainable in-game item to steal, then buy the agreed real-world equivalent if he finishes the challenge.",
+        "Choose from the agreed eligible items, complete the theft and escape, then honor the stated purchase.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "Anything MrBeast steals in GTA 6, I’m buying him in real life.",
+          "show": "Show MrBeast in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "Pick your item, steal it, and get away with it.",
+          "show": "Show the goal and agreed rules. Agree eligible items, a funded spending cap and the real-world purchase before filming. The unqualified 'Anything' title is conditional on genuinely honoring that promise."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Jimmy, what are you taking?",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "You picked the most expensive one?",
+        "Reveal the genuine item selection and the agreed cost."
+      ],
+      "payoff": [
+        "ALEX",
+        "You got it. Let’s buy the real one.",
+        "Use this line only if he succeeds; show the promised purchase or explain the actual result."
+      ]
+    },
+    "G6-KEVIN": {
+      "id": "G6-KEVIN",
+      "brief": "pitch-gta-guests",
+      "title": "I Let Kevin Hart Fly My Plane in GTA 6!",
+      "promise": "Give Kevin the controller for a complete flight-and-landing attempt.",
+      "how": [
+        "Give Kevin the controller for a complete flight-and-landing attempt.",
+        "Take off, reach the marked destination and attempt the landing.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "I just gave Kevin Hart a plane in GTA 6.",
+          "show": "Show Kevin Hart in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "He has to take off and land it at that airport.",
+          "show": "Show the goal and agreed rules. Requires a controllable aircraft and a suitable airstrip in the playable game; set the route after verification."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Kevin, you’re the pilot.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "Kevin, that’s the runway!",
+        "Reveal the approach and let the real correction play out."
+      ],
+      "payoff": [
+        "ALEX",
+        "Let’s see this landing.",
+        "Hold the approach through touchdown or failure, then Kevin’s reaction."
+      ]
+    },
+    "G6-SNOOP": {
+      "id": "G6-SNOOP",
+      "brief": "pitch-gta-guests",
+      "title": "I Stole a Supercar With Snoop Dogg in GTA 6!",
+      "promise": "Find the chosen supercar, take it and reach an agreed garage with Snoop taking the escape turn.",
+      "how": [
+        "Find the chosen supercar, take it and reach an agreed garage with Snoop taking the escape turn.",
+        "Find the agreed car and reach the marked destination in one attempt.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "I’m stealing a supercar in GTA 6 with Snoop Dogg.",
+          "show": "Show Snoop Dogg in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "We have to get that car all the way back to the garage.",
+          "show": "Show the goal and agreed rules. Choose an obtainable car and valid destination after game access; no special garage or theft mission is assumed."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Snoop, you’re driving.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "Snoop, we need to leave. Now.",
+        "Use the genuine first complication on the drive back."
+      ],
+      "payoff": [
+        "ALEX",
+        "Did we get it home?",
+        "Show arrival at the agreed destination or the actual loss of the car."
+      ]
+    },
+    "G6-LUDWIG": {
+      "id": "G6-LUDWIG",
+      "brief": "pitch-gta-guests",
+      "title": "I Made Ludwig Beat a GTA 6 Mission Without Breaking the Law!",
+      "promise": "Challenge Ludwig to finish one selected compatible GTA objective while obeying a clear producer-defined rule list.",
+      "how": [
+        "Challenge Ludwig to finish one selected compatible GTA objective while obeying a clear producer-defined rule list.",
+        "One compatible objective; stop at red lights, avoid collisions and obey the stated driving rules.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "Ludwig has to beat one GTA 6 mission without breaking our rules.",
+          "show": "Show Ludwig in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "No red lights. No crashes. No stealing a shortcut.",
+          "show": "Show the goal and agreed rules. One compatible mission with a clear producer-defined rule list. Challenge rules are agreed before filming; the package does not imply beating the entire game."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Ludwig, your first light is red.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "The light’s red. You still have to stop.",
+        "Use a genuine conflict between progress and the stated challenge rules."
+      ],
+      "payoff": [
+        "ALEX",
+        "Did he finish without a violation?",
+        "Resolve the objective and review the actual rule tally."
+      ]
+    },
+    "G6-ROBER": {
+      "id": "G6-ROBER",
+      "brief": "pitch-gta-guests",
+      "title": "Mark Rober Built Our GTA 6 Getaway Plan!",
+      "promise": "Let Mark scout and plan a clever getaway route, then have the twins and Mark test it in captured gameplay.",
+      "how": [
+        "Let Mark scout and plan a clever getaway route, then have the twins and Mark test it in captured gameplay.",
+        "Scout one legal-to-play route, explain the plan briefly, then attempt the getaway.",
+        "Resolve the actual result and guest reaction; send the complete story to post while room filming continues."
+      ],
+      "intro": [
+        {
+          "time": "0–5s",
+          "speaker": "ALEX",
+          "line": "Mark Rober is planning our escape in GTA 6.",
+          "show": "Show Mark Rober in the room, then the actual game objective."
+        },
+        {
+          "time": "5–15s",
+          "speaker": "ALAN",
+          "line": "We get one route and one attempt to make it work.",
+          "show": "Show the goal and agreed rules. Use only routes, ramps and vehicle mechanics present in the accessible game. The ramp art is illustrative; replace it if the recorded plan uses a different tactic. No modding, custom map or build tool assumed."
+        },
+        {
+          "time": "15–30s",
+          "speaker": "ALEX",
+          "line": "Mark, show us your plan.",
+          "show": "Hand over the controller and begin the first attempt."
+        }
+      ],
+      "turn": [
+        "ALAN",
+        "The plan only works if we hit this turn.",
+        "Show the real precision point and whether the plan survives it."
+      ],
+      "payoff": [
+        "ALEX",
+        "Did the plan actually work?",
+        "Resolve the attempted route in gameplay and compare it with the plan."
+      ]
     }
   },
   "cardToBrief": {
+    "G6-HOWIE": "pitch-gta-guests",
+    "G6-KAI": "pitch-gta-guests",
+    "G6-SPEED": "pitch-gta-guests",
+    "G6-BEAST": "pitch-gta-guests",
+    "G6-KEVIN": "pitch-gta-guests",
+    "G6-SNOOP": "pitch-gta-guests",
+    "G6-LUDWIG": "pitch-gta-guests",
+    "G6-ROBER": "pitch-gta-guests",
     "L02-A": "pitch-cities",
     "L02-B": "pitch-cities",
     "L02-C": "pitch-cities",

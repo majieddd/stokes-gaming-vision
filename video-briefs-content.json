@@ -1379,5 +1379,83 @@
         "A simple GTA objective keeps the guest block self-contained."
       ]
     ]
+  },
+  "pitch-gta-guests": {
+    "promise": "Turn Trapped Until I Beat GTA 6 into a repeatable guest-mission series: one celebrity, one complete GTA challenge, one standalone upload. Edit and release finished guest stories while the room challenge keeps recording, then use the full completion journey for the main film.",
+    "channel": "Stokes Twins Gaming · guest-mission series",
+    "how": [
+      "A guest enters the GTA room for one clear mission or challenge. Set the goal and rules immediately; the twins and guest take controller turns.",
+      "Film a complete story: guest arrival → goal → attempts → complication → final result. Send that finished guest block to a dedicated editor while the room keeps recording.",
+      "Publish each guest story as its own video. Save the overall progress, setbacks and final completion for Trapped Until I Beat GTA 6."
+    ],
+    "intro": [
+      [
+        "ALEX",
+        "We’re trapped until we beat GTA 6—and today, Howie Mandel is joining us.",
+        "Open on Howie entering the room, then cut to the bank objective."
+      ],
+      [
+        "ALAN",
+        "Before he leaves, we have to finish this heist.",
+        "Show the mission goal, Howie’s role and the escape target."
+      ],
+      [
+        "ALEX",
+        "Howie, you’re on the controller.",
+        "Start the first attempt. Each future episode gets its own guest, goal and opening."
+      ]
+    ],
+    "turn": [
+      "ALAN",
+      "That changes the plan.",
+      "Stay with a real mistake or unexpected choice that makes this guest’s attempt its own story."
+    ],
+    "payoff": [
+      "ALEX",
+      "Let’s see if we did it.",
+      "Resolve the guest’s mission and final reaction before returning to the main room story."
+    ],
+    "packaging": [
+      "A recognizable guest + one GTA activity + a concrete challenge or stake. Eight episode packages, each with a different guest.",
+      "Seven new images use one twin + the guest + a clear mission centerpiece. The recovered Howie vault image keeps both twins. Each package has a different composition and exact episode title.",
+      "The guest brings a distinct character to a self-contained mission. The series can produce separate uploads while the overall completion challenge develops."
+    ],
+    "support": "Proposed guests and scenarios; bookings, playable objectives and prize terms remain unconfirmed. Kai’s $100,000 race uses sequential timed runs unless supported multiplayer is verified. Influint’s October 22, 2026 public export supplies practitioner packaging guidance, not measured guest results or a forecast. The two other recovered Kai concepts remain in the original guest briefs and production timeline.",
+    "relatedLinks": [
+      {
+        "title": "Recovered Howie bank-heist concept",
+        "url": "episode-details.html#guest-howie"
+      },
+      {
+        "title": "Recovered Kai getaway concept",
+        "url": "episode-details.html#guest-kai"
+      },
+      {
+        "title": "Recovered guest-room concept",
+        "url": "episode-details.html#guest-room"
+      },
+      {
+        "title": "Rolling guest-episode production plan",
+        "url": "production-timeline.html#guests"
+      },
+      {
+        "title": "Download all 8 packages and prompts",
+        "url": "guest-mission-thumbnails/eight-guest-packages.zip"
+      },
+      {
+        "title": "Influint evidence notes and exact prompts",
+        "url": "gta-guest-missions.json"
+      }
+    ],
+    "refs": [
+      [
+        "jk6thMe6Vq8",
+        "The sustained completion challenge supplies the larger story around the standalone guest attempts."
+      ],
+      [
+        "xwdhHTtc-3w",
+        "A specific GTA pursuit is a reference for a clear, self-contained mission objective."
+      ]
+    ]
   }
 }
