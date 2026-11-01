@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-01",
+  "tool": "built-in image_gen",
+  "assetCount": 5,
+  "sourceGroup": "launch-gta6",
+  "ideaId": "idea-launch-gta6",
+  "prompts": "gta-trapped-thumbnails/prompts.json",
+  "method": "Five independent generations using the prior bank thumbnail for twin likeness only. Original generated PNGs copied unchanged; WebP previews are proportional encodings of the complete frame.",
+  "entries": [
+    {
+      "id": "L01-K",
+      "name": "Locked inside the gaming room",
+      "title": "Trapped Until We Beat GTA 6",
+      "full": "gta-trapped-thumbnails/locked-gaming-room.png",
+      "preview": "gta-trapped-thumbnails/locked-gaming-room-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "fa099d6efe91b0fa7a74886a5415f20a5411d5a566ba035bb8092d23c6b03189"
+    },
+    {
+      "id": "L01-L",
+      "name": "Hour 1 vs 100 hours \u2014 faces",
+      "title": "Trapped Inside GTA 6 Until We Beat It",
+      "full": "gta-trapped-thumbnails/hour-1-vs-100-faces.png",
+      "preview": "gta-trapped-thumbnails/hour-1-vs-100-faces-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6d2e97dd1a9bbb9de757a39f35b7230ef0e47f729994a03f4f4947df18aaeeb9"
+    },
+    {
+      "id": "L01-M",
+      "name": "The door will not open",
+      "title": "Trapped Until We Beat GTA 6",
+      "full": "gta-trapped-thumbnails/no-exit-door.png",
+      "preview": "gta-trapped-thumbnails/no-exit-door-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "5959461279eb4640ab3167941aea11a7a22f4702fefe63f84632b32813cbfdb2"
+    },
+    {
+      "id": "L01-N",
+      "name": "Hour 1 vs 100 hours \u2014 room collapse",
+      "title": "Trapped Inside GTA 6 Until We Beat It",
+      "full": "gta-trapped-thumbnails/hour-1-vs-100-room.png",
+      "preview": "gta-trapped-thumbnails/hour-1-vs-100-room-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "9802dec57feca8142ccc53c94c43f31028611719081f9a2a82e4882ab2e2491e"
+    },
+    {
+      "id": "L01-O",
+      "name": "Gaming behind a locked room window",
+      "title": "Trapped Until We Beat GTA 6",
+      "full": "gta-trapped-thumbnails/locked-room-window.png",
+      "preview": "gta-trapped-thumbnails/locked-room-window-preview.webp",
+      "width": 1672,
+      "height": 941,
+      "sha256": "abfb20ddf8619a69f25bf31c46c6e2a3b638d827191c0681f0747a90b1ad34b7"
+    }
+  ]
+}
