@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Data Scouting: the YouTube gaming channels whose long-form videos from the last 90 days average the most views, by genre."><title>Stokes · Data Scouting</title><link rel="stylesheet" href="data-scouting.css?v=2"></head>
+<body><a class="skip" href="#ledger">Skip to the ranking</a><header class="topbar"><a class="brand" href="data-scouting.html"><span>▶</span> STOKES <small>DATA SCOUTING</small></a><nav aria-label="Project"><a href="index.html">Vision doc</a><a href="canvas.html?scope=pitch">Canvas</a><a href="episode-details.html">Video briefs</a><a href="production-timeline.html">Timeline</a><a href="thumbnail-lab.html">Thumbnails</a></nav></header>
+<main>
+<header class="intro"><div><p class="eyebrow" id="eyebrow">DATA SCOUTING</p><h1 id="headline">Who's winning<br><span>long-form right now.</span></h1><p class="lede" id="lede">The YouTube channels in each gaming genre whose long-form videos from the last 90 days average the most views. Shorts and livestream replays are excluded.</p></div><div class="intro-stat"><strong id="stat-number">100</strong><span id="stat-label">channels ranked</span><small id="stat-note"></small></div></header>
+
+<div class="genres" role="tablist" aria-label="Genre" id="genres"></div>
+
+<p class="notice" id="notice" hidden></p>
+
+<section class="summary" id="summary" aria-label="Summary"></section>
+
+<section class="controls" aria-label="Filter channels"><div class="seg" role="group" aria-label="Channel type" id="type-filter"><button type="button" data-v="all" aria-pressed="true">All</button><button type="button" data-v="personality" aria-pressed="false">Personality</button><button type="button" data-v="faceless" aria-pressed="false">Faceless</button></div><label>Based in<select id="country-filter"><option value="">All countries</option></select></label><label>Sort by<select id="sort"><option value="rank">Avg views per video</option><option value="total">90-day long-form views</option><option value="median">Median views</option><option value="n">Videos posted</option><option value="subs">Subscribers</option></select></label><label class="search">Find a channel<input id="search" type="search" placeholder="Search channels…"></label><button type="button" id="hide-flagged" aria-pressed="false">Hide low engagement</button></section>
+
+<div class="results-line"><span id="result-count" role="status">Loading channels…</span><span>Average = 90-day long-form views ÷ long-form videos</span></div>
+<div class="ledger" id="ledger" tabindex="-1"><div class="row head" aria-hidden="true"><span>#</span><span>Channel</span><span>Type</span><span>Based in</span><span>Avg views</span><span>Videos · 90 days</span><span>Most-viewed video</span></div><div id="rows"></div></div>
+<p class="legend"><span><i class="pill personality">Personality</i>Real face in thumbnails or on camera</span><span><i class="pill faceless">Faceless</i>No real face shown; masks and avatars count as faceless</span><span><i class="pill warn">Low engagement</i>Under 0.3% likes per view on sampled videos</span></p>
+
+<details class="research" id="method"><summary>How the ranking was built <span id="method-meta"></span></summary><div id="method-content"></div></details>
+<footer><p id="footer-note">Public YouTube data. View counts are YouTube's rounded figures.</p><div id="downloads"></div></footer>
+</main>
+<script src="data-scouting.js?v=2" defer></script></body></html>

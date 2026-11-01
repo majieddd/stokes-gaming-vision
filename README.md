@@ -59,3 +59,11 @@ To rebuild after generating assets: `python scripts/build_thumbnail_lab.py`. The
 All 130 full JPEG thumbnails were recovered with their original SHA-256 checksums. The 168 earlier canvas concepts, title variants and review mappings are retained, and all 498 earlier image files are unchanged. Some WebP previews were re-encoded from checksum-matched original PNGs. See `thumbnail-lab/recovery-report.json` for the recovery record and the disclosed research-record limitation. Private conversation records and browser caches are excluded from this repository.
 
 [Download the 130 new thumbnails](https://github.com/majieddd/stokes-gaming-vision/releases/download/thumbnail-recovery-2026-10-30/Stokes-New-Thumbnails-130.zip).
+
+## Data Scouting · November 1, 2026
+
+[Data Scouting](https://majieddd.github.io/stokes-gaming-vision/data-scouting.html) ranks the top 100 YouTube channels in a gaming genre by average views per **long-form** video posted in the last 90 days. Only each channel's Videos tab counts; Shorts and livestream replays are excluded. Every channel is marked faceless or personality (real face in thumbnails or on camera) and placed by the country it lists, with inferred countries labeled as inferred. Channels under 0.3% likes per view on sampled videos are flagged as low engagement and can be hidden.
+
+GTA is live. Minecraft, Roblox, Fortnite and all gaming are queued as tabs. Each genre is one data file: `data-scouting/<genre>.json` (all ranked channels plus refill channels), `data-scouting/<genre>.csv` (the top 100) and `data-scouting/avatars/`. To publish a new genre, add its file and set `live: true` for it in `GENRES` at the top of `data-scouting.js`. The scraping pipeline that produces these files is kept outside this repository.
+
+Public YouTube data only: view counts are YouTube's rounded figures and upload dates come from its relative dates, so the 90-day edge is approximate by a few days.
