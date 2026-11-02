@@ -17,7 +17,21 @@
   {id:'pitch-civilizations',title:'I Simulated Every Video Game Civilization',groups:['new-civilizations'],note:'Stokes Twins main-channel pitch · top players build competing game civilizations.'}
  ];
  function catalog(groups){const claimed=new Set(seeds.flatMap(s=>s.groups)),byId=new Map(groups.map(g=>[g.id,g]));return [...seeds,...groups.filter(g=>!claimed.has(g.id)).map(g=>({id:'idea-'+g.id,title:g.name,groups:[g.id]}))].map(s=>{const source=s.groups.map(id=>byId.get(id)).filter(Boolean);return {...s,sourceGroups:source,cards:source.flatMap(g=>g.cards),titles:[...new Set([s.title,...(s.titles||[]),...source.flatMap(g=>[g.name,...(g.titleOptions||[]),...g.cards.map(c=>c.title)])])]};});}
- function defaults(ideas){return {version:1,updatedAt:null,collections:[{id:'pitch',name:'Videos to pitch',ideaIds:seeds.map(s=>s.id)},{id:'backlog',name:'Idea bank',ideaIds:ideas.filter(i=>!seeds.some(s=>s.id===i.id)).map(i=>i.id)}],titles:{},selectedTitles:{}};}
- function validate(raw,ideas){if(!raw||raw.version!==1||!Array.isArray(raw.collections)||raw.collections.length>100)throw Error('Choose a version 1 Stokes collection backup.');const known=new Map(ideas.map(i=>[i.id,i])),seen=new Set(),ids=new Set();const collections=raw.collections.map(c=>{if(typeof c.id!=='string'||!/^[a-z0-9-]{1,100}$/.test(c.id)||ids.has(c.id)||typeof c.name!=='string'||!c.name.trim()||c.name.length>80||!Array.isArray(c.ideaIds))throw Error('The collection backup has invalid names or IDs.');ids.add(c.id);const ideaIds=[];for(const id of c.ideaIds){if(known.has(id)&&!seen.has(id)){seen.add(id);ideaIds.push(id);}}return {id:c.id,name:c.name.trim(),ideaIds};});if(!ids.has('pitch'))collections.unshift({id:'pitch',name:'Videos to pitch',ideaIds:[]});if(!ids.has('backlog'))collections.push({id:'backlog',name:'Idea bank',ideaIds:[]});for(const idea of ideas.filter(i=>!seen.has(i.id))){const target=seeds.some(s=>s.id===idea.id)?'pitch':'backlog';collections.find(c=>c.id===target).ideaIds.push(idea.id);}const titles={},selectedTitles={};for(const i of ideas){const t=raw.titles?.[i.id];if(Array.isArray(t))titles[i.id]=[...new Set(t.filter(t=>typeof t==='string'&&t.trim()&&t.length<=240).slice(0,100).map(t=>t.trim()))];const selected=raw.selectedTitles?.[i.id];if(typeof selected==='string'&&[...i.titles,...(titles[i.id]||[])].includes(selected))selectedTitles[i.id]=selected;}return {version:1,updatedAt:typeof raw.updatedAt==='string'?raw.updatedAt:null,collections,titles,selectedTitles};}
+ function defaults(ideas){return {version:2,updatedAt:null,collections:[{id:'pitch',name:'Approved ideas',ideaIds:seeds.map(s=>s.id).filter(id=>ideas.some(i=>i.id===id))},{id:'all',name:'All ideas',ideaIds:ideas.map(i=>i.id)}],titles:{},selectedTitles:{}};}
+ function validate(raw,ideas){
+  if(!raw||![1,2].includes(raw.version)||!Array.isArray(raw.collections)||raw.collections.length>100)throw Error('Choose a version 1 or 2 Stokes collection backup.');
+  const known=new Map(ideas.map(i=>[i.id,i])),seen=new Set(),ids=new Set();
+  const previous=raw.collections.map(c=>{
+   if(!c||typeof c.id!=='string'||!/^[a-z0-9-]{1,100}$/.test(c.id)||ids.has(c.id)||typeof c.name!=='string'||!c.name.trim()||c.name.length>80||!Array.isArray(c.ideaIds))throw Error('The collection backup has invalid names or IDs.');
+   ids.add(c.id);const ideaIds=[...new Set(c.ideaIds.filter(id=>known.has(id)))];for(const id of ideaIds)seen.add(id);return {id:c.id,ideaIds};
+  });
+  const approved=[...(previous.find(c=>c.id==='pitch')?.ideaIds||[])];
+  // New seed ideas join Approved ideas; previously moved ideas stay in All ideas.
+  for(const seed of seeds)if(known.has(seed.id)&&!seen.has(seed.id)&&!approved.includes(seed.id))approved.push(seed.id);
+  const all=[...new Set([...(previous.find(c=>c.id==='all')?.ideaIds||[]),...ideas.map(i=>i.id)])];
+  const collections=[{id:'pitch',name:'Approved ideas',ideaIds:approved},{id:'all',name:'All ideas',ideaIds:all}];
+  const titles={},selectedTitles={};for(const i of ideas){const t=raw.titles?.[i.id];if(Array.isArray(t))titles[i.id]=[...new Set(t.filter(t=>typeof t==='string'&&t.trim()&&t.length<=240).slice(0,100).map(t=>t.trim()))];const selected=raw.selectedTitles?.[i.id];if(typeof selected==='string'&&[...i.titles,...(titles[i.id]||[])].includes(selected))selectedTitles[i.id]=selected;}
+  return {version:2,updatedAt:typeof raw.updatedAt==='string'?raw.updatedAt:null,collections,titles,selectedTitles};
+ }
  const api={seeds,catalog,defaults,validate};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.StokesCollectionsModel=api;
 })(typeof window!=='undefined'?window:this);

@@ -5,7 +5,7 @@
  const organizer=window.StokesCollections;let renderedGroups=data.groups,observer=null;
  const all=data.groups.flatMap(g=>g.cards),byId=new Map(all.map(c=>[c.id,c])),reviewHome=drawer.parentElement,reviewSlot=$('#slideshow-review-slot');
  const ORIGIN='https://giscus.app',cacheKey='stokes-discussion-review-counts-v2';
- let scope=new URLSearchParams(location.search).get("scope")||data.defaultScope||"launch",shortlistOnly=false;
+ let scope=new URLSearchParams(location.search).get("scope")||"all",shortlistOnly=false;
  let metrics={...data.initialMetrics},likedOnly=false,zoom=1,current=null,opener=null,review=null,reviewOpener=null,skipCloseFocus=false,slideshow=false,slideCards=[];
  let frameReady=false,reviewTimer=null,lastRefresh=0,countFrame=null,countReady=false,pendingCount=null,countTimer=null,authPopup=null;
  const inFlight=new Set(),queue=[],viewerLikes=new Map();
@@ -119,9 +119,9 @@
  let drag=null;viewport.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse'&&e.button===0&&!e.target.closest('button,a,input,.video-card')){drag={x:e.clientX,y:e.clientY,left:viewport.scrollLeft,top:viewport.scrollTop};viewport.setPointerCapture(e.pointerId);viewport.classList.add('dragging');}});viewport.addEventListener('pointermove',e=>{if(drag){viewport.scrollLeft=drag.left-(e.clientX-drag.x);viewport.scrollTop=drag.top-(e.clientY-drag.y);}});function stop(){drag=null;viewport.classList.remove('dragging');}viewport.addEventListener('pointerup',stop);viewport.addEventListener('pointercancel',stop);viewport.addEventListener('wheel',e=>{if(e.shiftKey&&Math.abs(e.deltaY)>Math.abs(e.deltaX)){e.preventDefault();viewport.scrollLeft+=e.deltaY;}},{passive:false});
  function hash(){const id=decodeURIComponent(location.hash.slice(1)).replace(/^card-/,'');if(byId.has(id)){if(!$('#card-'+id)||$('#card-'+id).hidden)reset();const c=$('#card-'+id);viewport.scrollTop=Math.max(0,c.offsetTop*zoom-25);viewport.scrollLeft=Math.max(0,c.offsetLeft*zoom-30);open(id,c.querySelector('button'));}}
  try{const cached=JSON.parse(localStorage.getItem(cacheKey)||'null');if(cached&&typeof cached==='object')for(const c of all){const m=cached[c.id];if(m&&Number.isFinite(m.likes)&&Number.isFinite(m.comments)&&m.likes>=0&&m.comments>=0)metrics[c.id]=m;}}catch{}
- if(!organizer?.isScope(scope)&&!['all','refreshed','launch','updated','episode1','episode2','episode3'].includes(scope))scope='launch';
+ scope=organizer?.isScope(scope)&&scope!=='collection:all'?'collection:pitch':'all';
  render();observer=new IntersectionObserver(entries=>entries.filter(e=>e.isIntersecting).forEach(e=>enqueue(byId.get(e.target.dataset.id))),{root:viewport});document.querySelectorAll('.video-card').forEach(c=>observer.observe(c));
  window.addEventListener('storage',e=>{if(e.key==='stokes-thumbnail-shortlist-2026-10-30'){loadThumbnailFavorites();if(shortlistOnly)filter();}});window.addEventListener('focus',()=>{loadThumbnailFavorites();if(shortlistOnly)filter();});
- window.addEventListener('stokescollectionschange',()=>{if(scope.startsWith('collection:')&&!organizer.isScope(scope))scope='collection:pitch';render();});
+ window.addEventListener('stokescollectionschange',()=>{if(scope.startsWith('collection:')&&!organizer.isScope(scope))scope='all';render();});
  $('#feedback-status').textContent='Shared reviews ready · Like and comment in the panel';hash();window.addEventListener('hashchange',hash);window.addEventListener('resize',size);
 })();

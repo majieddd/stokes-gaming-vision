@@ -28,7 +28,7 @@ const context={window:{}};
 vm.createContext(context);for(const file of ['canvas-data.js','canvas-new-pitches.js','canvas-guest-missions.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
 const data=JSON.parse(JSON.stringify(context.window.STOKES_CANVAS));
 const ideas=C.catalog(data.groups),state=C.defaults(ideas),original=data.groups.flatMap(g=>g.cards),catalog=ideas.flatMap(i=>i.cards);
-assert.equal(state.collections[0].name,'Videos to pitch');assert.equal(state.collections[0].ideaIds.length,14);
+assert.equal(state.collections[0].name,'Approved ideas');assert.equal(state.collections[0].ideaIds.length,14);
 assert.equal(catalog.length,original.length);assert.equal(new Set(catalog.map(c=>c.id)).size,original.length);
 const identity=cards=>cards.map(c=>[c.id,c.full,c.preview,c.discussion,c.discussionId]).sort();
 assert.deepEqual(identity(catalog),identity(original));
@@ -37,13 +37,30 @@ assert(ideas.find(i=>i.id==='pitch-disasters').titles.includes('Every minute ano
 state.collections.push({id:'custom-test',name:'Ready to film',ideaIds:[state.collections[0].ideaIds.shift()]});
 state.titles['pitch-disasters']=['New disaster title'];state.selectedTitles['pitch-disasters']='New disaster title';
 const loaded=C.validate(JSON.parse(JSON.stringify(state)),ideas);
-assert.equal(loaded.collections.find(c=>c.id==='custom-test').ideaIds[0],'pitch-gta-guests');
+assert.deepEqual(loaded.collections.map(c=>c.id),['pitch','all']);
+assert(loaded.collections.find(c=>c.id==='all').ideaIds.includes('pitch-gta-guests'));
+assert(!loaded.collections.find(c=>c.id==='pitch').ideaIds.includes('pitch-gta-guests'));
 assert.equal(loaded.selectedTitles['pitch-disasters'],'New disaster title');
 assert.equal(new Set(loaded.collections.flatMap(c=>c.ideaIds)).size,ideas.length);
 const recovered=C.validate({version:1,collections:[]},ideas);
-assert.equal(recovered.collections.flatMap(c=>c.ideaIds).length,ideas.length);
-assert.throws(()=>C.validate({version:2,collections:[]},ideas));
+assert.equal(recovered.collections.find(c=>c.id==='all').ideaIds.length,ideas.length);
+assert.equal(recovered.collections.find(c=>c.id==='pitch').ideaIds.length,C.seeds.length);
+assert.throws(()=>C.validate({version:3,collections:[]},ideas));
 assert.throws(()=>C.validate({version:1,collections:[{id:'same',name:'A',ideaIds:[]},{id:'same',name:'B',ideaIds:[]}]},ideas));
 console.log('Passed: timeline dependencies, launch gating, rolling edits, asset/review preservation, title retention and collection backup round-trip.');
 
 const oldState=JSON.parse(JSON.stringify(C.defaults(ideas)));for(const col of oldState.collections)col.ideaIds=col.ideaIds.filter(id=>!['pitch-minecraft-halo','pitch-civilizations'].includes(id));const upgraded=C.validate(oldState,ideas);assert(upgraded.collections.find(c=>c.id==='pitch').ideaIds.includes('pitch-minecraft-halo'));assert(upgraded.collections.find(c=>c.id==='pitch').ideaIds.includes('pitch-civilizations'));
+
+// Previous browser saves and backups lose obsolete groups, while approved order
+// and title choices survive. Returning an idea to All ideas survives a reload.
+const legacy={version:1,collections:[{id:'pitch',name:'Videos to pitch',ideaIds:['pitch-car','pitch-disasters']},{id:'backlog',name:'Idea bank',ideaIds:ideas.filter(i=>!['pitch-car','pitch-disasters','pitch-cities'].includes(i.id)).map(i=>i.id)},{id:'custom-ready',name:'Ready to film',ideaIds:['pitch-cities']}],titles:{'pitch-disasters':['Saved title']},selectedTitles:{'pitch-disasters':'Saved title'}};
+const migrated=C.validate(legacy,ideas);
+assert.deepEqual(migrated.collections.map(c=>c.name),['Approved ideas','All ideas']);
+assert.deepEqual(migrated.collections[0].ideaIds,['pitch-car','pitch-disasters']);
+assert.equal(migrated.collections[1].ideaIds.length,ideas.length);
+assert.equal(migrated.selectedTitles['pitch-disasters'],'Saved title');
+assert.deepEqual(C.validate(JSON.parse(JSON.stringify(migrated)),ideas),migrated);
+migrated.collections[0].ideaIds.shift();
+assert.deepEqual(C.validate(migrated,ideas).collections[0].ideaIds,['pitch-disasters']);
+assert.equal(C.validate(C.validate(legacy,ideas),ideas).version,2);
+console.log('Passed: two collection views, legacy cleanup, approved membership/order and saved title migration.');

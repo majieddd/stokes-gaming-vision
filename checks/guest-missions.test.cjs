@@ -19,7 +19,7 @@ for(const asset of plan.recoveredOriginals){const current=fs.readFileSync(asset.
 const C=require('../canvas-collections-model.js'),ideas=C.catalog(groups),defaults=C.defaults(ideas);
 const prior=JSON.parse(JSON.stringify(defaults));for(const col of prior.collections)col.ideaIds=col.ideaIds.filter(id=>id!==plan.ideaId);
 prior.collections.find(c=>c.id==='pitch').ideaIds=prior.collections.find(c=>c.id==='pitch').ideaIds.filter(id=>id!=='pitch-cities');prior.collections.push({id:'custom-ready',name:'Ready to film',ideaIds:['pitch-cities']});prior.titles['pitch-car']=['My saved race title'];prior.selectedTitles['pitch-car']='My saved race title';
-const migrated=C.validate(prior,ideas);assert(migrated.collections.find(c=>c.id==='pitch').ideaIds.includes(plan.ideaId));assert.deepEqual(migrated.collections.find(c=>c.id==='custom-ready').ideaIds,['pitch-cities']);assert.equal(migrated.selectedTitles['pitch-car'],'My saved race title');
+const migrated=C.validate(prior,ideas);assert(migrated.collections.find(c=>c.id==='pitch').ideaIds.includes(plan.ideaId));assert(!migrated.collections.some(c=>c.id==='custom-ready'));assert(migrated.collections.find(c=>c.id==='all').ideaIds.includes('pitch-cities'));assert(!migrated.collections.find(c=>c.id==='pitch').ideaIds.includes('pitch-cities'));assert.equal(migrated.selectedTitles['pitch-car'],'My saved race title');
 assert.equal(ideas.find(i=>i.id===plan.ideaId).cards.length,8);
 assert.match(read('canvas.html'),/canvas-guest-missions\.js/);
 console.log('Passed: 8 distinct guest packages, earlier 298 cards/reviews and 3 recovered originals preserved, variant routes and saved-collection migration.');
