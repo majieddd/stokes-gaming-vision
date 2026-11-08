@@ -1,5 +1,13 @@
 # Stokes Gaming creative launch vision
 
+## Shared feedback on every thumbnail · November 8, 2026
+
+All 311 canvas thumbnails support shared emoji reactions and comments, including the 145 newer cards that had no pre-created Discussion. The 166 existing numbered Discussion bindings are retained. Cards without a binding use a strict, stable `Stokes thumbnail <card ID>` term; giscus creates the Discussion on the first signed-in reaction or comment. New thumbnails use this path automatically. Feedback follows the thumbnail ID when titles, collections or views change.
+
+Each thumbnail gets its own review iframe so switching cards cannot reuse a different card's thread, draft or pending Discussion creation. Public count readers stay anonymous; missing threads show zero counts and do not stop the queue. Counts and the Reacted filter include all emoji types. Both existing GitHub sign-in routes remain supported.
+
+`canvas-feedback-model.js` owns routing and metadata validation. Run `node checks/feedback.test.cjs` for full-catalog coverage, stable identity, existing-thread preservation and reaction-count checks.
+
 ## GTA 6 guest-mission series · November 1, 2026
 
 **GTA 6 With Celebrity Guests** is a separate Videos to pitch idea with eight packages: Howie Mandel, Kai Cenat, IShowSpeed, MrBeast, Kevin Hart, Snoop Dogg, Ludwig and Mark Rober. Each guest has a standalone mission story and opening, while the overall room-completion challenge keeps filming. The original Howie vault thumbnail is reused unchanged; seven new images were generated. The two earlier Kai alternatives remain linked from the series brief and in the production timeline.
