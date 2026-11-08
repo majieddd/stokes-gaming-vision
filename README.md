@@ -1,8 +1,14 @@
 # Stokes Gaming creative launch vision
 
+## World’s Greatest Video Game · 19 cut-based concepts · November 8, 2026
+
+The first canvas collection now starts with 19 independently generated thumbnail concepts drawn from the 10:42 review cut: Rainbow Road crossovers, Titans/Godzilla in the GTA city, the Nether defense/Godrick round and the Galactus finale. Each concept includes source timecodes, a distinct visual question and an Influint packaging rationale. All 311 earlier cards, artwork paths and shared-review identities are retained; the canvas has 330 concepts.
+
+`canvas-footage-thumbnails.js` adds the concepts without replacing source artwork. `footage-thumbnails/manifest.json` records every prompt, image hash, timestamp and applied Influint claim with its standing. Source share URLs and raw footage are excluded. These are visual packaging proposals, not literal frames, measured CTR winners or promised performance gains. Shared reactions and comments use the same automatic per-thumbnail system.
+
 ## Shared feedback on every thumbnail · November 8, 2026
 
-All 311 canvas thumbnails support shared emoji reactions and comments, including the 145 newer cards that had no pre-created Discussion. The 166 existing numbered Discussion bindings are retained. Cards without a binding use a strict, stable `Stokes thumbnail <card ID>` term; giscus creates the Discussion on the first signed-in reaction or comment. New thumbnails use this path automatically. Feedback follows the thumbnail ID when titles, collections or views change.
+All 330 canvas thumbnails support shared emoji reactions and comments, including the 164 cards without a pre-created Discussion. The 166 existing numbered Discussion bindings are retained. Cards without a binding use a strict, stable `Stokes thumbnail <card ID>` term; giscus creates the Discussion on the first signed-in reaction or comment. New thumbnails use this path automatically. Feedback follows the thumbnail ID when titles, collections or views change.
 
 Each thumbnail gets its own review iframe so switching cards cannot reuse a different card's thread, draft or pending Discussion creation. Public count readers stay anonymous; missing threads show zero counts and do not stop the queue. Counts and the Reacted filter include all emoji types. Both existing GitHub sign-in routes remain supported.
 
