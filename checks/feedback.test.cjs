@@ -21,7 +21,24 @@ assert(F.matches(card,discussion,data.repo));
 assert(!F.matches(card,{...discussion,id:'another-thread'},data.repo));
 assert(!F.matches(card,{...discussion,url:discussion.url+'0'},data.repo));
 assert(!F.matches(card,{...discussion,repository:{nameWithOwner:'another/repo'}},data.repo));
-assert.deepEqual(F.metrics(discussion),{likes:1,reactions:4,comments:5},'All emoji reactions and comment replies count');
+const emojiTypes={THUMBS_UP:'👍',THUMBS_DOWN:'👎',LAUGH:'😄',HOORAY:'🎉',CONFUSED:'😕',HEART:'❤️',ROCKET:'🚀',EYES:'👀'};
+const breakdown=Object.fromEntries(Object.keys(emojiTypes).map(key=>[key,key==='THUMBS_UP'?1:key==='HEART'?3:0]));
+assert.deepEqual(F.metrics(discussion),{likes:1,reactions:4,reactionCounts:breakdown,comments:5},'Preserve every emoji count as well as totals and comment replies');
+const mixed=F.reactionPreview(F.metrics(discussion));
+assert.equal(mixed.text,'👍 1 · ❤️ 3');assert.match(mixed.description,/Thumbs up: 1, Heart: 3/);
+for(const [key,emoji] of Object.entries(emojiTypes)){
+ const single=F.metrics({...discussion,reactionCount:2,reactions:{[key]:{count:2}}}),preview=F.reactionPreview(single);
+ assert.equal(preview.text,emoji+' 2','Single reactions must preview their own emoji: '+key);
+ assert.equal(preview.items.length,1);assert.equal(preview.items[0].key,key);
+ assert.deepEqual(F.reactionPreview(JSON.parse(JSON.stringify(single))),preview,'Cached breakdowns retain their emoji');
+}
+const everyEmoji=F.metrics({...discussion,reactionCount:8,reactions:Object.fromEntries(Object.keys(emojiTypes).map(key=>[key,{count:1}]))});
+assert.equal(F.reactionPreview(everyEmoji).items.length,8,'Mixed feedback must not hide any reaction type');
+assert.equal(F.reactionPreview(F.metrics({...discussion,reactionCount:0,reactions:{}})).text,'Reactions 0','Removing the last reaction clears old emoji previews');
+assert.equal(F.reactionPreview({likes:0,reactions:4,comments:0}).text,'Reactions 4','Legacy totals never masquerade as thumbs-up reactions');
+assert.equal(F.reactionPreview(null,'…').text,'Reactions …');
+assert.equal(F.metrics({...discussion,reactionCount:undefined}).reactions,4,'Fallback totals include non-thumbs-up emoji');
+for(const count of [-1,1.5,NaN,'2'])assert.equal(F.metrics({...discussion,reactions:{HEART:{count}}}),null,'Reject invalid per-emoji counts');
 assert.equal(F.metrics({...discussion,reactionCount:-1}),null);
 assert.equal(F.metrics({...discussion,totalCommentCount:NaN}),null);
 const fresh=newCards[0];assert(F.matches(fresh,discussion,data.repo));
@@ -30,4 +47,5 @@ assert(!F.matches(fresh,{...discussion,url:'https://example.com/discussions/1'},
 assert(F.isUncreated(fresh,'Discussion not found.'));
 assert(!F.isUncreated(card,'Discussion not found.'));
 assert(!F.isUncreated(fresh,'API rate limit exceeded'));
-console.log('Passed: all 330 feedback destinations, 166 existing threads, 164 automatic threads, stable thumbnail identity, metadata isolation and all-emoji counts.');
+console.log('Passed: all 330 feedback destinations, 166 existing threads, 164 automatic threads, stable thumbnail identity, metadata isolation, all-emoji previews, removal and cache restoration.');
+

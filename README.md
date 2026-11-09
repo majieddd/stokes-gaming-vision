@@ -1,5 +1,9 @@
 # Stokes Gaming creative launch vision
 
+## Actual emoji previews · November 9, 2026
+
+Thumbnail cards and the image viewer show each emoji actually received with its own count, including mixed reactions. Empty or not-yet-loaded counts use a neutral Reactions label. The breakdown follows the existing shared-feedback sync, is cached with the counts and supports all eight GitHub reactions. Version 3 of the count cache refreshes older totals that had no emoji breakdown. Reaction chips wrap within their card; the same control still opens shared feedback.
+
 ## World’s Greatest Video Game · 19 cut-based concepts · November 8, 2026
 
 The first canvas collection now starts with 19 independently generated thumbnail concepts drawn from the 10:42 review cut: Rainbow Road crossovers, Titans/Godzilla in the GTA city, the Nether defense/Godrick round and the Galactus finale. Each concept includes source timecodes, a distinct visual question and an Influint packaging rationale. All 311 earlier cards, artwork paths and shared-review identities are retained; the canvas has 330 concepts.
@@ -91,3 +95,4 @@ All 130 full JPEG thumbnails were recovered with their original SHA-256 checksum
 GTA is live. Minecraft, Roblox, Fortnite and all gaming are queued as tabs. Each genre is one data file: `data-scouting/<genre>.json` (all ranked channels plus refill channels), `data-scouting/<genre>.csv` (the top 100) and `data-scouting/avatars/`. To publish a new genre, add its file and set `live: true` for it in `GENRES` at the top of `data-scouting.js`. The scraping pipeline that produces these files is kept outside this repository.
 
 Public YouTube data only: view counts are YouTube's rounded figures and upload dates come from its relative dates, so the 90-day edge is approximate by a few days.
+

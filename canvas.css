@@ -29,6 +29,13 @@ dialog.slideshow[open]{display:grid;grid-template-rows:auto minmax(0,1fr)}
 @media(max-width:1100px) and (min-width:701px){:root{--review-width:360px}}
 @media(max-width:700px){.review-drawer{flex:0 1 52%;width:100%;min-height:230px;border-left:0;border-top:1px solid var(--line)}.workspace.reviewing #viewport{min-height:150px}.workspace.reviewing .rail{flex-basis:48px}.review-header{padding:12px;position:sticky;top:0;background:var(--surface);z-index:1}.review-header h2{font-size:15px}.review-header p{margin-bottom:4px}.review-body{padding:12px}#review-preview{display:none}.review-help{margin-bottom:8px}.detail-review-line{flex-wrap:wrap;gap:10px}.topbar nav button{font-size:12px;padding:6px 9px;min-height:32px}}
 
+/* Preview the actual shared emojis; long mixtures wrap within the card. */
+.card-actions{flex-wrap:wrap}
+.card-actions [data-like]{max-width:100%;white-space:normal;text-align:left}
+.reaction-preview{display:flex;align-items:center;flex-wrap:wrap;gap:4px 8px}
+.reaction-chip{display:inline-flex;align-items:center;gap:3px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.reaction-emoji{font-size:15px;line-height:1}
+
 /* Launch filters and phone collections reuse the established canvas primitives. */
 :root{--row-padding:40px;--scope-width:230px;--control-focus:3px;--phone-rail:150px}
 body{display:grid;height:100dvh;grid-template-columns:minmax(0,1fr);grid-template-rows:var(--bar) auto minmax(0,1fr) var(--status)}
@@ -47,3 +54,4 @@ body{display:grid;height:100dvh;grid-template-columns:minmax(0,1fr);grid-templat
 :is(a,button,input,select,summary,main):focus-visible{outline:var(--control-focus) solid var(--text);outline-offset:3px}
 @media(max-width:1000px){.topbar nav{gap:12px}.topbar nav a:nth-child(2){display:none}}
 @media(max-width:700px){:root{--row-padding:24px}.toolbar{min-height:0;gap:8px}.scope-control{flex:1 1 100%}#review-scope{width:100%;max-width:100%}.search{flex:1 1 180px}#toggle-collections{display:block}.rail{display:none;flex:0 0 var(--phone-rail);max-height:var(--phone-rail);overflow:auto}.collections-open .rail{display:block}#format-nav{width:auto;display:grid;grid-template-columns:1fr 1fr}#format-nav button{max-width:none;white-space:normal}#format-nav small{display:block}.zoom{margin-left:0}#refresh-feedback{margin-left:auto}.topbar nav{gap:8px}.identity strong{font-size:14px}.topbar nav button{font-size:12px}.statusbar{gap:8px}#scope-count{white-space:nowrap}.format-heading h2{font-size:20px}.detail-top h1{font-size:16px}}
+
