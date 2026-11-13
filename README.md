@@ -1,5 +1,13 @@
 # Stokes Gaming creative launch vision
 
+## I Found The Leaked GTA 6 · 20 new concepts · November 13, 2026
+
+The existing GTA prank collection now starts with 20 independently generated thumbnails and retains all ten earlier options. The canvas has 350 concepts; every card keeps its own shared emoji reactions and comments. The episode brief also shows the new artwork. [Review the new concepts](https://majieddd.github.io/stokes-gaming-vision/canvas.html#card-L03-LEAK-01) · [Download all 20](https://majieddd.github.io/stokes-gaming-vision/leak-thumbnails/gta-leak-20-concepts.zip).
+
+`leak-thumbnails/creative-directions.json` records the prompts and revisions, and `manifest.json` binds each image, preview and retained original to its SHA-256 hash. `research.json` records the November 13 public Influint standings and visually inspected secret/illegal-version references. These are staged-prank proposals requiring matching episode material, not authentic leaked screenshots or measured CTR winners. Built-in image generation was used; the underlying model is unverified. The supplied likeness reference was existing board concept art, so these are concept likenesses rather than verified source portraits.
+
+Rebuild with `python3 scripts/build_leak_thumbnails.py` after supplying the ignored local source-path mapping. Check with `node checks/leak-thumbnails.test.cjs` and `node checks/feedback.test.cjs`. The module is additive and preserves all 330 earlier card objects, image paths and shared-feedback identities.
+
 ## Actual emoji previews · November 9, 2026
 
 Thumbnail cards and the image viewer show each emoji actually received with its own count, including mixed reactions. Empty or not-yet-loaded counts use a neutral Reactions label. The breakdown follows the existing shared-feedback sync, is cached with the counts and supports all eight GitHub reactions. Version 3 of the count cache refreshes older totals that had no emoji breakdown. Reaction chips wrap within their card; the same control still opens shared feedback.

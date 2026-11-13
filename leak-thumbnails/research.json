@@ -1,0 +1,106 @@
+{
+  "retrievedAt": "2026-11-13",
+  "access_mode": "public-export",
+  "limits": "No authenticated Influint API or private Stokes CTR baseline was available. Composition guidance below is practitioner theory/warning, not measured proof of thumbnail depiction effects or predicted uplift. Public reference views were not used as CTR evidence.",
+  "sources": [
+    {
+      "url": "https://majieddd.github.io/influint-channels-public/llms.txt",
+      "use": "Verified current measurement reach and public-export limits."
+    },
+    {
+      "url": "https://majieddd.github.io/influint-channels-public/intelligence-system.html",
+      "use": "Checked method and evidence standings."
+    },
+    {
+      "url": "https://majieddd.github.io/influint-channels-public/intelligence/standing-theory.html",
+      "claims": [
+        {
+          "id": "4505a04bba4d",
+          "standing": "Theory",
+          "application": "Restrict visual hierarchy to roughly three focal masses.",
+          "measured": false
+        },
+        {
+          "id": "265fca22f811",
+          "standing": "Theory",
+          "application": "Review concepts at 320x180 and 160x90.",
+          "measured": false
+        },
+        {
+          "id": "276ef234433b",
+          "standing": "Theory",
+          "application": "Let the image pose a concrete question alongside the title.",
+          "measured": false
+        }
+      ]
+    },
+    {
+      "url": "https://majieddd.github.io/influint-channels-public/intelligence/standing-warning.html",
+      "claims": [
+        {
+          "id": "171390bd2f12",
+          "standing": "Warning",
+          "application": "Separate subjects and backdrop using color and light.",
+          "measured": false
+        },
+        {
+          "id": "b5e93a77642b",
+          "standing": "Warning",
+          "application": "Avoid borrowing clutter merely because a large channel uses it.",
+          "measured": false
+        }
+      ],
+      "scopeExclusion": "c2cc6f0d497b concerns Outdoors audiences; it is not treated as measured gaming evidence."
+    },
+    {
+      "url": "https://majieddd.github.io/influint-channels-public/intelligence/niche-gaming.html",
+      "use": "Gaming swap-test theory: transfer secret-version novelty into a Stokes staged-prank context rather than copying game-specific horror beats."
+    }
+  ],
+  "visualReferences": [
+    {
+      "title": "I Played the ILLEGAL Baldi's Basics Mod!",
+      "channel": "The Frustrated Gamer",
+      "url": "https://www.youtube.com/watch?v=0JiELgqWE6U",
+      "observation": "Search-result thumbnail viewed: large creator face left, one anomalous screen center and a directional arrow. Adapted the readable forbidden-version cue without copying the horror scene."
+    },
+    {
+      "title": "There's a Secret Version of Windows XP",
+      "channel": "Action Retro",
+      "url": "https://www.youtube.com/watch?v=lLDFSfla4TE",
+      "observation": "Search-result thumbnail viewed: disc held close to camera, short concealment label and a secondary reaction. Adapted the object-first mystery to a staged GTA drive, case and disc."
+    },
+    {
+      "title": "I Played EVERY Secret Free Fire Version",
+      "channel": "Azxc Gaming",
+      "url": "https://www.youtube.com/watch?v=Y4JPnT6gJzM",
+      "observation": "Search-result thumbnail viewed: hush gesture and one distinct game-world version. Used the secrecy gesture selectively while varying the camera, action and setting."
+    },
+    {
+      "title": "Spider-Man riding a Minecraft pig",
+      "url": "https://majieddd.github.io/stokes-gaming-vision/footage-thumbnails/MV-CUT-12.jpg",
+      "observation": "Existing board concept visually inspected for creator likeness, bright photographic face rendering and cinematic immersive game compositing. It is a concept likeness reference, not a verified source portrait."
+    }
+  ],
+  "canvasReferences": [
+    {
+      "title": "Influint · focus, glance test and title/image roles",
+      "url": "https://majieddd.github.io/influint-channels-public/intelligence/standing-theory.html",
+      "standing": "Theory · checked Nov 13, 2026",
+      "observation": "4505a04bba4d, 265fca22f811, 276ef234433b. Design hypotheses; no measured CTR gain claimed."
+    },
+    {
+      "title": "Influint · separation and clutter",
+      "url": "https://majieddd.github.io/influint-channels-public/intelligence/standing-warning.html",
+      "standing": "Warning · checked Nov 13, 2026",
+      "observation": "171390bd2f12 and b5e93a77642b. Practitioner failure modes, not gaming intervention evidence."
+    },
+    {
+      "title": "Secret-version object reveal",
+      "channel": "Action Retro",
+      "url": "https://www.youtube.com/watch?v=lLDFSfla4TE",
+      "standing": "Visual reference · Nov 13, 2026",
+      "observation": "Large mystery object plus a short reveal cue. Composition inspiration only."
+    }
+  ]
+}

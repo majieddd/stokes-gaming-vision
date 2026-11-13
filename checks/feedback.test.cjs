@@ -2,9 +2,9 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm'),path=require('node:path');
 const root=path.resolve(__dirname,'..'),F=require(path.join(root,'canvas-feedback-model.js'));
 const context={window:{},document:{querySelector:()=>null}};vm.createContext(context);
-for(const name of ['canvas-data.js','canvas-new-pitches.js','canvas-guest-missions.js','canvas-thumbnail-refresh.js','canvas-gta-trapped.js','canvas-footage-thumbnails.js'])vm.runInContext(fs.readFileSync(path.join(root,name),'utf8'),context);
+for(const name of ['canvas-data.js','canvas-new-pitches.js','canvas-guest-missions.js','canvas-thumbnail-refresh.js','canvas-gta-trapped.js','canvas-footage-thumbnails.js','canvas-leak-thumbnails.js'])vm.runInContext(fs.readFileSync(path.join(root,name),'utf8'),context);
 const data=JSON.parse(JSON.stringify(context.window.STOKES_CANVAS)),cards=data.groups.flatMap(g=>g.cards),existing=cards.filter(c=>c.discussion),newCards=cards.filter(c=>!c.discussion);
-assert.equal(cards.length,330);assert.equal(existing.length,166);assert.equal(newCards.length,164);
+assert.equal(cards.length,350);assert.equal(existing.length,166);assert.equal(newCards.length,184);
 assert.equal(new Set(cards.map(c=>c.id)).size,cards.length);
 assert.equal(new Set(cards.map(c=>{const t=F.target(c);return t.mapping+':'+t.term;})).size,cards.length,'Every thumbnail has an independent feedback destination');
 for(const card of cards){
@@ -47,5 +47,5 @@ assert(!F.matches(fresh,{...discussion,url:'https://example.com/discussions/1'},
 assert(F.isUncreated(fresh,'Discussion not found.'));
 assert(!F.isUncreated(card,'Discussion not found.'));
 assert(!F.isUncreated(fresh,'API rate limit exceeded'));
-console.log('Passed: all 330 feedback destinations, 166 existing threads, 164 automatic threads, stable thumbnail identity, metadata isolation, all-emoji previews, removal and cache restoration.');
+console.log('Passed: all 350 feedback destinations, 166 existing threads, 184 automatic threads, stable thumbnail identity, metadata isolation, all-emoji previews, removal and cache restoration.');
 

@@ -4,3 +4,5 @@ __pycache__/
 
 thumbnail-lab/generated-assets.jsonl
 thumbnail-lab/uploaded-blobs.jsonl
+
+leak-thumbnails/generated-sources.local.json
