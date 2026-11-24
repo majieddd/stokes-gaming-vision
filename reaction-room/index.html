@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="description" content="Stokes Gaming reaction footage. Browse tests, switch between shots, and play the footage without a Sheets connection.">
+  <title>Stokes Reaction Room</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./reaction-room.css?v=b3d48b0fc779">
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <a class="brand" href="./" aria-label="Stokes Reaction Room home"><img src="./favicon.svg" alt=""><span>STOKES<span class="brand-sub">REACTION ROOM</span></span></a>
+    <div class="workspace-label"><span class="workspace-glyph" aria-hidden="true">▶</span><div>GTA VI<span>Production workspace</span></div></div>
+    <div class="nav-heading">YOUR LIBRARY</div>
+    <nav class="library-nav" aria-label="Library">
+      <button data-scope="all" class="active">Footage library<span id="nav-count">10</span></button>
+      <button data-scope="new">New shots<span>6</span></button>
+      <button data-scope="cuts">Prepared cuts<span>4</span></button>
+    </nav>
+    <div class="nav-heading talent-heading">TALENT</div>
+    <div class="talent-nav" id="talent-nav"></div>
+    <div class="sidebar-bottom"><div class="sheet-card"><strong>Ready when you are</strong><p>Choose a test, then switch shots above the player. Check for new footage as more clips are added.</p></div><div class="sidebar-footer"><span class="avatar">S</span><div>Stokes Gaming<span>Reaction footage library</span></div></div></div>
+  </aside>
+  <main class="main-content">
+    <header class="topbar"><div><span class="mobile-brand">STOKES</span><span class="breadcrumb">Production <span>/</span> Reaction footage</span></div><div class="topbar-actions"><span class="private-tag">Production library</span><button class="button secondary refresh-button" id="refresh">Check for new footage</button></div></header>
+    <div class="page-inner">
+      <section class="page-heading"><div><p class="eyebrow">GTA VI · REACTION LIBRARY</p><h1>Press play.<br class="mobile-break"> Find your next reaction.</h1><p class="page-subtitle">The footage, the context, and the next clip. All in one place.</p></div><div class="heading-count"><span id="video-count">10</span><div>videos in your library<small id="entry-count">8 filming entries</small></div></div></section>
+      <section class="library-section" aria-label="Footage list">
+        <div class="section-heading"><div><h2 id="list-title">All footage</h2><p id="list-description">Six new shots and four prepared cuts, grouped by test.</p></div><span class="source-state" id="library-state" role="status" aria-live="polite">Library ready</span></div>
+        <div class="view-tabs" role="tablist" aria-label="Footage collection">
+          <button role="tab" data-scope="all" aria-selected="true" class="active">All footage<span id="all-count">10</span></button>
+          <button role="tab" data-scope="new" aria-selected="false">New shots<span id="new-count">6</span></button>
+          <button role="tab" data-scope="cuts" aria-selected="false">Prepared cuts<span id="cuts-count">4</span></button>
+        </div>
+        <div class="filter-bar"><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" aria-label="Search footage" placeholder="Search a myth, secret, or location"></label><label class="select-wrap"><span class="sr-only">Talent</span><select id="talent" aria-label="Filter talent"><option value="all">All talent</option><option>Alex</option><option>Alan</option><option>Kat</option><option>Tanner</option></select><span class="select-chevron" aria-hidden="true">⌄</span></label><label class="select-wrap"><span class="sr-only">Category</span><select id="category" aria-label="Filter category"><option value="all">All types</option><option>Myth</option><option>Secret</option><option>Location</option></select><span class="select-chevron" aria-hidden="true">⌄</span></label><label class="select-wrap sort-select"><span class="sr-only">Sort footage</span><select id="sort" aria-label="Sort footage"><option value="added">Newest first</option><option value="title">Title A to Z</option><option value="talent">Talent</option></select><span class="select-chevron" aria-hidden="true">⌄</span></label></div>
+        <div class="table-heading" aria-hidden="true"><span>VIDEO / ENTRY</span><span>TALENT</span><span>TYPE</span><span>FOOTAGE</span><span></span></div>
+        <div class="footage-rows" id="rows"></div>
+        <div class="empty-state" id="empty" hidden><h3>No matching footage</h3><p>Try another title, talent, or category.</p><button class="button secondary" id="clear-filters">Clear filters</button></div>
+        <div class="list-footer"><span id="result-count">8 entries</span><span id="updated"></span></div>
+      </section>
+      <section class="next-clips"><div><h3>The next reaction starts here.</h3><p>Choose a test, then switch shots above the player. Titles and notes stay beside the footage.</p></div></section>
+      <footer class="page-footer"><span>STOKES GAMING <span class="footer-divider">/</span> REACTION ROOM</span><span>Credits and context stay beside the footage.</span></footer>
+    </div>
+  </main>
+</div>
+<dialog class="player-dialog" id="player"><div class="player-header"><div><span class="eyebrow" id="player-eyebrow"></span><h2 id="player-title"></h2></div><button class="close-button" id="close-player" aria-label="Close video">✕</button></div><div class="player-layout"><div class="player-main"><section class="video-selector" id="video-selector" aria-label="Videos for this test"></section><div class="video-stage" id="video-stage"></div><div class="player-error" id="player-error" role="alert" hidden></div><section class="chapter-section" id="chapters"></section><div class="player-actions"><a class="button secondary" id="open-original" target="_blank" rel="noopener noreferrer">Open original</a><button class="button secondary" id="copy-link">Copy clip link</button><button class="button primary next-video" id="next-video">Next video</button></div><p class="keyboard-hint">Space: play / pause · J: back 10s · L: forward 10s · Esc: close</p></div><aside class="reaction-brief"><div class="brief-meta" id="brief-meta"></div><h3>Reaction brief</h3><div class="say-block"><span>TALENT INTRO</span><p id="talent-intro"></p></div><div class="watch-block"><span>WATCH FOR</span><p id="watch-for"></p></div><div class="credits-block" id="credits"></div><details class="reference-details"><summary class="reference-toggle">Photo and circled map</summary><a id="reference-link" target="_blank" rel="noopener"><img class="full-reference" id="reference-image" alt="Matching photo reference and circled map"></a></details></aside></div></dialog>
+<script id="initial-catalog" type="application/json">{
+  "schema": 1,
+  "revision": "20261124-pages-1",
+  "updatedAt": "2026-11-24T21:59:31.478278+00:00",
+  "updatedLabel": "November 24, 2026",
+  "entries": [
+    {
+      "id": 71,
+      "title": "Can a Bench-Press Bar Kill You?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "RXRuIx0kiK0",
+          "url": "https://www.youtube.com/watch?v=RXRuIx0kiK0",
+          "poster": "https://i.ytimg.com/vi/RXRuIx0kiK0/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=RXRuIx0kiK0",
+          "creator": "Texas tauros",
+          "label": "Bench press, take two"
+        }
+      ],
+      "intro": "Can a bench-press bar kill you? Let's watch the test.",
+      "watchFor": "Watch the bar, damage, and final outcome.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/071.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Can Sharks Smell Your Blood?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "I9jBtn2P4NI",
+          "url": "https://www.youtube.com/watch?v=I9jBtn2P4NI",
+          "poster": "https://i.ytimg.com/vi/I9jBtn2P4NI/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=I9jBtn2P4NI",
+          "creator": "Texas tauros",
+          "label": "Shark control tests"
+        }
+      ],
+      "intro": "Do sharks react differently when you are bleeding? Let's see what happens.",
+      "watchFor": "Compare the shark's behavior across the control tests.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/017.jpg"
+    },
+    {
+      "id": 55,
+      "title": "Can You Escape the Cops Underwater?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "WUFwYT1DuRQ",
+          "url": "https://www.youtube.com/watch?v=WUFwYT1DuRQ",
+          "poster": "https://i.ytimg.com/vi/WUFwYT1DuRQ/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=WUFwYT1DuRQ",
+          "creator": "Texas tauros",
+          "label": "Underwater escape, part 1"
+        },
+        {
+          "kind": "youtube",
+          "youtubeId": "_aNDgqra9Po",
+          "url": "https://www.youtube.com/watch?v=_aNDgqra9Po",
+          "poster": "https://i.ytimg.com/vi/_aNDgqra9Po/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=_aNDgqra9Po",
+          "creator": "Texas tauros",
+          "label": "Underwater escape, part 2"
+        }
+      ],
+      "intro": "Can hiding underwater make the cops lose you? We have two attempts to watch.",
+      "watchFor": "Watch the wanted level and whether the player escapes.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/055.jpg"
+    },
+    {
+      "id": 83,
+      "title": "How Long Does It Take to Drown?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "3uQ8Hjq_X4Y",
+          "url": "https://www.youtube.com/watch?v=3uQ8Hjq_X4Y",
+          "poster": "https://i.ytimg.com/vi/3uQ8Hjq_X4Y/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=3uQ8Hjq_X4Y",
+          "creator": "Texas tauros",
+          "label": "Windows up"
+        },
+        {
+          "kind": "youtube",
+          "youtubeId": "ER_RQCz8mwI",
+          "url": "https://www.youtube.com/watch?v=ER_RQCz8mwI",
+          "poster": "https://i.ytimg.com/vi/ER_RQCz8mwI/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=ER_RQCz8mwI",
+          "creator": "Texas tauros",
+          "label": "Smashed window"
+        }
+      ],
+      "intro": "How long can you survive in a sinking car? We're comparing closed and broken windows.",
+      "watchFor": "Compare survival time and the final outcome.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/083.jpg"
+    },
+    {
+      "id": 119,
+      "title": "You Can Explore a Hidden Shipwreck!",
+      "talent": "Tanner",
+      "type": "Location",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Shipwreck reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/aad8d72e-c568-4e73-b3ac-26842c224772.mp4",
+          "poster": "./assets/shipwreck-poster.jpg",
+          "duration": 130,
+          "creator": "IGN",
+          "sourceUrl": "https://open.video/@ign/v/gta-6-gorgeous-underwater-gameplay-scuba-diving-treasure-hunting",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/aad8d72e-c568-4e73-b3ac-26842c224772.mp4"
+        }
+      ],
+      "intro": "Apparently there is a shipwreck hidden under the ocean in GTA 6. Let's see if you can actually explore it.",
+      "watchFor": "The dive, wreck exploration, treasure pickup, and grate interaction.",
+      "summary": "A gameplay-only excerpt with no added titles, captions, or voiceover.",
+      "coverage": "Shows the mission wreck. A separate real-world Google Maps match has not been verified.",
+      "reference": "./references/119.jpg",
+      "cue": "./assets/shipwreck-cue-sheet.md",
+      "chapters": [
+        {
+          "time": 0,
+          "label": "The dive"
+        },
+        {
+          "time": 22,
+          "label": "Reef approach"
+        },
+        {
+          "time": 40,
+          "label": "Wreck search"
+        },
+        {
+          "time": 66,
+          "label": "Treasure pickup"
+        },
+        {
+          "time": 90,
+          "label": "Grate interaction"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Can a Dog Rescue You on a Jet Ski?",
+      "intro": "We're stranded at sea. Can a dog on a jet ski actually rescue us?",
+      "watchFor": "The dog's arrival, boarding, ride, and arrival at the beach.",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Clean reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/9d7db583-f620-4971-a9ea-047ac09b7681.mp4",
+          "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/04a451f5-6789-4777-a649-99579e055c5f.jpg",
+          "duration": 68,
+          "creator": "xGarbett",
+          "sourceUrl": "https://x.com/xGarbett/status/2123149920190239106",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/9d7db583-f620-4971-a9ea-047ac09b7681.mp4"
+        }
+      ],
+      "summary": "Continuous original source 00:00 to 01:08. Swimming, rescue, boarding, ride and beach arrival. No added editorial text. Source watermark, game HUD, subtitles and audio remain.",
+      "coverage": "Shows the rescue, not a controlled spawn-timing test. Puppy Island exploration is separate entry 106.",
+      "reference": "./references/013.jpg",
+      "cue": "./assets/cues/alan-013.md"
+    },
+    {
+      "id": 19,
+      "title": "Does the Stolen-Car Cat Attack You?",
+      "intro": "This stolen car has an angry passenger. Will the cat attack the driver?",
+      "watchFor": "The theft, cat reveal, attack, ejection, and aftermath.",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Clean reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/1536e8c6-0023-4152-a0e4-b238982d634d.mp4",
+          "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/b79935b7-92c3-4b76-9185-a759899b1f73.jpg",
+          "duration": 32,
+          "creator": "GTA 6 Updates (@gtasix_)",
+          "sourceUrl": "https://x.com/gtasix_/status/2123071228390842498",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/1536e8c6-0023-4152-a0e4-b238982d634d.mp4"
+        }
+      ],
+      "summary": "Continuous original source 00:00 to 00:32. Theft, cat attack and aftermath. No added text overlays. Original game HUD, subtitles and audio remain.",
+      "coverage": "Shows the cat attack and aftermath, not the frequency of cat spawns.",
+      "reference": "./references/019.jpg",
+      "cue": "./assets/cues/alan-019.md"
+    },
+    {
+      "id": 69,
+      "title": "Can You Unlock a Secret First-Person Mode?",
+      "intro": "Can a phone-camera trick lock the game into first person? Let's watch it outside the car.",
+      "watchFor": "The camera settings, phone trick, first-person walking, and driving.",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Clean reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/0b7e4cd4-652b-4217-8aa8-07d415d6523b.mp4",
+          "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/fe1e9b38-68b1-450f-8d89-e1747783ec5e.jpg",
+          "duration": 51.022,
+          "creator": "IGN",
+          "sourceUrl": "https://tech.yahoo.com/videos/play-gta-6-first-person-150000567.html?format=embed",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/0b7e4cd4-652b-4217-8aa8-07d415d6523b.mp4"
+        }
+      ],
+      "summary": "Controller-camera settings, phone and first-person car view, followed by 40 seconds of first-person walking and driving. No added text overlays or presenter shots. First 11 seconds silent; original game audio follows.",
+      "coverage": "Demonstrates the phone-camera route, not the taser method in the original setup. The source obscures part of the button sequence. Launch-version capture; a later patch may differ.",
+      "reference": "./references/069.jpg",
+      "cue": "./assets/cues/alan-069.md"
+    }
+  ]
+}</script>
+<script src="./reaction-room.js?v=78af1ddc9d36" defer></script>
+<noscript><p class="no-script">Enable JavaScript to use the player. <a href="https://www.youtube.com/watch?v=RXRuIx0kiK0">Bench press</a> · <a href="https://www.youtube.com/watch?v=I9jBtn2P4NI">Shark control</a> · <a href="https://www.youtube.com/watch?v=WUFwYT1DuRQ">Underwater escape 1</a> · <a href="https://www.youtube.com/watch?v=_aNDgqra9Po">Underwater escape 2</a> · <a href="https://www.youtube.com/watch?v=3uQ8Hjq_X4Y">Windows up</a> · <a href="https://www.youtube.com/watch?v=ER_RQCz8mwI">Smashed window</a></p></noscript>
+</body>
+</html>

@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "revision": "20261124-pages-1",
+  "updatedAt": "2026-11-24T21:59:31.478278+00:00",
+  "updatedLabel": "November 24, 2026",
+  "entries": [
+    {
+      "id": 71,
+      "title": "Can a Bench-Press Bar Kill You?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "RXRuIx0kiK0",
+          "url": "https://www.youtube.com/watch?v=RXRuIx0kiK0",
+          "poster": "https://i.ytimg.com/vi/RXRuIx0kiK0/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=RXRuIx0kiK0",
+          "creator": "Texas tauros",
+          "label": "Bench press, take two"
+        }
+      ],
+      "intro": "Can a bench-press bar kill you? Let's watch the test.",
+      "watchFor": "Watch the bar, damage, and final outcome.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/071.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Can Sharks Smell Your Blood?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "I9jBtn2P4NI",
+          "url": "https://www.youtube.com/watch?v=I9jBtn2P4NI",
+          "poster": "https://i.ytimg.com/vi/I9jBtn2P4NI/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=I9jBtn2P4NI",
+          "creator": "Texas tauros",
+          "label": "Shark control tests"
+        }
+      ],
+      "intro": "Do sharks react differently when you are bleeding? Let's see what happens.",
+      "watchFor": "Compare the shark's behavior across the control tests.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/017.jpg"
+    },
+    {
+      "id": 55,
+      "title": "Can You Escape the Cops Underwater?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "WUFwYT1DuRQ",
+          "url": "https://www.youtube.com/watch?v=WUFwYT1DuRQ",
+          "poster": "https://i.ytimg.com/vi/WUFwYT1DuRQ/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=WUFwYT1DuRQ",
+          "creator": "Texas tauros",
+          "label": "Underwater escape, part 1"
+        },
+        {
+          "kind": "youtube",
+          "youtubeId": "_aNDgqra9Po",
+          "url": "https://www.youtube.com/watch?v=_aNDgqra9Po",
+          "poster": "https://i.ytimg.com/vi/_aNDgqra9Po/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=_aNDgqra9Po",
+          "creator": "Texas tauros",
+          "label": "Underwater escape, part 2"
+        }
+      ],
+      "intro": "Can hiding underwater make the cops lose you? We have two attempts to watch.",
+      "watchFor": "Watch the wanted level and whether the player escapes.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/055.jpg"
+    },
+    {
+      "id": 83,
+      "title": "How Long Does It Take to Drown?",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "new",
+      "videos": [
+        {
+          "kind": "youtube",
+          "youtubeId": "3uQ8Hjq_X4Y",
+          "url": "https://www.youtube.com/watch?v=3uQ8Hjq_X4Y",
+          "poster": "https://i.ytimg.com/vi/3uQ8Hjq_X4Y/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=3uQ8Hjq_X4Y",
+          "creator": "Texas tauros",
+          "label": "Windows up"
+        },
+        {
+          "kind": "youtube",
+          "youtubeId": "ER_RQCz8mwI",
+          "url": "https://www.youtube.com/watch?v=ER_RQCz8mwI",
+          "poster": "https://i.ytimg.com/vi/ER_RQCz8mwI/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=ER_RQCz8mwI",
+          "creator": "Texas tauros",
+          "label": "Smashed window"
+        }
+      ],
+      "intro": "How long can you survive in a sinking car? We're comparing closed and broken windows.",
+      "watchFor": "Compare survival time and the final outcome.",
+      "summary": "Original video supplied by you. No added captions or titles from this library.",
+      "reference": "./references/083.jpg"
+    },
+    {
+      "id": 119,
+      "title": "You Can Explore a Hidden Shipwreck!",
+      "talent": "Tanner",
+      "type": "Location",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Shipwreck reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/aad8d72e-c568-4e73-b3ac-26842c224772.mp4",
+          "poster": "./assets/shipwreck-poster.jpg",
+          "duration": 130,
+          "creator": "IGN",
+          "sourceUrl": "https://open.video/@ign/v/gta-6-gorgeous-underwater-gameplay-scuba-diving-treasure-hunting",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/aad8d72e-c568-4e73-b3ac-26842c224772.mp4"
+        }
+      ],
+      "intro": "Apparently there is a shipwreck hidden under the ocean in GTA 6. Let's see if you can actually explore it.",
+      "watchFor": "The dive, wreck exploration, treasure pickup, and grate interaction.",
+      "summary": "A gameplay-only excerpt with no added titles, captions, or voiceover.",
+      "coverage": "Shows the mission wreck. A separate real-world Google Maps match has not been verified.",
+      "reference": "./references/119.jpg",
+      "cue": "./assets/shipwreck-cue-sheet.md",
+      "chapters": [
+        {
+          "time": 0,
+          "label": "The dive"
+        },
+        {
+          "time": 22,
+          "label": "Reef approach"
+        },
+        {
+          "time": 40,
+          "label": "Wreck search"
+        },
+        {
+          "time": 66,
+          "label": "Treasure pickup"
+        },
+        {
+          "time": 90,
+          "label": "Grate interaction"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Can a Dog Rescue You on a Jet Ski?",
+      "intro": "We're stranded at sea. Can a dog on a jet ski actually rescue us?",
+      "watchFor": "The dog's arrival, boarding, ride, and arrival at the beach.",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Clean reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/9d7db583-f620-4971-a9ea-047ac09b7681.mp4",
+          "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/04a451f5-6789-4777-a649-99579e055c5f.jpg",
+          "duration": 68,
+          "creator": "xGarbett",
+          "sourceUrl": "https://x.com/xGarbett/status/2123149920190239106",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/9d7db583-f620-4971-a9ea-047ac09b7681.mp4"
+        }
+      ],
+      "summary": "Continuous original source 00:00 to 01:08. Swimming, rescue, boarding, ride and beach arrival. No added editorial text. Source watermark, game HUD, subtitles and audio remain.",
+      "coverage": "Shows the rescue, not a controlled spawn-timing test. Puppy Island exploration is separate entry 106.",
+      "reference": "./references/013.jpg",
+      "cue": "./assets/cues/alan-013.md"
+    },
+    {
+      "id": 19,
+      "title": "Does the Stolen-Car Cat Attack You?",
+      "intro": "This stolen car has an angry passenger. Will the cat attack the driver?",
+      "watchFor": "The theft, cat reveal, attack, ejection, and aftermath.",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Clean reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/1536e8c6-0023-4152-a0e4-b238982d634d.mp4",
+          "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/b79935b7-92c3-4b76-9185-a759899b1f73.jpg",
+          "duration": 32,
+          "creator": "GTA 6 Updates (@gtasix_)",
+          "sourceUrl": "https://x.com/gtasix_/status/2123071228390842498",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/1536e8c6-0023-4152-a0e4-b238982d634d.mp4"
+        }
+      ],
+      "summary": "Continuous original source 00:00 to 00:32. Theft, cat attack and aftermath. No added text overlays. Original game HUD, subtitles and audio remain.",
+      "coverage": "Shows the cat attack and aftermath, not the frequency of cat spawns.",
+      "reference": "./references/019.jpg",
+      "cue": "./assets/cues/alan-019.md"
+    },
+    {
+      "id": 69,
+      "title": "Can You Unlock a Secret First-Person Mode?",
+      "intro": "Can a phone-camera trick lock the game into first person? Let's watch it outside the car.",
+      "watchFor": "The camera settings, phone trick, first-person walking, and driving.",
+      "talent": "Alan",
+      "type": "Myth",
+      "collection": "cuts",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Clean reaction cut",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/0b7e4cd4-652b-4217-8aa8-07d415d6523b.mp4",
+          "poster": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/fe1e9b38-68b1-450f-8d89-e1747783ec5e.jpg",
+          "duration": 51.022,
+          "creator": "IGN",
+          "sourceUrl": "https://tech.yahoo.com/videos/play-gta-6-first-person-150000567.html?format=embed",
+          "original": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IW1qpG7eVV30fIBOq2oLvLODjC/0b7e4cd4-652b-4217-8aa8-07d415d6523b.mp4"
+        }
+      ],
+      "summary": "Controller-camera settings, phone and first-person car view, followed by 40 seconds of first-person walking and driving. No added text overlays or presenter shots. First 11 seconds silent; original game audio follows.",
+      "coverage": "Demonstrates the phone-camera route, not the taser method in the original setup. The source obscures part of the button sequence. Launch-version capture; a later patch may differ.",
+      "reference": "./references/069.jpg",
+      "cue": "./assets/cues/alan-069.md"
+    }
+  ]
+}
