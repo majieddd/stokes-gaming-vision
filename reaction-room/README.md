@@ -28,6 +28,7 @@ browser cache. If checking fails, the current footage stays available. A full
 page reload uses the embedded catalog and preserves `?clip=ID&video=2` links.
 
 This directory is deployed by the repository's existing GitHub Pages setup.
-The video files remain at their original public media hosts; they are not
-stored in Git or copied into the page.
+The video files are served from public media hosts and are not stored in Git.
+The polar-bear clip uses an unchanged hosted copy for reliable playback; the
+original X post is credited and linked beside the player.
 
