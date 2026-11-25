@@ -43,7 +43,7 @@
     $('new-count').textContent = total(entries.filter(e=>e.collection==='new'));
     $('cuts-count').textContent = total(entries.filter(e=>e.collection==='cuts'));
     $('list-title').textContent = scope === 'new' ? 'New shots' : scope === 'cuts' ? 'Prepared cuts' : 'All footage';
-    $('list-description').textContent = scope === 'new' ? 'The latest source videos supplied for your tests.' : scope === 'cuts' ? 'Gameplay excerpts prepared for reaction filming.' : 'Every video is included here, with related shots grouped by test.';
+    $('list-description').textContent = scope === 'new' ? 'The latest source videos collected for your tests.' : scope === 'cuts' ? 'Gameplay excerpts prepared for reaction filming.' : 'Every video is included here, with related shots grouped by test.';
     document.querySelectorAll('[data-scope]').forEach(b=>{b.classList.toggle('active',b.dataset.scope===scope);if(b.getAttribute('role')==='tab')b.setAttribute('aria-selected',String(b.dataset.scope===scope));});
     $('talent-nav').innerHTML = ['Alex','Alan','Kat','Tanner'].map(t=>`<button data-talent="${t}" class="${$('talent').value===t?'selected':''}">${talentPill(t)}<span>${entries.filter(e=>e.talent===t).length}</span></button>`).join('');
     $('rows').innerHTML = filtered.map(e=>{
@@ -88,15 +88,23 @@
     }
     $('brief-meta').innerHTML = `${talentPill(e.talent)}<span class="category-tag">${escape(e.type)}</span>`;
     $('talent-intro').textContent = e.intro;
-    $('watch-for').textContent = e.watchFor;
-    $('credits').innerHTML = `<span>SOURCE & CREDITS</span><strong>${escape(v.creator)}</strong><p>${escape(e.summary)}</p>${e.coverage?`<p class="evidence-note">${escape(e.coverage)}</p>`:''}<a href="${escape(v.sourceUrl||v.url)}" target="_blank" rel="noopener noreferrer">View source gameplay</a>${e.cue?`<a href="${escape(e.cue)}" target="_blank">Read cue sheet</a>`:''}`;
-    $('reference-link').href = e.reference;
-    $('reference-image').src = e.reference;
-    $('reference-image').alt = `${e.title}: photo reference and circled map`;
+    $('watch-for').textContent = v.watchFor || e.watchFor;
+    const coverage = v.coverage || e.coverage;
+    $('credits').innerHTML = `<span>SOURCE & CREDITS</span><strong>${escape(v.creator)}</strong><p>${escape(v.summary || e.summary)}</p>${coverage?`<p class="evidence-note">${escape(coverage)}</p>`:''}<a href="${escape(v.sourceUrl||v.url)}" target="_blank" rel="noopener noreferrer">View source gameplay</a>${e.cue?`<a href="${escape(e.cue)}" target="_blank">Read cue sheet</a>`:''}`;
+    document.querySelector('.reference-details').hidden = !e.reference;
+    if (e.reference) {
+      $('reference-link').href = e.reference;
+      $('reference-image').src = e.reference;
+      $('reference-image').alt = `${e.title}: photo reference and circled map`;
+    } else {
+      $('reference-link').removeAttribute('href');
+      $('reference-image').removeAttribute('src');
+    }
     $('open-original').href = v.original||v.url;
     $('open-original').textContent = v.kind==='youtube'?'Open on YouTube':'Open original file';
-    $('chapters').hidden = !e.chapters?.length;
-    $('chapters').innerHTML = e.chapters?.length?`<div class="chapter-heading"><h3>Jump to a moment</h3><span>All cues stay off the video</span></div><div class="chapters">${e.chapters.map(c=>`<button data-cue="${c.time}"><span>${timecode(c.time)}</span>${escape(c.label)}</button>`).join('')}</div>`:'';
+    const chapters = v.chapters || e.chapters;
+    $('chapters').hidden = !chapters?.length;
+    $('chapters').innerHTML = chapters?.length?`<div class="chapter-heading"><h3>Jump to a moment</h3><span>All cues stay off the video</span></div><div class="chapters">${chapters.map(c=>`<button data-cue="${c.time}"><span>${timecode(c.time)}</span>${escape(c.label)}</button>`).join('')}</div>`:'';
     const queue = filtered.length ? filtered : catalog.entries;
     $('next-video').hidden = shot===e.videos.length-1 && queue.findIndex(x=>x.id===e.id)===queue.length-1;
     updateLink();
@@ -153,3 +161,4 @@
   const params=new URL(location.href).searchParams;
   if(params.has('clip'))open(Number(params.get('clip')),Math.max(0,Number(params.get('video')||1)-1));
 })();
+

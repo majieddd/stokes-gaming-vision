@@ -1,9 +1,66 @@
 {
   "schema": 1,
-  "revision": "20261124-pages-1",
-  "updatedAt": "2026-11-24T21:59:31.478278+00:00",
+  "revision": "20261124-polar-bear-1",
+  "updatedAt": "2026-11-25T08:01:28.350746+00:00",
   "updatedLabel": "November 24, 2026",
   "entries": [
+    {
+      "id": 113,
+      "title": "Can You Stop the Polar Bear Before It Kills the Activists?",
+      "talent": "Alex",
+      "type": "Myth",
+      "collection": "new",
+      "intro": "These activists just freed a polar bear. Can we shoot it in time to save them, and how will they react?",
+      "watchFor": "The bear, when the shots land, which activists remain alive, and how the crowd responds.",
+      "summary": "Online gameplay sources for the polar-bear encounter. Switch shots to compare intervention with the normal release.",
+      "coverage": "The shooting clip begins after the bear leaves the cage. It supports stopping the roadside attack, but does not establish that every activist survived the entire encounter.",
+      "cue": "./assets/cues/alex-113.md",
+      "videos": [
+        {
+          "kind": "video",
+          "label": "Shoot the bear: activists react",
+          "url": "https://video.twimg.com/amplify_video/2124681408966975488/vid/avc1/640x360/1fz_kpvFwqsTLOC1.mp4",
+          "original": "https://video.twimg.com/amplify_video/2124681408966975488/vid/avc1/640x360/1fz_kpvFwqsTLOC1.mp4",
+          "poster": "https://pbs.twimg.com/amplify_video_thumb/2124681408966975488/img/Gi6YWEo-ASm7CDlJ.jpg",
+          "duration": 60.047,
+          "creator": "Andy0209_ (X post)",
+          "sourceUrl": "https://x.com/Andy0209_/status/2124681842892984533",
+          "watchFor": "0:00: the bear is beside the activists. Around 0:02: shots hit the bear. Watch the collapse and the surviving activists confronting the player.",
+          "summary": "60-second source clip posted by Andy0209_. The player shoots the bear beside the activists; the bear collapses and the crowd confronts the player. Original Spanish subtitles and game HUD remain. No added titles, captions, or voiceover.",
+          "coverage": "Visually reviewed. The clip starts with the bear already outside the truck and the roadside activists still standing. It does not show the cage opening or rule out an earlier casualty inside the truck. This is one recorded outcome, not proof that all activists can be saved.",
+          "chapters": [
+            {
+              "time": 0,
+              "label": "Bear beside activists"
+            },
+            {
+              "time": 2,
+              "label": "Shots at the bear"
+            },
+            {
+              "time": 5,
+              "label": "Activists react"
+            },
+            {
+              "time": 18,
+              "label": "Crowd confronts player"
+            }
+          ]
+        },
+        {
+          "kind": "youtube",
+          "youtubeId": "nAxAJbHPTHw",
+          "label": "Comparison: normal bear release",
+          "url": "https://www.youtube.com/watch?v=nAxAJbHPTHw",
+          "poster": "https://i.ytimg.com/vi/nAxAJbHPTHw/hqdefault.jpg",
+          "sourceUrl": "https://www.youtube.com/watch?v=nAxAJbHPTHw",
+          "creator": "GTA Academy",
+          "watchFor": "Use this source for the release setup and normal outcome. Compare it with the shooting clip, which starts after the bear is out.",
+          "summary": "GTA Academy: What Happens When You Free the Polar Bear in GTA VI? The uploader describes this as original gameplay of freeing the bear and the event reaching the in-game news.",
+          "coverage": "Comparison footage only. The source listing and description were checked; this is not a verified shooting-before-attack test and is not a second independent intervention attempt."
+        }
+      ]
+    },
     {
       "id": 71,
       "title": "Can a Bench-Press Bar Kill You?",
